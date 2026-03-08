@@ -108,3 +108,11 @@ These sections present corpus-level frequency statistics derived from the annota
 - [Affix distribution](docs/affix_distribution.md)
 
 These statistics support quantitative morphological analysis and computational modeling. The same frequency data are also provided in machine-readable JSON format in the [reports](reports/) folder.
+
+## In Memoriam
+
+This project was developed in collaboration with **Victor Pavlovich Zakharov**
+(1947–2024). His mentorship and insight were fundamental to the development of this work.
+
+Although he is no longer with us, his influence remains present throughout
+this project.

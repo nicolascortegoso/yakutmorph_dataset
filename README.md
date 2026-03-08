@@ -43,8 +43,6 @@ This stage preserves the raw output of the morphological pipeline without manual
 - Overgeneration patterns
 - Unanalyzed tokens (coverage gaps)
 
-At this stage, the raw output of the morphological pipeline is preserved without manual 
-
 A `parses` field is added to each sample, storing the analyzer output. Each token-level analysis includes:
 
 - `pos`: Position of the token in the sequence
@@ -54,7 +52,8 @@ A `parses` field is added to each sample, storing the analyzer output. Each toke
 - `root`: Lexical root
 - `affixes`: Ordered list of affixes
 
-This layer supports systematic evaluation of recall, ambiguity rates, and structural accuracy prior to manual disambiguation.
+As soon as a construction is manually disambiguated, it is removed from the `pending` folder.
+
 
 ### Stage 3: Manually Disambiguated Yakut Constructions (`processed` folder)
 

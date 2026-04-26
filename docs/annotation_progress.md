@@ -1,5 +1,0 @@
-# Annotation Progress
-
-[To main README](../README.md)
-
-{PROGRESS_TABLE}

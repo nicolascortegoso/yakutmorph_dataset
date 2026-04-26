@@ -1,33 +1,33 @@
 [
-   {
-      "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
-      "page": 283,
-      "chapter": "Глагол",
-      "topic": "Видовая характеристика глаголов действия и состояния. Виды аналитического образования. Начинательный вид",
-      "section": 530,
-      "notes": "Оттенок ускоренного начала действия часто подчеркивается деепричастием на *-аат*, а также общим контекстом, конструкцией фразы, отдельными словами.",
-      "sah": "Микиитэ санаатын аралдьытаары, хап-сабар аахпытынан барар.",
-      "ru": "Никита, чтобы отвлечься, сразу бросается к чтению (здесь парное наречие хап-сабар тотчас же, торопливо усиливает ускоренное начало действия).",
-      "id": 11,
-      "parses": [
-         {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ", "affixes": ["+N"]},
-         {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "санаа", "affixes": ["+N", "+VRBLZ#2", "+CSTV", "+REFL"]},
-         {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "санаа", "affixes": ["+N", "+POSS.3SG.ACC"]},
-         {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "санаа", "affixes": ["+V", "+IMP#1.3SG"]},
-         {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "сан", "affixes": ["+N", "+VRBLZ#3", "+IMP#1.3SG"]},
-         {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "сан", "affixes": ["+N", "+VRBLZ#3", "+SUDD#1", "+CSTV", "+REFL"]},
-         {"pos": 3, "text": "аралдьытаары", "type": "lowercase", "fst": "ymv", "root": "аралдьый", "affixes": ["+V", "+CSTV", "+CONV#5"]},
-         {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-         {"pos": 5, "text": "хап", "type": "lowercase", "fst": "ymv", "root": "хап", "affixes": ["+IMIT"]},
-         {"pos": 5, "text": "хап", "type": "lowercase", "fst": "ymv", "root": "хап", "affixes": ["+V"]},
-         {"pos": 6, "text": "-", "type": "hyphen", "fst": "ymv"},
-         {"pos": 7, "text": "сабар", "type": "lowercase", "fst": "ymv", "root": "сап", "affixes": ["+V", "+PART_PRES"]},
-         {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах", "affixes": ["+Adj", "+POSS.1PL.INST"]},
-         {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах", "affixes": ["+V", "+PART_PAST", "+INST"]},
-         {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах", "affixes": ["+V", "+PART_PAST", "+POSS.3SG.INST"]},
-         {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах", "affixes": ["+Part", "+POSS.1PL.INST"]},
-         {"pos": 9, "text": "барар", "type": "lowercase", "fst": "ymv", "root": "бар", "affixes": ["+V", "+PART_PRES"]},
-         {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
-      ]
-   }
+  {
+    "source": "Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. - Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. - Москва: Наука, 1982. - 495 с.",
+    "page": 283,
+    "chapter": "Глагол",
+    "topic": "Видовая характеристика глаголов действия и состояния. Виды аналитического образования. Начинательный вид",
+    "section": 530,
+    "notes": "Оттенок ускоренного начала действия часто подчеркивается деепричастием на *-аат*, а также общим контекстом, конструкцией фразы, отдельными словами.",
+    "sah": "Микиитэ санаатын аралдьытаары, хап-сабар аахпытынан барар.",
+    "ru": "Никита, чтобы отвлечься, сразу бросается к чтению (здесь парное наречие хап-сабар тотчас же, торопливо усиливает ускоренное начало действия).",
+    "id": 11,
+    "parses": [
+      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ+N"},
+      {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "санаа+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
+      {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "санаа+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "санаа+V", "affixes": "+IMP#1.3SG"},
+      {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "сан+N", "affixes": "+VRBLZ#3+IMP#1.3SG"},
+      {"pos": 2, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "сан+N", "affixes": "+VRBLZ#3+SUDD#1+CSTV+REFL"},
+      {"pos": 3, "text": "аралдьытаары", "type": "lowercase", "fst": "ymv", "root": "аралдьый+V", "affixes": "+CSTV+CONV#5"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "хап", "type": "lowercase", "fst": "ymv", "root": "хап+IMIT"},
+      {"pos": 5, "text": "хап", "type": "lowercase", "fst": "ymv", "root": "хап+V"},
+      {"pos": 6, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 7, "text": "сабар", "type": "lowercase", "fst": "ymv", "root": "сап+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах+Adj", "affixes": "+POSS.1PL.INST"},
+      {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PART_PAST+INST"},
+      {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PART_PAST+POSS.3SG.INST"},
+      {"pos": 8, "text": "аахпытынан", "type": "lowercase", "fst": "ymv", "root": "аах+Part", "affixes": "+POSS.1PL.INST"},
+      {"pos": 9, "text": "барар", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PRES"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
 ]

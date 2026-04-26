@@ -10,6 +10,14 @@ Morphological annotation is performed at the token level and includes lexical ro
 
 The dataset is organized into folders corresponding to individual source works. Each folder contains Yakut constructions extracted from a single descriptive study.
 
+The table below lists the folder for each source work and the percentage of the annotation work that has been completed for that folder.
+
+|Folder|Content|Total samples|Processed samples|Annotation progress|Source|
+|:---|:---|:---|:---|:---|:---|
+ | 001 | General grammar | 4813 | 4280 | 88.93% | Грамматика современного якутского литературного языка : [в 2 томах] / Акад. наук СССР, Сиб. отд- ние, Якут. фил., Ин-т яз. лит.и истории; [редкол.: Е. И. Убрятова (отв. ред.), Е. И. Коркина, Л. Н. Харитонов, Н. Е. Петров]. – Москва : Наука, 1982-1995. Т. 1: Фонетика и морфология / [Л. Н. Харитонов, Н. Д. Дьячковский, С. А. Иванов и др.]. – Москва: Наука, 1982. – 495 с.
+ | 
+ |  | TOTAL | 4813 | 4280 | 88.93% |  | 
+
 Within each folder, three subfolders represent successive stages of a reproducible morphological processing pipeline:
 
 - `source`: compiled, unprocessed Yakut constructions
@@ -67,8 +75,6 @@ While the `pending` folder preserves full analyzer output for diagnostic and ben
 - Studying Yakut morphotactic patterns
 - Quantitative corpus analysis
 - Downstream NLP tasks
-
-For detailed information on annotation coverage and validation progress, see [Annotation progress](docs/annotation_progress.md).
 
 ------------------------------------------------------------------------
 

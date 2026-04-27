@@ -1,0 +1,53 @@
+[
+  {
+    "source": "Харитонов, Лука Никифорович. Современный якутский язык = Саха билигиҥҥи тыла / Науч.-исслед. ин-т яз., лит. и истории ЯАССР ; под ред. проф. Н. К. Дмитриева. - Якутск : Госиздат ЯАССР, 1947.",
+    "page": 223,
+    "chapter": "Глагол",
+    "topic": "Общие признаки глаголных имён",
+    "section": 148,
+    "notes": "Глагольными именами являются слова, образованные от глаголов и могущие употребляться как в роли имён, так и в роли глаголов. Глагол *үлэлиир* выступает в функции прилагательного.",
+    "sah": "колхозка үлэлиир киһи дохуот үллэстэр",
+    "ru": "человек, работающий в колхозе, получает доход",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "колхозка", "type": "lowercase", "fst": "yma", "root": "колхозка^N"},
+      {"pos": 1, "text": "колхозка", "type": "lowercase", "fst": "yma", "root": "колхозд^N", "affixes": "+DAT"},
+      {"pos": 1, "text": "колхозка", "type": "lowercase", "fst": "yma", "root": "колхоз^N", "affixes": "+DAT"},
+      {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 4, "text": "дохуот", "type": "lowercase", "fst": "yma", "root": "дохуот^N"},
+      {"pos": 5, "text": "үллэстэр", "type": "lowercase", "fst": "ymv", "root": "үллэс+V", "affixes": "+CAUS"},
+      {"pos": 5, "text": "үллэстэр", "type": "lowercase", "fst": "ymv", "root": "үллэс+V", "affixes": "+CONV_COND#1"},
+      {"pos": 5, "text": "үллэстэр", "type": "lowercase", "fst": "ymv", "root": "үллэй+V", "affixes": "+ADJZ#14+PL"},
+      {"pos": 5, "text": "үллэстэр", "type": "lowercase", "fst": "ymv", "root": "үллэй+V", "affixes": "+SUDD#2+CONV_COND#1"},
+      {"pos": 5, "text": "үллэстэр", "type": "lowercase", "fst": "ymv", "root": "үллэй+V", "affixes": "+RECP+CONV_COND#1"},
+      {"pos": 5, "text": "үллэстэр", "type": "lowercase", "fst": "ymv", "root": "үллэй+V", "affixes": "+RECP+PL"}
+    ]
+  },
+  {
+    "source": "Харитонов, Лука Никифорович. Современный якутский язык = Саха билигиҥҥи тыла / Науч.-исслед. ин-т яз., лит. и истории ЯАССР ; под ред. проф. Н. К. Дмитриева. - Якутск : Госиздат ЯАССР, 1947.",
+    "page": 224,
+    "chapter": "Глагол",
+    "topic": "Общие признаки глаголных имён",
+    "section": 148,
+    "notes": "Глагольное имя обозначает самое действие в качестве предмета.",
+    "sah": "ытыыр икки күлэр икки аҕас балыстар",
+    "ru": "плач и смех - родные сёстры",
+    "id": 14,
+    "parses": [
+      {"pos": 1, "text": "ытыыр", "type": "lowercase", "fst": "ymv", "root": "ытаа+V", "affixes": "+PART_PRES"},
+      {"pos": 1, "text": "ытыыр", "type": "lowercase", "fst": "ymv", "root": "ыт+N", "affixes": "+VRBLZ#3+PART_PRES"},
+      {"pos": 2, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
+      {"pos": 3, "text": "күлэр", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
+      {"pos": 5, "text": "аҕас", "type": "lowercase", "fst": "ymv", "root": "ах+N", "affixes": "+VRBLZ#3+ADJZ#14"},
+      {"pos": 5, "text": "аҕас", "type": "lowercase", "fst": "ymv", "root": "ах+N", "affixes": "+VRBLZ#3+RECP"},
+      {"pos": 5, "text": "аҕас", "type": "lowercase", "fst": "ymv", "root": "аҕаа+V", "affixes": "+ADJZ#14"},
+      {"pos": 5, "text": "аҕас", "type": "lowercase", "fst": "ymv", "root": "аҕаа+V", "affixes": "+RECP"},
+      {"pos": 5, "text": "аҕас", "type": "lowercase", "fst": "ymv", "root": "аҕас+N"},
+      {"pos": 5, "text": "аҕас", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+VRBLZ#2+RECP"},
+      {"pos": 6, "text": "балыстар", "type": "lowercase", "fst": "ymv", "root": "балы+Adv", "affixes": "+VRBLZ#2+RECP+CONV_COND#1"},
+      {"pos": 6, "text": "балыстар", "type": "lowercase", "fst": "ymv", "root": "балы+Adv", "affixes": "+VRBLZ#2+RECP+PL"}
+    ]
+  }
+]

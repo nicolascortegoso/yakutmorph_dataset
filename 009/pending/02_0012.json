@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Данилова, Надежда Ивановна. Курс якутской грамматики: система морфологических категорий и синтаксических конструкций : учеб. пособие для студентов филол. фак. ЯГУ / Н. И. Данилова, Н. И. Попова, Н. Н. Ефремов ; Акад. наук Респ. Саха (Якутия), Ин-т гуманитар. исслед . - Якутск : ИГИ АН РС(Я), 2004. - 195, с.",
+    "page": 112,
+    "chapter": "Словоизменительные категории глагола",
+    "topic": "Категория залога. Побудительный залог",
+    "section": 1,
+    "notes": "Здесь подлежащее (*аҕата* «его отец») выполняет роль побуждения. Реальное действие логически относится к другому предмету, выступающему в функции косвенного дополнения, оформленного дательным падежом (*Юраҕа* «Юру»). Прямой объект, выступающий в роли прямого дополнения (*атын* «лошадь») свою позицию сохраняют.",
+    "sah": "Аҕата Юраҕа атын көлүттэрэр.",
+    "ru": "Отец заставляет Юру запрягать коня.",
+    "id": 6,
+    "parses": [
+      {"pos": 1, "text": "Аҕата", "type": "title", "fst": "ymv", "root": "ах+N", "affixes": "+VRBLZ#3+CAUS+CONV#2"},
+      {"pos": 1, "text": "Аҕата", "type": "title", "fst": "ymv", "root": "ах+N", "affixes": "+VRBLZ#3+CSTV+CONV#2"},
+      {"pos": 1, "text": "Аҕата", "type": "title", "fst": "ymv", "root": "аҕаа+V", "affixes": "+CAUS+CONV#2"},
+      {"pos": 1, "text": "Аҕата", "type": "title", "fst": "ymv", "root": "аҕаа+V", "affixes": "+CSTV+CONV#2"},
+      {"pos": 1, "text": "Аҕата", "type": "title", "fst": "ymv", "root": "аҕа+N", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 1, "text": "Аҕата", "type": "title", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "Аҕата", "type": "title", "fst": "ymv", "root": "аҕа+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "Юраҕа", "type": "title", "fst": "yma", "root": "юрах^N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "Юраҕа", "type": "title", "fst": "yma", "root": "юраҕа^N"},
+      {"pos": 2, "text": "Юраҕа", "type": "title", "fst": "yma", "root": "юра^N", "affixes": "+DAT"},
+      {"pos": 2, "text": "Юраҕа", "type": "title", "fst": "yma", "root": "ю^N", "affixes": "^VRBLZ#4^NMLZ#6+POSS.3SG"},
+      {"pos": 3, "text": "атын", "type": "lowercase", "fst": "ymv", "root": "атын+Adj"},
+      {"pos": 3, "text": "атын", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "көлүттэрэр", "type": "lowercase", "fst": "yma", "root": "көлүттэрэ^N", "affixes": "^VRBLZ#4"},
+      {"pos": 4, "text": "көлүттэрэр", "type": "lowercase", "fst": "yma", "root": "көлүттэ^N", "affixes": "^VRBLZ#4+PART_PRES"},
+      {"pos": 4, "text": "көлүттэрэр", "type": "lowercase", "fst": "yma", "root": "көлүй^V", "affixes": "+CSTV+CAUS+PART_PRES"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

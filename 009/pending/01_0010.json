@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Данилова, Надежда Ивановна. Курс якутской грамматики: система морфологических категорий и синтаксических конструкций : учеб. пособие для студентов филол. фак. ЯГУ / Н. И. Данилова, Н. И. Попова, Н. Н. Ефремов ; Акад. наук Респ. Саха (Якутия), Ин-т гуманитар. исслед . - Якутск : ИГИ АН РС(Я), 2004. - 195, с.",
+    "page": 67,
+    "chapter": "Словоизменительные категории имени",
+    "topic": "Категория склонения. Совместный падеж",
+    "section": 1,
+    "notes": "Во-первых, он не управляется глагольной формой. Глагол при употреблении формы совместного падежа согласуется с другим именем, стоящим в основном падеже, даже если это имя в высказывании опущено.",
+    "sah": "Коля балтыныын саас биирдэ луук үргүү сылдьыбыта.",
+    "ru": "Коля однажды весной с сестрой рвал лук.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Коля", "type": "title", "fst": "yma", "root": "коля^N"},
+      {"pos": 2, "text": "балтыныын", "type": "lowercase", "fst": "ymv", "root": "балыс+N", "affixes": "+POSS.3SG.COMIT"},
+      {"pos": 3, "text": "саас", "type": "lowercase", "fst": "ymv", "root": "саас+Adv"},
+      {"pos": 3, "text": "саас", "type": "lowercase", "fst": "ymv", "root": "саас+N"},
+      {"pos": 3, "text": "саас", "type": "lowercase", "fst": "ymv", "root": "саай+V", "affixes": "+RECP"},
+      {"pos": 3, "text": "саас", "type": "lowercase", "fst": "ymv", "root": "саа+N", "affixes": "+VRBLZ#2+RECP"},
+      {"pos": 4, "text": "биирдэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+ADVZ#8"},
+      {"pos": 4, "text": "биирдэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+PRTV"},
+      {"pos": 4, "text": "биирдэ", "type": "lowercase", "fst": "ymv", "root": "бии+N", "affixes": "+VRBLZ#4+CSTV+CONV#2"},
+      {"pos": 4, "text": "биирдэ", "type": "lowercase", "fst": "ymv", "root": "бии+N", "affixes": "+VRBLZ#4+PST.3SG"},
+      {"pos": 5, "text": "луук", "type": "lowercase", "fst": "ymv", "root": "луук+N"},
+      {"pos": 6, "text": "үргүү", "type": "lowercase", "fst": "ymv", "root": "үрк+V", "affixes": "+NMLZ#2"},
+      {"pos": 6, "text": "үргүү", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+NMLZ#2"},
+      {"pos": 6, "text": "үргүү", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "сылдьыбыта", "type": "lowercase", "fst": "yma", "root": "сылдьыбыта^Adv"},
+      {"pos": 7, "text": "сылдьыбыта", "type": "lowercase", "fst": "yma", "root": "сылдьыбыта^N"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

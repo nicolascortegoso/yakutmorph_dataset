@@ -1,0 +1,48 @@
+[
+  {
+    "source": "Харитонов, Лука Никифорович. Современный якутский язык = Саха билигиҥҥи тыла / Науч.-исслед. ин-т яз., лит. и истории ЯАССР ; под ред. проф. Н. К. Дмитриева. - Якутск : Госиздат ЯАССР, 1947.",
+    "page": 163,
+    "chapter": "Местоимения",
+    "topic": "Определительные местоимения",
+    "section": 110,
+    "notes": "Определительные местоимение в предложении могут нести следующие функции: сказуемое.",
+    "sah": "эн манныкнык",
+    "ru": "ты вот такой",
+    "id": 13,
+    "parses": [
+      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+CONV#1"},
+      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+REFL/PASS"},
+      {"pos": 2, "text": "манныкнык", "type": "lowercase", "fst": "yma", "root": "манныкнык^N"}
+    ]
+  },
+  {
+    "source": "Харитонов, Лука Никифорович. Современный якутский язык = Саха билигиҥҥи тыла / Науч.-исслед. ин-т яз., лит. и истории ЯАССР ; под ред. проф. Н. К. Дмитриева. - Якутск : Госиздат ЯАССР, 1947.",
+    "page": 163,
+    "chapter": "Местоимения",
+    "topic": "Определительные местоимения",
+    "section": 110,
+    "notes": "Определительные местоимение в предложении могут нести следующие функции: дополнение.",
+    "sah": "миэхэ манныккыттан бэрис эрэ",
+    "ru": "мне такого (твоего) уступи-ка",
+    "id": 18,
+    "parses": [
+      {"pos": 1, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
+      {"pos": 2, "text": "манныккыттан", "type": "lowercase", "fst": "yma", "root": "манныккыттаа^V", "affixes": "+PASS"},
+      {"pos": 2, "text": "манныккыттан", "type": "lowercase", "fst": "yma", "root": "манныккыттаа^V", "affixes": "+REFL"},
+      {"pos": 2, "text": "манныккыттан", "type": "lowercase", "fst": "yma", "root": "манныккыттан^N"},
+      {"pos": 2, "text": "манныккыттан", "type": "lowercase", "fst": "yma", "root": "манныккы^Adj", "affixes": "+ABL"},
+      {"pos": 2, "text": "манныккыттан", "type": "lowercase", "fst": "yma", "root": "манныккы^N", "affixes": "+ABL"},
+      {"pos": 2, "text": "манныккыттан", "type": "lowercase", "fst": "yma", "root": "манный^V", "affixes": "^ADJZ#15+POSS.2SG+ABL"},
+      {"pos": 2, "text": "манныккыттан", "type": "lowercase", "fst": "yma", "root": "манный^V", "affixes": "^NMLZ#5+POSS.2SG+ABL"},
+      {"pos": 3, "text": "бэрис", "type": "lowercase", "fst": "ymv", "root": "бэрис+V"},
+      {"pos": 3, "text": "бэрис", "type": "lowercase", "fst": "ymv", "root": "бэрий+V", "affixes": "+ADJZ#14"},
+      {"pos": 3, "text": "бэрис", "type": "lowercase", "fst": "ymv", "root": "бэрий+V", "affixes": "+SUDD#2"},
+      {"pos": 3, "text": "бэрис", "type": "lowercase", "fst": "ymv", "root": "бэрий+V", "affixes": "+RECP"},
+      {"pos": 3, "text": "бэрис", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+RECP"},
+      {"pos": 4, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 4, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV#2"}
+    ]
+  }
+]

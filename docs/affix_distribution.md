@@ -6,181 +6,181 @@ Total affixes: 15289
 
 Total unique affixes: 176
 
-|affix|frequency|
+| affix | frequency |
 |:---|:---|
- | PART_PRES | 1208 | 
- | POSS.3SG | 1044 | 
- | CONV#1 | 957 | 
- | PL | 811 | 
- | PART_PAST | 708 | 
- | DAT | 630 | 
- | ACC | 592 | 
- | PST.3SG | 581 | 
- | CONV#2 | 522 | 
- | PART_FUT | 497 | 
- | POSS.3SG.ACC | 430 | 
- | VRBLZ#1 | 410 | 
- | NEG | 315 | 
- | ADJZ#1 | 313 | 
- | POSS.1SG | 282 | 
- | POSS.3SG.DAT | 279 | 
- | RECP | 266 | 
- | ABL | 237 | 
- | CSTV | 207 | 
- | CONV_COND#2 | 205 | 
- | INST | 192 | 
- | POSS.3SG.INST | 173 | 
- | NMLZ#2 | 167 | 
- | 1SG | 157 | 
- | REFL | 150 | 
- | PST.3PL | 142 | 
- | CAUS | 118 | 
- | PST.1SG | 117 | 
- | ADVZ#5 | 115 | 
- | PASS | 109 | 
- | POSS.1PL | 105 | 
- | VRBLZ#4 | 98 | 
- | HAB#1 | 93 | 
- | POSS.2SG | 92 | 
- | INT | 88 | 
- | REFL/PASS | 86 | 
- | 2SG | 85 | 
- | POSS.3SG.ABL | 84 | 
- | 1PL | 84 | 
- | ADJZ#16 | 76 | 
- | ADVZ#8 | 74 | 
- | NMLZ#5 | 71 | 
- | CONV_COND#1 | 70 | 
- | NMLZ#6 | 68 | 
- | NMLZ#1 | 66 | 
- | VRBLZ#3 | 65 | 
- | POSS.3SG.PRTV | 62 | 
- | ORD | 58 | 
- | PST.1PL | 57 | 
- | COLL | 54 | 
- | POSS.1SG.ACC | 53 | 
- | ADVZ#1 | 51 | 
- | CONV#5 | 50 | 
- | POSS.2PL | 47 | 
- | ADVZ#6 | 44 | 
- | IMP#1.2PL | 43 | 
- | DEF | 43 | 
- | COMIT | 42 | 
- | LOC | 39 | 
- | APPR#1 | 39 | 
- | DEB | 39 | 
- | ADJZ#4 | 38 | 
- | PRTV | 37 | 
- | COMP | 37 | 
- | POSS.1SG.DAT | 36 | 
- | DISTR | 36 | 
- | PST.2SG | 34 | 
- | VRBLZ#2 | 34 | 
- | SUDD#2 | 34 | 
- | ADJZ#6 | 32 | 
- | VRBLZ#16 | 31 | 
- | DEF#2 | 31 | 
- | ACCE#1 | 30 | 
- | 2PL | 29 | 
- | COLL#1 | 26 | 
- | POSS.1PL.ACC | 26 | 
- | POSS.2SG.ACC | 23 | 
- | NMLZ#9 | 23 | 
- | ADVZ#2 | 23 | 
- | ADVZ#10 | 23 | 
- | ITER#1 | 22 | 
- | POSS.3PL.ACC | 22 | 
- | PST.2PL | 22 | 
- | IMP#1.3SG | 22 | 
- | FREC#7 | 22 | 
- | CONV#6 | 21 | 
- | ACCE#2 | 21 | 
- | ADVZ#4 | 21 | 
- | POT | 21 | 
- | DIM#4 | 20 | 
- | ADVZ#3 | 19 | 
- | CONV#3 | 19 | 
- | ADVZ#7 | 18 | 
- | ADJZ#3 | 17 | 
- | ADJZ#5 | 15 | 
- | POSS.1SG.PRTV | 15 | 
- | NMLZ#4 | 13 | 
- | IMP#2.2SG | 13 | 
- | VRBLZ#7 | 13 | 
- | POSS.2SG.PRTV | 12 | 
- | ADVZ#9 | 12 | 
- | AFFIR#1 | 12 | 
- | ITER#6 | 12 | 
- | NMLZ#3 | 11 | 
- | ITER#2 | 11 | 
- | FREC#4 | 11 | 
- | POSS.2SG.DAT | 11 | 
- | CONV#4 | 10 | 
- | POSS.3PL.DAT | 10 | 
- | POSS.1PL.DAT | 10 | 
- | VRBLZ#13 | 10 | 
- | VRBLZ#10 | 10 | 
- | VRBLZ#12 | 9 | 
- | POSS.2PL.ACC | 9 | 
- | ITER#4 | 9 | 
- | POSS.1SG.ABL | 8 | 
- | FREC#1 | 8 | 
- | NMLZ#8 | 7 | 
- | POSS.2SG.INST | 7 | 
- | DIM#2 | 7 | 
- | ADJZ#14 | 7 | 
- | NMLZ#7 | 6 | 
- | IMP#1.1SG | 6 | 
- | VRBLZ#5 | 6 | 
- | POSS.1SG.INST | 6 | 
- | POSS.2PL.INST | 6 | 
- | POSS.3SG.COMP | 6 | 
- | DIM | 6 | 
- | DEF#1 | 6 | 
- | DIM#1 | 6 | 
- | ADJZ#13 | 5 | 
- | APPR#2 | 5 | 
- | POSS.3PL.ABL | 5 | 
- | ITER#5 | 5 | 
- | IMP#1.1PL | 5 | 
- | INT#1 | 5 | 
- | SUDD#1 | 4 | 
- | IMP#2.2PL | 4 | 
- | POSS.3PL.PRTV | 4 | 
- | ADJZ#12 | 4 | 
- | ADJZ#9 | 4 | 
- | FREC#8 | 4 | 
- | ITER#3 | 4 | 
- | AUG#1 | 4 | 
- | POSS.3PL.INST | 4 | 
- | POSS.1SG.COMIT | 3 | 
- | POSS.2PL.PRTV | 3 | 
- | IMP#1.3PL | 3 | 
- | POSS.1PL.PRTV | 3 | 
- | ADJZ#2 | 3 | 
- | POSS.2PL.DAT | 3 | 
- | VRBLZ#8 | 3 | 
- | ADJZ#7 | 3 | 
- | SLOW#1 | 3 | 
- | POSS.2SG.ABL | 3 | 
- | ADJZ#10 | 2 | 
- | ADJZ#17 | 2 | 
- | POSS.1PL.ABL | 2 | 
- | AUG#3 | 2 | 
- | CONV#3a | 2 | 
- | VRBLZ#4a | 2 | 
- | POSS.3SG.COMIT | 1 | 
- | POSS.2PL.ABL | 1 | 
- | POSS.3PL.COMP | 1 | 
- | POSS.1PL.INST | 1 | 
- | AUG#2 | 1 | 
- | SLOW#4 | 1 | 
- | VRBLZ#14 | 1 | 
- | FREC#2 | 1 | 
- | ADJZ#8 | 1 | 
- | VRBLZ#6 | 1 | 
- | POSS.1PL.COMP | 1 | 
- | FREC#5 | 1 | 
- | AFFIR#2 | 1 | 
- | IMP | 1 | 
- | POSS.3PL | 1 | 
+| PART_PRES | 1208 |
+| POSS.3SG | 1044 |
+| CONV#1 | 957 |
+| PL | 811 |
+| PART_PAST | 708 |
+| DAT | 630 |
+| ACC | 592 |
+| PST.3SG | 581 |
+| CONV#2 | 522 |
+| PART_FUT | 497 |
+| POSS.3SG.ACC | 430 |
+| VRBLZ#1 | 410 |
+| NEG | 315 |
+| ADJZ#1 | 313 |
+| POSS.1SG | 282 |
+| POSS.3SG.DAT | 279 |
+| RECP | 266 |
+| ABL | 237 |
+| CSTV | 207 |
+| CONV_COND#2 | 205 |
+| INST | 192 |
+| POSS.3SG.INST | 173 |
+| NMLZ#2 | 167 |
+| 1SG | 157 |
+| REFL | 150 |
+| PST.3PL | 142 |
+| CAUS | 118 |
+| PST.1SG | 117 |
+| ADVZ#5 | 115 |
+| PASS | 109 |
+| POSS.1PL | 105 |
+| VRBLZ#4 | 98 |
+| HAB#1 | 93 |
+| POSS.2SG | 92 |
+| INT | 88 |
+| REFL/PASS | 86 |
+| 2SG | 85 |
+| POSS.3SG.ABL | 84 |
+| 1PL | 84 |
+| ADJZ#16 | 76 |
+| ADVZ#8 | 74 |
+| NMLZ#5 | 71 |
+| CONV_COND#1 | 70 |
+| NMLZ#6 | 68 |
+| NMLZ#1 | 66 |
+| VRBLZ#3 | 65 |
+| POSS.3SG.PRTV | 62 |
+| ORD | 58 |
+| PST.1PL | 57 |
+| COLL | 54 |
+| POSS.1SG.ACC | 53 |
+| ADVZ#1 | 51 |
+| CONV#5 | 50 |
+| POSS.2PL | 47 |
+| ADVZ#6 | 44 |
+| IMP#1.2PL | 43 |
+| DEF | 43 |
+| COMIT | 42 |
+| LOC | 39 |
+| APPR#1 | 39 |
+| DEB | 39 |
+| ADJZ#4 | 38 |
+| PRTV | 37 |
+| COMP | 37 |
+| POSS.1SG.DAT | 36 |
+| DISTR | 36 |
+| PST.2SG | 34 |
+| VRBLZ#2 | 34 |
+| SUDD#2 | 34 |
+| ADJZ#6 | 32 |
+| VRBLZ#16 | 31 |
+| DEF#2 | 31 |
+| ACCE#1 | 30 |
+| 2PL | 29 |
+| COLL#1 | 26 |
+| POSS.1PL.ACC | 26 |
+| POSS.2SG.ACC | 23 |
+| NMLZ#9 | 23 |
+| ADVZ#2 | 23 |
+| ADVZ#10 | 23 |
+| ITER#1 | 22 |
+| POSS.3PL.ACC | 22 |
+| PST.2PL | 22 |
+| IMP#1.3SG | 22 |
+| FREC#7 | 22 |
+| CONV#6 | 21 |
+| ACCE#2 | 21 |
+| ADVZ#4 | 21 |
+| POT | 21 |
+| DIM#4 | 20 |
+| ADVZ#3 | 19 |
+| CONV#3 | 19 |
+| ADVZ#7 | 18 |
+| ADJZ#3 | 17 |
+| ADJZ#5 | 15 |
+| POSS.1SG.PRTV | 15 |
+| NMLZ#4 | 13 |
+| IMP#2.2SG | 13 |
+| VRBLZ#7 | 13 |
+| POSS.2SG.PRTV | 12 |
+| ADVZ#9 | 12 |
+| AFFIR#1 | 12 |
+| ITER#6 | 12 |
+| NMLZ#3 | 11 |
+| ITER#2 | 11 |
+| FREC#4 | 11 |
+| POSS.2SG.DAT | 11 |
+| CONV#4 | 10 |
+| POSS.3PL.DAT | 10 |
+| POSS.1PL.DAT | 10 |
+| VRBLZ#13 | 10 |
+| VRBLZ#10 | 10 |
+| VRBLZ#12 | 9 |
+| POSS.2PL.ACC | 9 |
+| ITER#4 | 9 |
+| POSS.1SG.ABL | 8 |
+| FREC#1 | 8 |
+| NMLZ#8 | 7 |
+| POSS.2SG.INST | 7 |
+| DIM#2 | 7 |
+| ADJZ#14 | 7 |
+| NMLZ#7 | 6 |
+| IMP#1.1SG | 6 |
+| VRBLZ#5 | 6 |
+| POSS.1SG.INST | 6 |
+| POSS.2PL.INST | 6 |
+| POSS.3SG.COMP | 6 |
+| DIM | 6 |
+| DEF#1 | 6 |
+| DIM#1 | 6 |
+| ADJZ#13 | 5 |
+| APPR#2 | 5 |
+| POSS.3PL.ABL | 5 |
+| ITER#5 | 5 |
+| IMP#1.1PL | 5 |
+| INT#1 | 5 |
+| SUDD#1 | 4 |
+| IMP#2.2PL | 4 |
+| POSS.3PL.PRTV | 4 |
+| ADJZ#12 | 4 |
+| ADJZ#9 | 4 |
+| FREC#8 | 4 |
+| ITER#3 | 4 |
+| AUG#1 | 4 |
+| POSS.3PL.INST | 4 |
+| POSS.1SG.COMIT | 3 |
+| POSS.2PL.PRTV | 3 |
+| IMP#1.3PL | 3 |
+| POSS.1PL.PRTV | 3 |
+| ADJZ#2 | 3 |
+| POSS.2PL.DAT | 3 |
+| VRBLZ#8 | 3 |
+| ADJZ#7 | 3 |
+| SLOW#1 | 3 |
+| POSS.2SG.ABL | 3 |
+| ADJZ#10 | 2 |
+| ADJZ#17 | 2 |
+| POSS.1PL.ABL | 2 |
+| AUG#3 | 2 |
+| CONV#3a | 2 |
+| VRBLZ#4a | 2 |
+| POSS.3SG.COMIT | 1 |
+| POSS.2PL.ABL | 1 |
+| POSS.3PL.COMP | 1 |
+| POSS.1PL.INST | 1 |
+| AUG#2 | 1 |
+| SLOW#4 | 1 |
+| VRBLZ#14 | 1 |
+| FREC#2 | 1 |
+| ADJZ#8 | 1 |
+| VRBLZ#6 | 1 |
+| POSS.1PL.COMP | 1 |
+| FREC#5 | 1 |
+| AFFIR#2 | 1 |
+| IMP | 1 |
+| POSS.3PL | 1 |

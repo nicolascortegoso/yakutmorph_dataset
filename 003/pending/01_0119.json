@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+    "page": 153,
+    "chapter": "Изолированные деепричастные формы, перешедшие в другие части речи",
+    "topic": "Полнозначные части речи. Наречия",
+    "section": 119,
+    "notes": "Часто это наречие осложняется присоединяемым к нему препозитивно словом *күн*, приобретая значение «каждодневно», «ежедневно», «каждый день».",
+    "sah": "Күн тура-тура куһу, андыны сииртэн киһи салҕан да хаалла.",
+    "ru": "Человеку надоедает изо дня в день есть утку, турпана.",
+    "id": 6,
+    "parses": [
+      {"pos": 1, "text": "Күн", "type": "title", "fst": "ymv", "root": "күн+N"},
+      {"pos": 2, "text": "тура", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 4, "text": "тура", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "куһу", "type": "lowercase", "fst": "ymv", "root": "кус+N", "affixes": "+ACC"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "андыны", "type": "lowercase", "fst": "ymv", "root": "анды+N", "affixes": "+ACC"},
+      {"pos": 8, "text": "сииртэн", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+PART_PRES+ABL"},
+      {"pos": 8, "text": "сииртэн", "type": "lowercase", "fst": "ymv", "root": "сиир+V", "affixes": "+ITER#2+REFL/PASS"},
+      {"pos": 9, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 10, "text": "салҕан", "type": "lowercase", "fst": "ymv", "root": "салҕаа+V", "affixes": "+REFL/PASS"},
+      {"pos": 11, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 11, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 12, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаалла^Adj"},
+      {"pos": 12, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаалла^Adv"},
+      {"pos": 12, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаалла^N"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+    "page": 154,
+    "chapter": "Изолированные деепричастные формы, перешедшие в другие части речи",
+    "topic": "Полнозначные части речи. Наречия",
+    "section": 120,
+    "notes": "Деепричастия-наречия *биллэ* и *иһиллэ* (от *билин-* «быть известным» и *иһилин-* «быть услышанным») в сочетании с собственно наречиями *биллибэттик* и *иһиллибэттик* образуют сложные наречия *биллэ-биллибэттик* «чуть заметно», «еле заметно», «почти незаметно» и *иһиллэ-иһиллибэттик* «еле слышно», «чуть слышно», «почти не слышно».",
+    "sah": "Ина биллэ-биллибэттик мүчүк гынан баран этэр.",
+    "ru": "Ина, еле улыбнувшись, говорит.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Ина", "type": "title", "fst": "yma", "root": "ина^N"},
+      {"pos": 2, "text": "биллэ", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "биллэ", "type": "lowercase", "fst": "ymv", "root": "бил+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "биллэ", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PST.3SG"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 4, "text": "биллибэттик", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+NEG+PART_PRES+ADVZ#5"},
+      {"pos": 5, "text": "мүчүк", "type": "lowercase", "fst": "yma", "root": "мү^N", "affixes": "+DIM#1"},
+      {"pos": 6, "text": "гынан", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бараа+V", "affixes": "+REFL/PASS"},
+      {"pos": 7, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "этэр", "type": "lowercase", "fst": "ymv", "root": "этэр+V"},
+      {"pos": 8, "text": "этэр", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": "этэр", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+CONV_COND#1"},
+      {"pos": 8, "text": "этэр", "type": "lowercase", "fst": "ymv", "root": "иэт+V", "affixes": "+CSTV"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

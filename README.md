@@ -4,6 +4,10 @@ This dataset contains sentences, clauses, and multi-word expressions compiled fr
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 
+The morphological annotations are generated using the pipeline described in:
+
+N. C. Vissio and M. V. Khokhlova, “A Three-Stage Morphological Pipeline for Word Form Analysis in Yakut,” 2024 IEEE 3rd International Conference on Problems of Informatics, Electronics and Radio Engineering (PIERE), Novosibirsk, Russian Federation, 2024, pp. 1860–1864. https://doi.org/10.1109/PIERE62470.2024.10805022
+
 ------------------------------------------------------------------------
 
 ## Dataset Organization

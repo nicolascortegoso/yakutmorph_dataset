@@ -1,0 +1,31 @@
+[
+  {
+    "source": "Коркина, Евдокия Иннокентьевна. Деепричастия в якутском языке / Е. И. Коркина; отв. ред. к. филол. н. Н. Е. Петров; Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории. - Новосибирск : Наука, Сибирское отделение, 1985. - 203 с.",
+    "page": 55,
+    "chapter": "Морфологическое описание деепричастий якутского языка",
+    "topic": "Первичные деепричастия. Деепричастие на *-аары*",
+    "section": 39,
+    "notes": "Деепричастие на *-аары* иногда может обозначать такое действие, которое совершается одновременно с действием личного глагола.",
+    "sah": "Александрдаах төннөөрү ойууру саҕатынан барбыттара.",
+    "ru": "Александровские на обратном пути (возвращаясь) пошли по опушке леса.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Александрдаах", "type": "title", "fst": "yma", "root": "александрдаах^N"},
+      {"pos": 1, "text": "Александрдаах", "type": "title", "fst": "yma", "root": "александр^N", "affixes": "^ADJZ"},
+      {"pos": 2, "text": "төннөөрү", "type": "lowercase", "fst": "ymv", "root": "төнүн+V", "affixes": "+CONV#5"},
+      {"pos": 3, "text": "ойууру", "type": "lowercase", "fst": "ymv", "root": "ойуур+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "ойууру", "type": "lowercase", "fst": "ymv", "root": "ойуу+N", "affixes": "+VRBLZ#4+ADVZ#1"},
+      {"pos": 3, "text": "ойууру", "type": "lowercase", "fst": "ymv", "root": "ой+N", "affixes": "+VRBLZ#3+PART_PRES+ACC"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "сах+N", "affixes": "+VRBLZ#3+CAUS+ADVZ#1+INST"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "сах+N", "affixes": "+VRBLZ#3+CAUS+REFL+CONV#1"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "сах+N", "affixes": "+VRBLZ#3+CSTV+ADVZ#1+INST"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "сах+N", "affixes": "+VRBLZ#3+CSTV+REFL+CONV#1"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "саҕа+N", "affixes": "+VRBLZ#2+CSTV+ADVZ#1+INST"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "саҕа+N", "affixes": "+VRBLZ#2+CSTV+REFL+CONV#1"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "саҕа+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 4, "text": "саҕатынан", "type": "lowercase", "fst": "ymv", "root": "саҕа+POST", "affixes": "+POSS.3SG.INST"},
+      {"pos": 5, "text": "барбыттара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

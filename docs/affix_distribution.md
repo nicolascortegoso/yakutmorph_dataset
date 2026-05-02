@@ -185,5 +185,5 @@ Total unique affixes: 179
 | FREC#5 | 1 |
 | SLOW#2 | 1 |
 | VRBLZ#15 | 1 |
-| PST.#3G | 1 |
+| PST.#3SG | 1 |
 | IMP | 1 |

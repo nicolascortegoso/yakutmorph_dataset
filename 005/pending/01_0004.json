@@ -1,20 +1,74 @@
 [
   {
     "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
-    "page": 37,
-    "chapter": "Синтаксические функции наречий",
-    "topic": "Сочетание наречий с глагольным формами",
+    "page": 28,
+    "chapter": "Производные наречия",
+    "topic": "Образование наречий от именных форм",
     "section": 1,
-    "notes": "а) Наречия при деепричастиях на *-ан*. Качественно-определяющие наречия (образа действия).",
-    "sah": "иттэннэри сытан утуйар",
-    "ru": "он спит, лежа навзничь",
-    "id": 19,
+    "notes": "Образование наречий на *-лыы* от прилагательных: (*чугастааҕы* «находящийся вблизи, ближний»).",
+    "sah": "чугастааҕылыы",
+    "ru": "как ближний, по-ближнему",
+    "id": 53,
     "parses": [
-      {"pos": 1, "text": "иттэннэри", "type": "lowercase", "fst": "ymv", "root": "итии+Adj", "affixes": "+VRBLZ#2+CSTV+CONV#1+PL+ACC"},
-      {"pos": 1, "text": "иттэннэри", "type": "lowercase", "fst": "ymv", "root": "итин+V", "affixes": "+CONV#1+PL+ACC"},
-      {"pos": 2, "text": "сытан", "type": "lowercase", "fst": "ymv", "root": "сыт+N", "affixes": "+VRBLZ#3+REFL/PASS"},
-      {"pos": 2, "text": "сытан", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "утуйар", "type": "lowercase", "fst": "ymv", "root": "утуй+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕылаа^V", "affixes": "+IMP"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕылаа^V", "affixes": "+CONV#2"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕылый^V", "affixes": "^NMLZ#2"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕы^Adj", "affixes": "^ADVZ#6"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕы^Adj", "affixes": "^VRBLZ#1+IMP"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕы^Adj", "affixes": "^VRBLZ#1+CONV#2"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕы^N", "affixes": "^ADVZ#6"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕы^N", "affixes": "^VRBLZ#1+IMP"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугастааҕы^N", "affixes": "^VRBLZ#1+CONV#2"},
+      {"pos": 1, "text": "чугастааҕылыы", "type": "lowercase", "fst": "yma", "root": "чугас^Adv", "affixes": "^ADJZ#2^ADVZ#6"}
+    ]
+  },
+  {
+    "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+    "page": 28,
+    "chapter": "Производные наречия",
+    "topic": "Образование наречий от именных форм",
+    "section": 1,
+    "notes": "Образование наречий на *-лыы* от местоимений.",
+    "sah": "миэнинии",
+    "ru": "подобно моему",
+    "id": 57,
+    "parses": [
+      {"pos": 1, "text": "миэнинии", "type": "lowercase", "fst": "yma", "root": "миэнинээ^V", "affixes": "+IMP"},
+      {"pos": 1, "text": "миэнинии", "type": "lowercase", "fst": "yma", "root": "миэнинээ^V", "affixes": "+CONV#2"}
+    ]
+  },
+  {
+    "source": "Харитонов, Лука Никифорович. Неизменяемые слова в якутском языке : пособие для учителей / Л. Н. Харитонов ; Нар. комиссариат просвещения ЯАССР. - Якутск : Государственное издательство ЯАССР, 1943. - 82 с.",
+    "page": 29,
+    "chapter": "Производные наречия",
+    "topic": "Образование наречий от именных форм",
+    "section": 1,
+    "notes": "Аффикс *-лата*, *-дата* (*-ната*), (*-лэтэ*) *-дэтэ*, *-нэтэ*. Более вероятным было бы считать этот аффикс не собственно-наречным, а формой слитного деепричастия на *-а* от понудительного глагола. Такое толкование можно подтвердить следующими примерами: (*үрүт*, *үрдүлээ*, *үрдүлэт*, *үрдүлэтэ*).",
+    "sah": "арыычча үрдүлэтэ көрөн ыт",
+    "ru": "стреляй, смотря чуть повыше",
+    "id": 78,
+    "parses": [
+      {"pos": 1, "text": "арыычча", "type": "lowercase", "fst": "ymv", "root": "арыычча+Adv"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлээ^V", "affixes": "+CAUS+POSS.3SG"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлээ^V", "affixes": "+CAUS+CONV#2"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлээ^V", "affixes": "+CSTV+POSS.3SG"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлээ^V", "affixes": "+CSTV+CONV#2"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэтэ^N"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^Adv", "affixes": "^ADVZ#8"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^Adv", "affixes": "^VRBLZ#2+CSTV+POSS.3SG"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^Adv", "affixes": "^VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^Adv", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^Adv", "affixes": "+PRTV"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^N", "affixes": "^VRBLZ#2+CSTV+POSS.3SG"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^N", "affixes": "^VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдүлэ^N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдү^Adj", "affixes": "^VRBLZ#1+CAUS+POSS.3SG"},
+      {"pos": 2, "text": "үрдүлэтэ", "type": "lowercase", "fst": "yma", "root": "үрдү^Adj", "affixes": "^VRBLZ#1+CAUS+CONV#2"},
+      {"pos": 3, "text": "көрөн", "type": "lowercase", "fst": "ymv", "root": "көр+N", "affixes": "+VRBLZ#3+REFL/PASS"},
+      {"pos": 3, "text": "көрөн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "ыт", "type": "lowercase", "fst": "ymv", "root": "ыт+N"},
+      {"pos": 4, "text": "ыт", "type": "lowercase", "fst": "ymv", "root": "ыт+V"}
     ]
   }
 ]

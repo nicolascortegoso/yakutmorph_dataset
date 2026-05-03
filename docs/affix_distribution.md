@@ -2,41 +2,41 @@
 
 [To main README](../README.md)
 
-Total affixes: 32847
+Total affixes: 32897
 
 Total unique affixes: 179
 
 | affix | frequency |
 |:---|:---|
-| POSS.3SG | 2652 |
-| PART_PRES | 2516 |
-| CONV#1 | 2205 |
-| ACC | 1838 |
-| CONV#2 | 1827 |
-| PL | 1716 |
-| PART_PAST | 1551 |
-| DAT | 1524 |
-| PST.3SG | 1062 |
-| VRBLZ#1 | 910 |
-| PART_FUT | 824 |
-| NEG | 725 |
+| POSS.3SG | 2653 |
+| PART_PRES | 2520 |
+| CONV#1 | 2206 |
+| ACC | 1840 |
+| CONV#2 | 1835 |
+| PL | 1717 |
+| PART_PAST | 1555 |
+| DAT | 1526 |
+| PST.3SG | 1066 |
+| VRBLZ#1 | 911 |
+| PART_FUT | 825 |
+| NEG | 726 |
 | RECP | 698 |
-| POSS.1SG | 619 |
+| POSS.1SG | 620 |
 | ADJZ#1 | 567 |
-| ABL | 506 |
-| INST | 503 |
-| POSS.3SG.ACC | 499 |
+| ABL | 508 |
+| POSS.3SG.ACC | 504 |
+| INST | 504 |
 | CSTV | 464 |
 | NMLZ#2 | 364 |
 | CONV_COND#2 | 362 |
 | PST.3PL | 343 |
+| CAUS | 328 |
 | REFL | 327 |
-| CAUS | 327 |
 | 1SG | 314 |
-| POSS.3SG.DAT | 301 |
-| PASS | 288 |
+| POSS.3SG.DAT | 303 |
+| PASS | 289 |
 | ADVZ#5 | 264 |
-| PST.1SG | 240 |
+| PST.1SG | 243 |
 | POSS.1PL | 211 |
 | REFL/PASS | 211 |
 | POSS.2SG | 201 |
@@ -46,7 +46,7 @@ Total unique affixes: 179
 | 2SG | 157 |
 | HAB#1 | 152 |
 | 1PL | 151 |
-| VRBLZ#3 | 148 |
+| VRBLZ#3 | 149 |
 | INT | 141 |
 | NMLZ#5 | 137 |
 | ADJZ#16 | 136 |
@@ -55,11 +55,11 @@ Total unique affixes: 179
 | PRTV | 132 |
 | ADVZ#8 | 126 |
 | ADVZ#6 | 122 |
+| NMLZ#1 | 111 |
 | LOC | 111 |
-| NMLZ#1 | 110 |
 | CONV_COND#1 | 106 |
 | PST.1PL | 103 |
-| POSS.3SG.ABL | 96 |
+| POSS.3SG.ABL | 97 |
 | VRBLZ#2 | 93 |
 | COLL | 88 |
 | ADJZ#4 | 83 |
@@ -124,9 +124,9 @@ Total unique affixes: 179
 | ITER#2 | 15 |
 | POSS.2SG.PRTV | 15 |
 | VRBLZ#10 | 15 |
+| POSS.2SG.DAT | 13 |
 | NMLZ#8 | 13 |
 | NMLZ#7 | 12 |
-| POSS.2SG.DAT | 12 |
 | IMP#1.1SG | 12 |
 | VRBLZ#13 | 12 |
 | ITER#4 | 12 |

@@ -46,7 +46,7 @@
 | **ADVZ#2** | adverbializer | *-чы* (and allomorphs) forms adverbs of manner from figurative, imitatives, and some other verbs (mostly poetic writing) [Ubryatova et al., §693]. |
 | **ADVZ#3** | adverbializer | *-дыы* (and allomorphs) forms adverbs of manner from nominals, participles and negative forms [Ubryatova et al., §694]. |
 | **ADVZ#4** | adverbializer | *-ча* (and allomorphs) after *-ыах* and *-быт* forms adverbs that serve as a basis or motive for performing another action [Ubryatova et al., §695]. |
-| **ADVZ#5** | adverbializer | *-тык* (and allomorphs) forms adverbs of quality, quantity and manner from primary or derived adjectives and some adverbs [§698, Ubryatova et al.]. It can be formed also from personal pronouns [Ubryatova et al., §316]. |
+| **ADVZ#5** | adverbializer | *-тык* (and allomorphs) forms adverbs of quality, quantity and manner from primary or derived adjectives and some adverbs [Ubryatova et al., §698]. It can be formed also from personal pronouns [Ubryatova et al., §316]. |
 | **ADVZ#6** | adverbializer | *-лыы* (and allomorphs) forms adverbs from several different nominals, including verbal nouns [Ubryatova et al., §699]. |
 | **ADVZ#7** | adverbializer | *-лары* (and allomorphs) forms adverbs from some nominal stems that act in the meaning of an adverb of time or place, and some adverbs [Ubryatova et al., §700]. |
 | **ADVZ#8** | adverbializer | *-та* (and allomorphs) forms adverbs with the meaning of 'x times' from numerals, and some other adjectives and adverbs [Ubryatova et al., §701]. |
@@ -112,7 +112,7 @@
 | **IMP#2.2SG** | no type | no ref |
 | **INT#1** | no type | no ref |
 | **REFL/PASS** | no type | no ref |
-| **NMLZ#1** | nominalizer | *-һыт* (and allomorphs) conveys agency, an occupation, profession, inclination towards an action [§155, Ubryatova et al.]. |
+| **NMLZ#1** | nominalizer | *-һыт* (and allomorphs) conveys agency, an occupation, profession, inclination towards an action [Ubryatova et al., §155]. |
 | **NMLZ#2** | nominalizer | *-ыы* (and allomorphs) forms nouns from verbal stems ending in consonant. It refers mostly to the name of an action [Ubryatova et al., §174]. |
 | **NMLZ#3** | nominalizer | *-ааһын* (and allomorphs) forms nouns mainly from verbal stems ending in long vowels or diphthong. Similar in meaning to *-ыы* [Ubryatova et al., §175]. |
 | **NMLZ#4** | nominalizer | *-был* (and allomorphs) forms nouns from verbal stems ending in long vowel or й to denote the name of an action [Ubryatova et al., §177]. |
@@ -125,10 +125,10 @@
 | **COLL#1** | numeralizer | *-ыа* (and allomorphs) forms the collective from the numeral [Ubryatova et al., §308]. |
 | **COLL** | numeralizer | *-ыан* (and allomorphs) forms the collective from the numeral [Ubryatova et al., §308]. |
 | **ORD** | numeralizer | *-(ы)с* (and allomorphs) forms ordinals from cardinal numbers [Ubryatova et al., §294]. |
-| **CONV_COND#1** | participle | *-тах* (and allomorphs) Kharitonov L.N. And Ubryatova E.I. indicate that this form has largely become a proper verb form, since it is significantly different from other participial forms. It underlies the presumptive and second conditional moods [§422]. |
+| **CONV_COND#1** | participle | *-тах* (and allomorphs) Kharitonov L.N. And Ubryatova E.I. indicate that this form has largely become a proper verb form, since it is significantly different from other participial forms. It underlies the presumptive and second conditional moods [Ubryatova et al., §422]. |
 | **CONV_COND#2** | participle | *-лах* (and allomorphs) prospective [Apertium, Ubryatova et al.]. |
-| **PART_FUT** | participle | *-ыа(х)* (and allomorphs) forms a participle that underlies the future tense of the indicative mood. It is also a component of the subjunctive forms and the basis of first person plural and dual forms of the near future tense of the imperative mood [§412]. |
-| **PART_PAST** | participle | *-быт* (and allomorphs) forms a participle that underlies a number of forms of the past tense of the indicative mood [§408]. |
+| **PART_FUT** | participle | *-ыа(х)* (and allomorphs) forms a participle that underlies the future tense of the indicative mood. It is also a component of the subjunctive forms and the basis of first person plural and dual forms of the near future tense of the imperative mood [Ubryatova et al., §412]. |
+| **PART_PAST** | participle | *-быт* (and allomorphs) forms a participle that underlies a number of forms of the past tense of the indicative mood [Ubryatova et al., §408]. |
 | **PART_PRES** | participle | *-ар/-ыыр* (and allomorphs) forms a participle that takes part in forming the present and the past imperfect tense of the indicative mood Ubryatova et al., §401]. In Apertium it is indicated as the аorist participle [Apertium]. |
 | **PL** | pluralizer | *-лар* (and allomorphs) forms the plural affix from various type of stems. The interrogative pronoun ким takes the special form нээх to form the plural, after which a regular plural affix can be used for emphasis [Ubryatova et al., §329]. |
 | **POSS.1PL** | possessive | *-быт* first person plural possessive. |
@@ -198,7 +198,7 @@
 | **VRBLZ#4a** | verbalizer | *-(ы)р/ар* (and allomorphs) forms mainly intransitive verbs expressing various processes and states [Ubryatova et al., §386]. |
 | **VRBLZ#5** | verbalizer | *-тый/-сый* (and allomorphs) forms verbals primarly from adjectives, but also from other type of stems [Ubryatova et al., §387]. |
 | **VRBLZ#6** | verbalizer | *-(ы)мсый* (and allomorphs) forms intransitive verbs from adjectives and nouns [Ubryatova et al., §388]. |
-| **VRBLZ#7** | verbalizer | *-(ы)рҕаа* (and allomorphs) forms intransitive verbs that express actions or states from nouns and adjectives [§389, Ubryatova et al.]. It also forms verbs from imitatives that expresses a short repetition of a fractional sound [Ubryatova et al., §391]. |
+| **VRBLZ#7** | verbalizer | *-(ы)рҕаа* (and allomorphs) forms intransitive verbs that express actions or states from nouns and adjectives [Ubryatova et al., §389]. It also forms verbs from imitatives that expresses a short repetition of a fractional sound [Ubryatova et al., §391]. |
 | **VRBLZ#8** | verbalizer | *-рый* (and allomorphs) not very productive in contemporary Yakut [Ubryatova et al., §390]. |
 | **CAUS** | voice | *-т*, *-тар* (and allomorphs) forms the causative voice from verbal stems [Ubryatova et al., §481-§482]. |
 | **CSTV** | voice | *-(ы)т*, *-тар*, *-ар*, *-ыар* (and allomorphs) forms transitive verbs from intransitives [Ubryatova et al., §483-§486]. |

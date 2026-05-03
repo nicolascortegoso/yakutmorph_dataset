@@ -55,6 +55,7 @@
 | **ACCE#2** | aspect | -рый, -һый, -лый, -чый (and allomorphs) express special dynamism or prevalence of a particular action or phenomenon after figurative roots [Ubryatova et al. §572]. |
 | **FREC#1** | aspect | *-ыалаа* (and allomorphs) attached to stems that primarily express various types of movement (productive) [Ubryatova et al. §541]. |
 | **FREC#2** | aspect | *-ыак(к)алаа* (and allomorphs) a variation of the *-ыалаа* with similar meaning [Ubryatova et al. §542]. |
+| **FREC#3** | aspect | *-ыахтаа* (and allomorphs) forms verbs that are close in meaning to previous verbs [Ubryatova et al. §543]. |
 | **FREC#4** | aspect | *-алаа* (and allomorphs) occurs in few verbs with the meaning is the same as *-ыалаа* [Ubryatova et al. §544]. |
 | **FREC#5** | aspect | *-ак(к)алаа* (and allomorphs) occurs in several verbs [Ubryatova et al. §545]. |
 | **FREC#7** | aspect | *-ҥнаа* (and allomorphs) accelerated for imitatives and figuratives. The affix consist of two elements *-ҥ* and *-наа*. The last is a phonetical variant of affix *-лаа*. The element *-ҥ* represents uniform multiplicity [Ubryatova et al. §568]. |

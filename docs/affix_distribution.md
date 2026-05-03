@@ -4,7 +4,7 @@
 
 Total affixes: 29969
 
-Total unique affixes: 179
+Total unique affixes: 178
 
 | affix | frequency |
 |:---|:---|
@@ -16,7 +16,7 @@ Total unique affixes: 179
 | PL | 1538 |
 | PART_PAST | 1428 |
 | DAT | 1393 |
-| PST.3SG | 961 |
+| PST.3SG | 962 |
 | VRBLZ#1 | 827 |
 | PART_FUT | 784 |
 | NEG | 691 |
@@ -185,5 +185,4 @@ Total unique affixes: 179
 | FREC#5 | 1 |
 | SLOW#2 | 1 |
 | VRBLZ#15 | 1 |
-| PST.#3SG | 1 |
 | IMP | 1 |

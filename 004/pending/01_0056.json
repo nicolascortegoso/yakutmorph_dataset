@@ -1,0 +1,53 @@
+[
+  {
+    "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+    "page": 38,
+    "chapter": "Совместно-взаимные глаголы",
+    "topic": "Залоговое значение совместно-взаимных глаголов",
+    "section": 56,
+    "notes": "Весьма разнообразны функции, выполняемые деепричастными формами глаголов взаимного действия.",
+    "sah": "Уунан ысыһан күдээритэллэр.",
+    "ru": "Друг друга обрызгивают водою, высоко рассеивая струи (сочетание с образным глаголом).",
+    "id": 5,
+    "parses": [
+      {"pos": 1, "text": "Уунан", "type": "title", "fst": "ymv", "root": "уун+V", "affixes": "+CONV#1"},
+      {"pos": 1, "text": "Уунан", "type": "title", "fst": "ymv", "root": "уу+Adj", "affixes": "+INST"},
+      {"pos": 1, "text": "Уунан", "type": "title", "fst": "ymv", "root": "уу+N", "affixes": "+INST"},
+      {"pos": 2, "text": "ысыһан", "type": "lowercase", "fst": "yma", "root": "ысый^V", "affixes": "+RECP+CONV#1"},
+      {"pos": 3, "text": "күдээритэллэр", "type": "lowercase", "fst": "ymv", "root": "күдээ+N", "affixes": "+VRBLZ#8+CSTV+PART_PRES+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+    "page": 38,
+    "chapter": "Совместно-взаимные глаголы",
+    "topic": "Залоговое значение совместно-взаимных глаголов",
+    "section": 56,
+    "notes": "Весьма разнообразны функции, выполняемые деепричастными формами глаголов взаимного действия. Здесь: обстоятельство образа действия.",
+    "sah": "Оһоххо икки-үс хардаҕас умайан иһэн атарахсыһа иэгэйбиттэр.",
+    "ru": "В камине два-три полена, обгоревши, отклонились друг от друга в разные стороны (расходясь, наклонились).",
+    "id": 12,
+    "parses": [
+      {"pos": 1, "text": "Оһоххо", "type": "title", "fst": "ymv", "root": "ос+V", "affixes": "+NMLZ#6+DAT"},
+      {"pos": 1, "text": "Оһоххо", "type": "title", "fst": "ymv", "root": "оһох+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "Оһоххо", "type": "title", "fst": "ymv", "root": "ой+V", "affixes": "+RECP+NMLZ#6+DAT"},
+      {"pos": 2, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 4, "text": "үс", "type": "lowercase", "fst": "ymv", "root": "үс+Num"},
+      {"pos": 5, "text": "хардаҕас", "type": "lowercase", "fst": "ymv", "root": "хардаҕас+N"},
+      {"pos": 5, "text": "хардаҕас", "type": "lowercase", "fst": "ymv", "root": "хар+IMIT", "affixes": "+VRBLZ#1+ADJZ#6"},
+      {"pos": 6, "text": "умайан", "type": "lowercase", "fst": "ymv", "root": "умай+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": "иһэн", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+VRBLZ#3+REFL/PASS"},
+      {"pos": 7, "text": "иһэн", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "атарахсыһа", "type": "lowercase", "fst": "ymv", "root": "атар+V", "affixes": "+NMLZ#6+VRBLZ#5+RECP+CONV#2"},
+      {"pos": 9, "text": "иэгэйбиттэр", "type": "lowercase", "fst": "yma", "root": "иэгэйбитий^V", "affixes": "+REFL+PART_PRES"},
+      {"pos": 9, "text": "иэгэйбиттэр", "type": "lowercase", "fst": "yma", "root": "иэгэйбиттэр^N"},
+      {"pos": 9, "text": "иэгэйбиттэр", "type": "lowercase", "fst": "yma", "root": "иэгэйбиттэ^N", "affixes": "^VRBLZ#4"},
+      {"pos": 9, "text": "иэгэйбиттэр", "type": "lowercase", "fst": "yma", "root": "иэгэй^V", "affixes": "+PART_PAST+PL"},
+      {"pos": 9, "text": "иэгэйбиттэр", "type": "lowercase", "fst": "yma", "root": "иэгэ^Adj", "affixes": "^VRBLZ#2+PART_PAST+PL"},
+      {"pos": 9, "text": "иэгэйбиттэр", "type": "lowercase", "fst": "yma", "root": "иэгэ^N", "affixes": "^VRBLZ#2+PART_PAST+PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

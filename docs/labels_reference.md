@@ -1,4 +1,4 @@
-# Label references
+# Label References
 
 [To main README](../README.md)
 

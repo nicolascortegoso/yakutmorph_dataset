@@ -2,35 +2,35 @@
 
 [To main README](../README.md)
 
-Total affixes: 33026
+Total affixes: 33092
 
 Total unique affixes: 179
 
 | affix | frequency |
 |:---|:---|
-| POSS.3SG | 2686 |
-| PART_PRES | 2524 |
-| CONV#1 | 2208 |
-| ACC | 1848 |
-| CONV#2 | 1838 |
-| PL | 1724 |
-| PART_PAST | 1558 |
-| DAT | 1544 |
-| PST.3SG | 1070 |
-| VRBLZ#1 | 913 |
-| PART_FUT | 825 |
-| NEG | 726 |
-| RECP | 699 |
-| POSS.1SG | 627 |
-| ADJZ#1 | 568 |
-| ABL | 518 |
+| POSS.3SG | 2690 |
+| PART_PRES | 2533 |
+| CONV#1 | 2211 |
+| ACC | 1852 |
+| CONV#2 | 1841 |
+| PL | 1727 |
+| PART_PAST | 1563 |
+| DAT | 1546 |
+| PST.3SG | 1072 |
+| VRBLZ#1 | 915 |
+| PART_FUT | 826 |
+| NEG | 727 |
+| RECP | 702 |
+| POSS.1SG | 629 |
+| ADJZ#1 | 572 |
+| ABL | 519 |
 | INST | 516 |
-| POSS.3SG.ACC | 504 |
+| POSS.3SG.ACC | 506 |
 | CSTV | 464 |
 | NMLZ#2 | 364 |
-| CONV_COND#2 | 362 |
-| PST.3PL | 343 |
-| CAUS | 328 |
+| CONV_COND#2 | 363 |
+| PST.3PL | 344 |
+| CAUS | 330 |
 | REFL | 327 |
 | 1SG | 314 |
 | POSS.3SG.DAT | 303 |
@@ -40,17 +40,17 @@ Total unique affixes: 179
 | POSS.1PL | 211 |
 | REFL/PASS | 211 |
 | POSS.2SG | 203 |
-| VRBLZ#4 | 185 |
+| VRBLZ#4 | 186 |
 | POSS.3SG.INST | 184 |
 | CONV#5 | 159 |
 | 2SG | 159 |
 | HAB#1 | 153 |
 | 1PL | 151 |
 | VRBLZ#3 | 149 |
-| INT | 141 |
+| INT | 142 |
 | NMLZ#5 | 137 |
+| ADVZ#1 | 137 |
 | ADJZ#16 | 136 |
-| ADVZ#1 | 136 |
 | NMLZ#6 | 133 |
 | PRTV | 132 |
 | ADVZ#8 | 126 |
@@ -69,13 +69,13 @@ Total unique affixes: 179
 | ADVZ#4 | 78 |
 | DEB | 76 |
 | COMIT | 75 |
-| DEF | 73 |
-| POSS.1SG.ACC | 69 |
+| DEF | 74 |
+| POSS.1SG.ACC | 73 |
 | POSS.3SG.PRTV | 68 |
 | CONV#6 | 66 |
+| DEF#2 | 66 |
 | POSS.3PL | 66 |
 | IMP#1.2PL | 65 |
-| DEF#2 | 65 |
 | CONV#3 | 62 |
 | 2PL | 54 |
 | COMP | 53 |
@@ -87,10 +87,10 @@ Total unique affixes: 179
 | ITER#1 | 48 |
 | PST.2SG | 47 |
 | ADVZ#3 | 42 |
+| NMLZ#9 | 41 |
 | POSS.1SG.DAT | 41 |
 | ADVZ#7 | 41 |
 | ADVZ#10 | 41 |
-| NMLZ#9 | 40 |
 | ADJZ#14 | 39 |
 | SUDD#2 | 38 |
 | ACCE#2 | 36 |
@@ -114,8 +114,8 @@ Total unique affixes: 179
 | DIM#4 | 25 |
 | FREC#1 | 25 |
 | POSS.1SG.PRTV | 23 |
+| FREC#4 | 22 |
 | NMLZ#4 | 21 |
-| FREC#4 | 21 |
 | ADVZ#9 | 21 |
 | DIM | 21 |
 | AUG#1 | 21 |

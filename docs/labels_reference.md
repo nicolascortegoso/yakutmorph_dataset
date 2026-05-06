@@ -58,6 +58,7 @@
 | **FREC#3** | aspect | *-ыахтаа* (and allomorphs) forms verbs that are close in meaning to previous verbs [Ubryatova et al. §543]. |
 | **FREC#4** | aspect | *-алаа* (and allomorphs) occurs in few verbs with the meaning is the same as *-ыалаа* [Ubryatova et al. §544]. |
 | **FREC#5** | aspect | *-ак(к)алаа* (and allomorphs) occurs in several verbs [Ubryatova et al. §545]. |
+| **FREC#6** | aspect | *-балаа* (and allomorphs) found in some verbs, usually formed from monosyllabic stems [Ubryatova et al. §546]. |
 | **FREC#7** | aspect | *-ҥнаа* (and allomorphs) accelerated for imitatives and figuratives. The affix consist of two elements *-ҥ* and *-наа*. The last is a phonetical variant of affix *-лаа*. The element *-ҥ* represents uniform multiplicity [Ubryatova et al. §568]. |
 | **FREC#8** | aspect | no ref |
 | **ITER#1** | aspect | *-(ы)талаа* (and allomorphs) expresses the sequential alternation of actions [Ubryatova et al. §521]. |
@@ -103,6 +104,7 @@
 | **DEB** | no type | no ref |
 | **DIM** | no type | no ref |
 | **DISTR** | no type | no ref |
+| **HAB#2** | no type | no ref |
 | **IMP#1.1PL** | no type | no ref |
 | **IMP#1.1SG** | no type | no ref |
 | **IMP#1.2PL** | no type | no ref |
@@ -111,6 +113,7 @@
 | **IMP#2.2PL** | no type | no ref |
 | **IMP#2.2SG** | no type | no ref |
 | **INT#1** | no type | no ref |
+| **INT#2** | no type | no ref |
 | **REFL/PASS** | no type | no ref |
 | **NMLZ#1** | nominalizer | *-һыт* (and allomorphs) conveys agency, an occupation, profession, inclination towards an action [Ubryatova et al., §155]. |
 | **NMLZ#2** | nominalizer | *-ыы* (and allomorphs) forms nouns from verbal stems ending in consonant. It refers mostly to the name of an action [Ubryatova et al., §174]. |

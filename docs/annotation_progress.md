@@ -1,6 +1,6 @@
 # Annotation Progress
 
-[To main README](README.md)
+[To main README](../README.md)
 
 | Folder | Content | Total samples | Processed samples | Annotation progress | Source |
 |:---|:---|:---|:---|:---|:---|

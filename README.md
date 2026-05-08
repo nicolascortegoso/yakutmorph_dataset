@@ -4,7 +4,7 @@ This dataset contains sentences, clauses, and multi-word expressions compiled fr
 
 Total annotated contructions: 9216
 
-Last update: 2026-05-07
+Last update: 2026-05-08
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 
@@ -20,7 +20,7 @@ N. C. Vissio and M. V. Khokhlova, “A Three-Stage Morphological Pipeline for Wo
 
 The dataset is organized into folders corresponding to individual source works. Each folder contains Yakut constructions extracted from a single descriptive study.
 
-[Annotation Completion by Source Work](docs/annotation_progress.md)
+[Annotation Completion by Source](docs/annotation_progress.md)
 
 
 Within each folder, three subfolders represent successive stages of a reproducible morphological processing pipeline:

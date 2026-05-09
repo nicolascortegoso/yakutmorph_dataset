@@ -89,6 +89,7 @@
 | **CONV#6** | converb | *-аат* (and allomorphs) forms a converb that points to an action performed before just before the second action, conveyed by the personal form of the verb. Unlike other participial forms of the Yakut language, is unable to take predicative affixes [Ubryatova et al., §463]. In Apertium indicates 'as soon as' [Apertium]. |
 | **DIM#1** | diminutive | *-чык* (and allomorphs) diminutive form from nouns [Ubryatova et al., §156]. |
 | **DIM#2** | diminutive | *-чаан* (and allomorphs) diminutive form from nouns. Not very used [Ubryatova et al., §158]. |
+| **DIM#3** | diminutive | *-каан* (and allomorphs) diminutive form from nouns. Not very used [Ubryatova et al., §158]. |
 | **DIM#4** | diminutive | *-тыҥы* (and allomorphs) forms the diminutive of adjectives. |
 | **INT** | interrogative mark | no ref |
 | **HAB#1** | modality | *-ааччы* (and allomorphs) can be attached to any verbal stem. It has a meaning close to the active participle in Russian [Ubryatova et al., §176]. Kharitonov L.N. and other specialists considered *-ааччы* to be a verbal noun or the name of an actor, as it forms nouns denoting the actor's name. Ubryatova E.I. interprets this affix as a participle capable of taking predicate affixes and denoting an action that is usually performed [Korkina E.I. Nakloneniya glagola v yakutskom yazyke. Nauka, 1970, p. 221]. |

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 73,
+    "chapter": "Собственно частицы",
+    "topic": "Частица *аах*",
+    "section": 1,
+    "notes": "При этом *аах* активно употребляется в основном с терминами родства и со словами, обозначающими другие близкие отношения между людьми, что подтверждает предложенную ее этимологию с семантической стороны (т.е. «близких», «родственников», «своих» могут иметь только люди).",
+    "sah": "Эдьиийим аах хантан немецтии хаһыаты ылбыттара эбитэй?",
+    "ru": "Откуда взяли немецкую газету в семье сестры?",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Эдьиийим", "type": "title", "fst": "ymv", "root": "эдьиий+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "аах", "type": "lowercase", "fst": "ymv", "root": "аах+Adj"},
+      {"pos": 2, "text": "аах", "type": "lowercase", "fst": "ymv", "root": "аах+V"},
+      {"pos": 2, "text": "аах", "type": "lowercase", "fst": "ymv", "root": "аах+Part"},
+      {"pos": 3, "text": "хантан", "type": "lowercase", "fst": "ymv", "root": "ханыы+Adj", "affixes": "+VRBLZ#2+CSTV+CONV#1"},
+      {"pos": 3, "text": "хантан", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron", "affixes": "+ABL"},
+      {"pos": 4, "text": "немецтии", "type": "lowercase", "fst": "yma", "root": "немецтии+N"},
+      {"pos": 5, "text": "хаһыаты", "type": "lowercase", "fst": "ymv", "root": "хаһыат+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "ылбыттара", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 7, "text": "эбитэй", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+POSS.3SG+INT"},
+      {"pos": 7, "text": "эбитэй", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST+POSS.3SG+INT"},
+      {"pos": 8, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  }
+]

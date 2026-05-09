@@ -1,0 +1,56 @@
+[
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 228,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *баҕарар*",
+    "section": 2,
+    "notes": "Путем постепенного редуцирования таких предложений сочетание *ким баҕарар* «кто хочет» (или «кто желающий») переосмыслено как «кто угодно», «любой», «каждый». В результате появилась частица *баҕарар*, которая образует от вопросительных местоимений обобщительные.",
+    "sah": "хайата баҕарар",
+    "ru": "любой (из них)",
+    "id": 11,
+    "parses": [
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайаа+V", "affixes": "+CAUS+CONV#2"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+Adv", "affixes": "+ADVZ#8"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+Adv", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+Adv", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+Adv", "affixes": "+PRTV"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+N", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+N", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+N", "affixes": "+PRTV"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "хайата", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron", "affixes": "+PRTV"},
+      {"pos": 2, "text": "баҕарар", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES"},
+      {"pos": 2, "text": "баҕарар", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+ADJZ#8+VRBLZ#4a"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 229,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *баҕарар*",
+    "section": 2,
+    "notes": "Местоименные наречия, примыкающие к этой группе местоимений, выражают всеобъемлющий характер обстоятельственного, временного, пространственного признаков.",
+    "sah": "Хайа да уолу хайдах баҕарар хамаандалыахпын сөп.",
+    "ru": "Могу как угодно командовать над любым парнем.",
+    "id": 32,
+    "parses": [
+      {"pos": 1, "text": "Хайа", "type": "title", "fst": "ymv", "root": "хайа+Adv"},
+      {"pos": 1, "text": "Хайа", "type": "title", "fst": "ymv", "root": "хайа+MOD"},
+      {"pos": 1, "text": "Хайа", "type": "title", "fst": "ymv", "root": "хайа+N"},
+      {"pos": 1, "text": "Хайа", "type": "title", "fst": "ymv", "root": "хайа+Pron"},
+      {"pos": 1, "text": "Хайа", "type": "title", "fst": "ymv", "root": "хай+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 3, "text": "уолу", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хайдах+Pron"},
+      {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хай+V", "affixes": "+CONV_COND#2"},
+      {"pos": 5, "text": "баҕарар", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES"},
+      {"pos": 5, "text": "баҕарар", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+ADJZ#8+VRBLZ#4a"},
+      {"pos": 6, "text": "хамаандалыахпын", "type": "lowercase", "fst": "ymv", "root": "хамаанда+N", "affixes": "+VRBLZ#1+PART_FUT+POSS.1SG.ACC"},
+      {"pos": 6, "text": "хамаандалыахпын", "type": "lowercase", "fst": "ymv", "root": "хамаанда+N", "affixes": "+VRBLZ#1+PART_FUT+1SG"},
+      {"pos": 7, "text": "сөп", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

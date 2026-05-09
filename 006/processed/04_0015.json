@@ -1,0 +1,132 @@
+[
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 240,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
+    "notes": "Буолуой образуется от *буолуо* при помощи вопросительного аффикса. Оно может употребляться в реальном значении *буолуо* «будет» с вопросом. Поэтому форму *буолуой* относим к отглагольным частицам.",
+    "sah": "Барыта төһө киһи буолуой?",
+    "ru": "Сколько человек всего будет?",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Барыта", "type": "title", "fst": "fst", "root": "бары+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "төһө", "type": "lowercase", "fst": "fst", "root": "төһө+Pron"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"},
+      {"pos": 4, "text": "буолуой", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 240,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
+    "notes": "Частица *буолуой*, во-первых, выражает вопрос с оттенками желания узнать, недоумения.",
+    "sah": "Тоҕо ыҥырбыта буолуой, эһэм ыарыйдаҕа дуу?",
+    "ru": "Зачем же он меня вызвал, дед заболел что ли?",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "fst", "root": "тоҕо+Adv"},
+      {"pos": 2, "text": "ыҥырбыта", "type": "lowercase", "fst": "fst", "root": "ыҥыр+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 3, "text": "буолуой", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
+      {"pos": 5, "text": "эһэм", "type": "lowercase", "fst": "fst", "root": "эһэ+N", "affixes": "+POSS.1SG"},
+      {"pos": 6, "text": "ыарыйдаҕа", "type": "lowercase", "fst": "fst", "root": "ыарый+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 7, "text": "дуу", "type": "lowercase", "fst": "fst", "root": "дуу+Part"},
+      {"pos": 8, "text": "?", "type": "question", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 240,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
+    "notes": "Частица *буолуой*, во-первых, выражает вопрос с оттенками желания узнать, недоумения.",
+    "sah": "Маннык модун тиит туохтан охтубута буолуой?",
+    "ru": "Интересно, отчего же свалилась такая могучая лиственница?",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Маннык", "type": "title", "fst": "fst", "root": "бу+Pron", "affixes": "+DEF"},
+      {"pos": 2, "text": "модун", "type": "lowercase", "fst": "fst", "root": "модун+Adj"},
+      {"pos": 3, "text": "тиит", "type": "lowercase", "fst": "fst", "root": "тиит+N"},
+      {"pos": 4, "text": "туохтан", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+ABL"},
+      {"pos": 5, "text": "охтубута", "type": "lowercase", "fst": "fst", "root": "оҕут+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 6, "text": "буолуой", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 7, "text": "?", "type": "question", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 240,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
+    "notes": "Во-вторых, частица *буолуой* выражает модальное отрицание, т.е. утверждение противоположного смысла высказывания.",
+    "sah": "Бачча улахан сыанаҕа хайдах биэрбэт буолуой?",
+    "ru": "Как же не продаст за такую большую цену?",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Бачча", "type": "title", "fst": "fst", "root": "бу+Pron", "affixes": "+DEF#2"},
+      {"pos": 2, "text": "улахан", "type": "lowercase", "fst": "fst", "root": "улахан+Adj"},
+      {"pos": 3, "text": "сыанаҕа", "type": "lowercase", "fst": "fst", "root": "сыана+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "fst", "root": "хайдах+Pron"},
+      {"pos": 5, "text": "биэрбэт", "type": "lowercase", "fst": "fst", "root": "биэр+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 6, "text": "буолуой", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 7, "text": "?", "type": "question", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 240,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
+    "notes": "В-третьих, частица *буолуой* выражает утверждение, усиление высказывания.",
+    "sah": "Оо, төһөлөөх үгүстүк эн уос номоҕо буолбутуҥ буолуой!",
+    "ru": "О, как много раз ты бывал притчей во языцех!",
+    "id": 6,
+    "parses": [
+      {"pos": 1, "text": "Оо", "type": "title", "fst": "fst", "root": "оо+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
+      {"pos": 3, "text": "төһөлөөх", "type": "lowercase", "fst": "fst", "root": "төһө+Pron", "affixes": "+ADJZ#1"},
+      {"pos": 4, "text": "үгүстүк", "type": "lowercase", "fst": "fst", "root": "үгүс+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 5, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн+Pron"},
+      {"pos": 6, "text": "уос", "type": "lowercase", "fst": "fst", "root": "уос+N"},
+      {"pos": 7, "text": "номоҕо", "type": "lowercase", "fst": "fst", "root": "номох+N", "affixes": "+POSS.3SG"},
+      {"pos": 8, "text": "буолбутуҥ", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_PAST+POSS.2SG"},
+      {"pos": 9, "text": "буолуой", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 10, "text": "!", "type": "exclamation", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 241,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
+    "notes": "В-четвертых, *буолуой* выражает сетование, неудовлетворенность, досаду говорящего.",
+    "sah": "Тоҕо куотан сору-муҥу көрбүтүм буолуой? — дии-дии ытыы сытта.",
+    "ru": "Зачем же я убежала и испытывала столько горя и мучений, — думала и лежа плакала.",
+    "id": 8,
+    "parses": [
+      {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "fst", "root": "тоҕо+Adv"},
+      {"pos": 2, "text": "куотан", "type": "lowercase", "fst": "fst", "root": "куот+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "сору", "type": "lowercase", "fst": "fst", "root": "сор+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
+      {"pos": 5, "text": "муҥу", "type": "lowercase", "fst": "fst", "root": "муҥ+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "көрбүтүм", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 7, "text": "буолуой", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 8, "text": "?", "type": "question", "fst": "fst"},
+      {"pos": 9, "text": "—", "type": "dash", "fst": "fst"},
+      {"pos": 10, "text": "дии", "type": "lowercase", "fst": "fst", "root": "диэ+V", "affixes": "+CONV#2"},
+      {"pos": 11, "text": "-", "type": "hyphen", "fst": "fst"},
+      {"pos": 12, "text": "дии", "type": "lowercase", "fst": "fst", "root": "диэ+V", "affixes": "+CONV#2"},
+      {"pos": 13, "text": "ытыы", "type": "lowercase", "fst": "fst", "root": "ытаа+V", "affixes": "+CONV#2"},
+      {"pos": 14, "text": "сытта", "type": "lowercase", "fst": "fst", "root": "сыт+V", "affixes": "+PST.3SG"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "fst"}
+    ]
+  }
+]

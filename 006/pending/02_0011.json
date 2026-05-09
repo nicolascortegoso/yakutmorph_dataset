@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 88,
+    "chapter": "Собственно частицы",
+    "topic": "Частица *баҕайытык*",
+    "section": 11,
+    "notes": "Частица *баҕайытык* не только образует наречия, но и усиливает их семантику, т.е. совмещает в себе усилительное значение *баҕайы* и наречного аффикса *-лык*.",
+    "sah": "Маайа Сүөдэри сотору-сотору минньигэс баҕайытык уураан ылара.",
+    "ru": "Мая Федора то и дело очень сладко целовала.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Маайа", "type": "title", "fst": "yma", "root": "маайа^Adv"},
+      {"pos": 1, "text": "Маайа", "type": "title", "fst": "yma", "root": "маайа^N"},
+      {"pos": 2, "text": "Сүөдэри", "type": "title", "fst": "ymv", "root": "сүөдэй+V", "affixes": "+ADJZ#17+ACC"},
+      {"pos": 3, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сотору+Adv"},
+      {"pos": 3, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сото+N", "affixes": "+VRBLZ#4+ADVZ#1"},
+      {"pos": 3, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сот+V", "affixes": "+PART_PRES+ACC"},
+      {"pos": 3, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сой+V", "affixes": "+CSTV+PART_PRES+ACC"},
+      {"pos": 4, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 5, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сотору+Adv"},
+      {"pos": 5, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сото+N", "affixes": "+VRBLZ#4+ADVZ#1"},
+      {"pos": 5, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сот+V", "affixes": "+PART_PRES+ACC"},
+      {"pos": 5, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сой+V", "affixes": "+CSTV+PART_PRES+ACC"},
+      {"pos": 6, "text": "минньигэс", "type": "lowercase", "fst": "ymv", "root": "минньий+V", "affixes": "+ADJZ#5"},
+      {"pos": 7, "text": "баҕайытык", "type": "lowercase", "fst": "ymv", "root": "баҕайы+N", "affixes": "+ADVZ#5"},
+      {"pos": 7, "text": "баҕайытык", "type": "lowercase", "fst": "ymv", "root": "баҕайы+N", "affixes": "+VRBLZ#2+CSTV+ADJZ#16"},
+      {"pos": 7, "text": "баҕайытык", "type": "lowercase", "fst": "ymv", "root": "баҕайы+Part", "affixes": "+ADVZ#5"},
+      {"pos": 8, "text": "уураан", "type": "lowercase", "fst": "ymv", "root": "уураа+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "уураан", "type": "lowercase", "fst": "ymv", "root": "уур+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "уураан", "type": "lowercase", "fst": "ymv", "root": "уу+Adj", "affixes": "+VRBLZ#4+CONV#1"},
+      {"pos": 8, "text": "уураан", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+VRBLZ#4+CONV#1"},
+      {"pos": 9, "text": "ылара", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

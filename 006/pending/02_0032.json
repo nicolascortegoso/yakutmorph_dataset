@@ -20,7 +20,6 @@
       {"pos": 4, "text": "кэлтэгэй", "type": "lowercase", "fst": "yma", "root": "кэлтэгэ^N", "affixes": "^VRBLZ#2"},
       {"pos": 5, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP"},
       {"pos": 5, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"},
-      {"pos": 6, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+N"},
       {"pos": 6, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
       {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -37,9 +36,6 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Ама", "type": "title", "fst": "ymv", "root": "ама+MOD"},
-      {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "бис+V", "affixes": "+ADJZ#16+ACC"},
-      {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "бис+V", "affixes": "+NMLZ#5+ACC"},
-      {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһик+N", "affixes": "+ACC"},
       {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron"},
       {"pos": 3, "text": "буолбуппут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PAST+POSS.1PL"},
       {"pos": 3, "text": "буолбуппут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PAST+1PL"},
@@ -108,35 +104,12 @@
     "chapter": "Собственно частицы",
     "topic": "Частицы *ини*",
     "section": 32,
-    "notes": "Она выражает: 4) усиление модально-эмоциональной оценки говорящего.",
-    "sah": "Ыллаатахтара кэрэтин ини!",
-    "ru": "Ах, как красиво они спели!",
-    "id": 4,
-    "parses": [
-      {"pos": 1, "text": "Ыллаатахтара", "type": "title", "fst": "ymv", "root": "ыллаа+V", "affixes": "+CONV_COND#2+PL+POSS.3SG"},
-      {"pos": 2, "text": "кэрэтин", "type": "lowercase", "fst": "ymv", "root": "кэрэ+Adj", "affixes": "+VRBLZ#2+CSTV+REFL"},
-      {"pos": 2, "text": "кэрэтин", "type": "lowercase", "fst": "ymv", "root": "кэрэ+Adj", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 2, "text": "кэрэтин", "type": "lowercase", "fst": "ymv", "root": "кэрэ+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
-      {"pos": 2, "text": "кэрэтин", "type": "lowercase", "fst": "ymv", "root": "кэрэ+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+N"},
-      {"pos": 3, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 123,
-    "chapter": "Собственно частицы",
-    "topic": "Частицы *ини*",
-    "section": 32,
     "notes": "Кроме того, частица *ини* употребляется в роли соединительного союза.",
     "sah": "Оҕо эрдэхпинэ бу суолунан сырыттым ини, сылдьыбатым ини.",
     "ru": "В детстве я уж сколько ходил (досл.: ходил и не ходил) по этой дороге.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "ох+N", "affixes": "+POSS.3SG"},
       {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "оҕо+N"},
-      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "ой+V", "affixes": "+NMLZ#6+POSS.3SG"},
       {"pos": 2, "text": "эрдэхпинэ", "type": "lowercase", "fst": "ymv", "root": "эрт+V", "affixes": "+NMLZ#6+POSS.1SG.PRTV"},
       {"pos": 2, "text": "эрдэхпинэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"},
       {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
@@ -144,7 +117,6 @@
       {"pos": 4, "text": "суолунан", "type": "lowercase", "fst": "ymv", "root": "суол+N", "affixes": "+POSS.3SG.INST"},
       {"pos": 5, "text": "сырыттым", "type": "lowercase", "fst": "ymv", "root": "сырыы+N", "affixes": "+VRBLZ#2+CSTV+PST.1SG"},
       {"pos": 5, "text": "сырыттым", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PST.1SG"},
-      {"pos": 6, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+N"},
       {"pos": 6, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 8, "text": "сылдьыбатым", "type": "lowercase", "fst": "yma", "root": "сылдьыбаты^Adj", "affixes": "+POSS.1SG"},
@@ -153,82 +125,6 @@
       {"pos": 9, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+N"},
       {"pos": 9, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
       {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 123,
-    "chapter": "Собственно частицы",
-    "topic": "Частицы *ини*",
-    "section": 32,
-    "notes": "В связи с этим *ини* модально-эмоциональными оттенками значения особо насыщается тогда, когда она употребляется в составе предложения, где речь идет о самом говорящем. Действительно, будто нелогично, когда говорящий о себе, о своих поступках, которые ему, конечно, известны или самим уже сделаны, говорит в форме предположения, подчеркивания вероятности, возможности их. Вот тут-то особая манера подачи своих эмоций, чувств, своего отношения к высказыванию или собеседнику.",
-    "sah": "Эн да баар буолаҥҥын мин кинилэргэ хоннум ини.",
-    "ru": "Я ночевал у них, вероятно, из-за того, что ты был со мной.",
-    "id": 6,
-    "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "э+V", "affixes": "+CONV#1"},
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "э+V", "affixes": "+REFL/PASS"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
-      {"pos": 3, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+V"},
-      {"pos": 4, "text": "буолаҥҥын", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1+2SG"},
-      {"pos": 4, "text": "буолаҥҥын", "type": "lowercase", "fst": "ymv", "root": "буой+V", "affixes": "+NMLZ#7+POSS.2SG.ACC"},
-      {"pos": 4, "text": "буолаҥҥын", "type": "lowercase", "fst": "ymv", "root": "буой+V", "affixes": "+NMLZ#7+2SG"},
-      {"pos": 5, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
-      {"pos": 5, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 6, "text": "кинилэргэ", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL+DAT"},
-      {"pos": 7, "text": "хоннум", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+PST.1SG"},
-      {"pos": 8, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+N"},
-      {"pos": 8, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 123,
-    "chapter": "Собственно частицы",
-    "topic": "Частицы *ини*",
-    "section": 32,
-    "notes": "В связи с этим *ини* модально-эмоциональными оттенками значения особо насыщается тогда, когда она употребляется в составе предложения, где речь идет о самом говорящем. Действительно, будто нелогично, когда говорящий о себе, о своих поступках, которые ему, конечно, известны или самим уже сделаны, говорит в форме предположения, подчеркивания вероятности, возможности их. Вот тут-то особая манера подачи своих эмоций, чувств, своего отношения к высказыванию или собеседнику. Здесь мелочный богач выражает свою обиду и торгуется с больным братом в деликатной, но в более действенной форме речи, достигаемой при помощи частицы *ини*.",
-    "sah": "Мин да харчым ахсааннаах ини.",
-    "ru": "И мои деньги знают счет, наверно.",
-    "id": 7,
-    "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+N"},
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "харчым", "type": "lowercase", "fst": "ymv", "root": "харчы+N", "affixes": "+POSS.1SG"},
-      {"pos": 3, "text": "харчым", "type": "lowercase", "fst": "ymv", "root": "хар+V", "affixes": "+ADVZ#2+POSS.1SG"},
-      {"pos": 3, "text": "харчым", "type": "lowercase", "fst": "ymv", "root": "хар+V", "affixes": "+CSTV+ADVZ#2+POSS.1SG"},
-      {"pos": 4, "text": "ахсааннаах", "type": "lowercase", "fst": "ymv", "root": "ахсаан+N", "affixes": "+ADJZ#1"},
-      {"pos": 5, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+N"},
-      {"pos": 5, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 123,
-    "chapter": "Собственно частицы",
-    "topic": "Частицы *ини*",
-    "section": 32,
-    "notes": "В связи с этим *ини* модально-эмоциональными оттенками значения особо насыщается тогда, когда она употребляется в составе предложения, где речь идет о самом говорящем. Действительно, будто нелогично, когда говорящий о себе, о своих поступках, которые ему, конечно, известны или самим уже сделаны, говорит в форме предположения, подчеркивания вероятности, возможности их. Вот тут-то особая манера подачи своих эмоций, чувств, своего отношения к высказыванию или собеседнику. Здесь мелочный богач выражает свою обиду и торгуется с больным братом в деликатной, но в более действенной форме речи, достигаемой при помощи частицы *ини*. Здесь при помощи *ини* говорящий уклоняется от прямого ответа, поняв неуместность только что им сказанных слов.",
-    "sah": "Ээ, бу оҕону эттим ини.",
-    "ru": "Э, наверно, про этого чика я сказал.",
-    "id": 8,
-    "parses": [
-      {"pos": 1, "text": "Ээ", "type": "title", "fst": "ymv", "root": "ээ+MOD"},
-      {"pos": 1, "text": "Ээ", "type": "title", "fst": "ymv", "root": "ээ+Part"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 4, "text": "оҕону", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+ACC"},
-      {"pos": 5, "text": "эттим", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PST.1SG"},
-      {"pos": 6, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+N"},
-      {"pos": 6, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }
 ]

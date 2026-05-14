@@ -10,15 +10,10 @@
     "ru": "Я... я ни одного слова не сообщал красным. (Это говорит смертельно испуганный человек, допрашиваемый бандитами).",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+N"},
       {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 2, "text": "....", "type": "ellipsis", "fst": "ymv"},
-      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
       {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 4, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 4, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "бии+N", "affixes": "+VRBLZ#4"},
-      {"pos": 5, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+IMIT"},
-      {"pos": 5, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+MOD"},
       {"pos": 5, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+Part"},
       {"pos": 6, "text": "тылы", "type": "lowercase", "fst": "ymv", "root": "тыл+N", "affixes": "+ACC"},
       {"pos": 7, "text": "кыраасынайдарга", "type": "lowercase", "fst": "yma", "root": "кыраасынай^Adj", "affixes": "+PL+DAT"},
@@ -30,50 +25,6 @@
       {"pos": 8, "text": "биллэрбэтэҕим", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+CAUS+NEG+CONV_COND#2+POSS.1SG"},
       {"pos": 8, "text": "биллэрбэтэҕим", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+CAUS+NEG+PART_PAST+POSS.1SG"},
       {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 107,
-    "chapter": "Собственно частицы",
-    "topic": "Частица *даа*",
-    "section": 26,
-    "notes": "В современном якутском языке частица *даа* имеет активное употребление. Она, во-первых, выражает вопрос при переспрашивании часто с оттенком удивления, неодобрения, иронии, угрозы, радости и т.п. В этом значении *даа* употребляется в основном в диалогической речи.",
-    "sah": "Атын сахалар даа?",
-    "ru": "Другие якуты говоришь?",
-    "id": 2,
-    "parses": [
-      {"pos": 1, "text": "Атын", "type": "title", "fst": "ymv", "root": "атын+Adj"},
-      {"pos": 1, "text": "Атын", "type": "title", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 2, "text": "сахалар", "type": "lowercase", "fst": "ymv", "root": "саха+N", "affixes": "+PL"},
-      {"pos": 3, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+IMIT"},
-      {"pos": 3, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+MOD"},
-      {"pos": 3, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+Part"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 107,
-    "chapter": "Собственно частицы",
-    "topic": "Частица *даа*",
-    "section": 26,
-    "notes": "В современном якутском языке частица *даа* имеет активное употребление. Она, во-первых, выражает вопрос при переспрашивании часто с оттенком удивления, неодобрения, иронии, угрозы, радости и т.п. В этом значении *даа* употребляется в основном в диалогической речи.",
-    "sah": "Бааллар-бааллар ахан, доҕор!",
-    "ru": "Имеются имеются, еще как, дорогой!",
-    "id": 3,
-    "parses": [
-      {"pos": 1, "text": "Бааллар", "type": "title", "fst": "ymv", "root": "баал+N", "affixes": "+PL"},
-      {"pos": 1, "text": "Бааллар", "type": "title", "fst": "ymv", "root": "баар+N", "affixes": "+PL"},
-      {"pos": 1, "text": "Бааллар", "type": "title", "fst": "ymv", "root": "баар+V", "affixes": "+PL"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "бааллар", "type": "lowercase", "fst": "ymv", "root": "баал+N", "affixes": "+PL"},
-      {"pos": 3, "text": "бааллар", "type": "lowercase", "fst": "ymv", "root": "баар+N", "affixes": "+PL"},
-      {"pos": 3, "text": "бааллар", "type": "lowercase", "fst": "ymv", "root": "баар+V", "affixes": "+PL"},
-      {"pos": 4, "text": "ахан", "type": "lowercase", "fst": "ymv", "root": "ахан+Part"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "доҕор", "type": "lowercase", "fst": "ymv", "root": "доҕор+N"},
-      {"pos": 7, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
   {
@@ -106,19 +57,13 @@
     "ru": "Раю говоришь? Неужели? Кто это?",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Раяны", "type": "title", "fst": "yma", "root": "раяны+N"},
-      {"pos": 1, "text": "Раяны", "type": "title", "fst": "yma", "root": "раянт+N", "affixes": "+ACC"},
-      {"pos": 1, "text": "Раяны", "type": "title", "fst": "yma", "root": "раян+N", "affixes": "+ACC"},
       {"pos": 1, "text": "Раяны", "type": "title", "fst": "yma", "root": "рая+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+IMIT"},
-      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+MOD"},
       {"pos": 2, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+Part"},
       {"pos": 3, "text": "?", "type": "question", "fst": "ymv"},
       {"pos": 4, "text": "Ама", "type": "title", "fst": "ymv", "root": "ама+MOD"},
       {"pos": 5, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
       {"pos": 6, "text": "?", "type": "question", "fst": "ymv"},
       {"pos": 7, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 8, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+V"},
       {"pos": 8, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+Pron"},
       {"pos": 9, "text": "?", "type": "question", "fst": "ymv"}
     ]

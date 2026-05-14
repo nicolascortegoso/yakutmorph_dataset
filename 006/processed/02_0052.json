@@ -6,6 +6,51 @@
     "topic": "Частица *этээ*",
     "section": 52,
     "notes": "Во-вторых, *ээ*, сочетаясь с отрицательно-желательной формой глагола, выражает желание говорящего.",
+    "sah": "Ити баҕайыны оннооҕор ыт абааһы көрөр ээ.",
+    "ru": "Эту негодяйку даже собака не выносит!",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 2, "text": "баҕайыны", "type": "lowercase", "fst": "ymv", "root": "баҕайы+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "оннооҕор", "type": "lowercase", "fst": "ymv", "root": "оннооҕор+MOD"},
+      {"pos": 4, "text": "ыт", "type": "lowercase", "fst": "ymv", "root": "ыт+N"},
+      {"pos": 5, "text": "абааһы", "type": "lowercase", "fst": "ymv", "root": "абааһы+N"},
+      {"pos": 6, "text": "көрөр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES"},
+      {"pos": 7, "text": "ээ", "type": "lowercase", "fst": "ymv", "root": "ээ+Part"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 183,
+    "chapter": "Собственно частицы",
+    "topic": "Частица *этээ*",
+    "section": 52,
+    "notes": "Во-вторых, *ээ*, сочетаясь с отрицательно-желательной формой глагола, выражает желание говорящего.",
+    "sah": "Ии, бу оҕобун көр, үчүгэй киһи буолууһу ээ.",
+    "ru": "И, смотри, мою детку, ведь хорошим человеком станет.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Ии", "type": "title", "fst": "ymv", "root": "ии+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 4, "text": "оҕобун", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 5, "text": "көр", "type": "lowercase", "fst": "ymv", "root": "көр+V"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "үчүгэй", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj"},
+      {"pos": 8, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 9, "text": "буолууһу", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+AFFIR#1"},
+      {"pos": 10, "text": "ээ", "type": "lowercase", "fst": "ymv", "root": "ээ+Part"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 183,
+    "chapter": "Собственно частицы",
+    "topic": "Частица *этээ*",
+    "section": 52,
+    "notes": "Во-вторых, *ээ*, сочетаясь с отрицательно-желательной формой глагола, выражает желание говорящего.",
     "sah": "Биһиги кэллибит ээ.",
     "ru": "Это мы ведь пришли.",
     "id": 3,
@@ -71,6 +116,26 @@
       {"pos": 7, "text": "суруйбаттар", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NEG+PART_PRES+PL"},
       {"pos": 8, "text": "ээ", "type": "lowercase", "fst": "fst", "root": "ээ+Part"},
       {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 183,
+    "chapter": "Собственно частицы",
+    "topic": "Частица *этээ*",
+    "section": 52,
+    "notes": "Во-вторых, *ээ*, сочетаясь с отрицательно-желательной формой глагола, выражает желание говорящего.",
+    "sah": "Ону эн бу биэссэргэ биэрбэккин ээ.",
+    "ru": "Ты отдала бы ее фельдшеру.",
+    "id": 7,
+    "parses": [
+      {"pos": 1, "text": "Ону", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 4, "text": "биэссэргэ", "type": "lowercase", "fst": "yma", "root": "биэссэр+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "биэрбэккин", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+NEG+PART_PRES+2SG"},
+      {"pos": 6, "text": "ээ", "type": "lowercase", "fst": "ymv", "root": "ээ+Part"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
   {

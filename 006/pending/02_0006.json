@@ -5,24 +5,19 @@
     "chapter": "Собственно частицы",
     "topic": "Частица *баараа*",
     "section": 6,
-    "notes": "Частица *баараа* выражает отрицание, но, во первых, особен ность ее значения заключается в том, что *баараа*, примыкая к сказуемому, отрицает не действие, названное глагольной формой, а принадлежность этого действия подлежащему. Отрицательное значение этой частицы всегда имеет выделительно-противительный оттенок, она употребляется в предложениях, которыми говорящий выражает свое оправдание, безразличие, обиду, зависть и т.п. Все эти особенности функционирования частицы можно видеть и в таких коротких предложениях, взятых из разговорного языка.",
+    "notes": "Частица *баараа* выражает отрицание, но, во первых, особенность ее значения заключается в том, что *баараа*, примыкая к сказуемому, отрицает не действие, названное глагольной формой, а принадлежность этого действия подлежащему. Отрицательное значение этой частицы всегда имеет выделительно-противительный оттенок, она употребляется в предложениях, которыми говорящий выражает свое оправдание, безразличие, обиду, зависть и т.п. Все эти особенности функционирования частицы можно видеть и в таких коротких предложениях, взятых из разговорного языка.",
     "sah": "Баҕар, хомуйума, мин мөҥүллүөм баараа.",
     "ru": "Не хочешь, не убирай, не меня же будут ругать.",
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "баҕар+MOD"},
-      {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4"},
-      {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "бай+V", "affixes": "+ADJZ#8"},
-      {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "бай+V", "affixes": "+NMLZ#6+POSS.3SG.DAT"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "хомуйума", "type": "lowercase", "fst": "ymv", "root": "хомуй+V", "affixes": "+NEG"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
       {"pos": 5, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 6, "text": "мөҥүллүөм", "type": "lowercase", "fst": "yma", "root": "мөҥүллээ^V", "affixes": "+PART_FUT+POSS.1SG"},
       {"pos": 6, "text": "мөҥүллүөм", "type": "lowercase", "fst": "yma", "root": "мөҥүл^N", "affixes": "^VRBLZ#1+PART_FUT+POSS.1SG"},
       {"pos": 7, "text": "баараа", "type": "lowercase", "fst": "ymv", "root": "баараа+Part"},
-      {"pos": 7, "text": "баараа", "type": "lowercase", "fst": "ymv", "root": "баар+N", "affixes": "+VRBLZ#3"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -37,38 +32,9 @@
     "ru": "Возвращаться ему нельзя.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Төннөрө", "type": "title", "fst": "ymv", "root": "төнүн+V", "affixes": "+PART_PRES+POSS.3SG"},
       {"pos": 1, "text": "Төннөрө", "type": "title", "fst": "ymv", "root": "төннөр+V", "affixes": "+CONV#2"},
       {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
-      {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "ymv", "root": "сатай+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 82,
-    "chapter": "Собственно частицы",
-    "topic": "Частица *баараа*",
-    "section": 6,
-    "notes": "Во-вторых, *баараа* выражает непосредственное действия, названного глаголом, к которому она примыкает. Здесь также сохраняются выделительно-противительный оттенок и другие модальные нюансы значений, связанные с общим содержанием контекста.",
-    "sah": "Сатаатар, баттаҕын хараннаҕа баараа.",
-    "ru": "Даже и за волосами не ухаживает.",
-    "id": 6,
-    "parses": [
-      {"pos": 1, "text": "Сатаатар", "type": "title", "fst": "ymv", "root": "сатаатар+MOD"},
-      {"pos": 1, "text": "Сатаатар", "type": "title", "fst": "ymv", "root": "сатаа+V", "affixes": "+CONV_COND#1"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "баттаҕын", "type": "lowercase", "fst": "ymv", "root": "баттаа+V", "affixes": "+ADJZ#16+POSS.3SG.ACC"},
-      {"pos": 3, "text": "баттаҕын", "type": "lowercase", "fst": "ymv", "root": "баттаа+V", "affixes": "+NMLZ#6+POSS.3SG.ACC"},
-      {"pos": 3, "text": "баттаҕын", "type": "lowercase", "fst": "ymv", "root": "баттах+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "баттаҕын", "type": "lowercase", "fst": "ymv", "root": "бат+V", "affixes": "+CONV_COND#2+POSS.3SG.ACC"},
-      {"pos": 3, "text": "баттаҕын", "type": "lowercase", "fst": "ymv", "root": "бат+V", "affixes": "+REFL+PART_PRES+2SG"},
-      {"pos": 3, "text": "баттаҕын", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+CSTV+CONV_COND#2+POSS.3SG.ACC"},
-      {"pos": 4, "text": "хараннаҕа", "type": "lowercase", "fst": "ymv", "root": "хараа+V", "affixes": "+REFL/PASS+CONV_COND#2+POSS.3SG"},
-      {"pos": 4, "text": "хараннаҕа", "type": "lowercase", "fst": "ymv", "root": "харай+V", "affixes": "+REFL/PASS+CONV_COND#2+POSS.3SG"},
-      {"pos": 5, "text": "баараа", "type": "lowercase", "fst": "ymv", "root": "баараа+Part"},
-      {"pos": 5, "text": "баараа", "type": "lowercase", "fst": "ymv", "root": "баар+N", "affixes": "+VRBLZ#3"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
   {

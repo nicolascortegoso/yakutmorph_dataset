@@ -71,7 +71,7 @@
 | **SLOW#2** | aspect | no ref |
 | **SLOW#4** | aspect | no ref |
 | **SUDD#1** | aspect | *-й* denotes an abrupt increase in sound or its unexpected, sudden occurrence from onomatopoeic verbs [Ubryatova et al. §565]. |
-| **SUDD#2** | aspect | *с*, *-х*, *-к* form an instant-single form using the suffixal-analytical method after figurative roots [Ubryatova et al. §568] |
+| **SUDD#2** | aspect | *с*, *-х*, *-к* form an instant-single form using the suffixal-analytical method after figurative roots [Ubryatova et al. §568]. |
 | **ABL** | case | *-(т)тан* (and allomorphs) ablative case. |
 | **ACC** | case | *-н(ы)* (and allomorphs) accusative case. |
 | **COMIT** | case | *-тыын* (and allomorphs) commitative case. |

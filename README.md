@@ -2,9 +2,9 @@
 
 This dataset contains sentences, clauses, and multi-word expressions compiled from established descriptive studies of Yakut and standardized under a unified machine-readable annotation schema.
 
-**Total annotated contructions**: 10403
+**Total annotated contructions**: 10540
 
-**Last update**: 2026-05-10
+**Last update**: 2026-05-14
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 
@@ -59,11 +59,11 @@ This stage preserves the raw output of the morphological pipeline that has not b
 A `parses` field is added to each sample, storing the analyzer output. Each token-level analysis includes:
 
 - `pos`: Position of the token in the sequence
-- `text`: Surface form
+- `text`: Surface form of the token
 - `type`: Token category (e.g., word, punctuation)
 - `fst`: Morphological transducer responsible for the analysis
 - `root`: Lexical root
-- `affixes`: Ordered list of affixes
+- `affixes`: chain of suffixes (if present)
 
 As soon as a construction is disambiguated, it is removed from the `pending` folder.
 

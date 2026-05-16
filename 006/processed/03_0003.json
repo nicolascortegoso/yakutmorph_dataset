@@ -1,2 +1,68 @@
 [
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 187,
+    "chapter": "Отыменные частицы",
+    "topic": "Частица *аймах*",
+    "section": 2,
+    "notes": "Частица *аймах* имеет собирательное значение и часто может переводиться собирательными суффиксами русского языка.",
+    "sah": "дьадаҥы аймах",
+    "ru": "беднота",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "дьадаҥы", "type": "lowercase", "fst": "ymv", "root": "дьадай+V", "affixes": "+ADJZ#4"},
+      {"pos": 2, "text": "аймах", "type": "lowercase", "fst": "ymv", "root": "аймах+N"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 187,
+    "chapter": "Отыменные частицы",
+    "topic": "Частица *аймах*",
+    "section": 2,
+    "notes": "Частица *аймах* имеет собирательное значение и часто может переводиться собирательными суффиксами русского языка.",
+    "sah": "студент аймах",
+    "ru": "студенчество",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "студент", "type": "lowercase", "fst": "ymv", "root": "студент+N"},
+      {"pos": 2, "text": "аймах", "type": "lowercase", "fst": "ymv", "root": "аймах+N"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 187,
+    "chapter": "Отыменные частицы",
+    "topic": "Частица *аймах*",
+    "section": 2,
+    "notes": "*Аймах* часто сочетается с парными именами, которые тоже обладают обобщенной семантикой.",
+    "sah": "Хаан сытын ыллаҕына, торҕон бииһэ мустарын кэриэтэ, Пепеляевы тула үрүҥ-хара, баайтойот, атыыһыт-эргиэмсик аймаҕа түмсүбүтэ.",
+    "ru": "Как на запах крови собирается свора голодных хищников, так: вокруг Пепеляева объединилась кучка белых и черных, баевтойонов, купцов и торговцев.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Хаан", "type": "title", "fst": "ymv", "root": "хаан+N"},
+      {"pos": 2, "text": "сытын", "type": "lowercase", "fst": "ymv", "root": "сыт+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "ыллаҕына", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "торҕон", "type": "lowercase", "fst": "ymv", "root": "торҕон+Adj"},
+      {"pos": 6, "text": "бииһэ", "type": "lowercase", "fst": "ymv", "root": "биис+N", "affixes": "+POSS.3SG"},
+      {"pos": 7, "text": "мустарын", "type": "lowercase", "fst": "ymv", "root": "муһун+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 8, "text": "кэриэтэ", "type": "lowercase", "fst": "ymv", "root": "кэриэтэ+POST"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "Пепеляевы", "type": "title", "fst": "yma", "root": "пепеляев+N", "affixes": "+N"},
+      {"pos": 11, "text": "тула", "type": "lowercase", "fst": "ymv", "root": "тула+N"},
+      {"pos": 12, "text": "үрүҥ", "type": "lowercase", "fst": "yma", "root": "үрүҥ+Adj"},
+      {"pos": 13, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 14, "text": "хара", "type": "lowercase", "fst": "ymv", "root": "хара+Adj"},
+      {"pos": 15, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 16, "text": "баайтойот", "type": "lowercase", "fst": "yma", "root": "баайтойот+N"},
+      {"pos": 17, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 18, "text": "атыыһыт", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+NMLZ#1"},
+      {"pos": 19, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 20, "text": "эргиэмсик", "type": "lowercase", "fst": "ymv", "root": "эргиэмсик+N"},
+      {"pos": 21, "text": "аймаҕа", "type": "lowercase", "fst": "ymv", "root": "аймах+N", "affixes": "+POSS.3SG"},
+      {"pos": 22, "text": "түмсүбүтэ", "type": "lowercase", "fst": "ymv", "root": "түм+V", "affixes": "+RECP+PART_PAST+POSS.3SG"},
+      {"pos": 23, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
 ]

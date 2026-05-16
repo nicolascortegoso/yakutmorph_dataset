@@ -27,13 +27,42 @@
     "topic": "Частица *бөҕөлөөх*",
     "section": 18,
     "notes": "Образуется при помощи аффикса обладания стицы *бөҕө* является ее морфологической разновидностью и выражает множественность, исключительные качества предмета, многократность, силу действия.",
+    "sah": "Күүс-уох, доруобуйа бөҕөлөөх дьон буоллаҕа.",
+    "ru": "Они ведь очень сильные, крепкие, здоровые люди.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Күүс", "type": "title", "fst": "ymv", "root": "күүс+N"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 3, "text": "уох", "type": "lowercase", "fst": "ymv", "root": "уох+N"},
+      {"pos": 3, "text": "уох", "type": "lowercase", "fst": "ymv", "root": "уой+V", "affixes": "+NMLZ#6"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "доруобуйа", "type": "lowercase", "fst": "ymv", "root": "доруоп+N", "affixes": "+VRBLZ#2+CONV#2"},
+      {"pos": 5, "text": "доруобуйа", "type": "lowercase", "fst": "ymv", "root": "доруоп+N", "affixes": "+DIM#4"},
+      {"pos": 5, "text": "доруобуйа", "type": "lowercase", "fst": "ymv", "root": "доруобуйа+N"},
+      {"pos": 6, "text": "бөҕөлөөх", "type": "lowercase", "fst": "ymv", "root": "бөҕө+Adj", "affixes": "+ADJZ#1"},
+      {"pos": 6, "text": "бөҕөлөөх", "type": "lowercase", "fst": "ymv", "root": "бөҕө+Part", "affixes": "+ADJZ#1"},
+      {"pos": 7, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"},
+      {"pos": 8, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 93,
+    "chapter": "Собственно частицы",
+    "topic": "Частица *бөҕөлөөх*",
+    "section": 18,
+    "notes": "Образуется при помощи аффикса обладания стицы *бөҕө* является ее морфологической разновидностью и выражает множественность, исключительные качества предмета, многократность, силу действия.",
     "sah": "Силлэҥнэһэн түһэн Сииһиттэрэ бөҕөлөөх.",
     "ru": "Ох, и мастера же они осуждать, какие гримасники.",
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Силлэҥнэһэн", "type": "title", "fst": "ymv", "root": "сил+N", "affixes": "+VRBLZ#1+NMLZ#7+VRBLZ#1+RECP+CONV#1"},
+      {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түс+N", "affixes": "+VRBLZ#3+REFL/PASS"},
       {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түһээ+V", "affixes": "+REFL/PASS"},
       {"pos": 3, "text": "Сииһиттэрэ", "type": "title", "fst": "ymv", "root": "сиэ+V", "affixes": "+CONV#2+NMLZ#1+PL+POSS.3SG"},
+      {"pos": 4, "text": "бөҕөлөөх", "type": "lowercase", "fst": "ymv", "root": "бөҕө+Adj", "affixes": "+ADJZ#1"},
       {"pos": 4, "text": "бөҕөлөөх", "type": "lowercase", "fst": "ymv", "root": "бөҕө+Part", "affixes": "+ADJZ#1"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]

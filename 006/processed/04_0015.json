@@ -84,6 +84,34 @@
     "chapter": "Отглагольные частицы",
     "topic": "Частица *буолуой*",
     "section": 15,
+    "notes": "Во-вторых, частица *буолуой* выражает модальное отрицание, т.е. утверждение противоположного смысла высказывания.",
+    "sah": "Ол эрээри күнү таптаабат, киниэхэ тардыспат бу сир үрдүгэр ама туох баар буолуой?",
+    "ru": "Однако, на этом свете разве есть что-нибудь, не любящее солнце, не тянущееся к нему?",
+    "id": 5,
+    "parses": [
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 2, "text": "эрээри", "type": "lowercase", "fst": "ymv", "root": "эрээри+CONJ"},
+      {"pos": 3, "text": "күнү", "type": "lowercase", "fst": "ymv", "root": "күн+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "таптаабат", "type": "lowercase", "fst": "ymv", "root": "таптаа+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "киниэхэ", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+DAT"},
+      {"pos": 7, "text": "тардыспат", "type": "lowercase", "fst": "ymv", "root": "тарт+V", "affixes": "+RECP+NEG+PART_PRES"},
+      {"pos": 8, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 9, "text": "сир", "type": "lowercase", "fst": "ymv", "root": "сир+N"},
+      {"pos": 10, "text": "үрдүгэр", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 11, "text": "ама", "type": "lowercase", "fst": "ymv", "root": "ама+MOD"},
+      {"pos": 12, "text": "туох", "type": "lowercase", "fst": "ymv", "root": "туох+Pron"},
+      {"pos": 13, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+      {"pos": 14, "text": "буолуой", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 15, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 240,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
     "notes": "В-третьих, частица *буолуой* выражает утверждение, усиление высказывания.",
     "sah": "Оо, төһөлөөх үгүстүк эн уос номоҕо буолбутуҥ буолуой!",
     "ru": "О, как много раз ты бывал притчей во языцех!",
@@ -127,6 +155,33 @@
       {"pos": 13, "text": "ытыы", "type": "lowercase", "fst": "fst", "root": "ытаа+V", "affixes": "+CONV#2"},
       {"pos": 14, "text": "сытта", "type": "lowercase", "fst": "fst", "root": "сыт+V", "affixes": "+PST.3SG"},
       {"pos": 15, "text": ".", "type": "period", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 241,
+    "chapter": "Отглагольные частицы",
+    "topic": "Частица *буолуой*",
+    "section": 15,
+    "notes": "В-четвертых, *буолуой* выражает сетование, неудовлетворенность, досаду говорящего.",
+    "sah": "Дьэ, бу кини, Кылбанов, туох буруйугар бүрэ дьүһүннэнэн төрөөбүтэ буолуой?",
+    "ru": "Ну, вот он, Кылбанов, по какой же вине родился таким неказистым.",
+    "id": 9,
+    "parses": [
+      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "ymv", "root": "дьэ+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 4, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "Кылбанов", "type": "title", "fst": "yma", "root": "кылбанов+N"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "туох", "type": "lowercase", "fst": "ymv", "root": "туох+Pron"},
+      {"pos": 9, "text": "буруйугар", "type": "lowercase", "fst": "ymv", "root": "буруй+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 10, "text": "бүрэ", "type": "lowercase", "fst": "ymv", "root": "бүрэ+Adj"},
+      {"pos": 11, "text": "дьүһүннэнэн", "type": "lowercase", "fst": "ymv", "root": "дьүһүн+N", "affixes": "+VRBLZ#1+REFL/PASS+CONV#1"},
+      {"pos": 12, "text": "төрөөбүтэ", "type": "lowercase", "fst": "ymv", "root": "төрөө+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 13, "text": "буолуой", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 14, "text": "?", "type": "question", "fst": "ymv"}
     ]
   }
 ]

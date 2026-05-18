@@ -1,2 +1,44 @@
 [
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 215,
+    "chapter": "Отыменные частицы",
+    "topic": "Частицы *оҕото*, *оҕоккото* (*ооккото*)",
+    "section": 21,
+    "notes": "*Оҕото*, во-первых, имеет уменьшительное значение.",
+    "sah": "Харчы харайар киһиҥ сыарҕатыгар кыра хааһах оҕотугар баар буолуо.",
+    "ru": "Деньги должны быть в маленьком кожаном мешочке на санях твоего попечителя.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Харчы", "type": "title", "fst": "ymv", "root": "харчы+N"},
+      {"pos": 2, "text": "харайар", "type": "lowercase", "fst": "ymv", "root": "харай+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "киһиҥ", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+POSS.2SG"},
+      {"pos": 4, "text": "сыарҕатыгар", "type": "lowercase", "fst": "ymv", "root": "сыарҕа+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 5, "text": "кыра", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj"},
+      {"pos": 6, "text": "хааһах", "type": "lowercase", "fst": "ymv", "root": "хааһах+N"},
+      {"pos": 7, "text": "оҕотугар", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 8, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+      {"pos": 9, "text": "буолуо", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 215,
+    "chapter": "Отыменные частицы",
+    "topic": "Частицы *оҕото*, *оҕоккото* (*ооккото*)",
+    "section": 21,
+    "notes": "*Оҕото*, во-первых, имеет уменьшительное значение.",
+    "sah": "Онтон кыра үрүйэ оҕотун туоруоххут.",
+    "ru": "Затем перейдете маленький ручеек.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Онтон", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "кыра", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj"},
+      {"pos": 3, "text": "үрүйэ", "type": "lowercase", "fst": "ymv", "root": "үрүйэ+N"},
+      {"pos": 4, "text": "оҕотун", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 5, "text": "туоруоххут", "type": "lowercase", "fst": "ymv", "root": "туор+V", "affixes": "+PART_FUT+POSS.2PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
 ]

@@ -1,2 +1,99 @@
 [
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 212,
+    "chapter": "Отыменные частицы",
+    "topic": "Частицы *муҥнаах*, *эрэйдээх*, *сордоох*",
+    "section": 17,
+    "notes": "Частицы *муҥнаах*, *эрэйдээх* по своему значению почти идентичны. Они выражают жалость говорящего.",
+    "sah": "Оҕо муҥнаах хайдах гыннаҕына үчүгэйин бэйэтэ да билбэтэ буолуо.",
+    "ru": "Бедный ребенок, наверно, и сам не знает, как лучше сделать.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "оҕо+N"},
+      {"pos": 2, "text": "муҥнаах", "type": "lowercase", "fst": "ymv", "root": "муҥ+N", "affixes": "+ADJZ#1"},
+      {"pos": 3, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хайдах+Pron"},
+      {"pos": 4, "text": "гыннаҕына", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 5, "text": "үчүгэйин", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "бэйэтэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 7, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 8, "text": "билбэтэ", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+PST.3SG"},
+      {"pos": 9, "text": "буолуо", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 212,
+    "chapter": "Отыменные частицы",
+    "topic": "Частицы *муҥнаах*, *эрэйдээх*, *сордоох*",
+    "section": 17,
+    "notes": "Частицы *муҥнаах*, *эрэйдээх* по своему значению почти идентичны. Они выражают жалость говорящего.",
+    "sah": "Сүрэҕим муҥнаах сэрэйбитэ.",
+    "ru": "Бедное мое сердце почуяло.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Сүрэҕим", "type": "title", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "муҥнаах", "type": "lowercase", "fst": "ymv", "root": "муҥ+N", "affixes": "+ADJZ#1"},
+      {"pos": 3, "text": "сэрэйбитэ", "type": "lowercase", "fst": "ymv", "root": "сэрэй+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 212,
+    "chapter": "Отыменные частицы",
+    "topic": "Частицы *муҥнаах*, *эрэйдээх*, *сордоох*",
+    "section": 17,
+    "notes": "Эти частицы придают сожаление говорящего.",
+    "sah": "Ким эрэ көтүттэ мөһөөҕүм муҥнааҕы?",
+    "ru": "Кто же украл мои жалкие сто рублей?",
+    "id": 5,
+    "parses": [
+      {"pos": 1, "text": "Ким", "type": "title", "fst": "ymv", "root": "ким+Pron"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 3, "text": "көтүттэ", "type": "lowercase", "fst": "ymv", "root": "көтүт+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": "мөһөөҕүм", "type": "lowercase", "fst": "ymv", "root": "мөһөөх+N", "affixes": "+POSS.1SG"},
+      {"pos": 5, "text": "муҥнааҕы", "type": "lowercase", "fst": "ymv", "root": "муҥ+N", "affixes": "+ADJZ#1+ACC"},
+      {"pos": 6, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 212,
+    "chapter": "Отыменные частицы",
+    "topic": "Частицы *муҥнаах*, *эрэйдээх*, *сордоох*",
+    "section": 17,
+    "notes": "Эти частицы придают сожаление говорящего.",
+    "sah": "Киһи дьылҕата эрэйдээх кэбирэхтик да быһаарыллар.",
+    "ru": "Бедная судьба человеческая так легко решается.",
+    "id": 6,
+    "parses": [
+      {"pos": 1, "text": "Киһи", "type": "title", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 2, "text": "дьылҕата", "type": "lowercase", "fst": "ymv", "root": "дьылҕа+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "эрэйдээх", "type": "lowercase", "fst": "ymv", "root": "эрэй+N", "affixes": "+ADJZ#1"},
+      {"pos": 4, "text": "кэбирэхтик", "type": "lowercase", "fst": "ymv", "root": "кэбирээ+V", "affixes": "+ADJZ#16+ADVZ#5"},
+      {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 6, "text": "быһаарыллар", "type": "lowercase", "fst": "ymv", "root": "быһаар+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 212,
+    "chapter": "Отыменные частицы",
+    "topic": "Частицы *муҥнаах*, *эрэйдээх*, *сордоох*",
+    "section": 17,
+    "notes": "*Сордоох* также выступает как частица и выражает те же значения, что *муннаах* и *эрэйдээх*. Однако *сордоох* больше сохраняет свое материальное содержание и потому имеет более ограниченное употребление, чем предыдущие частицы.",
+    "sah": "Сааһыгар киһини үрбэтэх сордоох.",
+    "ru": "В жизни на человека не лаяла бедняга!",
+    "id": 8,
+    "parses": [
+      {"pos": 1, "text": "Сааһыгар", "type": "title", "fst": "ymv", "root": "саас+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "киһини", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "үрбэтэх", "type": "lowercase", "fst": "ymv", "root": "үр+V", "affixes": "+NEG+PART_PAST"},
+      {"pos": 4, "text": "сордоох", "type": "lowercase", "fst": "ymv", "root": "сор+N", "affixes": "+ADJZ#1"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
 ]

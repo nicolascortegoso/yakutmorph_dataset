@@ -6,7 +6,7 @@
     "topic": "Частица *хаан*",
     "section": 31,
     "notes": "По нашим материалам *хаан* ныне стало частицей синонимом частицы *обургу*. Она употребляется с именами и выражает возвышающее почтительное отношение говорящего к предмету речи, подчеркивающее важность и чрезмерность качеств названного имени.",
-    "sah": "Кыыдааннаах кыһын хаан Қыайтаран кыйданна.",
+    "sah": "Кыыдааннаах кыһын хаан кыайтаран кыйданна.",
     "ru": "Свирепая зима-матушка побеждена и прогнана прочь!",
     "id": 1,
     "parses": [
@@ -17,17 +17,9 @@
       {"pos": 2, "text": "кыһын", "type": "lowercase", "fst": "ymv", "root": "кый+V", "affixes": "+RECP+REFL"},
       {"pos": 3, "text": "хаан", "type": "lowercase", "fst": "ymv", "root": "хаан+N"},
       {"pos": 3, "text": "хаан", "type": "lowercase", "fst": "ymv", "root": "хаай+V", "affixes": "+REFL/PASS"},
-      {"pos": 4, "text": "Қ", "type": "unknown", "fst": "ymv"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайтараа^V", "affixes": "+PASS"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайтараа^V", "affixes": "+REFL"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайтаран^V"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайтар^N", "affixes": "^VRBLZ#3+PASS"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайтар^N", "affixes": "^VRBLZ#3+REFL"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайтар^V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайта^Adv", "affixes": "^VRBLZ#4+CONV#1"},
-      {"pos": 5, "text": "ыайтаран", "type": "lowercase", "fst": "yma", "root": "ыайта^N", "affixes": "^VRBLZ#4+CONV#1"},
-      {"pos": 6, "text": "кыйданна", "type": "lowercase", "fst": "ymv", "root": "кый+Adj", "affixes": "+VRBLZ#1+REFL/PASS+PST.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 4, "text": "кыайтаран", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+CAUS+CONV#1"},
+      {"pos": 5, "text": "кыйданна", "type": "lowercase", "fst": "ymv", "root": "кый+Adj", "affixes": "+VRBLZ#1+REFL/PASS+PST.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
   {
@@ -37,7 +29,7 @@
     "topic": "Частица *хаан*",
     "section": 31,
     "notes": "По нашим материалам *хаан* ныне стало частицей синонимом частицы *обургу*. Она употребляется с именами и выражает возвышающее почтительное отношение говорящего к предмету речи, подчеркивающее важность и чрезмерность качеств названного имени.",
-    "sah": "Хайгыыллар харса хаан санаатын — Хаадыаттар үөскээтиннэр.",
+    "sah": "Хайгыыллар харса хаан санаатын — хаадыаттар үөскээтиннэр.",
     "ru": "Хвалят его за исключительную храбрость — пусть станет больше отважных.",
     "id": 2,
     "parses": [
@@ -53,9 +45,9 @@
       {"pos": 4, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "сан+N", "affixes": "+VRBLZ#3+IMP#1.3SG"},
       {"pos": 4, "text": "санаатын", "type": "lowercase", "fst": "ymv", "root": "сан+N", "affixes": "+VRBLZ#3+SUDD#1+CSTV+REFL"},
       {"pos": 5, "text": "—", "type": "dash", "fst": "ymv"},
-      {"pos": 6, "text": "Хаадыаттар", "type": "title", "fst": "yma", "root": "хаадыаттар^N"},
-      {"pos": 6, "text": "Хаадыаттар", "type": "title", "fst": "yma", "root": "хаадыатта^Adv", "affixes": "^VRBLZ#4"},
-      {"pos": 6, "text": "Хаадыаттар", "type": "title", "fst": "yma", "root": "хаадыатта^N", "affixes": "^VRBLZ#4"},
+      {"pos": 6, "text": "хаадыаттар", "type": "lowercase", "fst": "yma", "root": "хаадыаттар^N"},
+      {"pos": 6, "text": "хаадыаттар", "type": "lowercase", "fst": "yma", "root": "хаадыатта^Adv", "affixes": "^VRBLZ#4"},
+      {"pos": 6, "text": "хаадыаттар", "type": "lowercase", "fst": "yma", "root": "хаадыатта^N", "affixes": "^VRBLZ#4"},
       {"pos": 7, "text": "үөскээтиннэр", "type": "lowercase", "fst": "ymv", "root": "үөскээ+V", "affixes": "+IMP#1.3PL"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
     ]

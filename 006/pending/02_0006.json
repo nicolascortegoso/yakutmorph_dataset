@@ -11,13 +11,18 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "баҕар+MOD"},
+      {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4"},
+      {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "бай+V", "affixes": "+ADJZ#8"},
+      {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "бай+V", "affixes": "+NMLZ#6+POSS.3SG.DAT"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "хомуйума", "type": "lowercase", "fst": "ymv", "root": "хомуй+V", "affixes": "+NEG"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
       {"pos": 5, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 6, "text": "мөҥүллүөм", "type": "lowercase", "fst": "yma", "root": "мөҥүллээ^V", "affixes": "+PART_FUT+POSS.1SG"},
       {"pos": 6, "text": "мөҥүллүөм", "type": "lowercase", "fst": "yma", "root": "мөҥүл^N", "affixes": "^VRBLZ#1+PART_FUT+POSS.1SG"},
       {"pos": 7, "text": "баараа", "type": "lowercase", "fst": "ymv", "root": "баараа+Part"},
+      {"pos": 7, "text": "баараа", "type": "lowercase", "fst": "ymv", "root": "баар+N", "affixes": "+VRBLZ#3"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -32,8 +37,10 @@
     "ru": "Возвращаться ему нельзя.",
     "id": 5,
     "parses": [
+      {"pos": 1, "text": "Төннөрө", "type": "title", "fst": "ymv", "root": "төнүн+V", "affixes": "+PART_PRES+POSS.3SG"},
       {"pos": 1, "text": "Төннөрө", "type": "title", "fst": "ymv", "root": "төннөр+V", "affixes": "+CONV#2"},
       {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
+      {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "ymv", "root": "сатай+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },

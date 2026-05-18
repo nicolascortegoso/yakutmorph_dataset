@@ -5,14 +5,19 @@
     "chapter": "Отыменные частицы",
     "topic": "Частицы *сөп*, *син*",
     "section": 22,
-    "notes": "А с причастиями настоящего времени без притяжательного аффикса *сөп*, видимо, сохраняет свое вещественное значение.",
-    "sah": "Күрүүр сөп!",
-    "ru": "Убежать — правильно!",
-    "id": 8,
+    "notes": "*Сөп* как частица выражает: во-первых, возможность (или невозможность) совершения действия. При этом *сөп* употребляется, точнее грамматикализируется и становится частицей при сочетании с инфинитивом I и формой винительного падежа причастия на *-тах*.",
+    "sah": "Барытын булуохха сөп, табаарыстаар.",
+    "ru": "Все можно найти, товарищи.",
+    "id": 1,
     "parses": [
-      {"pos": 1, "text": "Күрүүр", "type": "title", "fst": "ymv", "root": "күрээ+V", "affixes": "+PART_PRES"},
-      {"pos": 2, "text": "сөп", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Барытын", "type": "title", "fst": "ymv", "root": "барый+V", "affixes": "+CSTV+REFL"},
+      {"pos": 1, "text": "Барытын", "type": "title", "fst": "ymv", "root": "бары+Pron", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "булуохха", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "табаарыстаар", "type": "lowercase", "fst": "ymv", "root": "табаарыс+N", "affixes": "+VRBLZ#1+IMP#2.2SG"},
+      {"pos": 5, "text": "табаарыстаар", "type": "lowercase", "fst": "ymv", "root": "таба+N", "affixes": "+VRBLZ#4a+RECP+ITER#2+IMP#2.2SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }
 ]

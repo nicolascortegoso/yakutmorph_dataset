@@ -12,6 +12,7 @@
     "parses": [
       {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
       {"pos": 2, "text": "элбэх", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+ADJZ#16"},
+      {"pos": 2, "text": "элбэх", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+NMLZ#6"},
       {"pos": 3, "text": "ахсааннаах", "type": "lowercase", "fst": "ymv", "root": "ахсаан+N", "affixes": "+ADJZ#1"},
       {"pos": 4, "text": "дойдулар", "type": "lowercase", "fst": "ymv", "root": "дойду+N", "affixes": "+PL"},
       {"pos": 5, "text": "даннайдарын", "type": "lowercase", "fst": "yma", "root": "даннайдарын^N"},
@@ -37,6 +38,25 @@
       {"pos": 12, "text": "киэннэрин", "type": "lowercase", "fst": "ymv", "root": "киэн+Part", "affixes": "+POSS.3PL.ACC"},
       {"pos": 12, "text": "киэннэрин", "type": "lowercase", "fst": "ymv", "root": "киэн+Part", "affixes": "+PL+POSS.3SG.ACC"},
       {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 129,
+    "chapter": "Собственно частицы",
+    "topic": "Частицы *киэнэ*",
+    "section": 33,
+    "notes": "В-третьих, в изафетной конструкции типа *булчут бастыҥа* «лучший из охотников», составленной из имени и прилагательного, частица *киэнэ* имеет усилительное значение с оттенком собирательно-посессивного характера. Точнее, имя, сочетающееся с этой частицей, при ее помощи получает такое более обобщенное значение, которое обозначает всю совокупность предметов, называемых данным именем, все предметы, которые принадлежат, относятся к понятию, выражаемому этим именем. При этом ослабляется посессивное значение *киэнэ*, что обусловлено особенностями значения данной изафетной конструкции. Например, изафет.",
+    "sah": "үлэһит хамнаһа",
+    "ru": "зарплата работника",
+    "id": 9,
+    "parses": [
+      {"pos": 1, "text": "үлэһит", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+NMLZ#1"},
+      {"pos": 2, "text": "хамнаһа", "type": "lowercase", "fst": "ymv", "root": "хамнаа+V", "affixes": "+ADJZ#14+POSS.3SG"},
+      {"pos": 2, "text": "хамнаһа", "type": "lowercase", "fst": "ymv", "root": "хамнаа+V", "affixes": "+RECP+CONV#2"},
+      {"pos": 2, "text": "хамнаһа", "type": "lowercase", "fst": "ymv", "root": "хамнас+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "хамнаһа", "type": "lowercase", "fst": "ymv", "root": "хам+Adv", "affixes": "+VRBLZ#1+ADJZ#14+POSS.3SG"},
+      {"pos": 2, "text": "хамнаһа", "type": "lowercase", "fst": "ymv", "root": "хам+Adv", "affixes": "+VRBLZ#1+RECP+CONV#2"}
     ]
   },
   {

@@ -10,12 +10,14 @@
     "ru": "Милетий был довольно замкнутым человеком.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Милиэтий", "type": "title", "fst": "yma", "root": "милиэтий+N"},
+      {"pos": 1, "text": "Милиэтий", "type": "title", "fst": "ymv", "root": "милиэтий+N"},
       {"pos": 2, "text": "бутэҥи", "type": "lowercase", "fst": "yma", "root": "бутэҥи+N"},
       {"pos": 2, "text": "бутэҥи", "type": "lowercase", "fst": "yma", "root": "бутэ+N", "affixes": "+ADJZ#4"},
       {"pos": 3, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP"},
       {"pos": 3, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"},
       {"pos": 4, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+N", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+CONV#2"},
       {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -73,6 +75,7 @@
     "parses": [
       {"pos": 1, "text": "Оо", "type": "title", "fst": "ymv", "root": "оо+INJ"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
       {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 4, "text": "эһиэхэ", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron", "affixes": "+DAT"},
       {"pos": 5, "text": "ымсыырабын", "type": "lowercase", "fst": "ymv", "root": "ымсыы+N", "affixes": "+VRBLZ#4+PART_PRES+1SG"},
@@ -104,6 +107,9 @@
       {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ^Adj", "affixes": "+POSS.1SG"},
       {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ^Adv", "affixes": "+POSS.1SG"},
       {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ^N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "соҕустар", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP+CAUS"},
+      {"pos": 2, "text": "соҕустар", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP+CONV_COND#1"},
+      {"pos": 2, "text": "соҕустар", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP+PL"},
       {"pos": 2, "text": "соҕустар", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part", "affixes": "+PL"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
     ]

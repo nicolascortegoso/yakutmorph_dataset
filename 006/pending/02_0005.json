@@ -12,7 +12,11 @@
     "parses": [
       {"pos": 1, "text": "Муҥутуур", "type": "title", "fst": "ymv", "root": "муҥутаа+V", "affixes": "+PART_PRES"},
       {"pos": 2, "text": "Мутуктуур", "type": "title", "fst": "ymv", "root": "мутук+N", "affixes": "+VRBLZ#1+PART_PRES"},
-      {"pos": 3, "text": "Тарбааскын", "type": "title", "fst": "yma", "root": "тарбааскын+N", "affixes": "+2SG"},
+      {"pos": 3, "text": "Тарбааскын", "type": "title", "fst": "yma", "root": "тарбаас^N", "affixes": "+2SG"},
+      {"pos": 3, "text": "Тарбааскын", "type": "title", "fst": "yma", "root": "тарбаас^N", "affixes": "+POSS.2SG+ACC"},
+      {"pos": 3, "text": "Тарбааскын", "type": "title", "fst": "yma", "root": "тарбаа^Adj", "affixes": "^VRBLZ#2+RECP+2SG"},
+      {"pos": 3, "text": "Тарбааскын", "type": "title", "fst": "yma", "root": "тарбаа^N", "affixes": "^VRBLZ#2+RECP+2SG"},
+      {"pos": 4, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
       {"pos": 4, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 5, "text": "аххан", "type": "lowercase", "fst": "ymv", "root": "аххан+Part"},
       {"pos": 6, "text": "буоллаҕым", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.1SG"},

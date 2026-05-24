@@ -91,11 +91,13 @@
 | **DIM#2** | diminutive | *-чаан* (and allomorphs) diminutive form from nouns. Not very used [Ubryatova et al., §158]. |
 | **DIM#3** | diminutive | *-каан* (and allomorphs) diminutive form from nouns. Not very used [Ubryatova et al., §158]. |
 | **DIM#4** | diminutive | *-тыҥы* (and allomorphs) forms the diminutive of adjectives. |
+| **DIM#5** | diminutive | *-сыар* (and allomorphs) forms the diminutive of adjectives. |
 | **INT** | interrogative mark | no ref |
 | **HAB#1** | modality | *-ааччы* (and allomorphs) can be attached to any verbal stem. It has a meaning close to the active participle in Russian [Ubryatova et al., §176]. Kharitonov L.N. and other specialists considered *-ааччы* to be a verbal noun or the name of an actor, as it forms nouns denoting the actor's name. Ubryatova E.I. interprets this affix as a participle capable of taking predicate affixes and denoting an action that is usually performed [Korkina E.I. Nakloneniya glagola v yakutskom yazyke. Nauka, 1970, p. 221]. |
 | **IMP** | modality | no ref |
 | **POT** | modality | no ref |
 | **NEG** | negative | *-(ы)ма* (and allomorphs) forms the negative from verbal stems [Ubryatova et al., §113]. |
+| **ADJZ** | no type | no ref |
 | **AFFIR#1** | no type | no ref |
 | **AFFIR#2** | no type | no ref |
 | **APPR#2** | no type | no ref |

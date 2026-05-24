@@ -49,29 +49,12 @@
       {"pos": 6, "text": "сырыттаҕыҥ", "type": "lowercase", "fst": "ymv", "root": "сырыы+N", "affixes": "+VRBLZ#2+CSTV+CONV_COND#2+POSS.2SG"},
       {"pos": 6, "text": "сырыттаҕыҥ", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+CONV_COND#2+POSS.2SG"},
       {"pos": 7, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕас+Part"},
+      {"pos": 7, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#2+RECP"},
+      {"pos": 8, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+CONV#2"},
       {"pos": 8, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
+      {"pos": 8, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+POSS.3SG"},
       {"pos": 9, "text": "холкутай", "type": "lowercase", "fst": "ymv", "root": "холку+Adj", "affixes": "+POSS.3SG+INT"},
       {"pos": 10, "text": "?", "type": "question", "fst": "ymv"}
-    ]
-  },
-  {
-    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
-    "page": 89,
-    "chapter": "Собственно частицы",
-    "topic": "Частица *баҕас*",
-    "section": 12,
-    "notes": "Частица *баҕас* нередко употребляется в усилительно-модальном значении. С формами причастия на *-тах* она выражает усиление, сочетаясь с модально-эмоциональными оттенками значения этой причастной формы в предложении.",
-    "sah": "Эчи, аҕылаттаҕа баҕас күүстээҕин!",
-    "ru": "Боже мой, зачарован-то он как сильно!",
-    "id": 19,
-    "parses": [
-      {"pos": 1, "text": "Эчи", "type": "title", "fst": "ymv", "root": "эчи+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "аҕылаттаҕа", "type": "lowercase", "fst": "ymv", "root": "аҕы+N", "affixes": "+VRBLZ#1+CAUS+CONV_COND#2+POSS.3SG"},
-      {"pos": 3, "text": "аҕылаттаҕа", "type": "lowercase", "fst": "ymv", "root": "аҕы+N", "affixes": "+VRBLZ#1+CSTV+CONV_COND#2+POSS.3SG"},
-      {"pos": 4, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕас+Part"},
-      {"pos": 5, "text": "күүстээҕин", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+ADJZ#1+POSS.3SG.ACC"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
   {
@@ -86,7 +69,13 @@
     "id": 20,
     "parses": [
       {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 2, "text": "хараҕар", "type": "lowercase", "fst": "ymv", "root": "хараа+V", "affixes": "+ADJZ#16+VRBLZ#4a"},
+      {"pos": 2, "text": "хараҕар", "type": "lowercase", "fst": "ymv", "root": "хараа+V", "affixes": "+NMLZ#6+POSS.3SG.DAT"},
       {"pos": 2, "text": "хараҕар", "type": "lowercase", "fst": "ymv", "root": "харах+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "хараҕар", "type": "lowercase", "fst": "ymv", "root": "харай+V", "affixes": "+ADJZ#8"},
+      {"pos": 2, "text": "хараҕар", "type": "lowercase", "fst": "ymv", "root": "харай+V", "affixes": "+NMLZ#6+POSS.3SG.DAT"},
+      {"pos": 2, "text": "хараҕар", "type": "lowercase", "fst": "ymv", "root": "хара+Adj", "affixes": "+POSS.2SG.DAT"},
+      {"pos": 2, "text": "хараҕар", "type": "lowercase", "fst": "ymv", "root": "хар+V", "affixes": "+NMLZ#6+POSS.3SG.DAT"},
       {"pos": 3, "text": "аһыныы", "type": "lowercase", "fst": "ymv", "root": "ай+V", "affixes": "+RECP+REFL+NMLZ#2"},
       {"pos": 3, "text": "аһыныы", "type": "lowercase", "fst": "ymv", "root": "ай+V", "affixes": "+RECP+REFL+CONV#2"},
       {"pos": 4, "text": "кыыма", "type": "lowercase", "fst": "ymv", "root": "кыым+N", "affixes": "+POSS.3SG"},
@@ -121,8 +110,11 @@
     "ru": "Как же ты хороша, как же ты прекрасна.",
     "id": 22,
     "parses": [
+      {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "ymv", "root": "тох+V", "affixes": "+CONV#2"},
       {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "ymv", "root": "тоҕо+Adv"},
+      {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+POSS.3SG"},
       {"pos": 2, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕас+Part"},
+      {"pos": 2, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#2+RECP"},
       {"pos": 3, "text": "үчүгэйгиний", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj", "affixes": "+2SG+INT"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "эчи", "type": "lowercase", "fst": "ymv", "root": "эчи+MOD"},

@@ -57,6 +57,27 @@
     "topic": "Частицы *айылаах*, *айылаахтык*",
     "section": 4,
     "notes": "Итак, *айылаах* можно отнести к числу словообразующих частиц. Она выражает прежде всего склонность, способность предмета к какому-нибудь действию.",
+    "sah": "Хастаева эппитин бигэргэтиэх айылаах түгэннэри көрдүү сатаата.",
+    "ru": "Хастаева пыталась подыскивать моменты, могущие подтвердить высказанное ею.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Хастаева", "type": "title", "fst": "yma", "root": "хастаева+N"},
+      {"pos": 2, "text": "эппитин", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 3, "text": "бигэргэтиэх", "type": "lowercase", "fst": "ymv", "root": "бигэргээ+V", "affixes": "+CAUS+PART_FUT"},
+      {"pos": 4, "text": "айылаах", "type": "lowercase", "fst": "ymv", "root": "айылаах+Part"},
+      {"pos": 5, "text": "түгэннэри", "type": "lowercase", "fst": "ymv", "root": "түгэн+N", "affixes": "+PL+ACC"},
+      {"pos": 6, "text": "көрдүү", "type": "lowercase", "fst": "ymv", "root": "көрдөө+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "сатаата", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+PST.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 78,
+    "chapter": "Собственно частицы",
+    "topic": "Частицы *айылаах*, *айылаахтык*",
+    "section": 4,
+    "notes": "Итак, *айылаах* можно отнести к числу словообразующих частиц. Она выражает прежде всего склонность, способность предмета к какому-нибудь действию.",
     "sah": "Харчы биэриэх айылаах баайбыт соҕотох — бурдук.",
     "ru": "Способное выручить деньги богатство у нас одно — хлеб.",
     "id": 5,
@@ -128,6 +149,91 @@
       {"pos": 14, "text": "көрүөххэ", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PART_FUT+DAT"},
       {"pos": 15, "text": "айылаах", "type": "lowercase", "fst": "fst", "root": "айылаах+Part"},
       {"pos": 16, "text": ".", "type": "period", "fst": "fst"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 78,
+    "chapter": "Собственно частицы",
+    "topic": "Частицы *айылаах*, *айылаахтык*",
+    "section": 4,
+    "notes": "Частица *айылаах*, обслуживая сказуемое предложения, часто принимает его аффиксы. Здесь частица *айылаах* приняла на себя аффикс опущенного служебного глагола (*этэ был*).",
+    "sah": "Истиэнэҕэ турар телефон субу өрө тырылыы түһүөххэ айылааҕа.",
+    "ru": "Висящий на стене телефон словно мог вот-вот громко зазвенеть.",
+    "id": 11,
+    "parses": [
+      {"pos": 1, "text": "Истиэнэҕэ", "type": "title", "fst": "ymv", "root": "истиэнэ+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "турар", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "телефон", "type": "lowercase", "fst": "ymv", "root": "телефон+N"},
+      {"pos": 4, "text": "субу", "type": "lowercase", "fst": "ymv", "root": "субу+Pron"},
+      {"pos": 5, "text": "өрө", "type": "lowercase", "fst": "ymv", "root": "өрө+Adv"},
+      {"pos": 6, "text": "тырылыы", "type": "lowercase", "fst": "ymv", "root": "тыр+IMIT", "affixes": "+VRBLZ#16+NMLZ#2"},
+      {"pos": 7, "text": "түһүөххэ", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 8, "text": "айылааҕа", "type": "lowercase", "fst": "ymv", "root": "айылаах+Part", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 78,
+    "chapter": "Собственно частицы",
+    "topic": "Частицы *айылаах*, *айылаахтык*",
+    "section": 4,
+    "notes": "Частица *айылаах* с указательными местоимениями имеет усилительное значение.",
+    "sah": "Кыырт ити айылаах илистибит хабдьыны ыраах ыыппатаҕа биллэр.",
+    "ru": "Ястреб, конечно, не дал далеко улететь столь ослабевшей куропатке.",
+    "id": 12,
+    "parses": [
+      {"pos": 1, "text": "Кыырт", "type": "title", "fst": "ymv", "root": "кыырт+N"},
+      {"pos": 2, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 3, "text": "айылаах", "type": "lowercase", "fst": "ymv", "root": "айылаах+Part"},
+      {"pos": 4, "text": "илистибит", "type": "lowercase", "fst": "ymv", "root": "илий+V", "affixes": "+RECP+PST.1PL"},
+      {"pos": 5, "text": "хабдьыны", "type": "lowercase", "fst": "ymv", "root": "хабдьы+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "ыраах", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj"},
+      {"pos": 7, "text": "ыыппатаҕа", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+NEG+PART_PAST+POSS.3SG"},
+      {"pos": 8, "text": "биллэр", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 78,
+    "chapter": "Собственно частицы",
+    "topic": "Частицы *айылаах*, *айылаахтык*",
+    "section": 4,
+    "notes": "Частица *айылаах* с указательными местоимениями имеет усилительное значение.",
+    "sah": "Бэйн, эн ханна бачча айылаах сүтэ сырыттыҥ?",
+    "ru": "Постой, ты где так долго пропадал?",
+    "id": 13,
+    "parses": [
+      {"pos": 1, "text": "Бэйн", "type": "title", "fst": "ymv"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 4, "text": "ханна", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron"},
+      {"pos": 5, "text": "бачча", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+DEF#2"},
+      {"pos": 6, "text": "айылаах", "type": "lowercase", "fst": "ymv", "root": "айылаах+Part"},
+      {"pos": 7, "text": "сүтэ", "type": "lowercase", "fst": "ymv", "root": "сүт+V", "affixes": "+CONV#2"},
+      {"pos": 8, "text": "сырыттыҥ", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PST.2SG"},
+      {"pos": 9, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Частицы в якутском языке. - Якутск : Кн.изд-во, 1978. - 298 с.",
+    "page": 79,
+    "chapter": "Собственно частицы",
+    "topic": "Частицы *айылаах*, *айылаахтык*",
+    "section": 4,
+    "notes": "В усилительном значении *айылаах* употребляется с некоторыми вопросительными местоимениями, притом может иметь большой эмоциональный оттенок.",
+    "sah": "Туох айылаах бачча сүтэр бэйэтэй.",
+    "ru": "Что это он так долго пропадает?",
+    "id": 14,
+    "parses": [
+      {"pos": 1, "text": "Туох", "type": "title", "fst": "ymv", "root": "туох+Pron"},
+      {"pos": 2, "text": "айылаах", "type": "lowercase", "fst": "ymv", "root": "айылаах+Part"},
+      {"pos": 3, "text": "бачча", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+DEF#2"},
+      {"pos": 4, "text": "сүтэр", "type": "lowercase", "fst": "ymv", "root": "сүт+V", "affixes": "+PART_PRES"},
+      {"pos": 5, "text": "бэйэтэй", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG+INT"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
   {

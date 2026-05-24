@@ -10,11 +10,13 @@
     "ru": "Все можно найти, товарищи.",
     "id": 1,
     "parses": [
+      {"pos": 1, "text": "Барытын", "type": "title", "fst": "ymv", "root": "барый+V", "affixes": "+CSTV+REFL"},
       {"pos": 1, "text": "Барытын", "type": "title", "fst": "ymv", "root": "бары+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "булуохха", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+PART_FUT+DAT"},
       {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "табаарыстаар", "type": "lowercase", "fst": "ymv", "root": "табаарыс+N", "affixes": "+VRBLZ#1+IMP#2.2SG"},
+      {"pos": 5, "text": "табаарыстаар", "type": "lowercase", "fst": "ymv", "root": "таба+N", "affixes": "+VRBLZ#4a+RECP+ITER#2+IMP#2.2SG"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }

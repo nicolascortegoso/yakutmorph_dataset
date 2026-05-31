@@ -60,5 +60,31 @@
       {"pos": 7, "text": "буолабыт", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_PRES+1PL"},
       {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
     ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+    "page": 166,
+    "chapter": "Функционально-модальные слова: именные модальные слова",
+    "topic": "Именные модальные слова: *хантан*",
+    "section": 21,
+    "notes": "*Хантан* «откуда» (вопросительное местоимение) употребляется и как модальное слово, выражая довольно убежденное отрицание с некоторыми оттенками эмоционального отношения. Здесь *хантан* усиливается частицей *кэлэн*.",
+    "sah": "Хайдах да ытаабыт иһин, хантан кэлэн харах уута халбаһыы буолуой?!",
+    "ru": "Хоть как угодно плачь, откуда же слезы превратятся в колбасу?!",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Хайдах", "type": "title", "fst": "ymv", "root": "хайдах+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 3, "text": "ытаабыт", "type": "lowercase", "fst": "ymv", "root": "ытаа+V", "affixes": "+PART_PAST"},
+      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "хантан", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron", "affixes": "+ABL"},
+      {"pos": 7, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "харах", "type": "lowercase", "fst": "ymv", "root": "харах+N"},
+      {"pos": 9, "text": "уута", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+POSS.3SG"},
+      {"pos": 10, "text": "халбаһыы", "type": "lowercase", "fst": "ymv", "root": "халбаһыы+N"},
+      {"pos": 11, "text": "буолуой", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 12, "text": "?", "type": "question", "fst": "ymv"},
+      {"pos": 13, "text": "!", "type": "exclamation", "fst": "ymv"}
+    ]
   }
 ]

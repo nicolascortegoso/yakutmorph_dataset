@@ -69,5 +69,29 @@
       {"pos": 12, "text": "буолаарай", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+POT"},
       {"pos": 13, "text": ".", "type": "period", "fst": "fst"}
     ]
+  },
+  {
+    "source": "Петров, Николай Егорович. Модальные слова в якутском языке / Н. Е. Петров ; ответственный редактор Е. И. Коркина ; Академия наук СССР, Сибирское отделение, Якутский филиал, Институт языка, литературы и истории. - Новосибирск : Наука, 1984. - 204 с.",
+    "page": 163,
+    "chapter": "Функционально-модальные слова: именные модальные слова",
+    "topic": "Именные модальные слова: *муҥ*",
+    "section": 10,
+    "notes": "В-третьих, *муҥ* редко, видимо, в некоторых говорах, употребляется в уступительно-усилительном значении.",
+    "sah": "Муҥ, маныаха дылы кэлбиттэрэ буоллар, эрэйдэрэ чэпчиэ этэ.",
+    "ru": "По крайнем мере, если доехали бы досюда, то им было бы легче.",
+    "id": 5,
+    "parses": [
+      {"pos": 1, "text": "Муҥ", "type": "title", "fst": "ymv", "root": "муҥ+N"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "маныаха", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+DAT"},
+      {"pos": 4, "text": "дылы", "type": "lowercase", "fst": "ymv", "root": "дылы+POST"},
+      {"pos": 5, "text": "кэлбиттэрэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 6, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#1"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "эрэйдэрэ", "type": "lowercase", "fst": "ymv", "root": "эрэй+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 9, "text": "чэпчиэ", "type": "lowercase", "fst": "ymv", "root": "чэпчээ+V", "affixes": "+PART_FUT"},
+      {"pos": 10, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
   }
 ]

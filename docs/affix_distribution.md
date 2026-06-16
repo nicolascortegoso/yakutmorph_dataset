@@ -2,75 +2,75 @@
 
 [To main README](../README.md)
 
-Total affixes: 53066
+Total affixes: 53156
 
 Total unique affixes: 186
 
 | affix | frequency |
 |:---|:---|
-| POSS.3SG | 4745 |
-| PART_PRES | 4112 |
+| POSS.3SG | 4747 |
+| PART_PRES | 4129 |
 | CONV#1 | 3378 |
-| ACC | 3036 |
+| ACC | 3046 |
 | PL | 2607 |
-| DAT | 2601 |
-| PART_PAST | 2418 |
-| CONV#2 | 2335 |
+| DAT | 2604 |
+| PART_PAST | 2426 |
+| CONV#2 | 2336 |
 | PART_FUT | 1790 |
-| PST.3SG | 1620 |
+| PST.3SG | 1624 |
 | VRBLZ#1 | 1461 |
 | NEG | 1322 |
-| POSS.1SG | 1244 |
+| POSS.1SG | 1245 |
 | ADJZ#1 | 1107 |
-| RECP | 975 |
+| RECP | 977 |
 | CONV_COND#2 | 817 |
 | ABL | 769 |
-| INST | 762 |
-| POSS.3SG.ACC | 748 |
-| CSTV | 662 |
-| 1SG | 554 |
+| INST | 764 |
+| POSS.3SG.ACC | 751 |
+| CSTV | 664 |
+| 1SG | 559 |
 | NMLZ#2 | 522 |
 | POSS.2SG | 505 |
-| CAUS | 501 |
-| PST.3PL | 439 |
-| POSS.3SG.DAT | 433 |
+| CAUS | 504 |
+| PST.3PL | 440 |
+| POSS.3SG.DAT | 435 |
 | POSS.1PL | 432 |
+| PASS | 395 |
 | ADVZ#5 | 392 |
-| PASS | 392 |
+| REFL/PASS | 388 |
 | REFL | 387 |
-| PST.1SG | 381 |
-| REFL/PASS | 381 |
+| PST.1SG | 382 |
 | 2SG | 366 |
 | INT | 365 |
 | VRBLZ#4 | 297 |
 | PRTV | 269 |
 | 1PL | 241 |
-| VRBLZ#3 | 238 |
+| VRBLZ#3 | 239 |
 | CONV_COND#1 | 238 |
-| POSS.3SG.INST | 226 |
+| POSS.3SG.INST | 228 |
 | CONV#5 | 225 |
 | NMLZ#5 | 220 |
 | ADJZ#16 | 212 |
 | NMLZ#6 | 210 |
 | HAB#1 | 201 |
-| LOC | 190 |
-| ADVZ#1 | 178 |
-| NMLZ#1 | 175 |
+| LOC | 191 |
+| ADVZ#1 | 179 |
+| NMLZ#1 | 176 |
 | DEB | 175 |
 | ADVZ#8 | 173 |
 | POSS.2PL | 164 |
 | ADVZ#6 | 162 |
 | VRBLZ#2 | 158 |
 | DEF | 150 |
-| PST.1PL | 137 |
+| PST.1PL | 138 |
 | POSS.3SG.ABL | 136 |
 | ADJZ#4 | 132 |
 | DEF#2 | 130 |
 | IMP#1.2PL | 122 |
 | ORD | 109 |
+| POSS.1SG.ACC | 106 |
 | PST.2SG | 106 |
 | POSS.3PL | 104 |
-| POSS.1SG.ACC | 102 |
 | COLL | 100 |
 | 2PL | 97 |
 | IMP#1.3SG | 97 |
@@ -113,8 +113,8 @@ Total unique affixes: 186
 | NMLZ#3 | 35 |
 | IMP#1.1SG | 35 |
 | PST.2PL | 35 |
+| ADJZ#5 | 34 |
 | FREC#1 | 33 |
-| ADJZ#5 | 32 |
 | DIM#4 | 31 |
 | FREC#4 | 30 |
 | NMLZ#8 | 29 |

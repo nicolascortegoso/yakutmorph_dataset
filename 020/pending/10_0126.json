@@ -1,0 +1,41 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 59,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Изафетное определение. Сложное именное изафетное определительное сочетание",
+    "section": 126,
+    "notes": "Сложное именное изафетное сочетание с однородными членами.",
+    "sah": "Бу дойду баайдарын ойохторо хотуннара, оҕолоро сүөһү аттыгар чугаһаабат, сылдьыбат идэлээх буолаллар үһү эбээт.",
+    "ru": "Дети, жены богачей этой местности, говорят, не имеют обыкновения приближаться к скоту, ходить со скотом.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "дойду", "type": "lowercase", "fst": "ymv", "root": "дойду+N"},
+      {"pos": 3, "text": "баайдарын", "type": "lowercase", "fst": "ymv", "root": "баай+Adj", "affixes": "+POSS.3PL.ACC"},
+      {"pos": 3, "text": "баайдарын", "type": "lowercase", "fst": "ymv", "root": "баай+Adj", "affixes": "+PL+POSS.3SG.ACC"},
+      {"pos": 3, "text": "баайдарын", "type": "lowercase", "fst": "ymv", "root": "баай+N", "affixes": "+POSS.3PL.ACC"},
+      {"pos": 3, "text": "баайдарын", "type": "lowercase", "fst": "ymv", "root": "баай+N", "affixes": "+PL+POSS.3SG.ACC"},
+      {"pos": 3, "text": "баайдарын", "type": "lowercase", "fst": "ymv", "root": "баай+V", "affixes": "+CAUS+REFL"},
+      {"pos": 3, "text": "баайдарын", "type": "lowercase", "fst": "ymv", "root": "баай+V", "affixes": "+CONV_COND#1+POSS.3SG.ACC"},
+      {"pos": 4, "text": "ойохторо", "type": "lowercase", "fst": "ymv", "root": "ойох+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 5, "text": "хотуннара", "type": "lowercase", "fst": "ymv", "root": "хотун+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 5, "text": "хотуннара", "type": "lowercase", "fst": "ymv", "root": "хот+V", "affixes": "+REFL+CAUS+CONV#2"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "оҕолоро", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 8, "text": "сүөһү", "type": "lowercase", "fst": "ymv", "root": "сүөһү+N"},
+      {"pos": 9, "text": "аттыгар", "type": "lowercase", "fst": "ymv", "root": "атта+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 10, "text": "чугаһаабат", "type": "lowercase", "fst": "ymv", "root": "чугас+Adj", "affixes": "+VRBLZ#3+NEG+PART_PRES"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "сылдьыбат", "type": "lowercase", "fst": "yma", "root": "сылдьыба^N", "affixes": "^VRBLZ#2+CSTV"},
+      {"pos": 13, "text": "идэлээх", "type": "lowercase", "fst": "ymv", "root": "идэ+N", "affixes": "+ADJZ#1"},
+      {"pos": 14, "text": "буолаллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 15, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+ACC"},
+      {"pos": 15, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үһү+Part"},
+      {"pos": 16, "text": "эбээт", "type": "lowercase", "fst": "ymv", "root": "эп+V", "affixes": "+CONV#6"},
+      {"pos": 16, "text": "эбээт", "type": "lowercase", "fst": "ymv", "root": "эбээт+Part"},
+      {"pos": 17, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

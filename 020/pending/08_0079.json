@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 43,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство образа действия",
+    "section": 79,
+    "notes": "Обстоятельства образа действия выражаются наречиями, которые подходят к именным словосочетаниям, ставшим постепенно идиомами: *атах балай* «куда глаза глядят (нога слепая)», *атах сыгынньах* «босиком (нога голая)», *уос кураанах* «молча (губы сухие)».",
+    "sah": "Бу курдук ыыска олоруох кэриэтин кырдьык даҕаны...",
+    "ru": "Чем вот так терпеть постоянные оскорбления, и, правда...",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 2, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+Part"},
+      {"pos": 2, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+ADVZ#5"},
+      {"pos": 3, "text": "ыыска", "type": "lowercase", "fst": "yma", "root": "ыыска^Adj"},
+      {"pos": 3, "text": "ыыска", "type": "lowercase", "fst": "yma", "root": "ыыска^N"},
+      {"pos": 4, "text": "олоруох", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_FUT"},
+      {"pos": 5, "text": "кэриэтин", "type": "lowercase", "fst": "ymv", "root": "кэриэ+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
+      {"pos": 5, "text": "кэриэтин", "type": "lowercase", "fst": "ymv", "root": "кэриэ+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 5, "text": "кэриэтин", "type": "lowercase", "fst": "ymv", "root": "кэриэ+Part", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "кырдьык", "type": "lowercase", "fst": "ymv", "root": "кырый+V", "affixes": "+NMLZ#5"},
+      {"pos": 6, "text": "кырдьык", "type": "lowercase", "fst": "ymv", "root": "кырдьык+N"},
+      {"pos": 7, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+CONJ"},
+      {"pos": 7, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"},
+      {"pos": 8, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

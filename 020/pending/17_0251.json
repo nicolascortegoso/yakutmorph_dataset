@@ -1,0 +1,43 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 135,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 251,
+    "notes": "Побуждение-согласие отражает содержание высказывания, выраженное модально-эмоциональными средствами и направленное на получение утвердительного ответа, положительного действия и т.п.",
+    "sah": "Чэ буолуун, баҕар, биир-икки тылынан кэпсии да түһүүм.",
+    "ru": "Ну, ладно, может, расскажу коротко двумя-тремя словами.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Чэ", "type": "title", "fst": "ymv", "root": "чэ+MOD"},
+      {"pos": 2, "text": "буолуун", "type": "lowercase", "fst": "yma", "root": "буолаа^V", "affixes": "+IMP+PASS"},
+      {"pos": 2, "text": "буолуун", "type": "lowercase", "fst": "yma", "root": "буолуун^Adj"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "баҕар", "type": "lowercase", "fst": "ymv", "root": "баҕар+MOD"},
+      {"pos": 4, "text": "баҕар", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4"},
+      {"pos": 4, "text": "баҕар", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+ADJZ#8"},
+      {"pos": 4, "text": "баҕар", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+NMLZ#6+POSS.3SG.DAT"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
+      {"pos": 6, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "бии+N", "affixes": "+VRBLZ#4"},
+      {"pos": 7, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 8, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
+      {"pos": 9, "text": "тылынан", "type": "lowercase", "fst": "ymv", "root": "тыл+N", "affixes": "+INST"},
+      {"pos": 9, "text": "тылынан", "type": "lowercase", "fst": "ymv", "root": "тыл+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 10, "text": "кэпсии", "type": "lowercase", "fst": "ymv", "root": "кэпсээ+V", "affixes": "+NMLZ#2"},
+      {"pos": 10, "text": "кэпсии", "type": "lowercase", "fst": "ymv", "root": "кэпсээ+V", "affixes": "+CONV#2"},
+      {"pos": 10, "text": "кэпсии", "type": "lowercase", "fst": "ymv", "root": "кэп+V", "affixes": "+RECP+NMLZ#2"},
+      {"pos": 11, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 11, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 12, "text": "түһүүм", "type": "lowercase", "fst": "ymv", "root": "түс+N", "affixes": "+VRBLZ#3+IMP#1.1SG"},
+      {"pos": 12, "text": "түһүүм", "type": "lowercase", "fst": "ymv", "root": "түс+N", "affixes": "+VRBLZ#3+NMLZ#2+POSS.1SG"},
+      {"pos": 12, "text": "түһүүм", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+IMP#1.1SG"},
+      {"pos": 12, "text": "түһүүм", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+NMLZ#2+POSS.1SG"},
+      {"pos": 12, "text": "түһүүм", "type": "lowercase", "fst": "ymv", "root": "түһээ+V", "affixes": "+IMP#1.1SG"},
+      {"pos": 12, "text": "түһүүм", "type": "lowercase", "fst": "ymv", "root": "түһээ+V", "affixes": "+NMLZ#2+POSS.1SG"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

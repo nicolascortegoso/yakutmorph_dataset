@@ -1,0 +1,59 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 115,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 214,
+    "notes": "Собеседник передает информацию, полученную от другого лица, которая оценивается им как константирующий факт (предикат с формой үһү).",
+    "sah": "Аҕам мин кыһыл оҕо эрдэхпинэ соҕуруу үөрэххэ барбыта үһү.",
+    "ru": "Говорят, мой отец уехал учиться в центр, когда я еще был младенцем.",
+    "id": 25,
+    "parses": [
+      {"pos": 1, "text": "Аҕам", "type": "title", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
+      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 3, "text": "кыһыл", "type": "lowercase", "fst": "ymv", "root": "кыһыл+Adj"},
+      {"pos": 4, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "ох+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "оҕо+N"},
+      {"pos": 4, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+NMLZ#6+POSS.3SG"},
+      {"pos": 5, "text": "эрдэхпинэ", "type": "lowercase", "fst": "ymv", "root": "эрт+V", "affixes": "+NMLZ#6+POSS.1SG.PRTV"},
+      {"pos": 5, "text": "эрдэхпинэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"},
+      {"pos": 6, "text": "соҕуруу", "type": "lowercase", "fst": "ymv", "root": "соҕуруу+N"},
+      {"pos": 6, "text": "соҕуруу", "type": "lowercase", "fst": "ymv", "root": "сой+V", "affixes": "+NMLZ#6+VRBLZ#4+NMLZ#2"},
+      {"pos": 7, "text": "үөрэххэ", "type": "lowercase", "fst": "ymv", "root": "үөрэх+N", "affixes": "+DAT"},
+      {"pos": 7, "text": "үөрэххэ", "type": "lowercase", "fst": "ymv", "root": "үөр+V", "affixes": "+NMLZ#6+DAT"},
+      {"pos": 8, "text": "барбыта", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 9, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+ACC"},
+      {"pos": 9, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үһү+Part"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 115,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 214,
+    "notes": "Собеседник константирует факт с некоторой оценкой ситуативных, объективных особенностей происходящего и осуществляемого действия. При этом время действия становится неопределённым, хотя объект действия конкретен.",
+    "sah": "Урууккутунан отут тыһыынча.",
+    "ru": "По старым деньгам тридцать тысяч!",
+    "id": 31,
+    "parses": [
+      {"pos": 1, "text": "Урууккутунан", "type": "title", "fst": "yma", "root": "урууккутунаа^V", "affixes": "+PASS"},
+      {"pos": 1, "text": "Урууккутунан", "type": "title", "fst": "yma", "root": "урууккутунаа^V", "affixes": "+REFL"},
+      {"pos": 1, "text": "Урууккутунан", "type": "title", "fst": "yma", "root": "уруукку^N", "affixes": "^VRBLZ#2+CSTV^ADVZ#1+INST"},
+      {"pos": 1, "text": "Урууккутунан", "type": "title", "fst": "yma", "root": "уруукку^N", "affixes": "^VRBLZ#2+CSTV+REFL+CONV#1"},
+      {"pos": 1, "text": "Урууккутунан", "type": "title", "fst": "yma", "root": "уруукку^N", "affixes": "+POSS.3SG+INST"},
+      {"pos": 1, "text": "Урууккутунан", "type": "title", "fst": "yma", "root": "уруук^Adv", "affixes": "^ADJZ#3+POSS.3SG+INST"},
+      {"pos": 1, "text": "Урууккутунан", "type": "title", "fst": "yma", "root": "уруук^Adv", "affixes": "+POSS.2PL+INST"},
+      {"pos": 2, "text": "отут", "type": "lowercase", "fst": "ymv", "root": "отуу+N", "affixes": "+VRBLZ#2+CSTV"},
+      {"pos": 2, "text": "отут", "type": "lowercase", "fst": "ymv", "root": "отут+Num"},
+      {"pos": 2, "text": "отут", "type": "lowercase", "fst": "ymv", "root": "от+N", "affixes": "+VRBLZ#2+CSTV"},
+      {"pos": 3, "text": "тыһыынча", "type": "lowercase", "fst": "ymv", "root": "тыһыынча+Num"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

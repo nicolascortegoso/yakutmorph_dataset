@@ -1,0 +1,42 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 280,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Определительные сложноподчиненные предложения. Собственно-определительные сложноподчиненные предложения",
+    "section": 499,
+    "notes": "Определительные предложения выражает также сравнительно-определительные отношения. Связь между определяющей (зависимой) частью и определяемым (соответственно и с главной частью) осуществляется с помощью определенных послелогов или аффиксов, передающих сравнительные отношения.",
+    "sah": "Үүт оргуйарын курдук үллэр өһөхтөөх, көмүөл устарын курдук күүстээх-уохтаах, күдэн туман көтөрүн курдук күргүөм үгүс Тумат омуктар, билигин эһиги ханнаҕытый?",
+    "ru": "Где же вы сейчас, народ Тумат, обладающий злостью, подобным кипящему молоку, мощью, подобной движущемуся ледоходу, многочисленный, подобно поднимающемуся туману?",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Үүт", "type": "title", "fst": "ymv", "root": "үүт+N"},
+      {"pos": 2, "text": "оргуйарын", "type": "lowercase", "fst": "ymv", "root": "оргуй+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 3, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 4, "text": "үллэр", "type": "lowercase", "fst": "ymv", "root": "үлүн+V", "affixes": "+PART_PRES"},
+      {"pos": 5, "text": "өһөхтөөх", "type": "lowercase", "fst": "ymv", "root": "өс+V", "affixes": "+NMLZ#6+ADJZ#1"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "көмүөл", "type": "lowercase", "fst": "ymv", "root": "көмүөл+N"},
+      {"pos": 8, "text": "устарын", "type": "lowercase", "fst": "ymv", "root": "уһун+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 9, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 10, "text": "күүстээх", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+ADJZ#1"},
+      {"pos": 11, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 12, "text": "уохтаах", "type": "lowercase", "fst": "ymv", "root": "уох+N", "affixes": "+ADJZ#1"},
+      {"pos": 13, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 14, "text": "күдэн", "type": "lowercase", "fst": "ymv", "root": "күдэн+N"},
+      {"pos": 15, "text": "туман", "type": "lowercase", "fst": "ymv", "root": "туман+N"},
+      {"pos": 16, "text": "көтөрүн", "type": "lowercase", "fst": "ymv", "root": "көт+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 17, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 18, "text": "күргүөм", "type": "lowercase", "fst": "ymv", "root": "күргүөм+N"},
+      {"pos": 19, "text": "үгүс", "type": "lowercase", "fst": "ymv", "root": "үгүс+Adj"},
+      {"pos": 20, "text": "Тумат", "type": "title", "fst": "ymv", "root": "тумат+N"},
+      {"pos": 21, "text": "омуктар", "type": "lowercase", "fst": "ymv", "root": "омук+N", "affixes": "+PL"},
+      {"pos": 22, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 23, "text": "билигин", "type": "lowercase", "fst": "ymv", "root": "билигин+Adv"},
+      {"pos": 24, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron"},
+      {"pos": 25, "text": "ханнаҕытый", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron", "affixes": "+2PL+INT"},
+      {"pos": 26, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  }
+]

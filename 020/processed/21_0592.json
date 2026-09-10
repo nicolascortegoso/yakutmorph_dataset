@@ -1,0 +1,98 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 322,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Косвенная речь",
+    "section": 592,
+    "notes": "Предложения с косвенной речью обычно являются повествовательными и, в отличие от предложений с прямой речью, имеют единную интонацию. Прямая речь.",
+    "sah": "«Эн хайа дойдугунуй?» — диэн, олорбохтоон баран, Аркадий ыйытта.",
+    "ru": "«Ты с каких краев?» — немного посидев, спросил Аркадий.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 2, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 3, "text": "хайа", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron"},
+      {"pos": 4, "text": "дойдугунуй", "type": "lowercase", "fst": "ymv", "root": "дойду+N", "affixes": "+2SG+INT"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"},
+      {"pos": 6, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 7, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 8, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "олорбохтоон", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+ACCE#1+CONV#1"},
+      {"pos": 11, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 12, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 13, "text": "Аркадий", "type": "title", "fst": "yma", "root": "аркади+N", "affixes": "+VRBLZ#2"},
+      {"pos": 14, "text": "ыйытта", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+PST.3SG"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 322,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Косвенная речь",
+    "section": 592,
+    "notes": "Предложения с косвенной речью обычно являются повествовательными и, в отличие от предложений с прямой речью, имеют единную интонацию. Косвенная речь.",
+    "sah": "Олорбохтоон баран, Аркадий кини хайа дойдуттан сылдьарын ыйытта.",
+    "ru": "Немного посидев, Аркадий спросил, с каких он краев.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Олорбохтоон", "type": "title", "fst": "ymv", "root": "олор+V", "affixes": "+ACCE#1+CONV#1"},
+      {"pos": 2, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "Аркадий", "type": "title", "fst": "yma", "root": "аркади+N", "affixes": "+VRBLZ#2"},
+      {"pos": 5, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 6, "text": "хайа", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron"},
+      {"pos": 7, "text": "дойдуттан", "type": "lowercase", "fst": "ymv", "root": "дойду+N", "affixes": "+ABL"},
+      {"pos": 8, "text": "сылдьарын", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 9, "text": "ыйытта", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+PST.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 322,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Косвенная речь",
+    "section": 592,
+    "notes": "Предложения с косвенной речью обычно являются повествовательными и, в отличие от предложений с прямой речью, имеют единную интонацию. Прямая речь.",
+    "sah": "«Ити хайаларай?» — Арчикаан ыйыппыта.",
+    "ru": "«Кто это такой?» — спросил Арчикаан.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 2, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 3, "text": "хайаларай", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron", "affixes": "+PL+POSS.3SG+INT"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"},
+      {"pos": 5, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 6, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 7, "text": "Арчикаан", "type": "title", "fst": "yma", "root": "арчикаан+N"},
+      {"pos": 8, "text": "ыйыппыта", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 322,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Косвенная речь",
+    "section": 592,
+    "notes": "Предложения с косвенной речью обычно являются повествовательными и, в отличие от предложений с прямой речью, имеют единную интонацию. Косвенная речь.",
+    "sah": "Арчикаан ити хайаларай диэн ыйыппыта.",
+    "ru": "Арчикаан спросил, кто это такой.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Арчикаан", "type": "title", "fst": "yma", "root": "арчикаан+N"},
+      {"pos": 2, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 3, "text": "хайаларай", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron", "affixes": "+PL+POSS.3SG+INT"},
+      {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "ыйыппыта", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

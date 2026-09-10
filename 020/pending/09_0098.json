@@ -1,0 +1,28 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 50,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Примыкающее определение. Примыкающее определение, выраженное отдельным словом",
+    "section": 98,
+    "notes": "При одном нарицательным имени может быть два собственных географических названия.",
+    "sah": "Севастополь уонна Евпатория куораттар чугастарынааҕы Саки диэн курорт.",
+    "ru": "Курорт, называемый Саки, находящийся вблизи городов Севастополь и Евпатория.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Севастополь", "type": "title", "fst": "ymv"},
+      {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+PRTV"},
+      {"pos": 3, "text": "Евпатория", "type": "title", "fst": "yma", "root": "евпатория+N"},
+      {"pos": 4, "text": "куораттар", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+PL"},
+      {"pos": 5, "text": "чугастарынааҕы", "type": "lowercase", "fst": "ymv", "root": "чугас+Adj", "affixes": "+POSS.3PL.ACC+ADJZ#3"},
+      {"pos": 5, "text": "чугастарынааҕы", "type": "lowercase", "fst": "ymv", "root": "чугас+Adj", "affixes": "+PL+POSS.3SG.ACC+ADJZ#3"},
+      {"pos": 6, "text": "Саки", "type": "title", "fst": "yma", "root": "саки+N"},
+      {"pos": 7, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "курорт", "type": "lowercase", "fst": "ymv", "root": "курорт+N"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 210,
+    "chapter": "Специфические средства формирования и выражения модальных значений",
+    "topic": "Повторы и соединения словоформ на их основе, Инверсия",
+    "section": 309,
+    "notes": "Особо выделяются сочетания однокоренных словоформ, выступающие как наречия. Из них некоторые имеют модальное значение. 1. Модель типа *кэлбитэ кэлбитинэн* «пришел пришедшим» подчеркивает продолжительное пребывание в каком-нибудь состоянии.",
+    "sah": "Бу алдьаммыта алдьаммытынан сылдьар.",
+    "ru": "Эта как порвалась, так и осталась порванной.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "алдьаммыта", "type": "lowercase", "fst": "ymv", "root": "алдьан+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 3, "text": "алдьаммытынан", "type": "lowercase", "fst": "ymv", "root": "алдьан+V", "affixes": "+PART_PAST+POSS.3SG.INST"},
+      {"pos": 4, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 210,
+    "chapter": "Специфические средства формирования и выражения модальных значений",
+    "topic": "Повторы и соединения словоформ на их основе, Инверсия",
+    "section": 309,
+    "notes": "Особо выделяются сочетания однокоренных словоформ, выступающие как наречия. Из них некоторые имеют модальное значение. 1. Модель типа *кэлбитэ кэлбитинэн* «пришел пришедшим» подчеркивает продолжительное пребывание в каком-нибудь состоянии.",
+    "sah": "Ону көрөөт, мэктиэтигэр, сүрэҕэ тохтоон хааларга дылы буолла уонна сол курдук, көрбүтэ көрбүтүнэн, тобуктаабыта тобуктаабытынан, таастыйан хаалла.",
+    "ru": "Как только увидела это, сердце у неё вроде как остановилось и она окаменела, стоя на коленях и глядя в упор.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Ону", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "көрөөт", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CONV#6"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "мэктиэтигэр", "type": "lowercase", "fst": "ymv", "root": "мэктиэтигэр+MOD"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "сүрэҕэ", "type": "lowercase", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.3SG"},
+      {"pos": 7, "text": "тохтоон", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "хааларга", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PART_PRES+DAT"},
+      {"pos": 9, "text": "дылы", "type": "lowercase", "fst": "ymv", "root": "дылы+POST"},
+      {"pos": 10, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"},
+      {"pos": 11, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 12, "text": "сол", "type": "lowercase", "fst": "ymv", "root": "сол+Pron"},
+      {"pos": 13, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 14, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 15, "text": "көрбүтэ", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 16, "text": "көрбүтүнэн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PAST+POSS.3SG.INST"},
+      {"pos": 17, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 18, "text": "тобуктаабыта", "type": "lowercase", "fst": "ymv", "root": "тобук+N", "affixes": "+VRBLZ#1+PART_PAST+POSS.3SG"},
+      {"pos": 19, "text": "тобуктаабытынан", "type": "lowercase", "fst": "ymv", "root": "тобук+N", "affixes": "+VRBLZ#1+PART_PAST+POSS.3SG.INST"},
+      {"pos": 20, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 21, "text": "таастыйан", "type": "lowercase", "fst": "ymv", "root": "таас+N", "affixes": "+VRBLZ#5+CONV#1"},
+      {"pos": 22, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаал+V", "affixes": "+PST.3SG"},
+      {"pos": 23, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

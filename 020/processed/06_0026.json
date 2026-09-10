@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 24,
+    "chapter": "Двусоставное предложение",
+    "topic": "Второстепенные члены предложения. Дополнение. Прямое дополнение и винительном падеже",
+    "section": 26,
+    "notes": "Многие послелоги глагольного происхождения управляют винительным падежом. Например, *быһа* «через», *кытта* «вместе», *тула* «вокруг», *утары* «против» и др.",
+    "sah": "... туох баар күүскүнэн большевиктары кытта бииргэ баайдары утары охсуһуохтааххын.",
+    "ru": "... сколько есть силы твоей с большевиками вместе против богатых бороться должен ты.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "туох", "type": "lowercase", "fst": "ymv", "root": "туох+Pron"},
+      {"pos": 3, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+      {"pos": 4, "text": "күүскүнэн", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+POSS.2SG.INST"},
+      {"pos": 5, "text": "большевиктары", "type": "lowercase", "fst": "yma", "root": "большевик+N", "affixes": "+PL+ACC"},
+      {"pos": 6, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "бииргэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+DAT"},
+      {"pos": 8, "text": "баайдары", "type": "lowercase", "fst": "ymv", "root": "баай+Adj", "affixes": "+PL+ACC"},
+      {"pos": 9, "text": "утары", "type": "lowercase", "fst": "ymv", "root": "утар+V", "affixes": "+ADVZ#1"},
+      {"pos": 10, "text": "охсуһуохтааххын", "type": "lowercase", "fst": "ymv", "root": "оҕус+V", "affixes": "+RECP+PART_FUT+DEB+2SG"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

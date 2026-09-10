@@ -1,0 +1,35 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 264,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение следования",
+    "section": 436,
+    "notes": "Значение повторяющегося следования в плане абсолютного прошлого или широкого настоящего, как уже было сказано, передается рассмотренной выше конструкцией с формой на *-тах* + афф. притяж. + *на*, например следование в плане расширенного настоящего.",
+    "sah": "Манна сылдьар бирааба сух буолан, улахан начаалынньыктар кэллэхтэринэ, саһан хаалар.",
+    "ru": "Когда приходят большие начальники, он прячется, так как он не имеет права заходить сюда.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Манна", "type": "title", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 2, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "бирааба", "type": "lowercase", "fst": "yma", "root": "бираап+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "бирааба", "type": "lowercase", "fst": "yma", "root": "бирааба+N"},
+      {"pos": 3, "text": "бирааба", "type": "lowercase", "fst": "yma", "root": "бирааб+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "сух", "type": "lowercase", "fst": "yma", "root": "сух+N"},
+      {"pos": 5, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj"},
+      {"pos": 8, "text": "начаалынньыктар", "type": "lowercase", "fst": "ymv", "root": "начаалынньык+N", "affixes": "+PL"},
+      {"pos": 9, "text": "кэллэхтэринэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV_COND#2+POSS.3PL.PRTV"},
+      {"pos": 9, "text": "кэллэхтэринэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV_COND#2+PL+POSS.3SG.PRTV"},
+      {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 11, "text": "саһан", "type": "lowercase", "fst": "ymv", "root": "сас+V", "affixes": "+CONV#1"},
+      {"pos": 11, "text": "саһан", "type": "lowercase", "fst": "ymv", "root": "сай+V", "affixes": "+RECP+CONV#1"},
+      {"pos": 12, "text": "хаалар", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+CSTV"},
+      {"pos": 12, "text": "хаалар", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PART_PRES"},
+      {"pos": 12, "text": "хаалар", "type": "lowercase", "fst": "ymv", "root": "хаа+N", "affixes": "+PL"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

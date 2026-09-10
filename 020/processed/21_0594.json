@@ -1,0 +1,24 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 322,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Косвенная речь",
+    "section": 594,
+    "notes": "Наблюдаются также предложения, в которых косвенная речь внутри прямой.",
+    "sah": "Сорок өлөрөбүт да диэтэхтэринэ өйдөөбөт ини».",
+    "ru": "Я, наверное, не пойму, если даже скажут, что убьют меня.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Сорок", "type": "title", "fst": "yma", "root": "сорок+N"},
+      {"pos": 2, "text": "өлөрөбүт", "type": "lowercase", "fst": "ymv", "root": "өл+V", "affixes": "+CSTV+PART_PRES+1PL"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 4, "text": "диэтэхтэринэ", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV_COND#2+POSS.3PL.PRTV"},
+      {"pos": 5, "text": "өйдөөбөт", "type": "lowercase", "fst": "ymv", "root": "өй+N", "affixes": "+VRBLZ#1+NEG+PART_PRES"},
+      {"pos": 6, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
+      {"pos": 7, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

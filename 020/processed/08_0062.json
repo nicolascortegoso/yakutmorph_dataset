@@ -1,0 +1,75 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 38,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 62,
+    "notes": "Примыкающие послелоги (с частичным управлением) при обстоятельствах времени.",
+    "sah": "Саллар сааһым тухары дьулуһабын.",
+    "ru": "На протяжении всей жизни своей к ученью стремлюсь.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Саллар", "type": "title", "fst": "ymv", "root": "салын+V", "affixes": "+PART_PRES"},
+      {"pos": 2, "text": "сааһым", "type": "lowercase", "fst": "ymv", "root": "саас+N", "affixes": "+POSS.1SG"},
+      {"pos": 3, "text": "тухары", "type": "lowercase", "fst": "ymv", "root": "тухары+POST"},
+      {"pos": 4, "text": "дьулуһабын", "type": "lowercase", "fst": "ymv", "root": "дьулуй+V", "affixes": "+RECP+PART_PRES+1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 38,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 62,
+    "notes": "Примыкающие послелоги (с частичным управлением) при обстоятельствах времени.",
+    "sah": "...ол үрдүнэн киэһэ аайы, махтал ыларбыт оннугар, мөҕүллэр, сынньыллар икки анныгар сылдьабыт...",
+    "ru": "...кроме того, каждый вечер, вместо получения благодарности, под руганью и побоями от хозяина-тойона пребываем мы...",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 3, "text": "үрдүнэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 4, "text": "киэһэ", "type": "lowercase", "fst": "ymv", "root": "киэһэ+N"},
+      {"pos": 5, "text": "аайы", "type": "lowercase", "fst": "ymv", "root": "аайы+POST"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "махтал", "type": "lowercase", "fst": "ymv", "root": "махтал+N"},
+      {"pos": 8, "text": "ыларбыт", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+PART_PRES+POSS.1PL"},
+      {"pos": 9, "text": "оннугар", "type": "lowercase", "fst": "ymv", "root": "орун+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 11, "text": "мөҕүллэр", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 12, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 13, "text": "сынньыллар", "type": "lowercase", "fst": "ymv", "root": "сыс+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 14, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
+      {"pos": 15, "text": "анныгар", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 16, "text": "сылдьабыт", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 17, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 38,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 62,
+    "notes": "Послелог *аайы* употребляется и в более сложном словосочетании с вопросительным местоимением *хас* «сколько».",
+    "sah": "Ити оҕонньор Кирисаан араспааньатын хас күн аай ыйытар.",
+    "ru": "Тот старик каждый день спрашивает фамилию Кирисана.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 2, "text": "оҕонньор", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N"},
+      {"pos": 3, "text": "Кирисаан", "type": "title", "fst": "yma", "root": "кирисаан+N"},
+      {"pos": 4, "text": "араспааньатын", "type": "lowercase", "fst": "yma", "root": "араспааньа+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 5, "text": "хас", "type": "lowercase", "fst": "ymv", "root": "хас+Pron"},
+      {"pos": 6, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"},
+      {"pos": 7, "text": "аайы", "type": "lowercase", "fst": "ymv", "root": "аайы+POST"},
+      {"pos": 8, "text": "ыйытар", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

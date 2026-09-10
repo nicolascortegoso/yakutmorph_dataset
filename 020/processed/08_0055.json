@@ -1,0 +1,34 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 36,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 55,
+    "notes": "Обстоятельства времени - имя существительное в орудном падеже показывает, через какое время совершается действие, выраженное сказуемым.",
+    "sah": "Билигин дьиэҕитигэр тарҕаһыҥ уонна туох сатанарынан сэбилэнэн баран, тэрэппиэһинньик дьиэтигэр аны уон биэс мүнүүтэнэн баар буолуҥ.",
+    "ru": "Сейчас по домам важим разойдитесь и, вооружившись чем можно, у дома трапезника через пятнадцать минут будьте.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "билигин+Adv"},
+      {"pos": 2, "text": "дьиэҕитигэр", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.2PL.DAT"},
+      {"pos": 3, "text": "тарҕаһыҥ", "type": "lowercase", "fst": "ymv", "root": "тарҕаа+V", "affixes": "+RECP+IMP#1.2PL"},
+      {"pos": 4, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 5, "text": "туох", "type": "lowercase", "fst": "ymv", "root": "туох+Pron"},
+      {"pos": 6, "text": "сатанарынан", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+PART_PRES+INST"},
+      {"pos": 7, "text": "сэбилэнэн", "type": "lowercase", "fst": "ymv", "root": "сэбилээ+V", "affixes": "+REFL/PASS+CONV#1"},
+      {"pos": 8, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "тэрэппиэһинньик", "type": "lowercase", "fst": "yma", "root": "тэрэппиэһинньик+N"},
+      {"pos": 11, "text": "дьиэтигэр", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 12, "text": "аны", "type": "lowercase", "fst": "ymv", "root": "аны+Adv"},
+      {"pos": 13, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон+Num"},
+      {"pos": 14, "text": "биэс", "type": "lowercase", "fst": "ymv", "root": "биэс+Num"},
+      {"pos": 15, "text": "мүнүүтэнэн", "type": "lowercase", "fst": "ymv", "root": "мүнүүтэ+N", "affixes": "+INST"},
+      {"pos": 16, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+      {"pos": 17, "text": "буолуҥ", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 18, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

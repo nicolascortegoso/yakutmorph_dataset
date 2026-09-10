@@ -1,0 +1,33 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 275,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сравнительные сложноподчиненные предложения",
+    "section": 485,
+    "notes": "В ЗПЕ в роли сказуемого с аффиксом *-тааҕар* употребляются разные причастные формы, чаще всего причастия на *-ар* и *-быт*, которые принимают на себя аффикс сравнительного падежа; после сравнительной зависимой части часто следуют слова типа *ордук* «кроме», «лучше», *быдан* «намного».",
+    "sah": "Мин этэриим, сити эһиги этэргитинээҕэр быдан чэпчэки суол.",
+    "ru": "То, о чем говорю я, намного легче по сравнению с тем, что говорите вы.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+N"},
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "этэриим", "type": "lowercase", "fst": "ymv", "root": "этэр+V", "affixes": "+IMP#1.1SG"},
+      {"pos": 2, "text": "этэриим", "type": "lowercase", "fst": "ymv", "root": "этэр+V", "affixes": "+NMLZ#2+POSS.1SG"},
+      {"pos": 2, "text": "этэриим", "type": "lowercase", "fst": "ymv", "root": "иэт+V", "affixes": "+CSTV+IMP#1.1SG"},
+      {"pos": 2, "text": "этэриим", "type": "lowercase", "fst": "ymv", "root": "иэт+V", "affixes": "+CSTV+NMLZ#2+POSS.1SG"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "сити", "type": "lowercase", "fst": "ymv", "root": "сити+Pron"},
+      {"pos": 5, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эс+V", "affixes": "+ADJZ#16+ACC"},
+      {"pos": 5, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эс+V", "affixes": "+NMLZ#5+ACC"},
+      {"pos": 5, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron"},
+      {"pos": 6, "text": "этэргитинээҕэр", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_PRES+POSS.2PL.COMP"},
+      {"pos": 6, "text": "этэргитинээҕэр", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+CONV_COND#1+POSS.2PL.COMP"},
+      {"pos": 7, "text": "быдан", "type": "lowercase", "fst": "ymv", "root": "быдан+Adv"},
+      {"pos": 8, "text": "чэпчэки", "type": "lowercase", "fst": "ymv", "root": "чэпчэки+Adj"},
+      {"pos": 9, "text": "суол", "type": "lowercase", "fst": "ymv", "root": "суол+N"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 142,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок слов в простом предложении. Расположение главных членов (в глагольных предложениях)",
+    "section": 266,
+    "notes": "Порядок расположения причастий-определений в составе различных неоднородных местоимений зависит от характера выражаемых ими смысловых отношений. Причастия-определения, выражающие пространственные отношения, размещаются в препозиции к производным прилагательным-определениям с аффиксом *-лаах*.",
+    "sah": "хаппахчы быыһыгар хаатыйаланан иитиллибит уон аҕыс саастаах атаах кыыс",
+    "ru": "восемнадцатилетная избалования дувушка, воспитанная в тепличных условиях",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "хаппахчы", "type": "lowercase", "fst": "ymv", "root": "хаппахчы+N"},
+      {"pos": 2, "text": "быыһыгар", "type": "lowercase", "fst": "ymv", "root": "быыс+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "быыһыгар", "type": "lowercase", "fst": "ymv", "root": "быыһаа+V", "affixes": "+NMLZ#5+POSS.3SG.DAT"},
+      {"pos": 3, "text": "хаатыйаланан", "type": "lowercase", "fst": "ymv", "root": "хаатыйа+N", "affixes": "+VRBLZ#1+REFL/PASS+CONV#1"},
+      {"pos": 4, "text": "иитиллибит", "type": "lowercase", "fst": "ymv", "root": "иит+V", "affixes": "+PASS+PART_PAST"},
+      {"pos": 5, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон+Num"},
+      {"pos": 6, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "ах+N", "affixes": "+VRBLZ#2+RECP"},
+      {"pos": 6, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "ах+V", "affixes": "+RECP"},
+      {"pos": 6, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "аҕыс+Num"},
+      {"pos": 6, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "аҕы+N", "affixes": "+VRBLZ#2+RECP"},
+      {"pos": 7, "text": "саастаах", "type": "lowercase", "fst": "ymv", "root": "саас+Adv", "affixes": "+ADJZ#1"},
+      {"pos": 7, "text": "саастаах", "type": "lowercase", "fst": "ymv", "root": "саас+N", "affixes": "+ADJZ#1"},
+      {"pos": 8, "text": "атаах", "type": "lowercase", "fst": "ymv", "root": "атаах+Adj"},
+      {"pos": 9, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс+IMIT"},
+      {"pos": 9, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс+N"},
+      {"pos": 9, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс+V"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 142,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок слов в простом предложении. Расположение главных членов (в глагольных предложениях)",
+    "section": 266,
+    "notes": "Причастия-определения, указывающие более частные признаки, размещаются относительно свободно. Иногда они располагаются даже после прилагательных непосредственно перед определяемым.",
+    "sah": "эргэ солуйбут ойоҕун",
+    "ru": "бывшую надоевшую жену",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "эргэ", "type": "lowercase", "fst": "ymv", "root": "эргэ+Adj"},
+      {"pos": 1, "text": "эргэ", "type": "lowercase", "fst": "ymv", "root": "эр+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "солуйбут", "type": "lowercase", "fst": "yma", "root": "солуй^V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "солуйбут", "type": "lowercase", "fst": "yma", "root": "солу^Adv", "affixes": "^VRBLZ#2+PART_PAST"},
+      {"pos": 2, "text": "солуйбут", "type": "lowercase", "fst": "yma", "root": "солу^N", "affixes": "^VRBLZ#2+PART_PAST"},
+      {"pos": 3, "text": "ойоҕун", "type": "lowercase", "fst": "ymv", "root": "ойох+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "ойоҕун", "type": "lowercase", "fst": "ymv", "root": "ой+N", "affixes": "+POSS.3SG+2SG"},
+      {"pos": 3, "text": "ойоҕун", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+PART_PRES+2SG"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 142,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок слов в простом предложении. Расположение главных членов (в глагольных предложениях)",
+    "section": 266,
+    "notes": "Для избежания двусмысленности причастия-определения могут ставится перед или после семантически связанного с ними определения.",
+    "sah": "куоракка сыльдьыбыт үс оҕо",
+    "ru": "трое детей, который был в трех городах",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "куоракка", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "куоракка", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+DIM#3"},
+      {"pos": 2, "text": "сыльдьыбыт", "type": "lowercase", "fst": "yma", "root": "сыльдьыбыт+N"},
+      {"pos": 2, "text": "сыльдьыбыт", "type": "lowercase", "fst": "yma", "root": "сыльдьы+N", "affixes": "+1PL"},
+      {"pos": 2, "text": "сыльдьыбыт", "type": "lowercase", "fst": "yma", "root": "сыльдьы+N", "affixes": "+POSS.1PL"},
+      {"pos": 3, "text": "үс", "type": "lowercase", "fst": "ymv", "root": "үс+Num"},
+      {"pos": 4, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "ох+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "оҕо+N"},
+      {"pos": 4, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+NMLZ#6+POSS.3SG"}
+    ]
+  }
+]

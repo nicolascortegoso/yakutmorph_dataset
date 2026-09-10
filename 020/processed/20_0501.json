@@ -1,0 +1,58 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 281,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Определительные сложноподчиненные предложения. Собственно-определительные сложноподчиненные предложения",
+    "section": 501,
+    "notes": "Форму сложных изафетных определительных конструкций принимает также зависимая часть определительных предложений с определяемым, выраженным нетемпоральным, субстантивированным именем.",
+    "sah": "Оҕо көстүбүтүн бастакы үөрүүтэ өссө сойо илигинэ, аны сурук тиийэн кэлбитэ.",
+    "ru": "Когда еще не ослабла первая радость того, что появился (родился) ребенок, пришло еще письмо.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "оҕо+N"},
+      {"pos": 2, "text": "көстүбүтүн", "type": "lowercase", "fst": "ymv", "root": "көһүн+V", "affixes": "+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 3, "text": "бастакы", "type": "lowercase", "fst": "ymv", "root": "бастакы+Adj"},
+      {"pos": 4, "text": "үөрүүтэ", "type": "lowercase", "fst": "ymv", "root": "үөр+V", "affixes": "+NMLZ#2+POSS.3SG"},
+      {"pos": 5, "text": "өссө", "type": "lowercase", "fst": "ymv", "root": "өссө+Adv"},
+      {"pos": 6, "text": "сойо", "type": "lowercase", "fst": "ymv", "root": "сой+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "илигинэ", "type": "lowercase", "fst": "ymv", "root": "илик+Part", "affixes": "+POSS.3SG.PRTV"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 9, "text": "аны", "type": "lowercase", "fst": "ymv", "root": "аны+Adv"},
+      {"pos": 10, "text": "сурук", "type": "lowercase", "fst": "ymv", "root": "суруй+V", "affixes": "+NMLZ#5"},
+      {"pos": 11, "text": "тиийэн", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+CONV#1"},
+      {"pos": 12, "text": "кэлбитэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 281,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Определительные сложноподчиненные предложения. Собственно-определительные сложноподчиненные предложения",
+    "section": 501,
+    "notes": "Форму сложных изафетных определительных конструкций принимает также зависимая часть определительных предложений с определяемым, выраженным нетемпоральным, субстантивированным именем.",
+    "sah": "Булууска уурбуттарын ордугун, иһин-үөһүн чугас ыалларыгар ыытыллыа, уоһунан үллэстиэ турдаҕа.",
+    "ru": "Остатки того, что положили в погреб, потроха (коровы) предстоит дать близким соседям, поделиться с каждым.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Булууска", "type": "title", "fst": "ymv", "root": "булуус+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "уурбуттарын", "type": "lowercase", "fst": "ymv", "root": "уур+V", "affixes": "+PART_PAST+POSS.3PL.ACC"},
+      {"pos": 3, "text": "ордугун", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+ADJZ#16+POSS.3SG.ACC"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 7, "text": "үөһүн", "type": "lowercase", "fst": "ymv", "root": "үөс+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 8, "text": "чугас", "type": "lowercase", "fst": "ymv", "root": "чугас+Adj"},
+      {"pos": 9, "text": "ыалларыгар", "type": "lowercase", "fst": "ymv", "root": "ыал+N", "affixes": "+POSS.3PL.DAT"},
+      {"pos": 10, "text": "ыытыллыа", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+PASS+PART_FUT"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "уоһунан", "type": "lowercase", "fst": "ymv", "root": "уос+N", "affixes": "+INST"},
+      {"pos": 13, "text": "үллэстиэ", "type": "lowercase", "fst": "ymv", "root": "үллэй+V", "affixes": "+ADJZ#14+VRBLZ#1+PART_FUT"},
+      {"pos": 14, "text": "турдаҕа", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 238,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения условия",
+    "section": 365,
+    "notes": "В главной части условных предложений с *-тар* возможны модальные слова типа *арааһа*, *бука* «наверное», «может быть», уточняющие модальное значение ожидаемого события-следствия; они одновременно уточняют и модальность в зависимой части, ослабляя оттенок желательности, побудительности.",
+    "sah": "Бу куобахпыт суоҕа буоллар, арааһа, куһаҕан соҕус буолуохпут эбитэ будлуо.",
+    "ru": "Если бы не было этого зайца, мы, наверное, почувствовали бы себя неважно.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "куобахпыт", "type": "lowercase", "fst": "ymv", "root": "куобах+N", "affixes": "+POSS.1PL"},
+      {"pos": 2, "text": "куобахпыт", "type": "lowercase", "fst": "ymv", "root": "куобах+N", "affixes": "+1PL"},
+      {"pos": 3, "text": "суоҕа", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "суоҕа", "type": "lowercase", "fst": "ymv", "root": "суо+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#1"},
+      {"pos": 4, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PL"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "арааһа", "type": "lowercase", "fst": "ymv", "root": "араас+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": "арааһа", "type": "lowercase", "fst": "ymv", "root": "арааһа+MOD"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "куһаҕан", "type": "lowercase", "fst": "ymv", "root": "куһаҕан+Adj"},
+      {"pos": 9, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP"},
+      {"pos": 10, "text": "буолуохпут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+POSS.1PL"},
+      {"pos": 10, "text": "буолуохпут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+1PL"},
+      {"pos": 11, "text": "эбитэ", "type": "lowercase", "fst": "ymv", "root": "эп+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 11, "text": "эбитэ", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+POSS.3SG"},
+      {"pos": 11, "text": "эбитэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 12, "text": "будлуо", "type": "lowercase", "fst": "yma", "root": "будлуо+N"},
+      {"pos": 12, "text": "будлуо", "type": "lowercase", "fst": "yma", "root": "будл+N", "affixes": "+VRBLZ#3+PART_FUT"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

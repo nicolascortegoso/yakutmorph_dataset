@@ -1,0 +1,31 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 69,
+    "chapter": "Двусоставное предложение",
+    "topic": "Приложение. Однородные члены предложения, оформленные в сочетания слов с помощью аффикса *-лаах*",
+    "section": 148,
+    "notes": "В словосочетание, оформленное аффиксом *-лаах*, часто объединяются однородные члены предложения, выраженные собственными именами.",
+    "sah": "Петялаах киһи кууспуспутунан окко үҥкүрүстүлэр.",
+    "ru": "Петя и неизвестный человек, (обнявшись) сцепившись, траве катались.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Петялаах", "type": "title", "fst": "yma", "root": "петялаах+N"},
+      {"pos": 1, "text": "Петялаах", "type": "title", "fst": "yma", "root": "петя+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 3, "text": "кууспуспутунан", "type": "lowercase", "fst": "yma", "root": "кууспуспутунаа^V", "affixes": "+PASS"},
+      {"pos": 3, "text": "кууспуспутунан", "type": "lowercase", "fst": "yma", "root": "кууспуспутунаа^V", "affixes": "+REFL"},
+      {"pos": 3, "text": "кууспуспутунан", "type": "lowercase", "fst": "yma", "root": "кууспу^Adj", "affixes": "^VRBLZ#2+RECP+PART_PAST+INST"},
+      {"pos": 3, "text": "кууспуспутунан", "type": "lowercase", "fst": "yma", "root": "кууспу^Adj", "affixes": "^VRBLZ#2+RECP+PART_PAST+POSS.3SG+INST"},
+      {"pos": 4, "text": "окко", "type": "lowercase", "fst": "ymv", "root": "от+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "окко", "type": "lowercase", "fst": "ymv", "root": "от+N", "affixes": "+DIM#3"},
+      {"pos": 5, "text": "үҥкүрүстүлэр", "type": "lowercase", "fst": "yma", "root": "үҥкүрүстүлэ^Adv", "affixes": "^VRBLZ#4"},
+      {"pos": 5, "text": "үҥкүрүстүлэр", "type": "lowercase", "fst": "yma", "root": "үҥкүрүстүлэ^N", "affixes": "^VRBLZ#4"},
+      {"pos": 5, "text": "үҥкүрүстүлэр", "type": "lowercase", "fst": "yma", "root": "үҥкүрүй^V", "affixes": "+RECP+PST.3PL"},
+      {"pos": 5, "text": "үҥкүрүстүлэр", "type": "lowercase", "fst": "yma", "root": "үҥкүрү^Adv", "affixes": "^VRBLZ#2+RECP+PST.3PL"},
+      {"pos": 5, "text": "үҥкүрүстүлэр", "type": "lowercase", "fst": "yma", "root": "үҥкүрү^N", "affixes": "^VRBLZ#2+RECP+PST.3PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

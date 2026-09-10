@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 292,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Союзные сложноподчиненные предложения. Причинные предложения",
+    "section": 519,
+    "notes": "Когда у *буол-* ослабевают или утрачиваются семы «бытийность», «становиться», «начинательность» и т.п., *буолан* приобретает функцию постановления, позитивной союзной скрепы.",
+    "sah": "Кураан буолан аһыҥа кыната кууран, ыраах баҕайы көтөн сырдыргыыр.",
+    "ru": "Из-за засухи (досл.: засуха наступив) у кузнецика обсыхают крылья, и он летает далеко, издавая при этом шум «сыр-сыр».",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Кураан", "type": "title", "fst": "ymv", "root": "кураан+N"},
+      {"pos": 1, "text": "Кураан", "type": "title", "fst": "ymv", "root": "кур+Adj", "affixes": "+VRBLZ#3+CONV#1"},
+      {"pos": 1, "text": "Кураан", "type": "title", "fst": "ymv", "root": "кур+N", "affixes": "+VRBLZ#3+CONV#1"},
+      {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "аһыҥа", "type": "lowercase", "fst": "yma", "root": "аһыҥа^Adj"},
+      {"pos": 3, "text": "аһыҥа", "type": "lowercase", "fst": "yma", "root": "аһыҥа^N"},
+      {"pos": 3, "text": "аһыҥа", "type": "lowercase", "fst": "yma", "root": "аһыҥ^N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "аһыҥа", "type": "lowercase", "fst": "yma", "root": "аһы^N", "affixes": "^VRBLZ#2^NMLZ#7+POSS.3SG"},
+      {"pos": 4, "text": "кыната", "type": "lowercase", "fst": "ymv", "root": "кынат+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "кыната", "type": "lowercase", "fst": "ymv", "root": "кынай+V", "affixes": "+CSTV+CONV#2"},
+      {"pos": 5, "text": "кууран", "type": "lowercase", "fst": "ymv", "root": "куур+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "ыраах", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj"},
+      {"pos": 8, "text": "баҕайы", "type": "lowercase", "fst": "ymv", "root": "баҕайы+N"},
+      {"pos": 8, "text": "баҕайы", "type": "lowercase", "fst": "ymv", "root": "баҕайы+Part"},
+      {"pos": 8, "text": "баҕайы", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+ADJZ#10+ACC"},
+      {"pos": 9, "text": "көтөн", "type": "lowercase", "fst": "ymv", "root": "көт+V", "affixes": "+CONV#1"},
+      {"pos": 10, "text": "сырдыргыыр", "type": "lowercase", "fst": "yma", "root": "сырыт^N", "affixes": "^VRBLZ#7+PART_PRES"},
+      {"pos": 10, "text": "сырдыргыыр", "type": "lowercase", "fst": "yma", "root": "сырды^Adv", "affixes": "^VRBLZ#7+PART_PRES"},
+      {"pos": 10, "text": "сырдыргыыр", "type": "lowercase", "fst": "yma", "root": "сырды^N", "affixes": "^VRBLZ#7+PART_PRES"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

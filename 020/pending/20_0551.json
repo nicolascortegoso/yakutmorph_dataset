@@ -1,0 +1,33 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 305,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Союзные сложносочиненные предложения",
+    "section": 551,
+    "notes": "Союзные сложносочиненные предложения в якутском языке могут выражать самые разные отношения между отдельными частями предложения. Соединительные.",
+    "sah": "Үүйэ муҥатыйа соҕус, санньылҕаннаахтык ыллаата, онтон кылыһаҕа күүһүрдэ...",
+    "ru": "Уя запела скорбно, печалл напряж ууре кыянан ба как тольжнее...",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Үүйэ", "type": "title", "fst": "ymv", "root": "үүйэ+N"},
+      {"pos": 1, "text": "Үүйэ", "type": "title", "fst": "ymv", "root": "үүй+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "муҥатыйа", "type": "lowercase", "fst": "ymv", "root": "муҥатый+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "санньылҕаннаахтык", "type": "lowercase", "fst": "yma", "root": "санньылҕаннаахтый^V", "affixes": "^ADJZ#15"},
+      {"pos": 5, "text": "санньылҕаннаахтык", "type": "lowercase", "fst": "yma", "root": "санньылҕаннаахтый^V", "affixes": "^NMLZ#5"},
+      {"pos": 5, "text": "санньылҕаннаахтык", "type": "lowercase", "fst": "yma", "root": "санньылҕан^Adj", "affixes": "^ADJZ^ADVZ#5"},
+      {"pos": 5, "text": "санньылҕаннаахтык", "type": "lowercase", "fst": "yma", "root": "санньылҕан^N", "affixes": "^ADJZ^ADVZ#5"},
+      {"pos": 6, "text": "ыллаата", "type": "lowercase", "fst": "ymv", "root": "ыллаа+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "онтон", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 9, "text": "кылыһаҕа", "type": "lowercase", "fst": "ymv", "root": "кылый+V", "affixes": "+RECP+NMLZ#6+POSS.3SG"},
+      {"pos": 9, "text": "кылыһаҕа", "type": "lowercase", "fst": "ymv", "root": "кыл+N", "affixes": "+VRBLZ#2+RECP+NMLZ#6+POSS.3SG"},
+      {"pos": 10, "text": "күүһүрдэ", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+VRBLZ#4+CSTV+CONV#2"},
+      {"pos": 10, "text": "күүһүрдэ", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+VRBLZ#4+PST.3SG"},
+      {"pos": 11, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

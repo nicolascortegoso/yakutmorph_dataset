@@ -1,0 +1,36 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 51,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Примыкающее определение. Примыкающее определение, выраженное отдельным словом",
+    "section": 102,
+    "notes": "Определения-существительные этого типа употребляются с послелогами *саҕа* «равный», «подобный» (об объеме, велечине) и *курдук* «подобный».",
+    "sah": "Суох, Ырыа Сайсары курдук эмээхсин көстө илик.",
+    "ru": "Нет, старуха, подобная Сайсары, еще не показывалась.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Суох", "type": "title", "fst": "ymv", "root": "суох+N"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "Ырыа", "type": "title", "fst": "ymv", "root": "ырыа+N"},
+      {"pos": 3, "text": "Ырыа", "type": "title", "fst": "ymv", "root": "ыр+V", "affixes": "+PART_FUT"},
+      {"pos": 4, "text": "Сайсары", "type": "title", "fst": "ymv", "root": "сайсары+N"},
+      {"pos": 4, "text": "Сайсары", "type": "title", "fst": "ymv", "root": "сай+V", "affixes": "+RECP+PART_PRES+ACC"},
+      {"pos": 5, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 5, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+Part"},
+      {"pos": 5, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 5, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+ADVZ#5"},
+      {"pos": 6, "text": "эмээхсин", "type": "lowercase", "fst": "ymv", "root": "эмээхсин+N"},
+      {"pos": 7, "text": "көстө", "type": "lowercase", "fst": "ymv", "root": "көс+N", "affixes": "+PRTV"},
+      {"pos": 7, "text": "көстө", "type": "lowercase", "fst": "ymv", "root": "көс+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": "көстө", "type": "lowercase", "fst": "ymv", "root": "көһүт+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "көстө", "type": "lowercase", "fst": "ymv", "root": "көһүн+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "көстө", "type": "lowercase", "fst": "ymv", "root": "көй+V", "affixes": "+RECP+PST.3SG"},
+      {"pos": 8, "text": "илик", "type": "lowercase", "fst": "ymv", "root": "илик+Part"},
+      {"pos": 8, "text": "илик", "type": "lowercase", "fst": "ymv", "root": "илий+V", "affixes": "+ADJZ#16"},
+      {"pos": 8, "text": "илик", "type": "lowercase", "fst": "ymv", "root": "илий+V", "affixes": "+NMLZ#5"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

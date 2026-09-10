@@ -1,0 +1,43 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 92,
+    "chapter": "Двусоставное предложение",
+    "topic": "Односоставное предложение. Безличные предложения, главный член которых выражен сочетанием вопросительного местоимения с именами",
+    "section": 184,
+    "notes": "Иногда сравнительно-указательные местоимения употребляется со служебными глаголом *буол* «быть», «стать», который понимает вопросителный аффикс.",
+    "sah": "Кирилл Степанович, эн миигин саатырда сатаатын да, тоҕо эрэ мин саатыах санаам кэлбэт.",
+    "ru": "Кирилл Степанович, хотя ты и попытался пристыдить меня, но почему-то мне не стыдно.",
+    "id": 12,
+    "parses": [
+      {"pos": 1, "text": "Кирилл", "type": "title", "fst": "yma", "root": "кирилл+N"},
+      {"pos": 2, "text": "Степанович", "type": "title", "fst": "yma", "root": "степанович+N"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 4, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+REFL/PASS"},
+      {"pos": 5, "text": "миигин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+ACC"},
+      {"pos": 6, "text": "саатырда", "type": "lowercase", "fst": "ymv", "root": "саат+Adj", "affixes": "+VRBLZ#4+CSTV+CONV#2"},
+      {"pos": 6, "text": "саатырда", "type": "lowercase", "fst": "ymv", "root": "саат+Adj", "affixes": "+VRBLZ#4+PST.3SG"},
+      {"pos": 7, "text": "сатаатын", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+IMP#1.3SG"},
+      {"pos": 8, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 8, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+CONV#2"},
+      {"pos": 10, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
+      {"pos": 10, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+POSS.3SG"},
+      {"pos": 11, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 11, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+N", "affixes": "+POSS.3SG"},
+      {"pos": 11, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV#2"},
+      {"pos": 12, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
+      {"pos": 12, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 13, "text": "саатыах", "type": "lowercase", "fst": "ymv", "root": "саат+Adj", "affixes": "+VRBLZ#3+PART_FUT"},
+      {"pos": 13, "text": "саатыах", "type": "lowercase", "fst": "ymv", "root": "саат+V", "affixes": "+PART_FUT"},
+      {"pos": 13, "text": "саатыах", "type": "lowercase", "fst": "ymv", "root": "саа+N", "affixes": "+VRBLZ#2+CSTV+PART_FUT"},
+      {"pos": 14, "text": "санаам", "type": "lowercase", "fst": "ymv", "root": "санаа+N", "affixes": "+POSS.1SG"},
+      {"pos": 15, "text": "кэлбэт", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

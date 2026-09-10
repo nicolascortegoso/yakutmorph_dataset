@@ -1,0 +1,46 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 148,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок расположения дополнений",
+    "section": 278,
+    "notes": "В структуре предложения они в силу своей коммуникативной нагрузки нередко занимают позицию между прямым дополнением и сказуемым.",
+    "sah": "Самсон Кустуурап... халҕаны сутуругунан тоҥсуйан лиһигирэттэ.",
+    "ru": "Самсон Кустуров... застучал (сильно) кулаками в дверь.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Самсон", "type": "title", "fst": "yma", "root": "самсон+N"},
+      {"pos": 2, "text": "Кустуурап", "type": "title", "fst": "yma", "root": "кустуурап+N"},
+      {"pos": 3, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 4, "text": "халҕаны", "type": "lowercase", "fst": "ymv", "root": "халҕан+N", "affixes": "+ACC"},
+      {"pos": 5, "text": "сутуругунан", "type": "lowercase", "fst": "ymv", "root": "сутурук+N", "affixes": "+INST"},
+      {"pos": 6, "text": "тоҥсуйан", "type": "lowercase", "fst": "ymv", "root": "тоҥ+IMIT", "affixes": "+VRBLZ#5+CONV#1"},
+      {"pos": 7, "text": "лиһигирэттэ", "type": "lowercase", "fst": "ymv", "root": "лис+IMIT", "affixes": "+VRBLZ#12+CSTV+PST.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 148,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок расположения дополнений",
+    "section": 278,
+    "notes": "Дополнения в орудном падеже иногда предшествуют прямому дополнению.",
+    "sah": "Аркадий синньигэс сурааһыннарынан теплица олоҕун тардыалаан барда.",
+    "ru": "Аркадий начал чертить штрихами фундамент теплицы.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Аркадий", "type": "title", "fst": "yma", "root": "аркади+N", "affixes": "+VRBLZ#2"},
+      {"pos": 2, "text": "синньигэс", "type": "lowercase", "fst": "ymv", "root": "синньээ+V", "affixes": "+ADJZ#5"},
+      {"pos": 3, "text": "сурааһыннарынан", "type": "lowercase", "fst": "ymv", "root": "суруй+V", "affixes": "+NMLZ#3+PL+POSS.3SG.INST"},
+      {"pos": 4, "text": "теплица", "type": "lowercase", "fst": "ymv", "root": "теплица+N"},
+      {"pos": 5, "text": "олоҕун", "type": "lowercase", "fst": "ymv", "root": "олох+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "тардыалаан", "type": "lowercase", "fst": "ymv", "root": "тарт+V", "affixes": "+FREC#1+CONV#1"},
+      {"pos": 7, "text": "барда", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

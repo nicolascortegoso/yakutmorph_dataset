@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 293,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Местоименно-соотносительные сложноподчиненные предложения. Определительные предложения",
+    "section": 524,
+    "notes": "Сложноподчиненные предложения, в которых определяемое слово представлено сочетанием *ол* + послелог *курдук* «подобно (э) тому» со сравнительным значением.",
+    "sah": "Хайдах баартарай да — ол курдук... дьоно таастыы тимирбиттэрэ.",
+    "ru": "Как ушли — так и исчезли с концом...",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Хайдах", "type": "title", "fst": "ymv", "root": "хайдах+Pron"},
+      {"pos": 1, "text": "Хайдах", "type": "title", "fst": "ymv", "root": "хай+V", "affixes": "+CONV_COND#2"},
+      {"pos": 2, "text": "баартарай", "type": "lowercase", "fst": "yma", "root": "баартарай^Adj"},
+      {"pos": 2, "text": "баартарай", "type": "lowercase", "fst": "yma", "root": "баартара^N", "affixes": "^VRBLZ#2"},
+      {"pos": 2, "text": "баартарай", "type": "lowercase", "fst": "yma", "root": "баартар^N", "affixes": "+POSS.3SG+INT"},
+      {"pos": 2, "text": "баартарай", "type": "lowercase", "fst": "yma", "root": "баартай^V", "affixes": "^ADJZ#16+POSS.3SG+INT"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 4, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 5, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+Part"},
+      {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+ADVZ#5"},
+      {"pos": 7, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 8, "text": "дьоно", "type": "lowercase", "fst": "ymv", "root": "дьон+N", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "таастыы", "type": "lowercase", "fst": "ymv", "root": "таас+N", "affixes": "+ADVZ#6"},
+      {"pos": 9, "text": "таастыы", "type": "lowercase", "fst": "ymv", "root": "таас+N", "affixes": "+VRBLZ#1+NMLZ#2"},
+      {"pos": 9, "text": "таастыы", "type": "lowercase", "fst": "ymv", "root": "таас+N", "affixes": "+VRBLZ#1+CONV#2"},
+      {"pos": 10, "text": "тимирбиттэрэ", "type": "lowercase", "fst": "ymv", "root": "тимир+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

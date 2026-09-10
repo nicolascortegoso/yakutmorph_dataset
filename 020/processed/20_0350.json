@@ -1,0 +1,54 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 234,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения причины",
+    "section": 350,
+    "notes": "В конструкциях с орудным падежом выражается причинная зависимость между событиями, осложненная орудийным оттенком.",
+    "sah": "Аҕа табаарыс буоларбынан, мин эйиэхэ биири этиэхпин баҕарабын.",
+    "ru": "Поскольку я являюсь тебе старшим товаришем, я хочу сказать тебе следующее.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Аҕа", "type": "title", "fst": "ymv", "root": "аҕа+N"},
+      {"pos": 2, "text": "табаарыс", "type": "lowercase", "fst": "ymv", "root": "табаарыс+N"},
+      {"pos": 3, "text": "буоларбынан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES+POSS.1SG.INST"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 6, "text": "эйиэхэ", "type": "lowercase", "fst": "ymv", "root": "эн+Pron", "affixes": "+DAT"},
+      {"pos": 7, "text": "биири", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+ACC"},
+      {"pos": 8, "text": "этиэхпин", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_FUT+POSS.1SG.ACC"},
+      {"pos": 9, "text": "баҕарабын", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES+1SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 234,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения причины",
+    "section": 350,
+    "notes": "В конструкциях с орудным падежом выражается причинная зависимость между событиями, осложненная орудийным оттенком.",
+    "sah": "Батурин түмүк оҥордо: үгүс санаа холбоспутунан, потерна оҥоһуутун быйыл кыһын бүтэрэргэ.",
+    "ru": "Батурин сделал вывод: поскольку сошлись мнения большинства, строительство потерни закончить нынешней зимой.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Батурин", "type": "title", "fst": "yma", "root": "батурин+N"},
+      {"pos": 2, "text": "түмүк", "type": "lowercase", "fst": "ymv", "root": "түм+V", "affixes": "+NMLZ#5"},
+      {"pos": 3, "text": "оҥордо", "type": "lowercase", "fst": "ymv", "root": "оҥор+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": ":", "type": "colon", "fst": "ymv"},
+      {"pos": 5, "text": "үгүс", "type": "lowercase", "fst": "ymv", "root": "үгүс+Adj"},
+      {"pos": 6, "text": "санаа", "type": "lowercase", "fst": "ymv", "root": "санаа+N"},
+      {"pos": 7, "text": "холбоспутунан", "type": "lowercase", "fst": "ymv", "root": "холбоо+V", "affixes": "+RECP+PART_PAST+POSS.3SG.INST"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 9, "text": "потерна", "type": "lowercase", "fst": "yma", "root": "потерна+N"},
+      {"pos": 10, "text": "оҥоһуутун", "type": "lowercase", "fst": "ymv", "root": "оҥой+V", "affixes": "+RECP+NMLZ#2+POSS.3SG.ACC"},
+      {"pos": 11, "text": "быйыл", "type": "lowercase", "fst": "ymv", "root": "быйыл+Adv"},
+      {"pos": 12, "text": "кыһын", "type": "lowercase", "fst": "ymv", "root": "кыһын+N"},
+      {"pos": 13, "text": "бүтэрэргэ", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CSTV+PART_PRES+DAT"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

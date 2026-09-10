@@ -1,0 +1,31 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 138,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок слов в простом предложении. Порядок слов в безглагольных предложениях",
+    "section": 258,
+    "notes": "Тема выражается практически всеми членами предложения за исключением сказуемого.",
+    "sah": "Ганяны атыттар солбуйбуттара.",
+    "ru": "Ганю сменили другие.",
+    "id": 5,
+    "parses": [
+      {"pos": 1, "text": "Ганяны", "type": "title", "fst": "yma", "root": "ганяны+N"},
+      {"pos": 1, "text": "Ганяны", "type": "title", "fst": "yma", "root": "ганянт+N", "affixes": "+ACC"},
+      {"pos": 1, "text": "Ганяны", "type": "title", "fst": "yma", "root": "ганян+N", "affixes": "+ACC"},
+      {"pos": 1, "text": "Ганяны", "type": "title", "fst": "yma", "root": "ганя+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+VRBLZ#2+CSTV+CAUS"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+VRBLZ#2+CSTV+CONV_COND#1"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+VRBLZ#2+CSTV+PL"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+VRBLZ#2+CSTV+CAUS"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+VRBLZ#2+CSTV+CONV_COND#1"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+VRBLZ#2+CSTV+PL"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "ат+V", "affixes": "+CSTV+CAUS"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "ат+V", "affixes": "+CSTV+CONV_COND#1"},
+      {"pos": 2, "text": "атыттар", "type": "lowercase", "fst": "ymv", "root": "ат+V", "affixes": "+CSTV+PL"},
+      {"pos": 3, "text": "солбуйбуттара", "type": "lowercase", "fst": "ymv", "root": "солбуй+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

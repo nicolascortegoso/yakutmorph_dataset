@@ -1,0 +1,24 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 16,
+    "chapter": "Двусоставное предложение",
+    "topic": "Подлежащее",
+    "section": 6,
+    "notes": "Как и другие члены предложения, подлежащее может быть подчёркнуто, помимо инверсированного порядка слов, выделительным словомчастицей *буоллахпына*.",
+    "sah": "Мин буоллахпына математика саҕа абааһы көрөрүм суох!",
+    "ru": "Я же ничего так не ненавижу, как математику!",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "буоллахпына", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"},
+      {"pos": 3, "text": "математика", "type": "lowercase", "fst": "ymv", "root": "математика+N"},
+      {"pos": 4, "text": "саҕа", "type": "lowercase", "fst": "ymv", "root": "саҕа+POST"},
+      {"pos": 5, "text": "абааһы", "type": "lowercase", "fst": "ymv", "root": "абаас+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "көрөрүм", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+POSS.1SG"},
+      {"pos": 7, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+      {"pos": 8, "text": "!", "type": "exclamation", "fst": "ymv"}
+    ]
+  }
+]

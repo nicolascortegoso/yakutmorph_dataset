@@ -1,0 +1,53 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 76,
+    "chapter": "Двусоставное предложение",
+    "topic": "Односоставное предложение. Безличные предложения, главный член которых выражен инфинитивной формой",
+    "section": 169,
+    "notes": "Вторая инфинитивная форма представляет собой дательный падеж безличного склонения причастия на *-ыах*, *-мыах*; она тоже часто употребляется в роли главного члена безличных предложений.",
+    "sah": "Барай Байанай бойум булдун сууйуохха!",
+    "ru": "Обмыть щедрый дар Баай Байаная!",
+    "id": 11,
+    "parses": [
+      {"pos": 1, "text": "Барай", "type": "title", "fst": "yma", "root": "барай^Adv"},
+      {"pos": 1, "text": "Барай", "type": "title", "fst": "yma", "root": "барай^N"},
+      {"pos": 1, "text": "Барай", "type": "title", "fst": "yma", "root": "барай^V"},
+      {"pos": 1, "text": "Барай", "type": "title", "fst": "yma", "root": "бара^Adj", "affixes": "^VRBLZ#2"},
+      {"pos": 1, "text": "Барай", "type": "title", "fst": "yma", "root": "бара^Adv", "affixes": "^VRBLZ#2"},
+      {"pos": 1, "text": "Барай", "type": "title", "fst": "yma", "root": "бара^N", "affixes": "^VRBLZ#2"},
+      {"pos": 2, "text": "Байанай", "type": "title", "fst": "ymv", "root": "байанай+N"},
+      {"pos": 3, "text": "бойум", "type": "lowercase", "fst": "ymv", "root": "бойум+Adj"},
+      {"pos": 4, "text": "булдун", "type": "lowercase", "fst": "yma", "root": "булдуй^V", "affixes": "+REFL"},
+      {"pos": 5, "text": "сууйуохха", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 77,
+    "chapter": "Двусоставное предложение",
+    "topic": "Односоставное предложение. Безличные предложения, главный член которых выражен инфинитивной формой",
+    "section": 169,
+    "notes": "В повседневной речи эту функцию выполняет инфинитив II.",
+    "sah": "Бу сүрэҕэ суох күтүрү тэрэпиэһинньикэ атынан биэриэххэ.",
+    "ru": "Отдать этого ленивца трапезнику в мерины.",
+    "id": 24,
+    "parses": [
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "сүрэҕэ", "type": "lowercase", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+      {"pos": 4, "text": "күтүрү", "type": "lowercase", "fst": "ymv", "root": "күтүр+Adj", "affixes": "+ACC"},
+      {"pos": 5, "text": "тэрэпиэһинньикэ", "type": "lowercase", "fst": "yma", "root": "тэрэпиэһинньикэ^Adv"},
+      {"pos": 5, "text": "тэрэпиэһинньикэ", "type": "lowercase", "fst": "yma", "root": "тэрэпиэһинньикэ^N"},
+      {"pos": 6, "text": "атынан", "type": "lowercase", "fst": "ymv", "root": "атын+Adj", "affixes": "+VRBLZ#3+REFL/PASS"},
+      {"pos": 6, "text": "атынан", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+INST"},
+      {"pos": 6, "text": "атынан", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 7, "text": "биэриэххэ", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 7, "text": "биэриэххэ", "type": "lowercase", "fst": "ymv", "root": "биэ+N", "affixes": "+VRBLZ#4+PART_FUT+DAT"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

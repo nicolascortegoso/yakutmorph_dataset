@@ -1,0 +1,60 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 264,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение следования",
+    "section": 434,
+    "notes": "Эта же конструкция способна передавать последовательность повторяющихся событий, что будет показано ниже. Поэтому значение общего события следования передается ею при определенном условии: описываемые события должны быть конкретными и недлительными. Недлительность события зависимой части выражается аналитическими аспектуальными формами сказуемого или их лексической семантикой.",
+    "sah": "Күһүн, оҕолор оскуолаҕа киирдэхтэринэ, дьонноох сиргэ бөһүөлэккэ күһөөр.",
+    "ru": "Осенью, когда ребята пойдут в школу, переселятся в людное место, в поселок.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Күһүн", "type": "title", "fst": "ymv", "root": "күһүн+N"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "оҕолор", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL"},
+      {"pos": 4, "text": "оскуолаҕа", "type": "lowercase", "fst": "ymv", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "киирдэхтэринэ", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+CONV_COND#2+POSS.3PL.PRTV"},
+      {"pos": 5, "text": "киирдэхтэринэ", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+CONV_COND#2+PL+POSS.3SG.PRTV"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "дьонноох", "type": "lowercase", "fst": "ymv", "root": "дьон+N", "affixes": "+ADJZ#1"},
+      {"pos": 8, "text": "сиргэ", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+DAT"},
+      {"pos": 9, "text": "бөһүөлэккэ", "type": "lowercase", "fst": "ymv", "root": "бөһүөлэк+N", "affixes": "+DAT"},
+      {"pos": 9, "text": "бөһүөлэккэ", "type": "lowercase", "fst": "ymv", "root": "бөһүөлэк+N", "affixes": "+DIM#3"},
+      {"pos": 10, "text": "күһөөр", "type": "lowercase", "fst": "yma", "root": "күһөөр+N"},
+      {"pos": 10, "text": "күһөөр", "type": "lowercase", "fst": "yma", "root": "күһөө+N", "affixes": "+VRBLZ#4"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 264,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение следования",
+    "section": 434,
+    "notes": "Эта же конструкция способна передавать последовательность повторяющихся событий, что будет показано ниже. Поэтому значение общего события следования передается ею при определенном условии: описываемые события должны быть конкретными и недлительными. Недлительность события зависимой части выражается аналитическими аспектуальными формами сказуемого или их лексической семантикой.",
+    "sah": "Билигин дьон муста түстэҕинэ, тоҕо кэлбиппин быһаарыам.",
+    "ru": "Сейчас, когда народ немного соберется, я объясню, зачем я пришел.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "билигин+Adv"},
+      {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "бил+V", "affixes": "+NMLZ#5+POSS.3SG.ACC"},
+      {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"},
+      {"pos": 3, "text": "муста", "type": "lowercase", "fst": "ymv", "root": "мус+V", "affixes": "+PST.3SG"},
+      {"pos": 3, "text": "муста", "type": "lowercase", "fst": "ymv", "root": "мус+V", "affixes": "+REFL+CONV#2"},
+      {"pos": 3, "text": "муста", "type": "lowercase", "fst": "ymv", "root": "муһун+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "түстэҕинэ", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
+      {"pos": 6, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+POSS.3SG"},
+      {"pos": 7, "text": "кэлбиппин", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+POSS.1SG.ACC"},
+      {"pos": 7, "text": "кэлбиппин", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+1SG"},
+      {"pos": 8, "text": "быһаарыам", "type": "lowercase", "fst": "ymv", "root": "быһаар+V", "affixes": "+PART_FUT+POSS.1SG"},
+      {"pos": 8, "text": "быһаарыам", "type": "lowercase", "fst": "ymv", "root": "быһа+Adv", "affixes": "+VRBLZ#4a+PART_FUT+POSS.1SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

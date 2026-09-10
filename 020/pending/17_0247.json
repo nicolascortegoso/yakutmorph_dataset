@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 133,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 247,
+    "notes": "Двойственное числов СПФ обозначает призыв, обращение лица к собеседнику осуществить действие совместно с ним. В структурном отношении предикат СПФ бывает и синтаксическим, и аналитическим.",
+    "sah": "Чэ эрэ, оҕонньоор, хаамтарыах.",
+    "ru": "А ну-ка, старик, двинемся.",
+    "id": 15,
+    "parses": [
+      {"pos": 1, "text": "Чэ", "type": "title", "fst": "ymv", "root": "чэ+MOD"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "оҕонньоор", "type": "lowercase", "fst": "yma", "root": "оҕонньоор+N"},
+      {"pos": 4, "text": "оҕонньоор", "type": "lowercase", "fst": "yma", "root": "оҕонньоо+N", "affixes": "+VRBLZ#4"},
+      {"pos": 4, "text": "оҕонньоор", "type": "lowercase", "fst": "yma", "root": "оҕонньо+N", "affixes": "+VRBLZ#4a"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "хаамтарыах", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+CSTV+PART_FUT"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

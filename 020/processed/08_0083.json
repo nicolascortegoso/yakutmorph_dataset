@@ -1,0 +1,71 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 45,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство цели",
+    "section": 83,
+    "notes": "Из деепричастий в этой роли функционируют формы на *-аары*, *-маары*, , *-а*.",
+    "sah": "Уус саҥа үлэһитэ хайдах үлэлиирин көрөөрү, төбөтүн төҥкөтөр.",
+    "ru": "Кузнец, чтобы посмотреть, как работает его новый работник, голову наклонил.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Уус", "type": "title", "fst": "ymv", "root": "уус+N"},
+      {"pos": 2, "text": "саҥа", "type": "lowercase", "fst": "ymv", "root": "саҥа+Adj"},
+      {"pos": 3, "text": "үлэһитэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+NMLZ#1+POSS.3SG"},
+      {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хайдах+Pron"},
+      {"pos": 5, "text": "үлэлиирин", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 6, "text": "көрөөрү", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CONV#5"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "төбөтүн", "type": "lowercase", "fst": "ymv", "root": "төбө+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 9, "text": "төҥкөтөр", "type": "lowercase", "fst": "ymv", "root": "төҥкөй+V", "affixes": "+CSTV+PART_PRES"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 45,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство цели",
+    "section": 83,
+    "notes": "Из деепричастий в этой роли функционируют формы на *-аары*, *-маары*, , *-а*.",
+    "sah": "...оттон Коля буоллаҕына кинилэри олус долгутумаары ынырык атаҕастабылы үксүн кистээтэ.",
+    "ru": "...а Коля, чтобы не волновать их слишком, большую часть серьезных обид скрыл.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "оттон", "type": "lowercase", "fst": "ymv", "root": "оттон+CONJ"},
+      {"pos": 3, "text": "Коля", "type": "title", "fst": "yma", "root": "коля+N"},
+      {"pos": 4, "text": "буоллаҕына", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 5, "text": "кинилэри", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL+ACC"},
+      {"pos": 6, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adj"},
+      {"pos": 7, "text": "долгутумаары", "type": "lowercase", "fst": "ymv", "root": "долгуй+V", "affixes": "+CSTV+NEG+CONV#5"},
+      {"pos": 8, "text": "ынырык", "type": "lowercase", "fst": "ymv", "root": "ынырык+Adj"},
+      {"pos": 9, "text": "атаҕастабылы", "type": "lowercase", "fst": "ymv", "root": "атаҕастаа+V", "affixes": "+NMLZ#4+ACC"},
+      {"pos": 10, "text": "үксүн", "type": "lowercase", "fst": "ymv", "root": "үксүн+Adv"},
+      {"pos": 11, "text": "кистээтэ", "type": "lowercase", "fst": "ymv", "root": "кистээ+V", "affixes": "+PST.3SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 45,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство цели",
+    "section": 83,
+    "notes": "Из деепричастий в этой роли функционируют формы на *-аары*, *-маары*, , *-а*.",
+    "sah": "Мин таҥаспын уларыта бардым.",
+    "ru": "Я пошёл сменить одежду свою.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "таҥаспын", "type": "lowercase", "fst": "ymv", "root": "таҥас+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 3, "text": "уларыта", "type": "lowercase", "fst": "ymv", "root": "уларый+V", "affixes": "+CSTV+CONV#2"},
+      {"pos": 4, "text": "бардым", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

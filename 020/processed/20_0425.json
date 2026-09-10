@@ -1,0 +1,53 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 262,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения соответствия",
+    "section": 425,
+    "notes": "В некоторых случаях значение соответствия усиливается количественным местоимением *төһөнөн* (*-нэн афф. орудного падежа простого склонения) «сколько» в зависимой части предложений.",
+    "sah": "Төһөнөн үөһэ тахсан истэхтэрин аайы, тулалыыр айылҕалара биллэрдик уларыйан иһэр.",
+    "ru": "По мере того, как они поднимаются верх, природа, окружающая их, заметно изменяется.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Төһөнөн", "type": "title", "fst": "ymv", "root": "төһө+Pron", "affixes": "+INST"},
+      {"pos": 2, "text": "үөһэ", "type": "lowercase", "fst": "ymv", "root": "үөһэ+Adv"},
+      {"pos": 3, "text": "тахсан", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "истэхтэрин", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+CONV_COND#2+POSS.3PL.ACC"},
+      {"pos": 5, "text": "аайы", "type": "lowercase", "fst": "ymv", "root": "аайы+POST"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "тулалыыр", "type": "lowercase", "fst": "ymv", "root": "тула+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 8, "text": "айылҕалара", "type": "lowercase", "fst": "ymv", "root": "айылҕа+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 9, "text": "биллэрдик", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+PART_PRES+ADVZ#5"},
+      {"pos": 10, "text": "уларыйан", "type": "lowercase", "fst": "ymv", "root": "уларый+V", "affixes": "+CONV#1"},
+      {"pos": 11, "text": "иһэр", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+PART_PRES"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 262,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения соответствия",
+    "section": 425,
+    "notes": "Местоименная форма *төһөнөн* чаще встречается в составе аналитических сложноподчиненных предложений с подобным же значениема.",
+    "sah": "Төһөнөн үөһэ тахсаллар да, тулалыыр айылҕалара соччонон биллэрдик уларыйар.",
+    "ru": "Чем выше они поднимаются, тем больше изменяется окружающая их природа.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Төһөнөн", "type": "title", "fst": "ymv", "root": "төһө+Pron", "affixes": "+INST"},
+      {"pos": 2, "text": "үөһэ", "type": "lowercase", "fst": "ymv", "root": "үөһэ+Adv"},
+      {"pos": 3, "text": "тахсаллар", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 4, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "тулалыыр", "type": "lowercase", "fst": "ymv", "root": "тула+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 7, "text": "айылҕалара", "type": "lowercase", "fst": "ymv", "root": "айылҕа+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 8, "text": "соччонон", "type": "lowercase", "fst": "ymv", "root": "сол+Pron", "affixes": "+DEF#2+INST"},
+      {"pos": 9, "text": "биллэрдик", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+PART_PRES+ADVZ#5"},
+      {"pos": 10, "text": "уларыйар", "type": "lowercase", "fst": "ymv", "root": "уларый+V", "affixes": "+PART_PRES"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

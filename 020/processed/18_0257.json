@@ -1,0 +1,56 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 137,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок слов в простом предложении. Порядок слов в безглагольных предложениях",
+    "section": 257,
+    "notes": "В качестве критерия, позволяющего определить состав темы и ремы, можно использовать прием постановки вопросов, применяемый в исследованиях по актуальному членению.",
+    "sah": "«Ийээ, аҕам хаһан кэлиэй?» — дии-дии оҕото ытыыр.",
+    "ru": "«Мама, когда оцет придет?» — повторяя так, дитя плачет.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 2, "text": "Ийээ", "type": "title", "fst": "ymv", "root": "ийээ+INJ"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "аҕам", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 5, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хаһан+Pron"},
+      {"pos": 6, "text": "кэлиэй", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 7, "text": "?", "type": "question", "fst": "ymv"},
+      {"pos": 8, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 9, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 10, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#2"},
+      {"pos": 11, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 12, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#2"},
+      {"pos": 13, "text": "оҕото", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+POSS.3SG"},
+      {"pos": 14, "text": "ытыыр", "type": "lowercase", "fst": "ymv", "root": "ытаа+V", "affixes": "+PART_PRES"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 137,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Порядок слов в простом предложении. Порядок слов в безглагольных предложениях",
+    "section": 257,
+    "notes": "В качестве критерия, позволяющего определить состав темы и ремы, можно использовать прием постановки вопросов, применяемый в исследованиях по актуальному членению.",
+    "sah": "— «Аҕаҥ тойонугар үлэлии барбыта, сарсын кэлиэ».",
+    "ru": "— «Твой отец ушел работать к своему хозяину, придёт завтра».",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 2, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 3, "text": "Аҕаҥ", "type": "title", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.2SG"},
+      {"pos": 4, "text": "тойонугар", "type": "lowercase", "fst": "ymv", "root": "тойон+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 5, "text": "үлэлии", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#2"},
+      {"pos": 6, "text": "барбыта", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "сарсын", "type": "lowercase", "fst": "ymv", "root": "сарсын+Adv"},
+      {"pos": 9, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
+      {"pos": 10, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

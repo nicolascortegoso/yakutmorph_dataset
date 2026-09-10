@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 38,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 63,
+    "notes": "При обстоятельствах времени, выраженных именами существительными, как и при обстоятельствах места, нередко употребляют сочетания послелогов.",
+    "sah": "Киһи аймах баччааҥҥа диэри историятын устатын тухары өлөрсүү, кыргыһыы баара.",
+    "ru": "На протяжении истории человечества до настоящего времени были войны.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Киһи", "type": "title", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 2, "text": "аймах", "type": "lowercase", "fst": "ymv", "root": "аймаа+V", "affixes": "+ADJZ#16"},
+      {"pos": 2, "text": "аймах", "type": "lowercase", "fst": "ymv", "root": "аймаа+V", "affixes": "+NMLZ#6"},
+      {"pos": 2, "text": "аймах", "type": "lowercase", "fst": "ymv", "root": "аймах+N"},
+      {"pos": 3, "text": "баччааҥҥа", "type": "lowercase", "fst": "ymv", "root": "баччааҥҥа+N"},
+      {"pos": 4, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"},
+      {"pos": 4, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#5"},
+      {"pos": 5, "text": "историятын", "type": "lowercase", "fst": "yma", "root": "историятын+N"},
+      {"pos": 6, "text": "устатын", "type": "lowercase", "fst": "ymv", "root": "уста+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
+      {"pos": 6, "text": "устатын", "type": "lowercase", "fst": "ymv", "root": "уста+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "устатын", "type": "lowercase", "fst": "ymv", "root": "уст+N", "affixes": "+VRBLZ#1+CAUS+REFL"},
+      {"pos": 6, "text": "устатын", "type": "lowercase", "fst": "ymv", "root": "уст+N", "affixes": "+VRBLZ#1+CSTV+REFL"},
+      {"pos": 7, "text": "тухары", "type": "lowercase", "fst": "ymv", "root": "тухары+POST"},
+      {"pos": 8, "text": "өлөрсүү", "type": "lowercase", "fst": "yma", "root": "өлөрсүү+N"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "кыргыһыы", "type": "lowercase", "fst": "ymv", "root": "кырт+V", "affixes": "+RECP+NMLZ#2"},
+      {"pos": 10, "text": "кыргыһыы", "type": "lowercase", "fst": "ymv", "root": "кырт+V", "affixes": "+RECP+CONV#2"},
+      {"pos": 10, "text": "кыргыһыы", "type": "lowercase", "fst": "ymv", "root": "кыргыз+N", "affixes": "+VRBLZ#3+NMLZ#2"},
+      {"pos": 10, "text": "кыргыһыы", "type": "lowercase", "fst": "ymv", "root": "кыргыз+N", "affixes": "+VRBLZ#3+CONV#2"},
+      {"pos": 11, "text": "баара", "type": "lowercase", "fst": "ymv", "root": "баар+N", "affixes": "+POSS.3SG"},
+      {"pos": 11, "text": "баара", "type": "lowercase", "fst": "ymv", "root": "баар+V", "affixes": "+CONV#2"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

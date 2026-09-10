@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 60,
+    "chapter": "Двусоставное предложение",
+    "topic": "Приложение",
+    "section": 130,
+    "notes": "К одному члену предложение может относится сразу несколько предложений.",
+    "sah": "Кылаас өстөөҕү, Татыгыырабы, колхоһу үрэйээччини, суукка биэриэххэ...",
+    "ru": "Классового врага, Татыгырова, разорителя колхоза, надо передать в суд...",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Кылаас", "type": "title", "fst": "ymv", "root": "кылаас+N"},
+      {"pos": 2, "text": "өстөөҕү", "type": "lowercase", "fst": "ymv", "root": "өс+N", "affixes": "+ADJZ#1+ACC"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "Татыгыырабы", "type": "title", "fst": "yma", "root": "татыгыырап+N", "affixes": "+ACC"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "колхоһу", "type": "lowercase", "fst": "ymv", "root": "колхоз+N", "affixes": "+ACC"},
+      {"pos": 7, "text": "үрэйээччини", "type": "lowercase", "fst": "ymv", "root": "үрэй+V", "affixes": "+HAB#1+ACC"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 9, "text": "суукка", "type": "lowercase", "fst": "ymv", "root": "суут+N", "affixes": "+DAT"},
+      {"pos": 10, "text": "биэриэххэ", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 11, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

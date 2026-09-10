@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 275,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сравнительные сложноподчиненные предложения",
+    "section": 486,
+    "notes": "Сравнительная ЗПЕ может сочетаться с главной с помощью аффикса *-лыы*. Данный аффикс имеет широкое сравнительное значение и соответствует русским сравнительным союзам «как», «подобно тому как», «так же как», «как будто» и др. Как правило, сказуемое с аффиксом *-лыы* выражается причастиями на *-ар* и *-быт*.",
+    "sah": "Ытыыр, күлэр дьон сириттэн мин соҕотох куоппутум, кыыс элэктэн симиттэн куотарыныы, куоппутум.",
+    "ru": "От людской земли, где плачут и смеются, один я убежал, так же как постеснявшись насмешек, убегает девушка.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Ытыыр", "type": "title", "fst": "ymv", "root": "ытаа+V", "affixes": "+PART_PRES"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "күлэр", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"},
+      {"pos": 5, "text": "сириттэн", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 6, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 7, "text": "соҕотох", "type": "lowercase", "fst": "ymv", "root": "соҕотох+Adj"},
+      {"pos": 8, "text": "куоппутум", "type": "lowercase", "fst": "ymv", "root": "куот+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс+N"},
+      {"pos": 11, "text": "элэктэн", "type": "lowercase", "fst": "ymv", "root": "элэк+N", "affixes": "+ABL"},
+      {"pos": 12, "text": "симиттэн", "type": "lowercase", "fst": "ymv", "root": "симит+N", "affixes": "+ABL"},
+      {"pos": 13, "text": "куотарыныы", "type": "lowercase", "fst": "ymv", "root": "куот+V", "affixes": "+CSTV+REFL+CONV#2"},
+      {"pos": 14, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 15, "text": "куоппутум", "type": "lowercase", "fst": "ymv", "root": "куот+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

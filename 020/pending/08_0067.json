@@ -1,0 +1,36 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 39,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 67,
+    "notes": "В роли обстоятельств времени регулярно встречаются производные формы указательных местоимений с временным значением. Указательные местоимения в этой роли часто сопровождаются послелогами и другими служебными словами.",
+    "sah": "...онтон бэттэх ыал кумалааны кумалаан курдук тутар буолтара.",
+    "ru": "... с тех пор жители стали старика держать как кумалана (человека, состоящего на общественном призрении).",
+    "id": 6,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "онтон", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 3, "text": "бэттэх", "type": "lowercase", "fst": "ymv", "root": "бэттэх+Pron"},
+      {"pos": 4, "text": "ыал", "type": "lowercase", "fst": "ymv", "root": "ыал+N"},
+      {"pos": 4, "text": "ыал", "type": "lowercase", "fst": "ymv", "root": "ыа+V", "affixes": "+NMLZ#9"},
+      {"pos": 5, "text": "кумалааны", "type": "lowercase", "fst": "ymv", "root": "кумалаан+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "кумалаан", "type": "lowercase", "fst": "ymv", "root": "кумалаан+N"},
+      {"pos": 7, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 7, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+Part"},
+      {"pos": 7, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 7, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+ADVZ#5"},
+      {"pos": 8, "text": "тутар", "type": "lowercase", "fst": "ymv", "root": "тута+Adv", "affixes": "+VRBLZ#4"},
+      {"pos": 8, "text": "тутар", "type": "lowercase", "fst": "ymv", "root": "тут+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": "буолтара", "type": "lowercase", "fst": "yma", "root": "буолтара^N"},
+      {"pos": 9, "text": "буолтара", "type": "lowercase", "fst": "yma", "root": "буолтар^N", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "буолтара", "type": "lowercase", "fst": "yma", "root": "буолтар^V", "affixes": "+CONV#2"},
+      {"pos": 9, "text": "буолтара", "type": "lowercase", "fst": "yma", "root": "буолтай^V", "affixes": "^ADJZ#16+POSS.3SG"},
+      {"pos": 9, "text": "буолтара", "type": "lowercase", "fst": "yma", "root": "буолта^Adv", "affixes": "^VRBLZ#4+CONV#2"},
+      {"pos": 9, "text": "буолтара", "type": "lowercase", "fst": "yma", "root": "буолта^N", "affixes": "^VRBLZ#4+CONV#2"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

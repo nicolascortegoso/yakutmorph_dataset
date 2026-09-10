@@ -1,0 +1,52 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 314,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Прямая речь",
+    "section": 570,
+    "notes": "В якутском языке возможны и такие сложные конструкции, когда авторская речь вклинивается в прямую речь не в одном, а в нескольких местах.",
+    "sah": "— Аны кэлэн — эппиэтэ син биир.",
+    "ru": "— Теперь все равно — один ответ.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 2, "text": "Аны", "type": "title", "fst": "ymv", "root": "аны+Adv"},
+      {"pos": 3, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 5, "text": "эппиэтэ", "type": "lowercase", "fst": "ymv", "root": "эппиэт+N", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": "син", "type": "lowercase", "fst": "ymv", "root": "син+Adv"},
+      {"pos": 7, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 314,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Прямая речь",
+    "section": 570,
+    "notes": "В якутском языке возможны и такие сложные конструкции, когда авторская речь вклинивается в прямую речь не в одном, а в нескольких местах.",
+    "sah": "«Эт диибин дии, эт! — дии-дии ыххайбахтаан баран.",
+    "ru": "«Скажи, говорю, скажи! — ругаясь, говорю я.",
+    "id": 6,
+    "parses": [
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 2, "text": "Эт", "type": "title", "fst": "ymv", "root": "эт+V"},
+      {"pos": 3, "text": "диибин", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 4, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии+Part"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+V"},
+      {"pos": 7, "text": "!", "type": "exclamation", "fst": "ymv"},
+      {"pos": 8, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 9, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#2"},
+      {"pos": 10, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 11, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#2"},
+      {"pos": 12, "text": "ыххайбахтаан", "type": "lowercase", "fst": "yma", "root": "ыххай+V", "affixes": "+ACCE+CONV#1"},
+      {"pos": 13, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

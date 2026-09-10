@@ -1,0 +1,49 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 15,
+    "chapter": "Двусоставное предложение",
+    "topic": "Подлежащее",
+    "section": 4,
+    "notes": "Подлежащее а может быть выражено собирательным числительным на *-ыан*.",
+    "sah": "Иккиэн туохтан эрэ улаханнык күлэллэр.",
+    "ru": "Оба отчего-то громко смеются.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Иккиэн", "type": "title", "fst": "ymv", "root": "икки+Num", "affixes": "+COLL+ADVZ#10"},
+      {"pos": 2, "text": "туохтан", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+ABL"},
+      {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 4, "text": "улаханнык", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 5, "text": "күлэллэр", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 15,
+    "chapter": "Двусоставное предложение",
+    "topic": "Подлежащее",
+    "section": 4,
+    "notes": "Подлежащее а может быть выражено собирательным числительным на *-ыан*.",
+    "sah": "Иккиэммит даҕаны, хата, нууччалыы билэрбитинэн утаа-сабаа соҕус буолуохпут.",
+    "ru": "И оба-мы, кстати, бладеем русским языком, наверняка, в одинаковой мере.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Иккиэммит", "type": "title", "fst": "ymv", "root": "икки+Num", "affixes": "+COLL+ADVZ#10+POSS.1PL"},
+      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "хата", "type": "lowercase", "fst": "ymv", "root": "хата+MOD"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "нууччалыы", "type": "lowercase", "fst": "ymv", "root": "нуучча+N", "affixes": "+ADVZ#6"},
+      {"pos": 7, "text": "билэрбитинэн", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES+POSS.1PL.INST"},
+      {"pos": 8, "text": "утаа", "type": "lowercase", "fst": "ymv", "root": "утаа+N"},
+      {"pos": 9, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 10, "text": "сабаа", "type": "lowercase", "fst": "ymv", "root": "сабаа+N"},
+      {"pos": 11, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"},
+      {"pos": 12, "text": "буолуохпут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+POSS.1PL"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

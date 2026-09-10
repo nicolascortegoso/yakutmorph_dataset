@@ -1,0 +1,40 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 252,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 400,
+    "notes": "Уступительные предложения со значением допущения легко трансформируются по схеме: «2-я форма условного наклонения — частица *да* (*даҕаны*)».",
+    "sah": "Билигин тустуутугар төннүбүтүн да иһин (ср.: төнүннэҕинэ да), республикаҕа бастыыра саарбах.",
+    "ru": "Теперь, если даже и вернется на борьбу, неизвестно, станет ли он первым в республике.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "билигин+Adv"},
+      {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "бил+V", "affixes": "+NMLZ#5+POSS.3SG.ACC"},
+      {"pos": 2, "text": "тустуутугар", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+ADVZ#6+POSS.3SG.DAT"},
+      {"pos": 2, "text": "тустуутугар", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+VRBLZ#1+NMLZ#2+POSS.3SG.DAT"},
+      {"pos": 2, "text": "тустуутугар", "type": "lowercase", "fst": "ymv", "root": "туһун+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"},
+      {"pos": 3, "text": "төннүбүтүн", "type": "lowercase", "fst": "ymv", "root": "төнүн+V", "affixes": "+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 4, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 4, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+REFL"},
+      {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 6, "text": "(", "type": "bracket", "fst": "ymv"},
+      {"pos": 7, "text": "ср", "type": "lowercase", "fst": "ymv"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"},
+      {"pos": 9, "text": ":", "type": "colon", "fst": "ymv"},
+      {"pos": 10, "text": "төнүннэҕинэ", "type": "lowercase", "fst": "ymv", "root": "төнүн+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 11, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 11, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 12, "text": ")", "type": "bracket", "fst": "ymv"},
+      {"pos": 13, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 14, "text": "республикаҕа", "type": "lowercase", "fst": "ymv", "root": "республика+N", "affixes": "+DAT"},
+      {"pos": 15, "text": "бастыыра", "type": "lowercase", "fst": "ymv", "root": "бас+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG"},
+      {"pos": 16, "text": "саарбах", "type": "lowercase", "fst": "ymv", "root": "саарбах+Adj"},
+      {"pos": 17, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 273,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие одновременность",
+    "section": 477,
+    "notes": "Предложения с длительностью зависимого и краткостью главного события выражаются конструкциями в форме *-тax* + афф. притяж. + *на*, *-ар* + афф. дат. п., *баар*/*суох* + афф. мест. (или дат.) п., *-ар* + афф. притяж. + послелог *саҕана* и др.",
+    "sah": "Дьонум суохтарына, мин кыратык оонньуу тахса сылдьыбытым.",
+    "ru": "Когда родителей не было, я выходил играть на непродолжительное время.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Дьонум", "type": "title", "fst": "ymv", "root": "дьон+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "суохтарына", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+POSS.3PL.PRTV"},
+      {"pos": 2, "text": "суохтарына", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+PL+POSS.3SG.PRTV"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+N"},
+      {"pos": 4, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 5, "text": "кыратык", "type": "lowercase", "fst": "ymv", "root": "кыраа+V", "affixes": "+CAUS+ADJZ#16"},
+      {"pos": 5, "text": "кыратык", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 5, "text": "кыратык", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj", "affixes": "+VRBLZ#2+CSTV+ADJZ#16"},
+      {"pos": 5, "text": "кыратык", "type": "lowercase", "fst": "ymv", "root": "кыр+N", "affixes": "+VRBLZ#3+CAUS+ADJZ#16"},
+      {"pos": 5, "text": "кыратык", "type": "lowercase", "fst": "ymv", "root": "кыр+N", "affixes": "+VRBLZ#3+CSTV+ADJZ#16"},
+      {"pos": 6, "text": "оонньуу", "type": "lowercase", "fst": "ymv", "root": "оонньоо+V", "affixes": "+NMLZ#2"},
+      {"pos": 6, "text": "оонньуу", "type": "lowercase", "fst": "ymv", "root": "оонньоо+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "оонньуу", "type": "lowercase", "fst": "ymv", "root": "оонньуу+N"},
+      {"pos": 7, "text": "тахса", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+CONV#2"},
+      {"pos": 8, "text": "сылдьыбытым", "type": "lowercase", "fst": "yma", "root": "сылдьыбыты^Adj", "affixes": "+POSS.1SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

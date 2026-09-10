@@ -1,0 +1,54 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 37,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 59,
+    "notes": "Послелоги именного происхождения, сочетающиеся с основным словом посредством изафета, употребляются чаще всего в форме дательного, местного, исходного и основного падежей. Местный падеж.",
+    "sah": "Мин кинилэр иннилэринэ революционер буолан сүүрбэ үс сыл сыылкаҕа олордум.",
+    "ru": "Я, прежде них став революционером, двадцать три года в ссылке прожил.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+N"},
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "кинилэр", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 3, "text": "иннилэринэ", "type": "lowercase", "fst": "ymv", "root": "инни+N", "affixes": "+POSS.3PL.PRTV"},
+      {"pos": 3, "text": "иннилэринэ", "type": "lowercase", "fst": "ymv", "root": "инни+N", "affixes": "+PL+POSS.3SG.PRTV"},
+      {"pos": 3, "text": "иннилэринэ", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3PL.PRTV"},
+      {"pos": 4, "text": "революционер", "type": "lowercase", "fst": "ymv", "root": "революционер+N"},
+      {"pos": 5, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "сүүрбэ", "type": "lowercase", "fst": "ymv", "root": "сүүрбэ+Num"},
+      {"pos": 7, "text": "үс", "type": "lowercase", "fst": "ymv", "root": "үс+Num"},
+      {"pos": 8, "text": "сыл", "type": "lowercase", "fst": "ymv", "root": "сыл+N"},
+      {"pos": 9, "text": "сыылкаҕа", "type": "lowercase", "fst": "yma", "root": "сыылкаҕа^N"},
+      {"pos": 9, "text": "сыылкаҕа", "type": "lowercase", "fst": "yma", "root": "сыылка^Adj", "affixes": "+DAT"},
+      {"pos": 9, "text": "сыылкаҕа", "type": "lowercase", "fst": "yma", "root": "сыылка^N", "affixes": "+DAT"},
+      {"pos": 10, "text": "олордум", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+CSTV+ADVZ#1+POSS.1SG"},
+      {"pos": 10, "text": "олордум", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PST.1SG"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 37,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 59,
+    "notes": "",
+    "sah": "бу баартын кэннинэ...",
+    "ru": "после того как он ушел...",
+    "id": 10,
+    "parses": [
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "баартын", "type": "lowercase", "fst": "yma", "root": "баартын^Adj"},
+      {"pos": 2, "text": "баартын", "type": "lowercase", "fst": "yma", "root": "баартын^V"},
+      {"pos": 2, "text": "баартын", "type": "lowercase", "fst": "yma", "root": "баартый^V", "affixes": "+REFL"},
+      {"pos": 3, "text": "кэннинэ", "type": "lowercase", "fst": "ymv", "root": "кэннинэ+POST"},
+      {"pos": 3, "text": "кэннинэ", "type": "lowercase", "fst": "ymv", "root": "кэлин+N", "affixes": "+POSS.3SG.PRTV"},
+      {"pos": 4, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

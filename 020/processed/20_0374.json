@@ -1,0 +1,54 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 244,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения условия",
+    "section": 374,
+    "notes": "Условные предложения с повторяющимися событиями. В предложениях данного подтипа многократность может быть конкретизирована как повторяемость в некотором отрезке прошлого или как обычность, регулярность вопределенном временном плане.",
+    "sah": "Кини киһитэ өһөстөҕүнэ, кыайан эргиппэтин бэрт үчүгэйдик билэрэ.",
+    "ru": "Она хорошо знала, что, если ее муж заупрямится, она ничего не сможет добиться.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 2, "text": "киһитэ", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "өһөстөҕүнэ", "type": "lowercase", "fst": "ymv", "root": "өһөс+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "кыайан", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "эргиппэтин", "type": "lowercase", "fst": "ymv", "root": "эргий+V", "affixes": "+CSTV+NEG+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 7, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
+      {"pos": 8, "text": "үчүгэйдик", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 9, "text": "билэрэ", "type": "lowercase", "fst": "ymv", "root": "билэ+N", "affixes": "+VRBLZ#4+CONV#2"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 244,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения условия",
+    "section": 374,
+    "notes": "Условные предложения с повторяющимися событиями. В предложениях данного подтипа многократность может быть конкретизирована как повторяемость в некотором отрезке прошлого или как обобщенное, мыслимое внс времени.",
+    "sah": "Эбиэһи сууккаҕа иккилии муунта аҥардыытын сиэттэххинэ, ат олус бэркэ уонна түргэнник хатааччы.",
+    "ru": "Если овса давать в сутки по два с половиной фунта, (беговая) лошадь приходит в форму очень хорошо и быстро.",
+    "id": 5,
+    "parses": [
+      {"pos": 1, "text": "Эбиэһи", "type": "title", "fst": "ymv", "root": "эбиэс+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "сууккаҕа", "type": "lowercase", "fst": "ymv", "root": "суукка+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "иккилии", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+DISTR"},
+      {"pos": 4, "text": "муунта", "type": "lowercase", "fst": "ymv", "root": "муунта+N"},
+      {"pos": 5, "text": "аҥардыытын", "type": "lowercase", "fst": "ymv", "root": "аҥар+Num", "affixes": "+VRBLZ#1+NMLZ#2+POSS.3SG.ACC"},
+      {"pos": 6, "text": "сиэттэххинэ", "type": "lowercase", "fst": "ymv", "root": "сиэт+V", "affixes": "+CONV_COND#2+POSS.2SG.PRTV"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "ат", "type": "lowercase", "fst": "ymv", "root": "ат+N"},
+      {"pos": 9, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adj"},
+      {"pos": 10, "text": "бэркэ", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj", "affixes": "+DAT"},
+      {"pos": 11, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 12, "text": "түргэнник", "type": "lowercase", "fst": "ymv", "root": "түргэн+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 13, "text": "хатааччы", "type": "lowercase", "fst": "ymv", "root": "хатаа+V", "affixes": "+HAB#1"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

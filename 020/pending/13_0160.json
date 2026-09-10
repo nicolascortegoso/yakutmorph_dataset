@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 72,
+    "chapter": "Двусоставное предложение",
+    "topic": "Приложение. Однородные члены предложения, оформленные в сочетания с помощью числительного *икки*",
+    "section": 160,
+    "notes": "У некоторых писателей можно наблюдать соединение в одно сложное сочетание словосочетания с аффиксом обладания *-лаах* и словосочетания с числительным *икки* «два».",
+    "sah": "Маамалаах балтыҥ иккини маанылыыр чиэстиир буолаар.",
+    "ru": "Почитай своих маму и сестру.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Маамалаах", "type": "title", "fst": "ymv", "root": "маама+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "балтыҥ", "type": "lowercase", "fst": "ymv", "root": "балыс+N", "affixes": "+POSS.2SG"},
+      {"pos": 3, "text": "иккини", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+ACC"},
+      {"pos": 4, "text": "маанылыыр", "type": "lowercase", "fst": "ymv", "root": "мааны+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 5, "text": "чиэстиир", "type": "lowercase", "fst": "ymv", "root": "чиэс+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 6, "text": "буолаар", "type": "lowercase", "fst": "yma", "root": "буолаар^V"},
+      {"pos": 6, "text": "буолаар", "type": "lowercase", "fst": "yma", "root": "буолаа^N", "affixes": "^VRBLZ#4"},
+      {"pos": 6, "text": "буолаар", "type": "lowercase", "fst": "yma", "root": "буола^Adj", "affixes": "^VRBLZ#4a"},
+      {"pos": 6, "text": "буолаар", "type": "lowercase", "fst": "yma", "root": "буола^Adv", "affixes": "^VRBLZ#4a"},
+      {"pos": 6, "text": "буолаар", "type": "lowercase", "fst": "yma", "root": "буола^N", "affixes": "^VRBLZ#4a"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

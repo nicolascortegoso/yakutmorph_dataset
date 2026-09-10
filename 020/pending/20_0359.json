@@ -1,0 +1,42 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 236,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения причины",
+    "section": 359,
+    "notes": "В предложениях с послелогом *аанньа* выражается произвольный характер или частность, неосновательность, слабость повода для реализации события главной части.",
+    "sah": "Бадарааннаах үлтүркэй тааһы, кэбирэҕин аанньа, балайда дириҥник кытаанаҕар тиийэ түспүттэрэ.",
+    "ru": "Волотистую землю с мелкими камнями они вскопали довольно глубоко, до мерзлоты, только потому, что она была нетвердая.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бадарааннаах", "type": "title", "fst": "ymv", "root": "бадараан+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "үлтүркэй", "type": "lowercase", "fst": "ymv", "root": "үлтүрүй+V", "affixes": "+ADJZ#9"},
+      {"pos": 3, "text": "тааһы", "type": "lowercase", "fst": "ymv", "root": "таас+N", "affixes": "+ACC"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "кэбирэҕин", "type": "lowercase", "fst": "ymv", "root": "кэп+N", "affixes": "+VRBLZ#4+NMLZ#6+POSS.3SG.ACC"},
+      {"pos": 5, "text": "кэбирэҕин", "type": "lowercase", "fst": "ymv", "root": "кэп+N", "affixes": "+VRBLZ#4+PART_PRES+2SG"},
+      {"pos": 5, "text": "кэбирэҕин", "type": "lowercase", "fst": "ymv", "root": "кэбирээ+V", "affixes": "+ADJZ#16+POSS.3SG.ACC"},
+      {"pos": 5, "text": "кэбирэҕин", "type": "lowercase", "fst": "ymv", "root": "кэбирээ+V", "affixes": "+NMLZ#6+POSS.3SG.ACC"},
+      {"pos": 6, "text": "аанньа", "type": "lowercase", "fst": "ymv", "root": "аанньа+Adv"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "балайда", "type": "lowercase", "fst": "ymv", "root": "балай+Adv", "affixes": "+ADVZ#8"},
+      {"pos": 8, "text": "балайда", "type": "lowercase", "fst": "ymv", "root": "балай+Adv", "affixes": "+PRTV"},
+      {"pos": 8, "text": "балайда", "type": "lowercase", "fst": "ymv", "root": "балай+Adj", "affixes": "+ADVZ#8"},
+      {"pos": 8, "text": "балайда", "type": "lowercase", "fst": "ymv", "root": "балай+Adj", "affixes": "+PRTV"},
+      {"pos": 8, "text": "балайда", "type": "lowercase", "fst": "ymv", "root": "бала+Adv", "affixes": "+VRBLZ#2+PST.3SG"},
+      {"pos": 9, "text": "дириҥник", "type": "lowercase", "fst": "ymv", "root": "дириҥ+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 10, "text": "кытаанаҕар", "type": "lowercase", "fst": "yma", "root": "кытаанаа^V", "affixes": "^ADJZ#15^VRBLZ#4a"},
+      {"pos": 10, "text": "кытаанаҕар", "type": "lowercase", "fst": "yma", "root": "кытаанах^N", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 10, "text": "кытаанаҕар", "type": "lowercase", "fst": "yma", "root": "кытаанаҕар^Adj"},
+      {"pos": 10, "text": "кытаанаҕар", "type": "lowercase", "fst": "yma", "root": "кытаанаҕар^N"},
+      {"pos": 10, "text": "кытаанаҕар", "type": "lowercase", "fst": "yma", "root": "кытаанаҕа^N", "affixes": "^VRBLZ#4"},
+      {"pos": 10, "text": "кытаанаҕар", "type": "lowercase", "fst": "yma", "root": "кытаана^Adv", "affixes": "+POSS.2SG+DAT"},
+      {"pos": 10, "text": "кытаанаҕар", "type": "lowercase", "fst": "yma", "root": "кытаана^N", "affixes": "+POSS.2SG+DAT"},
+      {"pos": 11, "text": "тиийэ", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+CONV#2"},
+      {"pos": 12, "text": "түспүттэрэ", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

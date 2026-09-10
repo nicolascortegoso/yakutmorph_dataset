@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 20,
+    "chapter": "Двусоставное предложение",
+    "topic": "Именно сказуемое",
+    "section": 13,
+    "notes": "Сказуемое, выраженная личным местоимением, обычно бывает составным.",
+    "sah": "Сергей Петрович - кини буолбатах эбит.",
+    "ru": "Сергей Петрович, оказывается, не он.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Сергей", "type": "title", "fst": "ymv", "root": "сергей+N"},
+      {"pos": 2, "text": "Петрович", "type": "title", "fst": "yma", "root": "петрович+N"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 4, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 5, "text": "буолбатах", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+NEG+CONV_COND#2"},
+      {"pos": 5, "text": "буолбатах", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+NEG+PART_PAST"},
+      {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "эбит+Part"},
+      {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST"},
+      {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+1PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

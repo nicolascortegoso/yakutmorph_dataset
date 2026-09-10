@@ -1,0 +1,28 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 294,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Местоименно-соотносительные сложноподчиненные предложения. Определительные предложения",
+    "section": 524,
+    "notes": "Сложноподчиненные предложения, в которых определяемое слово представлено сочетанием *ол* + послелог *курдук* «подобно (э) тому» со сравнительным значением.",
+    "sah": "Көтөрдөрө бэҕэһээ хайдах олорон хаалбытай да, ол курдук олорор эбит...",
+    "ru": "Оказывается, птица как осталась вчера сидеть, так и сегодня сидит...",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Көтөрдөрө", "type": "title", "fst": "ymv", "root": "көтөр+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 2, "text": "бэҕэһээ", "type": "lowercase", "fst": "ymv", "root": "бэҕэһээ+Adv"},
+      {"pos": 3, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хайдах+Pron"},
+      {"pos": 4, "text": "олорон", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "хаалбытай", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PART_PAST+POSS.3SG+INT"},
+      {"pos": 6, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 9, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 10, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PRES"},
+      {"pos": 11, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "эбит+Part"},
+      {"pos": 12, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

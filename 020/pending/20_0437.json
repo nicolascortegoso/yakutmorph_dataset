@@ -1,0 +1,36 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 264,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение следования",
+    "section": 437,
+    "notes": "Эта же семантика выражается конструкцией со сказуемым ЗПЕ в форме причастия на *-тах* с послелогом *аайы*. Эта конструкция неоднозначна, и данное значение передается ею в определенных условиях: действие в зависимой части должно быть недлительным и в ней должно быть указание его завершенности. Повторяемость выражается послелогом *аайы* «всякий»/«каждый раз».",
+    "sah": "Хас киһи бүттэҕин аайы, ытыстарын таһыммыттара.",
+    "ru": "Всякий раз как [только] выступающий заканчивал (говорить), они аплодировали.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Хас", "type": "title", "fst": "ymv", "root": "хас+Adj"},
+      {"pos": 1, "text": "Хас", "type": "title", "fst": "ymv", "root": "хас+V"},
+      {"pos": 1, "text": "Хас", "type": "title", "fst": "ymv", "root": "хас+Pron"},
+      {"pos": 1, "text": "Хас", "type": "title", "fst": "ymv", "root": "хай+V", "affixes": "+RECP"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 3, "text": "бүттэҕин", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CONV_COND#2+POSS.3SG.ACC"},
+      {"pos": 4, "text": "аайы", "type": "lowercase", "fst": "ymv", "root": "аайы+POST"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ытыс+N", "affixes": "+POSS.3PL.ACC"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ытыс+N", "affixes": "+PL+POSS.3SG.ACC"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ытыс+V", "affixes": "+CAUS+REFL"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ытыс+V", "affixes": "+CONV_COND#1+POSS.3SG.ACC"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ыт+N", "affixes": "+VRBLZ#2+RECP+CONV_COND#1+POSS.3SG.ACC"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ыт+N", "affixes": "+VRBLZ#2+RECP+PL+POSS.3SG.ACC"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ыт+V", "affixes": "+RECP+CAUS+REFL"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ыт+V", "affixes": "+RECP+CONV_COND#1+POSS.3SG.ACC"},
+      {"pos": 6, "text": "ытыстарын", "type": "lowercase", "fst": "ymv", "root": "ыт+V", "affixes": "+RECP+PL+POSS.3SG.ACC"},
+      {"pos": 7, "text": "таһыммыттара", "type": "lowercase", "fst": "ymv", "root": "таһый+V", "affixes": "+REFL/PASS+PART_PAST+PL+POSS.3SG"},
+      {"pos": 7, "text": "таһыммыттара", "type": "lowercase", "fst": "ymv", "root": "тай+V", "affixes": "+RECP+REFL+PART_PAST+PL+POSS.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

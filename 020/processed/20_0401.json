@@ -1,0 +1,30 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 252,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 401,
+    "notes": "Уступительные предложения с *иһин* соотносятся с планами всех трех абсолютных времен: прошедшего, настоящего, будущего. Кроме того, они могут локализоваться в плане расширенного (абстрактного) настоящего.",
+    "sah": "Ол иһин эбитэ дуу, формата оччо сааһыламматаҕын иннигэр, киһини олус итэҕэтэрэ.",
+    "ru": "Может быть поэтому, хотя форма его (стиха) была и не очень слаженной, он (стих) очень убеждал человека (главное событие, повторяющееся в плане прошедшего).",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 3, "text": "эбитэ", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "формата", "type": "lowercase", "fst": "ymv", "root": "форма+N", "affixes": "+POSS.3SG"},
+      {"pos": 7, "text": "оччо", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+DEF#2"},
+      {"pos": 8, "text": "сааһыламматаҕын", "type": "lowercase", "fst": "ymv", "root": "сааһы+N", "affixes": "+VRBLZ#1+REFL/PASS+NEG+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 9, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 11, "text": "киһини", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+ACC"},
+      {"pos": 12, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adj"},
+      {"pos": 13, "text": "итэҕэтэрэ", "type": "lowercase", "fst": "ymv", "root": "итэҕэт+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

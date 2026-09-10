@@ -1,0 +1,55 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 292,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Союзные сложноподчиненные предложения. Целевые предложения",
+    "section": 520,
+    "notes": "Они образуются по конструкции с союзом *диэн* и переводятся на русский язык предложениями с союзами «чтобы», «для того, чтобы». Сказуемое зависимых частей этих предложений обычно оформляется формами глагола повелительного, возможного наклонений.",
+    "sah": "Оҥойор айахпар ас булан аһаайабын диэн, ыалтан ыалга сылдьар сордоохпун.",
+    "ru": "Я, бедняжка, бродяжницаю от дома к дому, чтобы прокормиться.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Оҥойор", "type": "title", "fst": "ymv", "root": "оҥой+V", "affixes": "+PART_PRES"},
+      {"pos": 2, "text": "айахпар", "type": "lowercase", "fst": "ymv", "root": "айах+N", "affixes": "+POSS.1SG.DAT"},
+      {"pos": 3, "text": "ас", "type": "lowercase", "fst": "ymv", "root": "ас+N"},
+      {"pos": 4, "text": "булан", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "аһаайабын", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#3+POT+1SG"},
+      {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "ыалтан", "type": "lowercase", "fst": "ymv", "root": "ыал+N", "affixes": "+ABL"},
+      {"pos": 9, "text": "ыалга", "type": "lowercase", "fst": "ymv", "root": "ыал+N", "affixes": "+DAT"},
+      {"pos": 10, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES"},
+      {"pos": 11, "text": "сордоохпун", "type": "lowercase", "fst": "ymv", "root": "сор+N", "affixes": "+ADJZ#1+1SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 292,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Союзные сложноподчиненные предложения. Целевые предложения",
+    "section": 520,
+    "notes": "Они образуются по конструкции с союзом *диэн* и переводятся на русский язык предложениями с союзами «чтобы», «для того, чтобы». Сказуемое зависимых частей этих предложений обычно оформляется формами глагола повелительного, возможного наклонений.",
+    "sah": "Кинини буурҕа тоһуппатын диэн, хас да сиринэн тимир уобуруччунан курдуу баайбыттар.",
+    "ru": "Его (дуб), чтобы не сломало бурей, опоясали в нескольких местах стальным обручем.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Кинини", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "буурҕа", "type": "lowercase", "fst": "ymv", "root": "буурҕа+N"},
+      {"pos": 3, "text": "тоһуппатын", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+RECP+CSTV+NEG+IMP#1.3SG"},
+      {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "хас", "type": "lowercase", "fst": "ymv", "root": "хас+Pron"},
+      {"pos": 7, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 8, "text": "сиринэн", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 9, "text": "тимир", "type": "lowercase", "fst": "ymv", "root": "тимир+N"},
+      {"pos": 10, "text": "уобуруччунан", "type": "lowercase", "fst": "ymv", "root": "уобуруччу+N", "affixes": "+INST"},
+      {"pos": 11, "text": "курдуу", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+VRBLZ#1+CONV#2"},
+      {"pos": 12, "text": "баайбыттар", "type": "lowercase", "fst": "ymv", "root": "баай+V", "affixes": "+PART_PAST+PL"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

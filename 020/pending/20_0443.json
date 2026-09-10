@@ -1,0 +1,43 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 265,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение следования",
+    "section": 443,
+    "notes": "Предложения с послелогом *бэттэх* в современной речи менее употребительны, чем предложения с формами *-ыах* + афф. притяж. + *ттан ыла*, *-ыах* + афф. притяж. + *ттан. Этот послелог не так четко, как *ыла*, фиксирует начальную границу главного события.",
+    "sah": "Лааппытын, табаарын, ыскалааттаах аһын ревком былдьыаҕыттан бэттэх, Шарапов атыыһыт дьиэтиттэн быкпакка олорор.",
+    "ru": "С тех пор как ревком конфисковал его магазин, товары, склад с продуктами, Шарапов не выходит из дома.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Лааппытын", "type": "title", "fst": "ymv", "root": "лааппы+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
+      {"pos": 1, "text": "Лааппытын", "type": "title", "fst": "ymv", "root": "лааппы+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "табаарын", "type": "lowercase", "fst": "ymv", "root": "табаар+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "ыскалааттаах", "type": "lowercase", "fst": "yma", "root": "ыскалаат^N", "affixes": "^ADJZ"},
+      {"pos": 6, "text": "аһын", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "аһын", "type": "lowercase", "fst": "ymv", "root": "ас+V", "affixes": "+REFL"},
+      {"pos": 6, "text": "аһын", "type": "lowercase", "fst": "ymv", "root": "аһын+V"},
+      {"pos": 6, "text": "аһын", "type": "lowercase", "fst": "ymv", "root": "ай+V", "affixes": "+RECP+REFL"},
+      {"pos": 7, "text": "ревком", "type": "lowercase", "fst": "yma", "root": "ревком+N"},
+      {"pos": 7, "text": "ревком", "type": "lowercase", "fst": "yma", "root": "ревко+N", "affixes": "+POSS.1SG"},
+      {"pos": 8, "text": "былдьыаҕыттан", "type": "lowercase", "fst": "ymv", "root": "былдьаа+V", "affixes": "+PART_FUT+POSS.2SG.ABL"},
+      {"pos": 8, "text": "былдьыаҕыттан", "type": "lowercase", "fst": "ymv", "root": "былдьаа+V", "affixes": "+PART_FUT+POSS.3SG.ABL"},
+      {"pos": 9, "text": "бэттэх", "type": "lowercase", "fst": "ymv", "root": "бэттэх+Pron"},
+      {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 11, "text": "Шарапов", "type": "title", "fst": "yma", "root": "шарапов+N"},
+      {"pos": 12, "text": "атыыһыт", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+NMLZ#1"},
+      {"pos": 12, "text": "атыыһыт", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+VRBLZ#3+NMLZ#2+NMLZ#1"},
+      {"pos": 12, "text": "атыыһыт", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+VRBLZ#3+CONV#2+NMLZ#1"},
+      {"pos": 12, "text": "атыыһыт", "type": "lowercase", "fst": "ymv", "root": "ат+V", "affixes": "+NMLZ#2+NMLZ#1"},
+      {"pos": 13, "text": "дьиэтиттэн", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+VRBLZ#2+CSTV+ADVZ#1+ABL"},
+      {"pos": 13, "text": "дьиэтиттэн", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 14, "text": "быкпакка", "type": "lowercase", "fst": "ymv", "root": "бык+V", "affixes": "+NEG+PART_PRES+DAT"},
+      {"pos": 15, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PRES"},
+      {"pos": 15, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олой+V", "affixes": "+ADJZ#17+VRBLZ#4a"},
+      {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 45,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство цели",
+    "section": 82,
+    "notes": "Имена существительные, выступая в функции обстоятельства цели, обычно принимают форму дательного падежа.",
+    "sah": "Киһи дьон-норуот дьолугар төрүүр үөскүүр диирим.",
+    "ru": "Я (всегда) говаривал: человек родится для счастья народа.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Киһи", "type": "title", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 4, "text": "норуот", "type": "lowercase", "fst": "ymv", "root": "норуот+N"},
+      {"pos": 5, "text": "дьолугар", "type": "lowercase", "fst": "ymv", "root": "дьол+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 6, "text": "төрүүр", "type": "lowercase", "fst": "ymv", "root": "төрөө+V", "affixes": "+PART_PRES"},
+      {"pos": 7, "text": "үөскүүр", "type": "lowercase", "fst": "ymv", "root": "үөскээ+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": "диирим", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PRES+POSS.1SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 45,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство цели",
+    "section": 82,
+    "notes": "Другая форма обстоятельства цели — сочетание существительного с послелогом *туһугар*, *иннигэр*, *иһин* «ради».",
+    "sah": "Билигин миэхэ хайа баҕарар сорудаҕы биэрдэллэр, Сэмэн иннигэр толоро туруом этэ.",
+    "ru": "Теперь если мне дадут какое угодно поручение, то ради семена бы поняла бы.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "билигин+Adv"},
+      {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
+      {"pos": 3, "text": "хайа", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron"},
+      {"pos": 4, "text": "баҕарар", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES"},
+      {"pos": 5, "text": "сорудаҕы", "type": "lowercase", "fst": "ymv", "root": "сорудах+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "биэрдэллэр", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+CONV_COND#1+PL"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "Сэмэн", "type": "title", "fst": "ymv", "root": "сэмэн+N"},
+      {"pos": 9, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 10, "text": "толоро", "type": "lowercase", "fst": "ymv", "root": "толор+V", "affixes": "+CONV#2"},
+      {"pos": 11, "text": "туруом", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_FUT+POSS.1SG"},
+      {"pos": 12, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 45,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство цели",
+    "section": 82,
+    "notes": "Другая форма обстоятельства цели — сочетание существительного с послелогом *туһугар*, *иннигэр*, *иһин* «ради».",
+    "sah": "Истиҥник таптыыр Ийэ сирим иһин Сырдык тыыммын харыстыам суоҕа.",
+    "ru": "Ради Родины, которую искренне люблю, светлое дыхание моё не пощажу.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Истиҥник", "type": "title", "fst": "ymv", "root": "истиҥ+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "таптыыр", "type": "lowercase", "fst": "ymv", "root": "таптаа+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "Ийэ", "type": "title", "fst": "ymv", "root": "ийэ+N"},
+      {"pos": 4, "text": "сирим", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+POSS.1SG"},
+      {"pos": 5, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 6, "text": "Сырдык", "type": "title", "fst": "ymv", "root": "сырдаа+V", "affixes": "+NMLZ#5"},
+      {"pos": 7, "text": "тыыммын", "type": "lowercase", "fst": "ymv", "root": "тыын+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 8, "text": "харыстыам", "type": "lowercase", "fst": "ymv", "root": "харыс+N", "affixes": "+VRBLZ#1+PART_FUT+POSS.1SG"},
+      {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+POSS.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

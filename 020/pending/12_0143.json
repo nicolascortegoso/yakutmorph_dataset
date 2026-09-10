@@ -1,0 +1,36 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 68,
+    "chapter": "Двусоставное предложение",
+    "topic": "Приложение. Союзы при согласуемых однородных членах прелдожения",
+    "section": 143,
+    "notes": "В якутском языке однородные члены согласуются в падеже. Этим якутский отличается от многих современных тюркских языков, в которых сочетание однородных членов строится на примыкании, и поэтому в том случае, когда отношения их к другим членам предложения выражаются с помощью аффиксов косвенных падежи, аффикс ставится при последнем из однородных членов.",
+    "sah": "Магазинга китоб, дафтар, калам, сиехдон ва бошка нарсаларни олиб кэлдилар.",
+    "ru": "В магазин привезли книги, тетради, карандаши, чернильницы и другие вещи.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Магазинга", "type": "title", "fst": "yma", "root": "магазинга+N"},
+      {"pos": 1, "text": "Магазинга", "type": "title", "fst": "yma", "root": "магазинг+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "китоб", "type": "lowercase", "fst": "yma", "root": "китоб+N"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "дафтар", "type": "lowercase", "fst": "yma", "root": "дафтар+N"},
+      {"pos": 4, "text": "дафтар", "type": "lowercase", "fst": "yma", "root": "дафта+N", "affixes": "+VRBLZ#4"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "калам", "type": "lowercase", "fst": "yma", "root": "калам^Adv"},
+      {"pos": 6, "text": "калам", "type": "lowercase", "fst": "yma", "root": "кала^Adj", "affixes": "+POSS.1SG"},
+      {"pos": 6, "text": "калам", "type": "lowercase", "fst": "yma", "root": "кала^Adv", "affixes": "+POSS.1SG"},
+      {"pos": 6, "text": "калам", "type": "lowercase", "fst": "yma", "root": "кала^N", "affixes": "+POSS.1SG"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "сиехдон", "type": "lowercase", "fst": "yma", "root": "сиехдон+N"},
+      {"pos": 9, "text": "ва", "type": "lowercase", "fst": "yma", "root": "ва+N"},
+      {"pos": 10, "text": "бошка", "type": "lowercase", "fst": "yma", "root": "бошка+N"},
+      {"pos": 11, "text": "нарсаларни", "type": "lowercase", "fst": "yma", "root": "нарсаларни+N"},
+      {"pos": 12, "text": "олиб", "type": "lowercase", "fst": "yma", "root": "олиб+N"},
+      {"pos": 13, "text": "кэлдилар", "type": "lowercase", "fst": "yma", "root": "кэлдилар+N"},
+      {"pos": 13, "text": "кэлдилар", "type": "lowercase", "fst": "yma", "root": "кэлдила+N", "affixes": "+VRBLZ#4"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 89,
+    "chapter": "Двусоставное предложение",
+    "topic": "Односоставное предложение. Безличные предложения, главный член которых выражен сочетанием причастия на *-ар* (*-ыыр*) в сочетании с частицей *куолу* (*куолута*), *баҕайы* (*баҕайыта*)",
+    "section": 180,
+    "notes": "В двухсоставных предложениях сказуемое данной конструкции также подчёркивает обыденность того, о чем сообщается в предложении.",
+    "sah": "Үлэҕэ итэҕэс-быһаҕас ханна да баар буолар баҕаайыта.",
+    "ru": "Недостатки-недоделки в работе везде бывают обычно.",
+    "id": 7,
+    "parses": [
+      {"pos": 1, "text": "Үлэҕэ", "type": "title", "fst": "ymv", "root": "үлэх+N", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "Үлэҕэ", "type": "title", "fst": "ymv", "root": "үлэ+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "итэҕэс", "type": "lowercase", "fst": "ymv", "root": "итэҕэс+N"},
+      {"pos": 2, "text": "итэҕэс", "type": "lowercase", "fst": "ymv", "root": "итэҕэй+V", "affixes": "+RECP"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 4, "text": "быһаҕас", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+ADJZ#6"},
+      {"pos": 5, "text": "ханна", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron"},
+      {"pos": 5, "text": "ханна", "type": "lowercase", "fst": "ymv", "root": "харын+N", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": "ханна", "type": "lowercase", "fst": "ymv", "root": "хай+V", "affixes": "+REFL/PASS+PST.3SG"},
+      {"pos": 6, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 6, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 7, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+      {"pos": 7, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+V"},
+      {"pos": 8, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": "баҕаайыта", "type": "lowercase", "fst": "yma", "root": "баҕаайыта^Adv"},
+      {"pos": 9, "text": "баҕаайыта", "type": "lowercase", "fst": "yma", "root": "баҕаайыта^N"},
+      {"pos": 9, "text": "баҕаайыта", "type": "lowercase", "fst": "yma", "root": "баҕаайы^N", "affixes": "^VRBLZ#2+CSTV+POSS.3SG"},
+      {"pos": 9, "text": "баҕаайыта", "type": "lowercase", "fst": "yma", "root": "баҕаайы^N", "affixes": "^VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 9, "text": "баҕаайыта", "type": "lowercase", "fst": "yma", "root": "баҕаайы^N", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "баҕаайыта", "type": "lowercase", "fst": "yma", "root": "баҕаайы^N", "affixes": "+PRTV"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

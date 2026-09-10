@@ -1,0 +1,30 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 237,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения причины",
+    "section": 361,
+    "notes": "Предложения с послелогом *түмүгэр*, который представляет собой форму дательного падежа лично-притяжательного склонения от имени *тумук* «»узел, «конец», «вывод», «результат», «следствие», характерны для книжной и официальной речи. В них выражается причина, вызывающая главное событие.",
+    "sah": "Бу дьаһаллар олохтоммуттарын түмүгэр, бастакы курска киирээччилэр ахсааннара сылтан сыл эбиллэн испитэ.",
+    "ru": "В результате (вследствие) того, что эти распоряжения вступили в силу, число поступающих на первый курс из года в год возрастало.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "дьаһаллар", "type": "lowercase", "fst": "ymv", "root": "дьаһай+V", "affixes": "+NMLZ#9+PL"},
+      {"pos": 3, "text": "олохтоммуттарын", "type": "lowercase", "fst": "ymv", "root": "олох+Adv", "affixes": "+VRBLZ#1+REFL/PASS+PART_PAST+PL+POSS.3SG.ACC"},
+      {"pos": 4, "text": "түмүгэр", "type": "lowercase", "fst": "ymv", "root": "түм+V", "affixes": "+NMLZ#5+POSS.3SG.DAT"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "бастакы", "type": "lowercase", "fst": "ymv", "root": "бастакы+Adj"},
+      {"pos": 7, "text": "курска", "type": "lowercase", "fst": "ymv", "root": "курс+N", "affixes": "+DAT"},
+      {"pos": 8, "text": "киирээччилэр", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+HAB#1+PL"},
+      {"pos": 9, "text": "ахсааннара", "type": "lowercase", "fst": "ymv", "root": "ахсаан+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 10, "text": "сылтан", "type": "lowercase", "fst": "ymv", "root": "сыл+N", "affixes": "+ABL"},
+      {"pos": 11, "text": "сыл", "type": "lowercase", "fst": "ymv", "root": "сыл+N"},
+      {"pos": 12, "text": "эбиллэн", "type": "lowercase", "fst": "ymv", "root": "эп+V", "affixes": "+PASS+CONV#1"},
+      {"pos": 13, "text": "испитэ", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

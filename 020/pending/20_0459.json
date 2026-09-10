@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 269,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение предшествования",
+    "section": 459,
+    "notes": "Значение близкого предшествования может осложняться экспрессивными и субъективно-модальными характеристиками события главной части. Это значение передается предложениями со сказуемым ЗПЕ в формах причастия на *-ыах* в форме притяжания с частицей *да* и с послелогом *иннинэ*.",
+    "sah": "Сэрииһиттэр күлсэн иһэннэр, Микиитэ өһүргэниэн да иннинэ, тохтуу оҕустулар.",
+    "ru": "Бойцы начали было уже смеяться и вдруг остановились, в то время когда Никита не успел даже обидеться.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Сэрииһиттэр", "type": "title", "fst": "ymv", "root": "сэрии+N", "affixes": "+NMLZ#1+PL"},
+      {"pos": 2, "text": "күлсэн", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+RECP+CONV#1"},
+      {"pos": 3, "text": "иһэннэр", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+VRBLZ#3+REFL/PASS+CAUS"},
+      {"pos": 3, "text": "иһэннэр", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+VRBLZ#3+REFL/PASS+CONV_COND#1"},
+      {"pos": 3, "text": "иһэннэр", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+VRBLZ#3+REFL/PASS+PL"},
+      {"pos": 3, "text": "иһэннэр", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+CONV#1+PL"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ+N"},
+      {"pos": 6, "text": "өһүргэниэн", "type": "lowercase", "fst": "ymv", "root": "өс+N", "affixes": "+VRBLZ#7+REFL/PASS+PART_FUT+CONV#1"},
+      {"pos": 6, "text": "өһүргэниэн", "type": "lowercase", "fst": "ymv", "root": "өһүргэн+V", "affixes": "+PART_FUT+CONV#1"},
+      {"pos": 7, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 7, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 8, "text": "иннинэ", "type": "lowercase", "fst": "ymv", "root": "иннинэ+POST"},
+      {"pos": 8, "text": "иннинэ", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3SG.PRTV"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "тохтуу", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+CONV#2"},
+      {"pos": 10, "text": "тохтуу", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+ADVZ#6"},
+      {"pos": 10, "text": "тохтуу", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+VRBLZ#1+NMLZ#2"},
+      {"pos": 10, "text": "тохтуу", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+VRBLZ#1+CONV#2"},
+      {"pos": 11, "text": "оҕустулар", "type": "lowercase", "fst": "ymv", "root": "ох+N", "affixes": "+VRBLZ#2+RECP+PST.3PL"},
+      {"pos": 11, "text": "оҕустулар", "type": "lowercase", "fst": "ymv", "root": "оҕус+V", "affixes": "+PST.3PL"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

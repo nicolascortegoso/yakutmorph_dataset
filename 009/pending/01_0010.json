@@ -10,7 +10,7 @@
     "ru": "Коля однажды весной с сестрой рвал лук.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Коля", "type": "title", "fst": "yma", "root": "коля^N"},
+      {"pos": 1, "text": "Коля", "type": "title", "fst": "yma", "root": "коля+N"},
       {"pos": 2, "text": "балтыныын", "type": "lowercase", "fst": "ymv", "root": "балыс+N", "affixes": "+POSS.3SG.COMIT"},
       {"pos": 3, "text": "саас", "type": "lowercase", "fst": "ymv", "root": "саас+Adv"},
       {"pos": 3, "text": "саас", "type": "lowercase", "fst": "ymv", "root": "саас+N"},
@@ -24,8 +24,8 @@
       {"pos": 6, "text": "үргүү", "type": "lowercase", "fst": "ymv", "root": "үрк+V", "affixes": "+NMLZ#2"},
       {"pos": 6, "text": "үргүү", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+NMLZ#2"},
       {"pos": 6, "text": "үргүү", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+CONV#2"},
-      {"pos": 7, "text": "сылдьыбыта", "type": "lowercase", "fst": "yma", "root": "сылдьыбыта^Adv"},
-      {"pos": 7, "text": "сылдьыбыта", "type": "lowercase", "fst": "yma", "root": "сылдьыбыта^N"},
+      {"pos": 7, "text": "сылдьыбыта", "type": "lowercase", "fst": "yma", "root": "сылдьыбыта+Adv"},
+      {"pos": 7, "text": "сылдьыбыта", "type": "lowercase", "fst": "yma", "root": "сылдьыбыта+N"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }

@@ -11,9 +11,9 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "Кэнникинэн", "type": "title", "fst": "ymv", "root": "кэлин+N", "affixes": "+ADJZ#4+INST"},
-      {"pos": 2, "text": "Марина", "type": "title", "fst": "yma", "root": "марина^N"},
-      {"pos": 2, "text": "Марина", "type": "title", "fst": "yma", "root": "маринт^N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": "Марина", "type": "title", "fst": "yma", "root": "марин^N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "Марина", "type": "title", "fst": "yma", "root": "марина+N"},
+      {"pos": 2, "text": "Марина", "type": "title", "fst": "yma", "root": "маринт+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "Марина", "type": "title", "fst": "yma", "root": "марин+N", "affixes": "+POSS.3SG"},
       {"pos": 3, "text": "сылайа", "type": "lowercase", "fst": "ymv", "root": "сылай+V", "affixes": "+CONV#2"},
       {"pos": 4, "text": "быһыытыйда", "type": "lowercase", "fst": "ymv", "root": "быһыы+N", "affixes": "+VRBLZ#5+PST.3SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
@@ -49,8 +49,8 @@
     "ru": "Увидев прошлым летом, из-за жалости я чуть не заплакал.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Быһайын", "type": "title", "fst": "yma", "root": "быһайын^N"},
-      {"pos": 1, "text": "Быһайын", "type": "title", "fst": "yma", "root": "быһай^Adj", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Быһайын", "type": "title", "fst": "yma", "root": "быһайын+N"},
+      {"pos": 1, "text": "Быһайын", "type": "title", "fst": "yma", "root": "быһай+Adj", "affixes": "+POSS.3SG+ACC"},
       {"pos": 2, "text": "көрөн", "type": "lowercase", "fst": "ymv", "root": "көр+N", "affixes": "+VRBLZ#3+REFL/PASS"},
       {"pos": 2, "text": "көрөн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CONV#1"},
       {"pos": 3, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бараа+V", "affixes": "+REFL/PASS"},
@@ -79,8 +79,8 @@
     "ru": "Станислав Георгиевич, ты потом зайди-ка ко мне (повелительное наклонение).",
     "id": 18,
     "parses": [
-      {"pos": 1, "text": "Станислав", "type": "title", "fst": "yma", "root": "станислав^N"},
-      {"pos": 2, "text": "Георгиевич", "type": "title", "fst": "yma", "root": "георгиевич^N"},
+      {"pos": 1, "text": "Станислав", "type": "title", "fst": "yma", "root": "станислав+N"},
+      {"pos": 2, "text": "Георгиевич", "type": "title", "fst": "yma", "root": "георгиевич+N"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "киирэ", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+CONV#2"},
       {"pos": 5, "text": "сылдьаар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+IMP#2.2SG"},
@@ -102,7 +102,7 @@
     "ru": "Семен в пути, чтобы переночевать, поесть, обычно никогда ищет жилье с людьми (наклонение обычно совершающегося действия).",
     "id": 26,
     "parses": [
-      {"pos": 1, "text": "Семен", "type": "title", "fst": "yma", "root": "семен^N"},
+      {"pos": 1, "text": "Семен", "type": "title", "fst": "yma", "root": "семен+N"},
       {"pos": 2, "text": "айаннаан", "type": "lowercase", "fst": "ymv", "root": "айан+N", "affixes": "+VRBLZ#1+CONV#1"},
       {"pos": 3, "text": "иһэн", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+VRBLZ#3+REFL/PASS"},
       {"pos": 3, "text": "иһэн", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+CONV#1"},
@@ -124,7 +124,7 @@
       {"pos": 9, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хай+V", "affixes": "+RECP+CONV#1"},
       {"pos": 10, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
       {"pos": 10, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 11, "text": "нал", "type": "lowercase", "fst": "yma", "root": "нал^N"},
+      {"pos": 11, "text": "нал", "type": "lowercase", "fst": "yma", "root": "нал+N"},
       {"pos": 12, "text": "көрдөһө", "type": "lowercase", "fst": "ymv", "root": "көрдөө+V", "affixes": "+ADJZ#14+POSS.3SG"},
       {"pos": 12, "text": "көрдөһө", "type": "lowercase", "fst": "ymv", "root": "көрдөө+V", "affixes": "+RECP+CONV#2"},
       {"pos": 12, "text": "көрдөһө", "type": "lowercase", "fst": "ymv", "root": "көр+N", "affixes": "+VRBLZ#1+ADJZ#14+POSS.3SG"},
@@ -178,7 +178,7 @@
     "ru": "Аня еще не кончила учиться.",
     "id": 31,
     "parses": [
-      {"pos": 1, "text": "Аня", "type": "title", "fst": "yma", "root": "аня^N"},
+      {"pos": 1, "text": "Аня", "type": "title", "fst": "yma", "root": "аня+N"},
       {"pos": 2, "text": "үөрэбин", "type": "lowercase", "fst": "ymv", "root": "үөр+N", "affixes": "+POSS.3SG+1SG"},
       {"pos": 2, "text": "үөрэбин", "type": "lowercase", "fst": "ymv", "root": "үөр+V", "affixes": "+PART_PRES+1SG"},
       {"pos": 3, "text": "бүтэрэ", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CSTV+CONV#2"},

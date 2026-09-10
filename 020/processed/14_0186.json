@@ -199,9 +199,9 @@
     "ru": "Светлым-светло.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Сып", "type": "title", "fst": "ymv", "root": "сып+INTENS"},
+      {"pos": 1, "text": "Сып", "type": "title", "fst": "ymv", "compound": true, "root": "сып+INTENS"},
       {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "сырдык", "type": "lowercase", "fst": "ymv", "root": "сырдый+V", "affixes": "+ADJZ#16"},
+      {"pos": 3, "text": "сырдык", "type": "lowercase", "fst": "ymv", "compound": true, "root": "сырдаа+V+NMLZ#5"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -218,9 +218,9 @@
     "id": 12,
     "parses": [
       {"pos": 1, "text": "Таһырдьа", "type": "title", "fst": "ymv", "root": "таһырдьа+N"},
-      {"pos": 2, "text": "сып", "type": "lowercase", "fst": "ymv", "root": "сып+INTENS"},
+      {"pos": 2, "text": "сып", "type": "lowercase", "fst": "ymv", "compound": true, "root": "сып+INTENS"},
       {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 4, "text": "сырдык", "type": "lowercase", "fst": "ymv", "root": "сырдый+V", "affixes": "+ADJZ#16"},
+      {"pos": 4, "text": "сырдык", "type": "lowercase", "fst": "ymv", "compound": true, "root": "сырдаа+V+NMLZ#5"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },

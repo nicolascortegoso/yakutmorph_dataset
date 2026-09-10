@@ -246,15 +246,15 @@
     "id": 14,
     "parses": [
       {"pos": 1, "text": "Директоры", "type": "title", "fst": "yma", "root": "директоры+N"},
-      {"pos": 2, "text": "солбуйааччы", "type": "lowercase", "fst": "ymv", "root": "солбуй+V", "affixes": "+HAB#1"},
+      {"pos": 2, "text": "солбуйааччы", "type": "lowercase", "fst": "ymv", "root": "солбуй+V+HAB#1"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "нап", "type": "lowercase", "fst": "yma", "root": "нап+INTENS"},
+      {"pos": 4, "text": "нап", "type": "lowercase", "fst": "yma", "compound": true, "root": "нап+INTENS"},
       {"pos": 5, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 6, "text": "намыһах", "type": "lowercase", "fst": "ymv", "root": "намыһаа+V", "affixes": "+ADJZ#16"},
+      {"pos": 6, "text": "намыһах", "type": "lowercase", "fst": "ymv", "compound": true, "root": "намыһаа+V+ADJZ#16"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 8, "text": "суп", "type": "lowercase", "fst": "ymv", "root": "суп+INTENS"},
+      {"pos": 8, "text": "суп", "type": "lowercase", "fst": "ymv", "compound": true, "root": "суп+INTENS"},
       {"pos": 9, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 10, "text": "суон", "type": "lowercase", "fst": "ymv", "root": "суон+Adj"},
+      {"pos": 10, "text": "суон", "type": "lowercase", "fst": "ymv", "compound": true, "root": "суон+Adj"},
       {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },

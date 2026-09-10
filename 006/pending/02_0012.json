@@ -10,8 +10,8 @@
     "ru": "При нерасчетливых движениях ведь не осудительно именно то, что валится юрта.",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Баламаттык", "type": "title", "fst": "yma", "root": "баламаттый^V", "affixes": "^ADJZ#15"},
-      {"pos": 1, "text": "Баламаттык", "type": "title", "fst": "yma", "root": "баламаттый^V", "affixes": "^NMLZ#5"},
+      {"pos": 1, "text": "Баламаттык", "type": "title", "fst": "yma", "root": "баламаттый+V", "affixes": "+ADJZ#15"},
+      {"pos": 1, "text": "Баламаттык", "type": "title", "fst": "yma", "root": "баламаттый+V", "affixes": "+NMLZ#5"},
       {"pos": 2, "text": "хамсаннахха", "type": "lowercase", "fst": "ymv", "root": "хамсан+V", "affixes": "+CONV_COND#2+DAT"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "Балаҕан", "type": "title", "fst": "ymv", "root": "балаҕан+N"},
@@ -21,7 +21,7 @@
       {"pos": 5, "text": "сууллара", "type": "lowercase", "fst": "ymv", "root": "суул+V", "affixes": "+CSTV+CONV#2"},
       {"pos": 6, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕас+Part"},
       {"pos": 6, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#2+RECP"},
-      {"pos": 7, "text": "Баалаах", "type": "title", "fst": "yma", "root": "баалаах^N"},
+      {"pos": 7, "text": "Баалаах", "type": "title", "fst": "yma", "root": "баалаах+N"},
       {"pos": 8, "text": "дьыала", "type": "lowercase", "fst": "ymv", "root": "дьыала+N"},
       {"pos": 9, "text": "буоллаҕай", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG+INT"},
       {"pos": 10, "text": "?", "type": "question", "fst": "ymv"},
@@ -120,9 +120,9 @@
       {"pos": 5, "text": "эчи", "type": "lowercase", "fst": "ymv", "root": "эчи+MOD"},
       {"pos": 6, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕас+Part"},
       {"pos": 6, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#2+RECP"},
-      {"pos": 7, "text": "бэркиний", "type": "lowercase", "fst": "yma", "root": "бэркин^N", "affixes": "^VRBLZ#2"},
-      {"pos": 7, "text": "бэркиний", "type": "lowercase", "fst": "yma", "root": "бэркин^N", "affixes": "+ACC+INT"},
-      {"pos": 7, "text": "бэркиний", "type": "lowercase", "fst": "yma", "root": "бэрки^N", "affixes": "+INT"},
+      {"pos": 7, "text": "бэркиний", "type": "lowercase", "fst": "yma", "root": "бэркин+N", "affixes": "+VRBLZ#2"},
+      {"pos": 7, "text": "бэркиний", "type": "lowercase", "fst": "yma", "root": "бэркин+N", "affixes": "+ACC+INT"},
+      {"pos": 7, "text": "бэркиний", "type": "lowercase", "fst": "yma", "root": "бэрки+N", "affixes": "+INT"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }

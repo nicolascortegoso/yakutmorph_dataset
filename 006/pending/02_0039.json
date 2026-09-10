@@ -34,9 +34,9 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Тунаархай", "type": "title", "fst": "ymv", "root": "тунаа+Adj", "affixes": "+VRBLZ#8+ADJZ#9"},
-      {"pos": 2, "text": "собус", "type": "lowercase", "fst": "yma", "root": "собус^V"},
-      {"pos": 2, "text": "собус", "type": "lowercase", "fst": "yma", "root": "собуй^V", "affixes": "+RECP"},
-      {"pos": 2, "text": "собус", "type": "lowercase", "fst": "yma", "root": "собу^Adv", "affixes": "^VRBLZ#2+RECP"},
+      {"pos": 2, "text": "собус", "type": "lowercase", "fst": "yma", "root": "собус+V"},
+      {"pos": 2, "text": "собус", "type": "lowercase", "fst": "yma", "root": "собуй+V", "affixes": "+RECP"},
+      {"pos": 2, "text": "собус", "type": "lowercase", "fst": "yma", "root": "собу+Adv", "affixes": "+VRBLZ#2+RECP"},
       {"pos": 3, "text": "снимок", "type": "lowercase", "fst": "yma", "root": "снимок+N"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -55,9 +55,9 @@
       {"pos": 1, "text": "Сулбу", "type": "title", "fst": "ymv", "root": "сулбу+Adv"},
       {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP"},
       {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"},
-      {"pos": 3, "text": "хаамсан", "type": "lowercase", "fst": "yma", "root": "хаамыс^N", "affixes": "^VRBLZ#3+PASS"},
-      {"pos": 3, "text": "хаамсан", "type": "lowercase", "fst": "yma", "root": "хаамыс^N", "affixes": "^VRBLZ#3+REFL"},
-      {"pos": 3, "text": "хаамсан", "type": "lowercase", "fst": "yma", "root": "хаамсан^V"},
+      {"pos": 3, "text": "хаамсан", "type": "lowercase", "fst": "yma", "root": "хаамыс+N", "affixes": "+VRBLZ#3+PASS"},
+      {"pos": 3, "text": "хаамсан", "type": "lowercase", "fst": "yma", "root": "хаамыс+N", "affixes": "+VRBLZ#3+REFL"},
+      {"pos": 3, "text": "хаамсан", "type": "lowercase", "fst": "yma", "root": "хаамсан+V"},
       {"pos": 4, "text": "истилэр", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+PST.3PL"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -82,10 +82,10 @@
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 7, "text": "―", "type": "unknown", "fst": "ymv"},
       {"pos": 8, "text": "диэбитэ", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэриитинээ^V", "affixes": "+PASS"},
-      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэриитинээ^V", "affixes": "+REFL"},
-      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэриитин^V", "affixes": "+CONV#1"},
-      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэрий^V", "affixes": "^NMLZ#2+POSS.3SG+INST"},
+      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэриитинээ+V", "affixes": "+PASS"},
+      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэриитинээ+V", "affixes": "+REFL"},
+      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэриитин+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": "кэҥэриитинэн", "type": "lowercase", "fst": "yma", "root": "кэҥэрий+V", "affixes": "+NMLZ#2+POSS.3SG+INST"},
       {"pos": 10, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP"},
       {"pos": 10, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"},
       {"pos": 11, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
@@ -104,9 +104,9 @@
     "ru": "Они довольно хвастливы.",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ^Adj", "affixes": "+POSS.1SG"},
-      {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ^Adv", "affixes": "+POSS.1SG"},
-      {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ^N", "affixes": "+POSS.1SG"},
+      {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ+Adj", "affixes": "+POSS.1SG"},
+      {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ+Adv", "affixes": "+POSS.1SG"},
+      {"pos": 1, "text": "Дэбдэм", "type": "title", "fst": "yma", "root": "дэбдэ+N", "affixes": "+POSS.1SG"},
       {"pos": 2, "text": "соҕустар", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP+CAUS"},
       {"pos": 2, "text": "соҕустар", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP+CONV_COND#1"},
       {"pos": 2, "text": "соҕустар", "type": "lowercase", "fst": "ymv", "root": "сох+V", "affixes": "+RECP+PL"},

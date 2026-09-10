@@ -10,9 +10,9 @@
     "ru": "пусть пойду",
     "id": 31,
     "parses": [
-      {"pos": 1, "text": "барыахтыбын", "type": "lowercase", "fst": "yma", "root": "бараа^V", "affixes": "+PART_FUT+IMP+1SG"},
-      {"pos": 1, "text": "барыахтыбын", "type": "lowercase", "fst": "yma", "root": "барыахты^Adj", "affixes": "+1SG"},
-      {"pos": 1, "text": "барыахтыбын", "type": "lowercase", "fst": "yma", "root": "барыахты^Adj", "affixes": "+POSS.1SG+ACC"}
+      {"pos": 1, "text": "барыахтыбын", "type": "lowercase", "fst": "yma", "root": "бараа+V", "affixes": "+PART_FUT+IMP+1SG"},
+      {"pos": 1, "text": "барыахтыбын", "type": "lowercase", "fst": "yma", "root": "барыахты+Adj", "affixes": "+1SG"},
+      {"pos": 1, "text": "барыахтыбын", "type": "lowercase", "fst": "yma", "root": "барыахты+Adj", "affixes": "+POSS.1SG+ACC"}
     ]
   },
   {
@@ -41,8 +41,8 @@
     "ru": "пусть пойдет",
     "id": 33,
     "parses": [
-      {"pos": 1, "text": "барыахтын", "type": "lowercase", "fst": "yma", "root": "бараа^V", "affixes": "+PART_FUT+IMP+3SG"},
-      {"pos": 1, "text": "барыахтын", "type": "lowercase", "fst": "yma", "root": "барыахтын^Adv"}
+      {"pos": 1, "text": "барыахтын", "type": "lowercase", "fst": "yma", "root": "бараа+V", "affixes": "+PART_FUT+IMP+3SG"},
+      {"pos": 1, "text": "барыахтын", "type": "lowercase", "fst": "yma", "root": "барыахтын+Adv"}
     ]
   },
   {
@@ -56,9 +56,9 @@
     "ru": "пусть не пойду",
     "id": 34,
     "parses": [
-      {"pos": 1, "text": "барымыахтыбын", "type": "lowercase", "fst": "yma", "root": "барымыахты^Adj", "affixes": "+1SG"},
-      {"pos": 1, "text": "барымыахтыбын", "type": "lowercase", "fst": "yma", "root": "барымыахты^Adj", "affixes": "+POSS.1SG+ACC"},
-      {"pos": 1, "text": "барымыахтыбын", "type": "lowercase", "fst": "yma", "root": "барым^N", "affixes": "^VRBLZ#3+PART_FUT+IMP+1SG"}
+      {"pos": 1, "text": "барымыахтыбын", "type": "lowercase", "fst": "yma", "root": "барымыахты+Adj", "affixes": "+1SG"},
+      {"pos": 1, "text": "барымыахтыбын", "type": "lowercase", "fst": "yma", "root": "барымыахты+Adj", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 1, "text": "барымыахтыбын", "type": "lowercase", "fst": "yma", "root": "барым+N", "affixes": "+VRBLZ#3+PART_FUT+IMP+1SG"}
     ]
   },
   {
@@ -86,8 +86,8 @@
     "ru": "пусть не пойдет",
     "id": 36,
     "parses": [
-      {"pos": 1, "text": "барымыахтын", "type": "lowercase", "fst": "yma", "root": "барымыахтын^Adv"},
-      {"pos": 1, "text": "барымыахтын", "type": "lowercase", "fst": "yma", "root": "барым^N", "affixes": "^VRBLZ#3+PART_FUT+IMP+3SG"}
+      {"pos": 1, "text": "барымыахтын", "type": "lowercase", "fst": "yma", "root": "барымыахтын+Adv"},
+      {"pos": 1, "text": "барымыахтын", "type": "lowercase", "fst": "yma", "root": "барым+N", "affixes": "+VRBLZ#3+PART_FUT+IMP+3SG"}
     ]
   },
   {
@@ -101,9 +101,9 @@
     "ru": "пусть пойдем",
     "id": 37,
     "parses": [
-      {"pos": 1, "text": "барыахтыбытын", "type": "lowercase", "fst": "yma", "root": "бараа^V", "affixes": "+PART_FUT+IMP+1PL"},
-      {"pos": 1, "text": "барыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барыахтыбытын^Adv"},
-      {"pos": 1, "text": "барыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барыахты^Adj", "affixes": "+POSS.1PL+ACC"}
+      {"pos": 1, "text": "барыахтыбытын", "type": "lowercase", "fst": "yma", "root": "бараа+V", "affixes": "+PART_FUT+IMP+1PL"},
+      {"pos": 1, "text": "барыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барыахтыбытын+Adv"},
+      {"pos": 1, "text": "барыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барыахты+Adj", "affixes": "+POSS.1PL+ACC"}
     ]
   },
   {
@@ -117,11 +117,11 @@
     "ru": "пусть пойдете",
     "id": 38,
     "parses": [
-      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "бараа^V", "affixes": "+PART_FUT+IMP+2PL"},
-      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахтыгытын^Adv"},
-      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахтыгы^N", "affixes": "^VRBLZ#2+CSTV+REFL"},
-      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахтыгы^N", "affixes": "+POSS.3SG+ACC"},
-      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахты^Adj", "affixes": "+POSS.2PL+ACC"}
+      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "бараа+V", "affixes": "+PART_FUT+IMP+2PL"},
+      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахтыгытын+Adv"},
+      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахтыгы+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
+      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахтыгы+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "барыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барыахты+Adj", "affixes": "+POSS.2PL+ACC"}
     ]
   },
   {
@@ -135,10 +135,10 @@
     "ru": "пусть пойдут",
     "id": 39,
     "parses": [
-      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "бараа^V", "affixes": "+PART_FUT+IMP+3PL"},
-      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "барыахтынна^Adv", "affixes": "^VRBLZ#4"},
-      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "барыахтынна^N", "affixes": "^VRBLZ#4"},
-      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "барыахтын^Adv", "affixes": "+PL"}
+      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "бараа+V", "affixes": "+PART_FUT+IMP+3PL"},
+      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "барыахтынна+Adv", "affixes": "+VRBLZ#4"},
+      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "барыахтынна+N", "affixes": "+VRBLZ#4"},
+      {"pos": 1, "text": "барыахтыннар", "type": "lowercase", "fst": "yma", "root": "барыахтын+Adv", "affixes": "+PL"}
     ]
   },
   {
@@ -152,9 +152,9 @@
     "ru": "пусть не пойдем",
     "id": 40,
     "parses": [
-      {"pos": 1, "text": "барымыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыбытын^Adv"},
-      {"pos": 1, "text": "барымыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барымыахты^Adj", "affixes": "+POSS.1PL+ACC"},
-      {"pos": 1, "text": "барымыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барым^N", "affixes": "^VRBLZ#3+PART_FUT+IMP+1PL"}
+      {"pos": 1, "text": "барымыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыбытын+Adv"},
+      {"pos": 1, "text": "барымыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барымыахты+Adj", "affixes": "+POSS.1PL+ACC"},
+      {"pos": 1, "text": "барымыахтыбытын", "type": "lowercase", "fst": "yma", "root": "барым+N", "affixes": "+VRBLZ#3+PART_FUT+IMP+1PL"}
     ]
   },
   {
@@ -168,11 +168,11 @@
     "ru": "пусть не пойдете",
     "id": 41,
     "parses": [
-      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыгытын^Adv"},
-      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыгы^N", "affixes": "^VRBLZ#2+CSTV+REFL"},
-      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыгы^N", "affixes": "+POSS.3SG+ACC"},
-      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахты^Adj", "affixes": "+POSS.2PL+ACC"},
-      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барым^N", "affixes": "^VRBLZ#3+PART_FUT+IMP+2PL"}
+      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыгытын+Adv"},
+      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыгы+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
+      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахтыгы+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барымыахты+Adj", "affixes": "+POSS.2PL+ACC"},
+      {"pos": 1, "text": "барымыахтыгытын", "type": "lowercase", "fst": "yma", "root": "барым+N", "affixes": "+VRBLZ#3+PART_FUT+IMP+2PL"}
     ]
   },
   {
@@ -186,10 +186,10 @@
     "ru": "пусть не пойдут",
     "id": 42,
     "parses": [
-      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барымыахтынна^Adv", "affixes": "^VRBLZ#4"},
-      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барымыахтынна^N", "affixes": "^VRBLZ#4"},
-      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барымыахтын^Adv", "affixes": "+PL"},
-      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барым^N", "affixes": "^VRBLZ#3+PART_FUT+IMP+3PL"}
+      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барымыахтынна+Adv", "affixes": "+VRBLZ#4"},
+      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барымыахтынна+N", "affixes": "+VRBLZ#4"},
+      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барымыахтын+Adv", "affixes": "+PL"},
+      {"pos": 1, "text": "барымыахтыннар", "type": "lowercase", "fst": "yma", "root": "барым+N", "affixes": "+VRBLZ#3+PART_FUT+IMP+3PL"}
     ]
   },
   {

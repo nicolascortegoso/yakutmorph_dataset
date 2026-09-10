@@ -4,14 +4,14 @@
 
 Total affixes: 71442
 
-Total unique affixes: 192
+Total unique affixes: 189
 
 | affix | frequency |
 |:---|:---|
 | POSS.3SG | 5990 |
 | PART_PRES | 5755 |
 | CONV#1 | 4574 |
-| ACC | 3786 |
+| ACC | 3787 |
 | DAT | 3559 |
 | PL | 3474 |
 | PART_PAST | 3255 |
@@ -21,7 +21,7 @@ Total unique affixes: 192
 | VRBLZ#1 | 2024 |
 | NEG | 1855 |
 | POSS.1SG | 1631 |
-| ADJZ#1 | 1616 |
+| ADJZ#1 | 1617 |
 | POSS.3SG.ACC | 1359 |
 | RECP | 1262 |
 | CONV_COND#2 | 1145 |
@@ -88,7 +88,7 @@ Total unique affixes: 192
 | ADVZ#4 | 82 |
 | CONV#4 | 79 |
 | COMP | 74 |
-| ACCE#1 | 73 |
+| ACCE#1 | 74 |
 | VRBLZ#7 | 73 |
 | DISTR | 72 |
 | IMP#2.2SG | 70 |
@@ -195,8 +195,5 @@ Total unique affixes: 192
 | FREC#6 | 1 |
 | SLOW#2 | 1 |
 | DIM#5 | 1 |
-| N | 1 |
-| ADJV#1 | 1 |
 | ADJZ#11 | 1 |
 | POSS.1SG.COMP | 1 |
-| ACCE | 1 |

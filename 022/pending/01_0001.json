@@ -10,10 +10,10 @@
       "ru": "место, где похоронили партизан",
       "id": 20,
       "parses": [
-         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыс", "affixes": ["^N", "^VRBLZ#3", "+CONV#1", "+PL", "+ACC"]},
-         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыһааннары", "affixes": ["^Adj"]},
-         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыһааннары", "affixes": ["^Adv"]},
-         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыһаанна", "affixes": ["^Adv", "^ADVZ#12"]},
+         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыс", "affixes": ["+N", "+VRBLZ#3", "+CONV#1", "+PL", "+ACC"]},
+         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыһааннары", "affixes": ["+Adj"]},
+         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыһааннары", "affixes": ["+Adv"]},
+         {"pos": 1, "text": "бартыһааннары", "type": "lowercase", "fst": "yma", "root": "бартыһаанна", "affixes": ["+Adv", "+ADVZ#12"]},
          {"pos": 2, "text": "көмпут", "type": "lowercase", "fst": "yma", "root": "көмпут", "affixes": ["+N"]},
          {"pos": 3, "text": "сирдэрэ", "type": "lowercase", "fst": "ymv", "root": "сир", "affixes": ["+N", "+PL", "+POSS.3SG"]},
          {"pos": 3, "text": "сирдэрэ", "type": "lowercase", "fst": "ymv", "root": "сир", "affixes": ["+V", "+CAUS", "+CONV#2"]},
@@ -62,8 +62,8 @@
          {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
          {"pos": 4, "text": "фашистскай", "type": "lowercase", "fst": "yma", "root": "фашистскай", "affixes": ["+Adj"]},
          {"pos": 4, "text": "фашистскай", "type": "lowercase", "fst": "yma", "root": "фашистска", "affixes": ["+N", "+VRBLZ#2"]},
-         {"pos": 5, "text": "оккупаннар", "type": "lowercase", "fst": "yma", "root": "оккупанна", "affixes": ["^Adv", "^VRBLZ#4"]},
-         {"pos": 5, "text": "оккупаннар", "type": "lowercase", "fst": "yma", "root": "оккупанна", "affixes": ["^N", "^VRBLZ#4"]},
+         {"pos": 5, "text": "оккупаннар", "type": "lowercase", "fst": "yma", "root": "оккупанна", "affixes": ["+Adv", "+VRBLZ#4"]},
+         {"pos": 5, "text": "оккупаннар", "type": "lowercase", "fst": "yma", "root": "оккупанна", "affixes": ["+N", "+VRBLZ#4"]},
          {"pos": 6, "text": "сэриилэрэ", "type": "lowercase", "fst": "ymv", "root": "сэрии", "affixes": ["+N", "+PL", "+POSS.3SG"]},
          {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
          {"pos": 8, "text": "модун", "type": "lowercase", "fst": "ymv", "root": "модун", "affixes": ["+Adj"]},
@@ -81,9 +81,9 @@
          {"pos": 13, "text": "ыраах", "type": "lowercase", "fst": "ymv", "root": "ыраах", "affixes": ["+Adj"]},
          {"pos": 14, "text": "соҕуруу", "type": "lowercase", "fst": "ymv", "root": "соҕуруу", "affixes": ["+N"]},
          {"pos": 14, "text": "соҕуруу", "type": "lowercase", "fst": "ymv", "root": "сой", "affixes": ["+V", "+NMLZ#6", "+VRBLZ#4", "+NMLZ#2"]},
-         {"pos": 15, "text": "сыбаллыбыт", "type": "lowercase", "fst": "yma", "root": "сыбаллы", "affixes": ["^Adj", "+1PL"]},
-         {"pos": 15, "text": "сыбаллыбыт", "type": "lowercase", "fst": "yma", "root": "сыбаллы", "affixes": ["^Adj", "+POSS.1PL"]},
-         {"pos": 15, "text": "сыбаллыбыт", "type": "lowercase", "fst": "yma", "root": "сыбай", "affixes": ["^V", "+PASS", "+PART_PAST"]},
+         {"pos": 15, "text": "сыбаллыбыт", "type": "lowercase", "fst": "yma", "root": "сыбаллы", "affixes": ["+Adj", "+1PL"]},
+         {"pos": 15, "text": "сыбаллыбыт", "type": "lowercase", "fst": "yma", "root": "сыбаллы", "affixes": ["+Adj", "+POSS.1PL"]},
+         {"pos": 15, "text": "сыбаллыбыт", "type": "lowercase", "fst": "yma", "root": "сыбай", "affixes": ["+V", "+PASS", "+PART_PAST"]},
          {"pos": 16, "text": "кэмнэрэ", "type": "lowercase", "fst": "ymv", "root": "кэм", "affixes": ["+N", "+PL", "+POSS.3SG"]},
          {"pos": 17, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол", "affixes": ["+V", "+CONV#1"]},
          {"pos": 18, "text": "....", "type": "ellipsis", "fst": "ymv"}
@@ -102,11 +102,11 @@
       "parses": [
          {"pos": 1, "text": "Илиинэн", "type": "title", "fst": "ymv", "root": "илии", "affixes": ["+N", "+INST"]},
          {"pos": 2, "text": "суруллубут", "type": "lowercase", "fst": "ymv", "root": "суруй", "affixes": ["+V", "+PASS", "+PART_PAST"]},
-         {"pos": 3, "text": "сурунаабытын", "type": "lowercase", "fst": "yma", "root": "сурунаабытын", "affixes": ["^Adv"]},
-         {"pos": 3, "text": "сурунаабытын", "type": "lowercase", "fst": "yma", "root": "сурунаа", "affixes": ["^V", "+PART_PAST", "+POSS.3SG", "+ACC"]},
-         {"pos": 3, "text": "сурунаабытын", "type": "lowercase", "fst": "yma", "root": "сурун", "affixes": ["^N", "^VRBLZ#3", "+PART_PAST", "+POSS.3SG", "+ACC"]},
-         {"pos": 4, "text": "тапаардыбыт", "type": "lowercase", "fst": "yma", "root": "тапа", "affixes": ["^Adv", "^VRBLZ#4a", "+PST.1PL"]},
-         {"pos": 4, "text": "тапаардыбыт", "type": "lowercase", "fst": "yma", "root": "тапа", "affixes": ["^N", "^VRBLZ#4a", "+PST.1PL"]}
+         {"pos": 3, "text": "сурунаабытын", "type": "lowercase", "fst": "yma", "root": "сурунаабытын", "affixes": ["+Adv"]},
+         {"pos": 3, "text": "сурунаабытын", "type": "lowercase", "fst": "yma", "root": "сурунаа", "affixes": ["+V", "+PART_PAST", "+POSS.3SG", "+ACC"]},
+         {"pos": 3, "text": "сурунаабытын", "type": "lowercase", "fst": "yma", "root": "сурун", "affixes": ["+N", "+VRBLZ#3", "+PART_PAST", "+POSS.3SG", "+ACC"]},
+         {"pos": 4, "text": "тапаардыбыт", "type": "lowercase", "fst": "yma", "root": "тапа", "affixes": ["+Adv", "+VRBLZ#4a", "+PST.1PL"]},
+         {"pos": 4, "text": "тапаардыбыт", "type": "lowercase", "fst": "yma", "root": "тапа", "affixes": ["+N", "+VRBLZ#4a", "+PST.1PL"]}
       ]
    },
    {
@@ -121,7 +121,7 @@
       "id": 30,
       "parses": [
          {"pos": 1, "text": "массыынанан", "type": "lowercase", "fst": "ymv", "root": "массыына", "affixes": ["+N", "+INST"]},
-         {"pos": 2, "text": "тиэриллибит", "type": "lowercase", "fst": "yma", "root": "тиэрий", "affixes": ["^V", "+PASS", "+PART_PAST"]},
+         {"pos": 2, "text": "тиэриллибит", "type": "lowercase", "fst": "yma", "root": "тиэрий", "affixes": ["+V", "+PASS", "+PART_PAST"]},
          {"pos": 3, "text": "сир", "type": "lowercase", "fst": "ymv", "root": "сир", "affixes": ["+IMIT"]},
          {"pos": 3, "text": "сир", "type": "lowercase", "fst": "ymv", "root": "сир", "affixes": ["+N"]},
          {"pos": 3, "text": "сир", "type": "lowercase", "fst": "ymv", "root": "сир", "affixes": ["+V"]}

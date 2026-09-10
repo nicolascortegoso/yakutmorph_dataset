@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 300,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Союзные сложносочиненные предложения",
+    "section": 545,
+    "notes": "Наиболее распространенным соединительным союзом в якутском языке является союз *уонна* «и», «потом», «затем».",
+    "sah": "Кини син эн курдук аспирант этэ дии уонна аҕам эйэхэ наһаа да эрэнэрэ, итэҕэйэрэ...",
+    "ru": "Ведь он так же, как и ты, был аспирантом, и мой отец очень надеялся и верил в тебя.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 2, "text": "син", "type": "lowercase", "fst": "ymv", "root": "син+Adv"},
+      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 4, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 5, "text": "аспирант", "type": "lowercase", "fst": "yma", "root": "аспирант+N"},
+      {"pos": 6, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии+Part"},
+      {"pos": 8, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 9, "text": "аҕам", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 10, "text": "эйэхэ", "type": "lowercase", "fst": "yma", "root": "эйэхэ+N"},
+      {"pos": 11, "text": "наһаа", "type": "lowercase", "fst": "ymv", "root": "наһаа+Adv"},
+      {"pos": 12, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 13, "text": "эрэнэрэ", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 14, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 15, "text": "итэҕэйэрэ", "type": "lowercase", "fst": "ymv", "root": "итэҕэй+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 16, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 73,
+    "chapter": "Двусоставное предложение",
+    "topic": "Сочетания однородных членов предложения, оформленные аффиксом совместного падежа *-лыын*",
+    "section": 162,
+    "notes": "Имя в совместном падеже может имеет и форму множественного числа.",
+    "sah": "Ити икки ардыгар Бурхалиэйи Атиэн кинээс дэһээтинньиктэриниин кэлэн тулатуран кэбистилэр.",
+    "ru": "Между тем Бурхался князь Атиэн с его десятниками, придя, окружили.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 2, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
+      {"pos": 3, "text": "ардыгар", "type": "lowercase", "fst": "ymv", "root": "арыт+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "ардыгар", "type": "lowercase", "fst": "ymv", "root": "ардаа+V", "affixes": "+NMLZ#5+POSS.3SG.DAT"},
+      {"pos": 4, "text": "Бурхалиэйи", "type": "title", "fst": "yma", "root": "бурхалиэйи+N"},
+      {"pos": 5, "text": "Атиэн", "type": "title", "fst": "yma", "root": "атиэн+N"},
+      {"pos": 6, "text": "кинээс", "type": "lowercase", "fst": "ymv", "root": "кинээс+N"},
+      {"pos": 7, "text": "дэһээтинньиктэриниин", "type": "lowercase", "fst": "ymv", "root": "дэһээтинньик+N", "affixes": "+POSS.3PL.COMIT"},
+      {"pos": 7, "text": "дэһээтинньиктэриниин", "type": "lowercase", "fst": "ymv", "root": "дэһээтинньик+N", "affixes": "+PL+POSS.3SG.COMIT"},
+      {"pos": 8, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": "тулатуран", "type": "lowercase", "fst": "yma", "root": "тулатуран+N"},
+      {"pos": 9, "text": "тулатуран", "type": "lowercase", "fst": "yma", "root": "тулатур+N", "affixes": "+VRBLZ#3+REFL/PASS"},
+      {"pos": 9, "text": "тулатуран", "type": "lowercase", "fst": "yma", "root": "тулату+N", "affixes": "+VRBLZ#4+CONV#1"},
+      {"pos": 10, "text": "кэбистилэр", "type": "lowercase", "fst": "ymv", "root": "кэп+N", "affixes": "+VRBLZ#2+RECP+PST.3PL"},
+      {"pos": 10, "text": "кэбистилэр", "type": "lowercase", "fst": "ymv", "root": "кэп+V", "affixes": "+RECP+PST.3PL"},
+      {"pos": 10, "text": "кэбистилэр", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+PST.3PL"},
+      {"pos": 10, "text": "кэбистилэр", "type": "lowercase", "fst": "ymv", "root": "кэбий+V", "affixes": "+RECP+PST.3PL"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 56,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Примыкающее определение. Примыкающее определение, выраженное сочетанием слов",
+    "section": 119,
+    "notes": "Из сочетаний однородных членов в роли примыкающего определения часто употребляется только словосочетания, оформленные аффиксом обладание *-лаах*.",
+    "sah": "Баайдаах дьаданы Сөдүөччүйэлэр уруулуу эбиттэр.",
+    "ru": "Багатая и бедная Федосьи - родственницы, оказывается.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Баайдаах", "type": "title", "fst": "ymv", "root": "баай+Adj", "affixes": "+ADJZ#1"},
+      {"pos": 1, "text": "Баайдаах", "type": "title", "fst": "ymv", "root": "баай+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "дьаданы", "type": "lowercase", "fst": "yma", "root": "дьадан^Adv", "affixes": "^ADVZ#1"},
+      {"pos": 2, "text": "дьаданы", "type": "lowercase", "fst": "yma", "root": "дьадан^Adv", "affixes": "+ACC"},
+      {"pos": 2, "text": "дьаданы", "type": "lowercase", "fst": "yma", "root": "дьада^Adj", "affixes": "+ACC"},
+      {"pos": 2, "text": "дьаданы", "type": "lowercase", "fst": "yma", "root": "дьада^N", "affixes": "+ACC"},
+      {"pos": 3, "text": "Сөдүөччүйэлэр", "type": "title", "fst": "yma", "root": "сөдүөччүйэлэ^Adv", "affixes": "^VRBLZ#4"},
+      {"pos": 3, "text": "Сөдүөччүйэлэр", "type": "title", "fst": "yma", "root": "сөдүөччүйэлэ^N", "affixes": "^VRBLZ#4"},
+      {"pos": 3, "text": "Сөдүөччүйэлэр", "type": "title", "fst": "yma", "root": "сөдүөччүйэ^N", "affixes": "+PL"},
+      {"pos": 4, "text": "уруулуу", "type": "lowercase", "fst": "ymv", "root": "уруу+N", "affixes": "+ADVZ#6"},
+      {"pos": 4, "text": "уруулуу", "type": "lowercase", "fst": "ymv", "root": "уруу+N", "affixes": "+VRBLZ#1+NMLZ#2"},
+      {"pos": 4, "text": "уруулуу", "type": "lowercase", "fst": "ymv", "root": "уруу+N", "affixes": "+VRBLZ#1+CONV#2"},
+      {"pos": 5, "text": "эбиттэр", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+PL"},
+      {"pos": 5, "text": "эбиттэр", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST+PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

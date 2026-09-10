@@ -1,0 +1,33 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 296,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Бессоюзные сложносочиненные предложения",
+    "section": 535,
+    "notes": "При некоторых бессоюзных сложносочиненных предложениях употребляется общий для всех частей второстепенный член предложения, который, как правило, находится в начале предложения.",
+    "sah": "Революция иннинэ үөрэх алыс бытаанных тарҕаммыта, оскуола бэрт аҕыйах этэ.",
+    "ru": "До революции просвещения распространялось очень медленно, школ было очень мало.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Революция", "type": "title", "fst": "ymv", "root": "революция+N"},
+      {"pos": 2, "text": "иннинэ", "type": "lowercase", "fst": "ymv", "root": "иннинэ+POST"},
+      {"pos": 2, "text": "иннинэ", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3SG.PRTV"},
+      {"pos": 3, "text": "үөрэх", "type": "lowercase", "fst": "ymv", "root": "үөрэх+N"},
+      {"pos": 3, "text": "үөрэх", "type": "lowercase", "fst": "ymv", "root": "үөр+V", "affixes": "+NMLZ#6"},
+      {"pos": 4, "text": "алыс", "type": "lowercase", "fst": "ymv", "root": "алыс+Adj"},
+      {"pos": 5, "text": "бытаанных", "type": "lowercase", "fst": "yma", "root": "бытаанных+N"},
+      {"pos": 6, "text": "тарҕаммыта", "type": "lowercase", "fst": "ymv", "root": "тарҕаа+V", "affixes": "+REFL/PASS+PART_PAST+POSS.3SG"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "оскуола", "type": "lowercase", "fst": "ymv", "root": "оскуола+N"},
+      {"pos": 9, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
+      {"pos": 10, "text": "аҕыйах", "type": "lowercase", "fst": "ymv", "root": "аҕыйаа+V", "affixes": "+ADJZ#16"},
+      {"pos": 10, "text": "аҕыйах", "type": "lowercase", "fst": "ymv", "root": "аҕыйаа+V", "affixes": "+NMLZ#6"},
+      {"pos": 11, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+N", "affixes": "+POSS.3SG"},
+      {"pos": 11, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+CONV#2"},
+      {"pos": 11, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

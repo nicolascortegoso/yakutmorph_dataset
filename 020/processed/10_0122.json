@@ -1,0 +1,62 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 57,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Изафетное определение. Простое изафетное определительное сочетание слов",
+    "section": 122,
+    "notes": "Простое изафетное сочетание может быть выражено и другими видами сочетаний слов, чаще всего однородными членами с аффиксом *-лаах*. Когда первый член изафетного определительного сочетания выражен сочетанием однородных членов, оформленным аффиксом *-лаах*.",
+    "sah": "Ийээ, Дьөгүөрдээннээх Сөдүөччүйэ улахан оҕолоро Микиитэ диэн киһи бэрдэ, саха бастыҥа баар.",
+    "ru": "Мама, у Егордана и Федосьи сти есть старший сын по имени Никита, лучший из людей, первый из якутов.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Ийээ", "type": "title", "fst": "ymv", "root": "ийээ+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "Дьөгүөрдээннээх", "type": "title", "fst": "ymv", "root": "дьөгүөрдээн+N", "affixes": "+ADJZ#1"},
+      {"pos": 4, "text": "Сөдүөччүйэ", "type": "title", "fst": "yma", "root": "сөдүөччүйэ+N"},
+      {"pos": 5, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj"},
+      {"pos": 6, "text": "оҕолоро", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 7, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ+N"},
+      {"pos": 8, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 10, "text": "бэрдэ", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "саха", "type": "lowercase", "fst": "ymv", "root": "саха+N"},
+      {"pos": 13, "text": "бастыҥа", "type": "lowercase", "fst": "ymv", "root": "бастыҥ+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 14, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 58,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Изафетное определение. Простое изафетное определительное сочетание слов",
+    "section": 122,
+    "notes": "Определение в изафетном сочетании, выраженное сочетанием однородных членов, может иметь при себе примыкающее определение.",
+    "sah": "Кистэлэҥ куолаҕайга сытааччы Кирисааннаах оҕонньор харахтарыгар билигин Тимир саппыкы уонна Дэгиэ Тыҥырах хотоҥҥо киирэннэр көстөр буолбуттара.",
+    "ru": "Теперь Тимир Саппыкы и Дигиэ Тынырах, войдя в хлеб: стали видны шлазам Кирисана и старика, лежащих в тайном укрытии.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Кистэлэҥ", "type": "title", "fst": "ymv", "root": "кистээ+V", "affixes": "+NMLZ#7"},
+      {"pos": 2, "text": "куолаҕайга", "type": "lowercase", "fst": "ymv", "root": "куолаҕай+Adj", "affixes": "+DAT"},
+      {"pos": 3, "text": "сытааччы", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+HAB#1"},
+      {"pos": 4, "text": "Кирисааннаах", "type": "title", "fst": "yma", "root": "кирисаан+N", "affixes": "+ADJZ#1"},
+      {"pos": 5, "text": "оҕонньор", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N"},
+      {"pos": 6, "text": "харахтарыгар", "type": "lowercase", "fst": "ymv", "root": "харах+N", "affixes": "+PL+POSS.3SG.DAT"},
+      {"pos": 7, "text": "билигин", "type": "lowercase", "fst": "ymv", "root": "билигин+Adv"},
+      {"pos": 8, "text": "Тимир", "type": "title", "fst": "ymv", "root": "тимир+N"},
+      {"pos": 9, "text": "саппыкы", "type": "lowercase", "fst": "ymv", "root": "саппыкы+N"},
+      {"pos": 10, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 11, "text": "Дэгиэ", "type": "title", "fst": "yma", "root": "дэгиэ+N"},
+      {"pos": 12, "text": "Тыҥырах", "type": "title", "fst": "ymv", "root": "тыҥырах+N"},
+      {"pos": 13, "text": "хотоҥҥо", "type": "lowercase", "fst": "ymv", "root": "хотон+N", "affixes": "+DAT"},
+      {"pos": 14, "text": "киирэннэр", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+CONV#1+PL"},
+      {"pos": 15, "text": "көстөр", "type": "lowercase", "fst": "ymv", "root": "көһүн+V", "affixes": "+PART_PRES"},
+      {"pos": 16, "text": "буолбуттара", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 17, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

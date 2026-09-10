@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 67,
+    "chapter": "Двусоставное предложение",
+    "topic": "Приложение. Союзы при согласуемых однородных членах прелдожения",
+    "section": 142,
+    "notes": "Сочинительный союз, образовавшийся из имени существительного *арыт..., арыт...* «иногда... иногда...», «то... то...».",
+    "sah": "Арыт аттаан, арыт бөкчөйөн, арыт туран эрэ сырсабыт.",
+    "ru": "По ползая, то согнувшись, то выпрямившись бежим.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Арыт", "type": "title", "fst": "ymv", "root": "арыт+N"},
+      {"pos": 2, "text": "аттаан", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+VRBLZ#1+CONV#1"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "арыт", "type": "lowercase", "fst": "ymv", "root": "арыт+N"},
+      {"pos": 5, "text": "бөкчөйөн", "type": "lowercase", "fst": "ymv", "root": "бөкчөй+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "арыт", "type": "lowercase", "fst": "ymv", "root": "арыт+N"},
+      {"pos": 8, "text": "туран", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 10, "text": "сырсабыт", "type": "lowercase", "fst": "ymv", "root": "сырыс+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

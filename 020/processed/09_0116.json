@@ -1,0 +1,58 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 55,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Примыкающее определение. Примыкающее определение, выраженное сочетанием слов",
+    "section": 116,
+    "notes": "Изафетное словосочетание в роли примыкавшего определение может быть употреблено и в этом случае, если оно выражает какой-нибудь характерный признак, присущий данному предмету.",
+    "sah": "Саҥардыы тыллыбыт хатыҥ бытархай сэбирдэхтэрэ ойуулаах маҥан ырбаахыта кини үрдүк, көнө бэйэтин килбиктик таарыйан намылыйбыт.",
+    "ru": "Белое платье ее с узором из мелких листьев недавно распустившейся берёзы застенчиво облегало её высокое, стройное тело.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Саҥардыы", "type": "title", "fst": "ymv", "root": "саҥа+Adj", "affixes": "+VRBLZ#4+CSTV+CONV#2"},
+      {"pos": 2, "text": "тыллыбыт", "type": "lowercase", "fst": "ymv", "root": "тылын+V", "affixes": "+PART_PAST"},
+      {"pos": 3, "text": "хатыҥ", "type": "lowercase", "fst": "ymv", "root": "хатыҥ+N"},
+      {"pos": 4, "text": "бытархай", "type": "lowercase", "fst": "ymv", "root": "бытарый+V", "affixes": "+ADJZ#9"},
+      {"pos": 5, "text": "сэбирдэхтэрэ", "type": "lowercase", "fst": "ymv", "root": "сэбирдэх+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 6, "text": "ойуулаах", "type": "lowercase", "fst": "ymv", "root": "ойуу+N", "affixes": "+ADJZ#1"},
+      {"pos": 7, "text": "маҥан", "type": "lowercase", "fst": "ymv", "root": "маҥан+Adj"},
+      {"pos": 8, "text": "ырбаахыта", "type": "lowercase", "fst": "ymv", "root": "ырбаахы+N", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 10, "text": "үрдүк", "type": "lowercase", "fst": "ymv", "root": "үрдүк+Adj"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "көнө", "type": "lowercase", "fst": "ymv", "root": "көн+V", "affixes": "+CONV#2"},
+      {"pos": 13, "text": "бэйэтин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 14, "text": "килбиктик", "type": "lowercase", "fst": "ymv", "root": "килбик+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 15, "text": "таарыйан", "type": "lowercase", "fst": "ymv", "root": "таарый+V", "affixes": "+CONV#1"},
+      {"pos": 16, "text": "намылыйбыт", "type": "lowercase", "fst": "ymv", "root": "намылый+V", "affixes": "+PART_PAST"},
+      {"pos": 17, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 55,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Примыкающее определение. Примыкающее определение, выраженное сочетанием слов",
+    "section": 116,
+    "notes": "Такого рода примыкающее определение, выраженное изафетным словосочетанием, часто наблюдается при характеристике типа предмета, например при определении типа жилища.",
+    "sah": "... туйгун нуучча дьиэтэ сайылыкка, Бэһиэлэйэптэр Бороскуобуйа эмээхсиннэрэ сүпсүлүйэр.",
+    "ru": "... в отличном доме-летнике суетится старуха Весельевых Парасковья.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "туйгун", "type": "lowercase", "fst": "ymv", "root": "туйгун+Adj"},
+      {"pos": 3, "text": "нуучча", "type": "lowercase", "fst": "ymv", "root": "нуучча+N"},
+      {"pos": 4, "text": "дьиэтэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": "сайылыкка", "type": "lowercase", "fst": "ymv", "root": "сайылаа+V", "affixes": "+NMLZ#5+DAT"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "Бэһиэлэйэптэр", "type": "title", "fst": "yma", "root": "бэһиэлэйэп+N", "affixes": "+PL"},
+      {"pos": 8, "text": "Бороскуобуйа", "type": "title", "fst": "ymv", "root": "бороскуобуйа+N"},
+      {"pos": 9, "text": "эмээхсиннэрэ", "type": "lowercase", "fst": "ymv", "root": "эмээхсин+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 10, "text": "сүпсүлүйэр", "type": "lowercase", "fst": "ymv", "root": "сүпсүй+V", "affixes": "+ACCE#2+PART_PRES"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

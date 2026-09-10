@@ -1,0 +1,28 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 270,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение предшествования",
+    "section": 466,
+    "notes": "Предложения с формой *-фах* + афф. притяж. *инниттэн*, в отличие от предложений с *-а илик* + афф. исх. п., могут уточняться лексическими показателями, сигнализирующими разрывность между событиями и зависимой и главной частей.",
+    "sah": "Кини туһунан, манна кэлиэм быдан инниттэн, бэрт элбэҕи истибитим.",
+    "ru": "Еще задолго до того как я приехал сюда, я слышал очень многое о нем.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 2, "text": "туһунан", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 5, "text": "кэлиэм", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT+POSS.1SG"},
+      {"pos": 6, "text": "быдан", "type": "lowercase", "fst": "ymv", "root": "быдан+Adv"},
+      {"pos": 7, "text": "инниттэн", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 9, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
+      {"pos": 10, "text": "элбэҕи", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+ADJZ#16+ACC"},
+      {"pos": 11, "text": "истибитим", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

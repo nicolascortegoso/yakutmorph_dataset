@@ -1,0 +1,77 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 298,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Бессоюзные сложносочиненные предложения",
+    "section": 539,
+    "notes": "В бессоюзных сложносочиненных предложениях со значением противопоставления во второй части утверждается что-либо противоположное тому, что утверждается в первой части предложения.",
+    "sah": "Биһиги сүүстүү сүөһүнү хомуйан атыылыыбыт, эһиги биирдиини эрэ атыылыыгыт.",
+    "ru": "Мы продаем, собрав по сто голов скота, вы продаете лишь по одной.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "сүүстүү", "type": "lowercase", "fst": "ymv", "root": "сүүс+Num", "affixes": "+DISTR"},
+      {"pos": 3, "text": "сүөһүнү", "type": "lowercase", "fst": "ymv", "root": "сүөһү+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "хомуйан", "type": "lowercase", "fst": "ymv", "root": "хомуй+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "атыылыыбыт", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+VRBLZ#1+PART_PRES+1PL"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron"},
+      {"pos": 8, "text": "биирдиини", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+VRBLZ#1+NMLZ#2+ACC"},
+      {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 10, "text": "атыылыыгыт", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+VRBLZ#1+PART_PRES+2PL"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 298,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Бессоюзные сложносочиненные предложения",
+    "section": 539,
+    "notes": "Для бессоюзных сложносочиненных предложений со значением действия и его результата характерно то, что содержание второй части может относиться к содержанию первой части как результат к вызвавшему его действию.",
+    "sah": "Самсону ыҥыран көрдө — ким да эппиэттээбэтэ уонна эргиллибэтэ.",
+    "ru": "Он окликнул Самсона — никто не ответил и не обернулся.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Самсону", "type": "title", "fst": "yma", "root": "самсону+N"},
+      {"pos": 2, "text": "ыҥыран", "type": "lowercase", "fst": "ymv", "root": "ыҥыр+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "көрдө", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 5, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+Pron"},
+      {"pos": 6, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 7, "text": "эппиэттээбэтэ", "type": "lowercase", "fst": "ymv", "root": "эппиэт+N", "affixes": "+VRBLZ#1+NEG+PST.3SG"},
+      {"pos": 8, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 9, "text": "эргиллибэтэ", "type": "lowercase", "fst": "ymv", "root": "эргий+V", "affixes": "+PASS+NEG+PST.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 298,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Бессоюзные сложносочиненные предложения",
+    "section": 539,
+    "notes": "Для бессоюзных сложносочиненных предложений со значением действия и его результата характерно то, что содержание второй части может относиться к содержанию первой части как результат к вызвавшему его действию.",
+    "sah": "Мин сүбэлээн көрдүм, ааттастым, эрэннэрдим — туох да туһалаабата.",
+    "ru": "Я попробовал посоветовать, умолял, обещал — ничто не помогло.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "сүбэлээн", "type": "lowercase", "fst": "ymv", "root": "сүбэ+N", "affixes": "+VRBLZ#1+CONV#1"},
+      {"pos": 3, "text": "көрдүм", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PST.1SG"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "ааттастым", "type": "lowercase", "fst": "ymv", "root": "ааттас+V", "affixes": "+PST.1SG"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "эрэннэрдим", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+CSTV+PST.1SG"},
+      {"pos": 8, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 9, "text": "туох", "type": "lowercase", "fst": "ymv", "root": "туох+Pron"},
+      {"pos": 10, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 11, "text": "туһалаабата", "type": "lowercase", "fst": "ymv", "root": "туһа+N", "affixes": "+VRBLZ#1+NEG+PST.3SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

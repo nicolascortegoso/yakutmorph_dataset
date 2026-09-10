@@ -1,0 +1,42 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 249,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения условия",
+    "section": 387,
+    "notes": "В предложениях с оттенком сравнения сказуемое зависимой части выражается словоформами со сравнительной семантикой типа *холоотоххо*, *тэҥнээтэххэ* «если сравнить с тем, что».",
+    "sah": "Бэҕэһээ аһаҕас халлаан анныгар, кулуһун уотугар сыраллан хоммукка холоотоххо, бүгүн үүтээҥҥэ олус бэркэ утуйан турдубут.",
+    "ru": "Если сравнить с тем, как вчера ночевали под открытым небом, у костра, сегодня очень хорошо переночевали в зимовье.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бэҕэһээ", "type": "title", "fst": "ymv", "root": "бэҕэһээ+Adv"},
+      {"pos": 2, "text": "аһаҕас", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#3+ADJZ#6"},
+      {"pos": 2, "text": "аһаҕас", "type": "lowercase", "fst": "ymv", "root": "ас+V", "affixes": "+ADJZ#6"},
+      {"pos": 3, "text": "халлаан", "type": "lowercase", "fst": "ymv", "root": "халлаан+N"},
+      {"pos": 3, "text": "халлаан", "type": "lowercase", "fst": "ymv", "root": "хал+Adj", "affixes": "+VRBLZ#1+CONV#1"},
+      {"pos": 4, "text": "анныгар", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.2SG.DAT"},
+      {"pos": 4, "text": "анныгар", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "кулуһун", "type": "lowercase", "fst": "ymv", "root": "кулуһун+N"},
+      {"pos": 7, "text": "уотугар", "type": "lowercase", "fst": "ymv", "root": "уот+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 7, "text": "уотугар", "type": "lowercase", "fst": "ymv", "root": "уой+V", "affixes": "+CSTV+ADJZ#16+VRBLZ#4a"},
+      {"pos": 8, "text": "сыраллан", "type": "lowercase", "fst": "ymv", "root": "сырал+N", "affixes": "+VRBLZ#1+REFL/PASS"},
+      {"pos": 9, "text": "хоммукка", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+PART_PAST+DAT"},
+      {"pos": 10, "text": "холоотоххо", "type": "lowercase", "fst": "ymv", "root": "холоо+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүк+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 12, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүк+V", "affixes": "+REFL"},
+      {"pos": 12, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+      {"pos": 13, "text": "үүтээҥҥэ", "type": "lowercase", "fst": "ymv", "root": "үүтээн+N", "affixes": "+DAT"},
+      {"pos": 14, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adj"},
+      {"pos": 15, "text": "бэркэ", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj", "affixes": "+DAT"},
+      {"pos": 16, "text": "утуйан", "type": "lowercase", "fst": "ymv", "root": "утуй+V", "affixes": "+CONV#1"},
+      {"pos": 17, "text": "турдубут", "type": "lowercase", "fst": "ymv", "root": "туруу+Adj", "affixes": "+VRBLZ#2+CSTV+PART_PAST"},
+      {"pos": 17, "text": "турдубут", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CSTV+PART_PAST"},
+      {"pos": 17, "text": "турдубут", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PST.1PL"},
+      {"pos": 18, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

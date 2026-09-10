@@ -1,0 +1,57 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 35,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 53,
+    "notes": "Обстоятельства времени, выраженные именами существительными в дательном падеже, часто имеют аффикс принадлежности 3-го л. ед. ч.",
+    "sah": "Күнүһүгэр Москва уруккутунан толору олоҕу олорон, үлэнэн, үөрэҕинэн, искусствонан ньирилии-ньирилии турар.",
+    "ru": "Днём Москва, по-прежнему полной жизнью живя, трудом, ученьем, искусством непрерывно гудит...",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Күнүһүгэр", "type": "title", "fst": "ymv", "root": "күнүс+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "Москва", "type": "title", "fst": "yma", "root": "москва+N"},
+      {"pos": 3, "text": "уруккутунан", "type": "lowercase", "fst": "ymv", "root": "урут+Adv", "affixes": "+ADJZ#4+POSS.3SG.INST"},
+      {"pos": 4, "text": "толору", "type": "lowercase", "fst": "ymv", "root": "толор+V", "affixes": "+ADVZ#1"},
+      {"pos": 5, "text": "олоҕу", "type": "lowercase", "fst": "ymv", "root": "олох+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "олорон", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "үлэнэн", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+INST"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "үөрэҕинэн", "type": "lowercase", "fst": "ymv", "root": "үөрэх+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "искусствонан", "type": "lowercase", "fst": "ymv", "root": "искусство+N", "affixes": "+INST"},
+      {"pos": 13, "text": "ньирилии", "type": "lowercase", "fst": "ymv", "root": "ньир+IMIT", "affixes": "+VRBLZ#16+CONV#2"},
+      {"pos": 14, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 15, "text": "ньирилии", "type": "lowercase", "fst": "ymv", "root": "ньир+IMIT", "affixes": "+VRBLZ#16+CONV#2"},
+      {"pos": 16, "text": "турар", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES"},
+      {"pos": 17, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 36,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство времени",
+    "section": 53,
+    "notes": "Обстоятельства времени, выраженные именами существительными в дательном падеже, часто имеют аффикс принадлежности 3-го л. ед. ч.",
+    "sah": "Түүнүгэр Москва күндэлэс уулуссалара им-балай ортотугар иһийэллэр.",
+    "ru": "Ночью сверкающие улицы Москвы погружаются в глубокую тьму.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Түүнүгэр", "type": "title", "fst": "ymv", "root": "түүн+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "Москва", "type": "title", "fst": "yma", "root": "москва+N"},
+      {"pos": 3, "text": "күндэлэс", "type": "lowercase", "fst": "ymv", "root": "күндэ+Adj", "affixes": "+VRBLZ#1+ADJZ#14"},
+      {"pos": 4, "text": "уулуссалара", "type": "lowercase", "fst": "ymv", "root": "уулусса+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 5, "text": "им", "type": "lowercase", "fst": "ymv", "root": "им+N"},
+      {"pos": 6, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 7, "text": "балай", "type": "lowercase", "fst": "ymv", "root": "балай+Adj"},
+      {"pos": 8, "text": "ортотугар", "type": "lowercase", "fst": "ymv", "root": "орто+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 9, "text": "иһийэллэр", "type": "lowercase", "fst": "ymv", "root": "иһий+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

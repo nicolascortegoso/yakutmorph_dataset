@@ -1,0 +1,40 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 317,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Прямая речь",
+    "section": 581,
+    "notes": "В публицистических, главным образом газетных, жанрах получила большое распространёние так называемая открытая, или свободная, прямая речь. Её отличие от собственно прямой речи заключается в том, что она допускает более свободную передачу чужой речи (например, её сокращение, обобщение отдельных положений), но в то же время способна передать все особенности форм чужой речи. Предложения с открытой прямой речью по своей структуре близки к предложениям с собственно прямой речью. На письме открытая прямая речь в кавычки не заключается, а авторская речь выделяется запятыми.",
+    "sah": "Бу үтүөкэн массыына, диэн эттэ кини, ол эрээри, хомойуох иһин, көдьүүһэ, суох туһаныллар: холбонуллар агрегаттара мэльи тиийбэт.",
+    "ru": "Это замечательная машина, сказал он, но, к сожалению, используется без выгода: постоянно не хватает прицепляемых агрегатов.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 2, "text": "үтүөкэн", "type": "lowercase", "fst": "ymv", "root": "үтүөкэн+Adj"},
+      {"pos": 3, "text": "массыына", "type": "lowercase", "fst": "ymv", "root": "массыына+N"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "эттэ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 9, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 10, "text": "эрээри", "type": "lowercase", "fst": "ymv", "root": "эрээри+CONJ"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "хомойуох", "type": "lowercase", "fst": "ymv", "root": "хомой+V", "affixes": "+PART_FUT"},
+      {"pos": 13, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 14, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 15, "text": "көдьүүһэ", "type": "lowercase", "fst": "ymv", "root": "көдьүүс+N", "affixes": "+POSS.3SG"},
+      {"pos": 16, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 17, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+      {"pos": 18, "text": "туһаныллар", "type": "lowercase", "fst": "ymv", "root": "туһан+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 19, "text": ":", "type": "colon", "fst": "ymv"},
+      {"pos": 20, "text": "холбонуллар", "type": "lowercase", "fst": "ymv", "root": "холбоо+V", "affixes": "+REFL/PASS+PASS+PART_PRES"},
+      {"pos": 21, "text": "агрегаттара", "type": "lowercase", "fst": "yma", "root": "агрегат+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 22, "text": "мэльи", "type": "lowercase", "fst": "yma", "root": "мэльи+N"},
+      {"pos": 23, "text": "тиийбэт", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 24, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

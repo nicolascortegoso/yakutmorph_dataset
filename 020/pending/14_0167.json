@@ -1,0 +1,28 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 74,
+    "chapter": "Двусоставное предложение",
+    "topic": "Односоставное предложение. Обобщенно-личные предложения",
+    "section": 167,
+    "notes": "Форму обобщенно-личных предложений имеют пословицы, поговорки.",
+    "sah": "Кырдьаҕастан ыйытыма, сылдьыбыттан ыйыт.",
+    "ru": "Не спрашивай у старого, а спрашивай у бывалого.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Кырдьаҕастан", "type": "title", "fst": "ymv", "root": "кырый+V", "affixes": "+ADJZ#6+ABL"},
+      {"pos": 1, "text": "Кырдьаҕастан", "type": "title", "fst": "ymv", "root": "кырый+V", "affixes": "+ADJZ#6+VRBLZ#1+REFL/PASS"},
+      {"pos": 2, "text": "ыйытыма", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+NEG"},
+      {"pos": 2, "text": "ыйытыма", "type": "lowercase", "fst": "ymv", "root": "ый+N", "affixes": "+VRBLZ#2+CSTV+NEG"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "сылдьыбыттан", "type": "lowercase", "fst": "yma", "root": "сылдьыбыттаа^V", "affixes": "+PASS"},
+      {"pos": 4, "text": "сылдьыбыттан", "type": "lowercase", "fst": "yma", "root": "сылдьыбыттаа^V", "affixes": "+REFL"},
+      {"pos": 4, "text": "сылдьыбыттан", "type": "lowercase", "fst": "yma", "root": "сылдьыбыттан^N"},
+      {"pos": 4, "text": "сылдьыбыттан", "type": "lowercase", "fst": "yma", "root": "сылдьы^N", "affixes": "+POSS.1SG+ABL"},
+      {"pos": 5, "text": "ыйыт", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V"},
+      {"pos": 5, "text": "ыйыт", "type": "lowercase", "fst": "ymv", "root": "ый+N", "affixes": "+VRBLZ#2+CSTV"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

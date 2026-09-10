@@ -1,0 +1,30 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 219,
+    "chapter": "Сложное предложение",
+    "topic": "Сложное предложение",
+    "section": 319,
+    "notes": "Следующее языковое явление, в котором проявляется противоречие между формальными и содержательными отношениями в сложных предложениях, — это сложные предложения с постпозитивными скрепами в их препозитивной предикативной части.",
+    "sah": "Мишгин ыҥырыбыттара да, ыалдьван хаалан барбатаҕым.",
+    "ru": "Меня пригласили, но я, заболев, не смог пойти.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Мишгин", "type": "title", "fst": "yma", "root": "мишгин+N"},
+      {"pos": 2, "text": "ыҥырыбыттара", "type": "lowercase", "fst": "yma", "root": "ыҥырыбыттара^N"},
+      {"pos": 2, "text": "ыҥырыбыттара", "type": "lowercase", "fst": "yma", "root": "ыҥырыбыттар^N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "ыҥырыбыттара", "type": "lowercase", "fst": "yma", "root": "ыҥырыбытта^Adv", "affixes": "^VRBLZ#4+CONV#2"},
+      {"pos": 2, "text": "ыҥырыбыттара", "type": "lowercase", "fst": "yma", "root": "ыҥырыбытта^N", "affixes": "^VRBLZ#4+CONV#2"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "ыалдьван", "type": "lowercase", "fst": "yma", "root": "ыалдьван+N"},
+      {"pos": 6, "text": "хаалан", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "хаалан", "type": "lowercase", "fst": "ymv", "root": "хаа+N", "affixes": "+VRBLZ#1+REFL/PASS"},
+      {"pos": 7, "text": "барбатаҕым", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+NEG+CONV_COND#2+POSS.1SG"},
+      {"pos": 7, "text": "барбатаҕым", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+NEG+PART_PAST+POSS.1SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

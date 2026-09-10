@@ -1,0 +1,28 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 116,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 215,
+    "notes": "Третья группа ответов в КФ в отличие от предыдущих групп объединяет в одной реплике ответные высказывания, комбинированные в лице, числе и времени. Они помимо констатации фактов, события и т.п. имеют содержание оценки, рассуждения, утверждения, сообщения и др.",
+    "sah": "Дорооболорун, табаарыстар!",
+    "ru": "Здравствуйте, товарищи!",
+    "id": 6,
+    "parses": [
+      {"pos": 1, "text": "Дорооболорун", "type": "title", "fst": "yma", "root": "дорооболорун^N"},
+      {"pos": 1, "text": "Дорооболорун", "type": "title", "fst": "yma", "root": "дорооболоруй^V", "affixes": "+REFL"},
+      {"pos": 1, "text": "Дорооболорун", "type": "title", "fst": "yma", "root": "дорообо^N", "affixes": "+PL+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Дорооболорун", "type": "title", "fst": "yma", "root": "дорообо^N", "affixes": "+POSS.3PL+ACC"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "табаарыстар", "type": "lowercase", "fst": "ymv", "root": "табаарыс+N", "affixes": "+PL"},
+      {"pos": 3, "text": "табаарыстар", "type": "lowercase", "fst": "ymv", "root": "табаар+N", "affixes": "+VRBLZ#2+RECP+CONV_COND#1"},
+      {"pos": 3, "text": "табаарыстар", "type": "lowercase", "fst": "ymv", "root": "табаар+N", "affixes": "+VRBLZ#2+RECP+PL"},
+      {"pos": 3, "text": "табаарыстар", "type": "lowercase", "fst": "ymv", "root": "таба+N", "affixes": "+VRBLZ#4a+RECP+CAUS"},
+      {"pos": 3, "text": "табаарыстар", "type": "lowercase", "fst": "ymv", "root": "таба+N", "affixes": "+VRBLZ#4a+RECP+CONV_COND#1"},
+      {"pos": 3, "text": "табаарыстар", "type": "lowercase", "fst": "ymv", "root": "таба+N", "affixes": "+VRBLZ#4a+RECP+PL"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"}
+    ]
+  }
+]

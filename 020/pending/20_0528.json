@@ -1,0 +1,39 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 295,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Местоименно-соотносительные сложноподчиненные предложения. Предложения соответствия",
+    "section": 528,
+    "notes": "Данные предложения содержат парные местоименно-соотносительные слова *төһө* «сколько» (в зависимой части) и *соччо* (*соччонон*, *оччонон*) (в главной части).",
+    "sah": "Быйылгы үүнүүнү, бааһынабыт тула төһө дириҥ дьааманы хаһабыт да, оччонон үксү ылабыт.",
+    "ru": "Нынче получим настолько больше урожая, насколько глубже будем копать траншею вокруг пашни.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Быйылгы", "type": "title", "fst": "ymv", "root": "быйыл+Adv", "affixes": "+ADJZ#4"},
+      {"pos": 2, "text": "үүнүүнү", "type": "lowercase", "fst": "ymv", "root": "үүн+N", "affixes": "+VRBLZ#3+NMLZ#2+ACC"},
+      {"pos": 2, "text": "үүнүүнү", "type": "lowercase", "fst": "ymv", "root": "үүн+V", "affixes": "+NMLZ#2+ACC"},
+      {"pos": 2, "text": "үүнүүнү", "type": "lowercase", "fst": "ymv", "root": "үүй+V", "affixes": "+REFL/PASS+NMLZ#2+ACC"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "бааһынабыт", "type": "lowercase", "fst": "ymv", "root": "бааһына+N", "affixes": "+POSS.1PL"},
+      {"pos": 4, "text": "бааһынабыт", "type": "lowercase", "fst": "ymv", "root": "бааһына+N", "affixes": "+1PL"},
+      {"pos": 4, "text": "бааһынабыт", "type": "lowercase", "fst": "ymv", "root": "баай+V", "affixes": "+RECP+REFL+PART_PRES+1PL"},
+      {"pos": 5, "text": "тула", "type": "lowercase", "fst": "ymv", "root": "тула+N"},
+      {"pos": 5, "text": "тула", "type": "lowercase", "fst": "ymv", "root": "тул+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "төһө", "type": "lowercase", "fst": "ymv", "root": "төһө+Pron"},
+      {"pos": 7, "text": "дириҥ", "type": "lowercase", "fst": "ymv", "root": "дириҥ+Adj"},
+      {"pos": 8, "text": "дьааманы", "type": "lowercase", "fst": "ymv", "root": "дьаама+N", "affixes": "+ACC"},
+      {"pos": 9, "text": "хаһабыт", "type": "lowercase", "fst": "ymv", "root": "хас+Adj", "affixes": "+POSS.3SG+1PL"},
+      {"pos": 9, "text": "хаһабыт", "type": "lowercase", "fst": "ymv", "root": "хас+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 9, "text": "хаһабыт", "type": "lowercase", "fst": "ymv", "root": "хай+V", "affixes": "+RECP+PART_PRES+1PL"},
+      {"pos": 10, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 10, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "оччонон", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+DEF#2+INST"},
+      {"pos": 13, "text": "үксү", "type": "lowercase", "fst": "yma", "root": "үксү+N"},
+      {"pos": 14, "text": "ылабыт", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

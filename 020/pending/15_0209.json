@@ -1,0 +1,102 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 112,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Собственно-вопросительное предложение. Несобственно-вопросительное предложение",
+    "section": 209,
+    "notes": "Вопрос-сомнение, связанный с предыдущим сообщением собеседника.",
+    "sah": "Саргы, тэҥҥэбилиҥ хайаата?",
+    "ru": "Саргы, как (у тебя) там сравнение?",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "тэҥҥэбилиҥ", "type": "lowercase", "fst": "yma", "root": "тэҥҥэбил^N", "affixes": "^VRBLZ#2^NMLZ#7"},
+      {"pos": 3, "text": "тэҥҥэбилиҥ", "type": "lowercase", "fst": "yma", "root": "тэҥҥэбил^N", "affixes": "+POSS.2SG"},
+      {"pos": 4, "text": "хайаата", "type": "lowercase", "fst": "ymv", "root": "хайаа+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 112,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Собственно-вопросительное предложение. Несобственно-вопросительное предложение",
+    "section": 209,
+    "notes": "В речи собеседника неуверенность остается без поддержки и дальнейшего разъяснения.",
+    "sah": "Кыаллара буоллар, бачча улахан дьиэҕэ уунан ититэр оһох ордук этэ.",
+    "ru": "Если есть возможность, то лучше было бы водяное отопление для такого большого дома.",
+    "id": 12,
+    "parses": [
+      {"pos": 1, "text": "Кыаллара", "type": "title", "fst": "yma", "root": "кыаллара^N"},
+      {"pos": 1, "text": "Кыаллара", "type": "title", "fst": "yma", "root": "кыаллар^N", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "Кыаллара", "type": "title", "fst": "yma", "root": "кыаллар^V", "affixes": "+CONV#2"},
+      {"pos": 1, "text": "Кыаллара", "type": "title", "fst": "yma", "root": "кыаллай^V", "affixes": "^ADJZ#16+POSS.3SG"},
+      {"pos": 1, "text": "Кыаллара", "type": "title", "fst": "yma", "root": "кыалла^Adj", "affixes": "^VRBLZ#4+CONV#2"},
+      {"pos": 1, "text": "Кыаллара", "type": "title", "fst": "yma", "root": "кыалла^Adv", "affixes": "^VRBLZ#4+CONV#2"},
+      {"pos": 1, "text": "Кыаллара", "type": "title", "fst": "yma", "root": "кыалла^N", "affixes": "^VRBLZ#4+CONV#2"},
+      {"pos": 2, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#1"},
+      {"pos": 2, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PL"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "бачча", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+DEF#2"},
+      {"pos": 5, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj"},
+      {"pos": 6, "text": "дьиэҕэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+DAT"},
+      {"pos": 7, "text": "уунан", "type": "lowercase", "fst": "ymv", "root": "уун+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": "уунан", "type": "lowercase", "fst": "ymv", "root": "уу+Adj", "affixes": "+INST"},
+      {"pos": 7, "text": "уунан", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+INST"},
+      {"pos": 8, "text": "ититэр", "type": "lowercase", "fst": "ymv", "root": "итий+V", "affixes": "+CSTV+PART_PRES"},
+      {"pos": 9, "text": "оһох", "type": "lowercase", "fst": "ymv", "root": "ос+V", "affixes": "+NMLZ#6"},
+      {"pos": 9, "text": "оһох", "type": "lowercase", "fst": "ymv", "root": "оһох+N"},
+      {"pos": 9, "text": "оһох", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+RECP+NMLZ#6"},
+      {"pos": 10, "text": "ордук", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+ADJZ#16"},
+      {"pos": 10, "text": "ордук", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+NMLZ#5"},
+      {"pos": 11, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+N", "affixes": "+POSS.3SG"},
+      {"pos": 11, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+CONV#2"},
+      {"pos": 11, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 112,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Собственно-вопросительное предложение. Несобственно-вопросительное предложение",
+    "section": 209,
+    "notes": "В речи собеседника неуверенность остается без поддержки и дальнейшего разъяснения.",
+    "sah": "Ыыталыах мунмут дуу?",
+    "ru": "Отпустить, что ли?",
+    "id": 15,
+    "parses": [
+      {"pos": 1, "text": "Ыыталыах", "type": "title", "fst": "ymv", "root": "ыыт+V", "affixes": "+FREC#4+PART_FUT"},
+      {"pos": 2, "text": "мунмут", "type": "lowercase", "fst": "yma", "root": "мунмут+N"},
+      {"pos": 3, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 112,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Собственно-вопросительное предложение. Несобственно-вопросительное предложение",
+    "section": 209,
+    "notes": "Сомнение, заключенное в вопросе говорящего, передается в виде дополнительного рассуждения, и оттенок сомнения выясняется самим же говорящим.",
+    "sah": "Кыра быһылааннар аахсыллыбат тар.",
+    "ru": "Мелкие происшествия не берутся в счет.",
+    "id": 19,
+    "parses": [
+      {"pos": 1, "text": "Кыра", "type": "title", "fst": "ymv", "root": "кыра+Adj"},
+      {"pos": 1, "text": "Кыра", "type": "title", "fst": "ymv", "root": "кыр+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "быһылааннар", "type": "lowercase", "fst": "ymv", "root": "быһылаан+N", "affixes": "+PL"},
+      {"pos": 3, "text": "аахсыллыбат", "type": "lowercase", "fst": "yma", "root": "аахсыллыба^N", "affixes": "^VRBLZ#2+CSTV"},
+      {"pos": 3, "text": "аахсыллыбат", "type": "lowercase", "fst": "yma", "root": "аахсый^V", "affixes": "+PASS+NEG+PART_PRES"},
+      {"pos": 4, "text": "тар", "type": "lowercase", "fst": "ymv", "root": "тар+IMIT"},
+      {"pos": 4, "text": "тар", "type": "lowercase", "fst": "ymv", "root": "тар+N"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

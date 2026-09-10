@@ -1,0 +1,34 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 210,
+    "chapter": "Специфические средства формирования и выражения модальных значений",
+    "topic": "Повторы и соединения словоформ на их основе, Инверсия",
+    "section": 310,
+    "notes": "Повтори одного и того же предлагать сильного, наречие и деепричастия типа *улахан-улахан* «большой-большой», *хойут-хойут* «поздно-поздно», *талан-талан* «выбрав-выбрав» субъективно усиливают качественный и динамический признаки, эмфатическая долгота *улахыын-улахан*, *хойуут-хойут*, *талаан-талан* придает им яркую эмоциональную окраску.",
+    "sah": "Мин Сергей Петровиһы өрдөөҕүттэн-өрдөөҕүттэн билэр курдукпун.",
+    "ru": "Я Сергея Петровича будто знаю давным-давно.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+N"},
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "Сергей", "type": "title", "fst": "ymv", "root": "сергей+N"},
+      {"pos": 3, "text": "Петровиһы", "type": "title", "fst": "yma", "root": "петровиһы+N"},
+      {"pos": 4, "text": "өрдөөҕүттэн", "type": "lowercase", "fst": "ymv", "root": "өр+N", "affixes": "+ADJZ#1+POSS.3SG.ABL"},
+      {"pos": 4, "text": "өрдөөҕүттэн", "type": "lowercase", "fst": "ymv", "root": "өр+N", "affixes": "+ADJZ#3+ABL"},
+      {"pos": 5, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 6, "text": "өрдөөҕүттэн", "type": "lowercase", "fst": "ymv", "root": "өр+N", "affixes": "+ADJZ#1+POSS.3SG.ABL"},
+      {"pos": 6, "text": "өрдөөҕүттэн", "type": "lowercase", "fst": "ymv", "root": "өр+N", "affixes": "+ADJZ#3+ABL"},
+      {"pos": 7, "text": "билэр", "type": "lowercase", "fst": "ymv", "root": "билэ+N", "affixes": "+VRBLZ#4"},
+      {"pos": 7, "text": "билэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": "курдукпун", "type": "lowercase", "fst": "ymv", "root": "курдук+POST", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 8, "text": "курдукпун", "type": "lowercase", "fst": "ymv", "root": "курдук+POST", "affixes": "+1SG"},
+      {"pos": 8, "text": "курдукпун", "type": "lowercase", "fst": "ymv", "root": "курдук+Part", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 8, "text": "курдукпун", "type": "lowercase", "fst": "ymv", "root": "курдук+Part", "affixes": "+1SG"},
+      {"pos": 8, "text": "курдукпун", "type": "lowercase", "fst": "ymv", "root": "кур+Adj", "affixes": "+ADVZ#5+POSS.1SG.ACC"},
+      {"pos": 8, "text": "курдукпун", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+ADVZ#5+POSS.1SG.ACC"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

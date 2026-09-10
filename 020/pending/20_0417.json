@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 258,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения образа действия",
+    "section": 417,
+    "notes": "Предложения со сказуемым зависимой части, выраженным причастием или именем в орудном падеже, иногда сближаются с объектными сложноподчиненными предложениями. Это наблюдается обычно, когда действие, названное в главной части, распространяется, переходит на действие, описываемое сказуемым зависимой части.",
+    "sah": "Бөгдьөлөөх, тугу бултаан булалларынан, айахтарын ииттинэр эбиттэр.",
+    "ru": "Семья Бегдэ кормится, оказывается, тем, что добывает на охоте.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Бөгдьөлөөх", "type": "title", "fst": "yma", "root": "бөгдьөлөөх+N"},
+      {"pos": 1, "text": "Бөгдьөлөөх", "type": "title", "fst": "yma", "root": "бөгдьө+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "тугу", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+ACC"},
+      {"pos": 4, "text": "бултаан", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+VRBLZ#1+CONV#1"},
+      {"pos": 4, "text": "бултаан", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+ITER#2+CONV#1"},
+      {"pos": 5, "text": "булалларынан", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+PART_PRES+PL+INST"},
+      {"pos": 5, "text": "булалларынан", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+PART_PRES+PL+POSS.3SG.INST"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "айахтарын", "type": "lowercase", "fst": "ymv", "root": "айах+N", "affixes": "+POSS.3PL.ACC"},
+      {"pos": 7, "text": "айахтарын", "type": "lowercase", "fst": "ymv", "root": "айах+N", "affixes": "+PL+POSS.3SG.ACC"},
+      {"pos": 8, "text": "ииттинэр", "type": "lowercase", "fst": "yma", "root": "ииттинэ^N", "affixes": "^VRBLZ#4"},
+      {"pos": 8, "text": "ииттинэр", "type": "lowercase", "fst": "yma", "root": "ииттин^V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": "эбиттэр", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+PL"},
+      {"pos": 9, "text": "эбиттэр", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST+PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

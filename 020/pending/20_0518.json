@@ -1,0 +1,36 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 291,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Союзные сложноподчиненные предложения. Причинные предложения",
+    "section": 518,
+    "notes": "Конструкции с *диэн* моносубъектны и выражают отношение субъективного причинного обоснования, устанавливаемое с точки зрения субъекта (подлежащего) предложения. *Диэн* представляет собой деепричастную форму на *-ан*, образованную от глагольной основы *диэн-* «говорить», и в таких предложениях во многих случаях в некоторой степени сохраняется лексическая семантика данной глагольной формы «говоря», «думая», «предполагая» и т.п., что отличает рассматриваемые предложения от сложноподчиненных предложений с *буолан*.",
+    "sah": "Витябын атаарабын диэн, икки хонуктааҕыта барбыта...",
+    "ru": "Она ушла два дня тому назад под предлогом, что провожает своего Витю.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Витябын", "type": "title", "fst": "yma", "root": "витябын+N"},
+      {"pos": 2, "text": "атаарабын", "type": "lowercase", "fst": "ymv", "root": "атаар+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕыта^Adv"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕыта^N"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^Adj", "affixes": "^ADVZ#8"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^Adj", "affixes": "^VRBLZ#2+CSTV+POSS.3SG"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^Adj", "affixes": "^VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^Adj", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^Adj", "affixes": "+PRTV"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^N", "affixes": "^VRBLZ#2+CSTV+POSS.3SG"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^N", "affixes": "^VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^N", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонуктааҕы^N", "affixes": "+PRTV"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонук^N", "affixes": "^ADJZ#2+POSS.3SG"},
+      {"pos": 6, "text": "хонуктааҕыта", "type": "lowercase", "fst": "yma", "root": "хонук^N", "affixes": "^ADJZ#2+PRTV"},
+      {"pos": 7, "text": "барбыта", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 8, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

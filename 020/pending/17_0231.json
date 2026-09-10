@@ -1,0 +1,49 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 127,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 231,
+    "notes": "Служебный глагол *диэ* «сказат» и его другие формы в составе предиката несут собственно-побудительное содержание, когда уговаривают или заставляют собеседника согласиться с высказыванным фактом, совершаемым действием и т.п.",
+    "sah": "Халбарый диибин!",
+    "ru": "Говорю, подвинься!",
+    "id": 34,
+    "parses": [
+      {"pos": 1, "text": "Халбарый", "type": "title", "fst": "ymv", "root": "халбаҥ+Adj", "affixes": "+VRBLZ#8"},
+      {"pos": 1, "text": "Халбарый", "type": "title", "fst": "ymv", "root": "халбарый+V"},
+      {"pos": 1, "text": "Халбарый", "type": "title", "fst": "ymv", "root": "халба+N", "affixes": "+VRBLZ#8"},
+      {"pos": 1, "text": "Халбарый", "type": "title", "fst": "ymv", "root": "халбы+Adv", "affixes": "+VRBLZ#8"},
+      {"pos": 2, "text": "диибин", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 2, "text": "диибин", "type": "lowercase", "fst": "ymv", "root": "дии+Part", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 2, "text": "диибин", "type": "lowercase", "fst": "ymv", "root": "дии+Part", "affixes": "+1SG"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 127,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 231,
+    "notes": "Есть другие формы выражения побудительности, в состав которых входят служебные глаголы и образуют клишированные сочетания типа *-ыахха наада*, *-ыаҥ үһү*, *-ыах үһүгүн*, *-ан иһиий*, *-ыахха баар этэ*, *-тар үчүгэй буолуо этэ*, *-иэххэ буоллаҕа дии*, *хайдах да гыныҥ* и др.",
+    "sah": "Бүгүн киинэҕэ барыхха баар этэ.",
+    "ru": "Надо бы сегодня в кино пойти.",
+    "id": 40,
+    "parses": [
+      {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "ymv", "root": "бүк+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "ymv", "root": "бүк+V", "affixes": "+REFL"},
+      {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "ymv", "root": "бүгүн+Adv"},
+      {"pos": 2, "text": "киинэҕэ", "type": "lowercase", "fst": "ymv", "root": "киинэ+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "барыхха", "type": "lowercase", "fst": "ymv", "root": "барый+V", "affixes": "+ADJZ#16+DAT"},
+      {"pos": 4, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+      {"pos": 4, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+V"},
+      {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+N", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

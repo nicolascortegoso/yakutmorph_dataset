@@ -1,0 +1,62 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 54,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Примыкающее определение. Примыкающее определение, выраженное сочетанием слов",
+    "section": 115,
+    "notes": "Примыкающие определение, выращенные изафетным словосочетанием, встречаются довольно редко.",
+    "sah": "... халлаан күөҕэ харахтара соһумар үөрүү уотунан умайбыттар...",
+    "ru": "... глаза его небесной голубизны загорелись огнем внезапной радости...",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "халлаан", "type": "lowercase", "fst": "ymv", "root": "халлаан+N"},
+      {"pos": 3, "text": "күөҕэ", "type": "lowercase", "fst": "ymv", "root": "күөх+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "харахтара", "type": "lowercase", "fst": "ymv", "root": "харах+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 5, "text": "соһумар", "type": "lowercase", "fst": "ymv", "root": "соһумар+Adj"},
+      {"pos": 6, "text": "үөрүү", "type": "lowercase", "fst": "ymv", "root": "үөр+V", "affixes": "+NMLZ#2"},
+      {"pos": 7, "text": "уотунан", "type": "lowercase", "fst": "ymv", "root": "уот+N", "affixes": "+INST"},
+      {"pos": 8, "text": "умайбыттар", "type": "lowercase", "fst": "ymv", "root": "умай+V", "affixes": "+PART_PAST+PL"},
+      {"pos": 9, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 54,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Примыкающее определение. Примыкающее определение, выраженное сочетанием слов",
+    "section": 115,
+    "notes": "Очень часто изафетное примыкающее определение употребляется при описание шкуры зверя, из которого сделана та или иная одежда или обувь.",
+    "sah": "Уулаах аҥар атаҕынан кылыйан уот иннигэр кэлэн, өлүөр атаҕар кыараҕас ынах тириитэ этэрбэһи, ыалдьар атаҕар сылгы тыһа этэрбэһи кэтитэлии оҕуста.",
+    "ru": "Уулаах, прыгая на одной ноге, подошел к огню и быстро надел на здоровую ногу узкий торбазок из коровьей шкуры, а на больную ногу торбазок из шкуры с ног лошади.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Уулаах", "type": "title", "fst": "ymv", "root": "уу+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "аҥар", "type": "lowercase", "fst": "ymv", "root": "аҥар+Num"},
+      {"pos": 3, "text": "атаҕынан", "type": "lowercase", "fst": "ymv", "root": "атах+N", "affixes": "+INST"},
+      {"pos": 4, "text": "кылыйан", "type": "lowercase", "fst": "ymv", "root": "кылый+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "уот", "type": "lowercase", "fst": "ymv", "root": "уот+N"},
+      {"pos": 6, "text": "иннигэр", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 7, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 9, "text": "өлүөр", "type": "lowercase", "fst": "ymv", "root": "өл+V", "affixes": "+PART_FUT+POSS.3SG.DAT"},
+      {"pos": 10, "text": "атаҕар", "type": "lowercase", "fst": "ymv", "root": "атах+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 11, "text": "кыараҕас", "type": "lowercase", "fst": "ymv", "root": "кыараа+V", "affixes": "+ADJZ#6"},
+      {"pos": 12, "text": "ынах", "type": "lowercase", "fst": "ymv", "root": "ынах+N"},
+      {"pos": 13, "text": "тириитэ", "type": "lowercase", "fst": "ymv", "root": "тирии+N", "affixes": "+POSS.3SG"},
+      {"pos": 14, "text": "этэрбэһи", "type": "lowercase", "fst": "ymv", "root": "этэрбэс+N", "affixes": "+ACC"},
+      {"pos": 15, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 16, "text": "ыалдьар", "type": "lowercase", "fst": "ymv", "root": "ыарыы+N", "affixes": "+VRBLZ#2+PART_PRES"},
+      {"pos": 17, "text": "атаҕар", "type": "lowercase", "fst": "ymv", "root": "атах+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 18, "text": "сылгы", "type": "lowercase", "fst": "ymv", "root": "сылгы+N"},
+      {"pos": 19, "text": "тыһа", "type": "lowercase", "fst": "ymv", "root": "тыс+N", "affixes": "+POSS.3SG"},
+      {"pos": 20, "text": "этэрбэһи", "type": "lowercase", "fst": "ymv", "root": "этэрбэс+N", "affixes": "+ACC"},
+      {"pos": 21, "text": "кэтитэлии", "type": "lowercase", "fst": "ymv", "root": "кэт+V", "affixes": "+ITER#1+CONV#2"},
+      {"pos": 22, "text": "оҕуста", "type": "lowercase", "fst": "ymv", "root": "оҕус+V", "affixes": "+PST.3SG"},
+      {"pos": 23, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

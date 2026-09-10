@@ -1,0 +1,60 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 301,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Союзные сложносочиненные предложения",
+    "section": 547,
+    "notes": "Препозитивные союзы, союзные сочетания, частицы, образованные из различных форм связочных глаголов, также широко используются для выражения сочинительной связи между частями сложносочиненного предложения: *эбэтэр* «или», «либо».",
+    "sah": "Эбэтэр эһиги биһигини кыайыаххыт, эбэтэр биһиги эһигини хотуохпут.",
+    "ru": "Или вы нас победите, или мы вас одолеем.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Эбэтэр", "type": "title", "fst": "ymv", "root": "эбэтэр+CONJ"},
+      {"pos": 2, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron"},
+      {"pos": 3, "text": "биһигини", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron", "affixes": "+ACC"},
+      {"pos": 4, "text": "кыайыаххыт", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+PART_FUT+POSS.2PL"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "эбэтэр", "type": "lowercase", "fst": "ymv", "root": "эбэтэр+CONJ"},
+      {"pos": 7, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron"},
+      {"pos": 8, "text": "эһигини", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron", "affixes": "+ACC"},
+      {"pos": 9, "text": "хотуохпут", "type": "lowercase", "fst": "ymv", "root": "хот+V", "affixes": "+PART_FUT+POSS.1PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 301,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложносочиненные предложения. Союзные сложносочиненные предложения",
+    "section": 547,
+    "notes": "Препозитивные союзы, союзные сочетания, частицы, образованные из различных форм связочных глаголов, также широко используются для выражения сочинительной связи между частями сложносочиненного предложения: *буоллаҕына* «а», «же» (союз-частица).",
+    "sah": "Хата, дьолго, ону дьарыктанар сололоох киһи суох, оҕонньор бэйэтэ буоллаҕына дьиэттэн быкпакка сытар буолан билиминэ хаалла.",
+    "ru": "Зато, к счастью, нет свободного человека, занимающегося этим, а сам старик ничего не заметил в силу того, что лежал дома, никуда не выходя.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Хата", "type": "title", "fst": "ymv", "root": "хата+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "дьолго", "type": "lowercase", "fst": "ymv", "root": "дьол+N", "affixes": "+DAT"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "ону", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+ACC"},
+      {"pos": 6, "text": "дьарыктанар", "type": "lowercase", "fst": "ymv", "root": "дьарык+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_PRES"},
+      {"pos": 7, "text": "сололоох", "type": "lowercase", "fst": "ymv", "root": "соло+N", "affixes": "+ADJZ#1"},
+      {"pos": 8, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 9, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+      {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 11, "text": "оҕонньор", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N"},
+      {"pos": 12, "text": "бэйэтэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 13, "text": "буоллаҕына", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 14, "text": "дьиэттэн", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+ABL"},
+      {"pos": 15, "text": "быкпакка", "type": "lowercase", "fst": "ymv", "root": "бык+V", "affixes": "+NEG+PART_PRES+DAT"},
+      {"pos": 16, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+PART_PRES"},
+      {"pos": 17, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 18, "text": "билиминэ", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+CONV#3"},
+      {"pos": 19, "text": "хаалла", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PST.3SG"},
+      {"pos": 20, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

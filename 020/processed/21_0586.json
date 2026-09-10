@@ -1,0 +1,58 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 320,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Косвенная речь",
+    "section": 586,
+    "notes": "Е.И. Убрятова отмечает, что в якутском языке нет строгого разграничения прямой и косвесной речи.",
+    "sah": "«Оспот баас буолан аала сылдьар ыарыылаах сирин таарыйдаҕым дуу?» — диэн куттанна.",
+    "ru": "«Неужели я затронул его больное место, которое мучает его, став незаживающей раной?» — испугался он.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 2, "text": "Оспот", "type": "title", "fst": "ymv", "root": "ос+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 3, "text": "баас", "type": "lowercase", "fst": "ymv", "root": "баас+N"},
+      {"pos": 4, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "аала", "type": "lowercase", "fst": "ymv", "root": "аал+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES"},
+      {"pos": 7, "text": "ыарыылаах", "type": "lowercase", "fst": "ymv", "root": "ыарыы+N", "affixes": "+ADJZ#1"},
+      {"pos": 8, "text": "сирин", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 9, "text": "таарыйдаҕым", "type": "lowercase", "fst": "ymv", "root": "таарый+V", "affixes": "+CONV_COND#2+POSS.1SG"},
+      {"pos": 10, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
+      {"pos": 11, "text": "?", "type": "question", "fst": "ymv"},
+      {"pos": 12, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 13, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 14, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 15, "text": "куттанна", "type": "lowercase", "fst": "ymv", "root": "куттаа+V", "affixes": "+REFL/PASS+PST.3SG"},
+      {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 320,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Косвенная речь",
+    "section": 586,
+    "notes": "Е.И. Убрятова отмечает, что в якутском языке нет строгого разграничения прямой и косвесной речи.",
+    "sah": "Оспот баас буолан аала сылдьар ыарыылаах сирин таарыйдаҕым дуу диэн куттанна.",
+    "ru": "«Он испугался, думая, что неужели он затронул его больное место, которое мучает его, став незаживающей раной (досл.: Неужели я затронул его больное место, которое мучает его, став незаживающей раной, говоря так, он испугался)»",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Оспот", "type": "title", "fst": "ymv", "root": "ос+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 2, "text": "баас", "type": "lowercase", "fst": "ymv", "root": "баас+N"},
+      {"pos": 3, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "аала", "type": "lowercase", "fst": "ymv", "root": "аал+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": "ыарыылаах", "type": "lowercase", "fst": "ymv", "root": "ыарыы+N", "affixes": "+ADJZ#1"},
+      {"pos": 7, "text": "сирин", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 8, "text": "таарыйдаҕым", "type": "lowercase", "fst": "ymv", "root": "таарый+V", "affixes": "+CONV_COND#2+POSS.1SG"},
+      {"pos": 9, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
+      {"pos": 10, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 11, "text": "куттанна", "type": "lowercase", "fst": "ymv", "root": "куттаа+V", "affixes": "+REFL/PASS+PST.3SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

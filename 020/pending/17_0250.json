@@ -1,0 +1,35 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 135,
+    "chapter": "Типы предложений по цели сообщения",
+    "topic": "Повествовательное предложение (фраза)",
+    "section": 250,
+    "notes": "Просьба как коммуникативный вид выражает самостоятельную речевую модель обращения к кому-нибудь, призывающую удовлетворить какие-нибудь нужды, желания. Для этих целей используются различные формальные средства типа барыым эрэ, бырастыы гыныҥ, саҥарыый, этимээр, кэпсээ эрэ, тохтуу түс, кэлиэҥ дуу и т.п.",
+    "sah": "Оҕонньоттоор, ылыҥ, бырастыы гыныҥ, хаһытаан кэбистим дуу, тугуй?",
+    "ru": "Старики, ладно, извините, кажется, я на вас накричал?",
+    "id": 12,
+    "parses": [
+      {"pos": 1, "text": "Оҕонньоттоор", "type": "title", "fst": "yma", "root": "оҕонньотуй^V", "affixes": "+REFL+IMP.FUT"},
+      {"pos": 1, "text": "Оҕонньоттоор", "type": "title", "fst": "yma", "root": "оҕонньотто^N", "affixes": "^VRBLZ#4a"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "ылыҥ", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "бырастыы", "type": "lowercase", "fst": "ymv", "root": "бырастыы+INJ"},
+      {"pos": 6, "text": "гыныҥ", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "хаһытаан", "type": "lowercase", "fst": "ymv", "root": "хас+Adj", "affixes": "+VRBLZ#2+CSTV+CONV#1"},
+      {"pos": 8, "text": "хаһытаан", "type": "lowercase", "fst": "ymv", "root": "хаһыы+N", "affixes": "+VRBLZ#2+CSTV+CONV#1"},
+      {"pos": 8, "text": "хаһытаан", "type": "lowercase", "fst": "ymv", "root": "хай+V", "affixes": "+RECP+CSTV+CONV#1"},
+      {"pos": 9, "text": "кэбистим", "type": "lowercase", "fst": "ymv", "root": "кэп+N", "affixes": "+VRBLZ#2+RECP+PST.1SG"},
+      {"pos": 9, "text": "кэбистим", "type": "lowercase", "fst": "ymv", "root": "кэп+V", "affixes": "+RECP+PST.1SG"},
+      {"pos": 9, "text": "кэбистим", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+PST.1SG"},
+      {"pos": 9, "text": "кэбистим", "type": "lowercase", "fst": "ymv", "root": "кэбий+V", "affixes": "+RECP+PST.1SG"},
+      {"pos": 10, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "тугуй", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+ACC+INT"},
+      {"pos": 13, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  }
+]

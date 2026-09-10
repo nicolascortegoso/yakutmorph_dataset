@@ -1,0 +1,43 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 59,
+    "chapter": "Двусоставное предложение",
+    "topic": "Определение. Изафетное определение. Сложное именное изафетное определительное сочетание",
+    "section": 127,
+    "notes": "Довольно часто встречаются случаи, когда первый член изафетного сочетания объединяет простой и сложной именные изафетные словосочетания.",
+    "sah": "Мэхээлэ дьиэтин сэбэ-сэбиргэлэ, үлэлиир сэбэ барыта чэпчэки, чараас, дьоҕус, оонньуур курдук.",
+    "ru": "Домашние вещи, рабочий инструмент Михаила - все это легкое, изящное, довольно маленькое, словно игрушка.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Мэхээлэ", "type": "title", "fst": "ymv", "root": "мэхээлэ+N"},
+      {"pos": 2, "text": "дьиэтин", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+VRBLZ#2+CSTV+REFL"},
+      {"pos": 2, "text": "дьиэтин", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "сэбэ", "type": "lowercase", "fst": "ymv", "root": "сэп+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 5, "text": "сэбиргэлэ", "type": "lowercase", "fst": "yma", "root": "сэбиргэлэ^Adv"},
+      {"pos": 5, "text": "сэбиргэлэ", "type": "lowercase", "fst": "yma", "root": "сэбиргэлэ^N"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 8, "text": "сэбэ", "type": "lowercase", "fst": "ymv", "root": "сэп+N", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "барыта", "type": "lowercase", "fst": "ymv", "root": "барый+V", "affixes": "+CSTV+CONV#2"},
+      {"pos": 9, "text": "барыта", "type": "lowercase", "fst": "ymv", "root": "бары+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "барыта", "type": "lowercase", "fst": "ymv", "root": "бары+Pron", "affixes": "+PRTV"},
+      {"pos": 9, "text": "барыта", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 10, "text": "чэпчэки", "type": "lowercase", "fst": "ymv", "root": "чэпчэки+Adj"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "чараас", "type": "lowercase", "fst": "ymv", "root": "чараас+Adj"},
+      {"pos": 13, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 14, "text": "дьоҕус", "type": "lowercase", "fst": "ymv", "root": "дьоҕус+Adj"},
+      {"pos": 15, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 16, "text": "оонньуур", "type": "lowercase", "fst": "ymv", "root": "оонньоо+V", "affixes": "+PART_PRES"},
+      {"pos": 16, "text": "оонньуур", "type": "lowercase", "fst": "ymv", "root": "оонньуу+N", "affixes": "+VRBLZ#4"},
+      {"pos": 17, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 17, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+Part"},
+      {"pos": 17, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 17, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+ADVZ#5"},
+      {"pos": 18, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

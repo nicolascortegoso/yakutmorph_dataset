@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 268,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение следования",
+    "section": 453,
+    "notes": "Предложения с зависимым сказуемым в форме причастия на *-тах* с послелогами группы *утаа* допускают в зависимой части слово *маҥнай* «в первое время».",
+    "sah": "Маҥнай кэллэҕим утаата, манна ким да суох этэ.",
+    "ru": "Поначалу, когда я приехал сюда, здесь никого не было.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Маҥнай", "type": "title", "fst": "ymv", "root": "маҥнай+Adv"},
+      {"pos": 2, "text": "кэллэҕим", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV_COND#2+POSS.1SG"},
+      {"pos": 3, "text": "утаата", "type": "lowercase", "fst": "ymv", "root": "утаа+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 6, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+Pron"},
+      {"pos": 7, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 8, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+      {"pos": 9, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

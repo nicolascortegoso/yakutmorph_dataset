@@ -1,0 +1,56 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 42,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство образа действия",
+    "section": 74,
+    "notes": "Наречие *тэбис-тиэрэ-тик* образовано от усиленной формы прилагательного.",
+    "sah": "Мэхээс оҕонньор тыллара Өрүүнэ кулгааҕар тэбис-тиэрэтик киирдилэр.",
+    "ru": "Слово старика Мэхэса в уши Ирины превратно вошли совсем.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Мэхээс", "type": "title", "fst": "yma", "root": "мэхээс+N"},
+      {"pos": 2, "text": "оҕонньор", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N"},
+      {"pos": 3, "text": "тыллара", "type": "lowercase", "fst": "ymv", "root": "тылын+V", "affixes": "+CSTV+CONV#2"},
+      {"pos": 3, "text": "тыллара", "type": "lowercase", "fst": "ymv", "root": "тылын+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 3, "text": "тыллара", "type": "lowercase", "fst": "ymv", "root": "тыл+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 4, "text": "Өрүүнэ", "type": "title", "fst": "yma", "root": "өрөө^V", "affixes": "+IMP+PASS+POSS.3SG"},
+      {"pos": 4, "text": "Өрүүнэ", "type": "title", "fst": "yma", "root": "өрөө^V", "affixes": "+IMP+PASS+CONV#2"},
+      {"pos": 4, "text": "Өрүүнэ", "type": "title", "fst": "yma", "root": "өрүүнэ^N"},
+      {"pos": 4, "text": "Өрүүнэ", "type": "title", "fst": "yma", "root": "өрүүн^Adj", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": "кулгааҕар", "type": "lowercase", "fst": "ymv", "root": "кулгаах+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 6, "text": "тэбис", "type": "lowercase", "fst": "ymv", "root": "тэп+V", "affixes": "+RECP"},
+      {"pos": 6, "text": "тэбис", "type": "lowercase", "fst": "ymv", "root": "тэбис+V"},
+      {"pos": 7, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 8, "text": "тиэрэтик", "type": "lowercase", "fst": "ymv", "root": "тиэр+V", "affixes": "+CONV#2+ADVZ#5"},
+      {"pos": 9, "text": "киирдилэр", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PST.3PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 42,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство образа действия",
+    "section": 74,
+    "notes": "Аффикск *-тук* принимает слово (частица), уточняющее меру признака *түргэн* («быстро»/«быстрый»).",
+    "sah": "Түргэн соҕустук Бурхалейга кэллэ.",
+    "ru": "Быстренько (несколько быстро) к Бурхалею пришла.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Түргэн", "type": "title", "fst": "ymv", "root": "түрк+N", "affixes": "+VRBLZ#3+REFL/PASS"},
+      {"pos": 1, "text": "Түргэн", "type": "title", "fst": "ymv", "root": "түргэн+Adj"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕустуй^V", "affixes": "^ADJZ#15"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕустуй^V", "affixes": "^NMLZ#5"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕус^N", "affixes": "^ADVZ#5"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕус^V", "affixes": "+REFL^ADJZ#15"},
+      {"pos": 3, "text": "Бурхалейга", "type": "title", "fst": "yma", "root": "бурхалейга+N"},
+      {"pos": 4, "text": "кэллэ", "type": "lowercase", "fst": "yma", "root": "кэллэ^Adv"},
+      {"pos": 4, "text": "кэллэ", "type": "lowercase", "fst": "yma", "root": "кэллэ^N"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

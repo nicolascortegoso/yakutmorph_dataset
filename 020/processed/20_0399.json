@@ -1,0 +1,82 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 252,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 399,
+    "notes": "В данных предложениях могут содержаться как реальные (возможные), так и нереальные (гипотетические) уступительные отношения, что сближает эти предложения с условными. Не случайно в рассматриваемых предложениях возможен союз типа *өскө* (*өскөтө*, *өскөтүн*), поддерживающий, усиливающий значение допущения, гипотетичности, соответственно и условия.",
+    "sah": "Өскөтүн, күтүөт өлбүтүн да иһин, кыыс син биир, кийиитинэн ааҕыллан, тойонноох хотунун бас билиитигэр сылдьар.",
+    "ru": "Допустим, если даже сын и умрет, девушка (его жена) все равно остается невесткой и находится в зависимости от родителей жениха.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Өскөтүн", "type": "title", "fst": "ymv", "root": "өскөтүн+CONJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "күтүөт", "type": "lowercase", "fst": "ymv", "root": "күтүөт+N"},
+      {"pos": 4, "text": "өлбүтүн", "type": "lowercase", "fst": "ymv", "root": "өл+V", "affixes": "+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 6, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс+N"},
+      {"pos": 9, "text": "син", "type": "lowercase", "fst": "ymv", "root": "син+Adv"},
+      {"pos": 10, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 12, "text": "кийиитинэн", "type": "lowercase", "fst": "ymv", "root": "кийиит+N", "affixes": "+INST"},
+      {"pos": 13, "text": "ааҕыллан", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PASS+CONV#1"},
+      {"pos": 14, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 15, "text": "тойонноох", "type": "lowercase", "fst": "ymv", "root": "тойон+N", "affixes": "+ADJZ#1"},
+      {"pos": 16, "text": "хотунун", "type": "lowercase", "fst": "ymv", "root": "хотун+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 17, "text": "бас", "type": "lowercase", "fst": "ymv", "root": "бас+N"},
+      {"pos": 18, "text": "билиитигэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"},
+      {"pos": 19, "text": "сылдьар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES"},
+      {"pos": 20, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 252,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 399,
+    "notes": "Возможный характер уступки иногда может определяться из контекста.",
+    "sah": "— ...Тимир Умаппыкка баран түспүтэ буолуо...",
+    "ru": "— ...Возможно, кряква села в Тимир Умаппыт (назв. местности)...",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 2, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 3, "text": "Тимир", "type": "title", "fst": "ymv", "root": "тимир+N"},
+      {"pos": 4, "text": "Умаппыкка", "type": "title", "fst": "ymv", "root": "умат+V", "affixes": "+PART_PAST+DAT"},
+      {"pos": 5, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "түспүтэ", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 7, "text": "буолуо", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT"},
+      {"pos": 8, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 252,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 399,
+    "notes": "Возможный характер уступки иногда может определяться из контекста.",
+    "sah": "— Онно түспүтүн иһин, ону туоххунан тутаары гынаҕын.",
+    "ru": "— Если и села там (допустим), (и в такой ситуации) чем же думаешь поймать?",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 2, "text": "Онно", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+LOC"},
+      {"pos": 3, "text": "түспүтүн", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "ону", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+ACC"},
+      {"pos": 7, "text": "туоххунан", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+POSS.2SG.INST"},
+      {"pos": 8, "text": "тутаары", "type": "lowercase", "fst": "ymv", "root": "тут+V", "affixes": "+CONV#5"},
+      {"pos": 9, "text": "гынаҕын", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+PART_PRES+2SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

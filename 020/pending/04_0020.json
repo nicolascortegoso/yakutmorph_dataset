@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 21,
+    "chapter": "Двусоставное предложение",
+    "topic": "Именно сказуемое",
+    "section": 20,
+    "notes": "Наречие место более типично для него функция обстоятельства.",
+    "sah": "Мин манна олорубун.",
+    "ru": "Я здесь живу.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+N"},
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 3, "text": "олорубун", "type": "lowercase", "fst": "yma", "root": "олору^Adv", "affixes": "+1SG"},
+      {"pos": 3, "text": "олорубун", "type": "lowercase", "fst": "yma", "root": "олору^Adv", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

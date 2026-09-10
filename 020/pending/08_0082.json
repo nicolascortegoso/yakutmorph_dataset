@@ -1,0 +1,39 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 45,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство цели",
+    "section": 82,
+    "notes": "Другая форма обстоятельства цели — сочетание существительного с послелогом *туһугар*, *иннигэр*, *иһин* «ради».",
+    "sah": "Эҥин да бэйэлээх туйгун уолоттарам бу улуу дьолбут туһугар охсуһа сыльан геройдуу оҕуттулар...",
+    "ru": "Разные отличные сыновья мои, за это великое наше счастье борясь, героический пали...",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Эҥин", "type": "title", "fst": "ymv", "root": "эҥин+Adj"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 3, "text": "бэйэлээх", "type": "lowercase", "fst": "ymv", "root": "бэйэ+N", "affixes": "+ADJZ#1"},
+      {"pos": 4, "text": "туйгун", "type": "lowercase", "fst": "ymv", "root": "туйгун+Adj"},
+      {"pos": 4, "text": "туйгун", "type": "lowercase", "fst": "ymv", "root": "туйгун+N"},
+      {"pos": 5, "text": "уолоттарам", "type": "lowercase", "fst": "yma", "root": "уолоттарам+N"},
+      {"pos": 5, "text": "уолоттарам", "type": "lowercase", "fst": "yma", "root": "уолоттара+N", "affixes": "+POSS.1SG"},
+      {"pos": 6, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
+      {"pos": 7, "text": "улуу", "type": "lowercase", "fst": "ymv", "root": "улуу+Adj"},
+      {"pos": 8, "text": "дьолбут", "type": "lowercase", "fst": "ymv", "root": "дьол+N", "affixes": "+POSS.1PL"},
+      {"pos": 8, "text": "дьолбут", "type": "lowercase", "fst": "ymv", "root": "дьол+N", "affixes": "+1PL"},
+      {"pos": 9, "text": "туһугар", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 10, "text": "охсуһа", "type": "lowercase", "fst": "ymv", "root": "ох+N", "affixes": "+VRBLZ#5+RECP+CONV#2"},
+      {"pos": 10, "text": "охсуһа", "type": "lowercase", "fst": "ymv", "root": "оҕус+V", "affixes": "+RECP+CONV#2"},
+      {"pos": 10, "text": "охсуһа", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+NMLZ#6+VRBLZ#5+RECP+CONV#2"},
+      {"pos": 11, "text": "сыльан", "type": "lowercase", "fst": "yma", "root": "сыльан+N"},
+      {"pos": 12, "text": "геройдуу", "type": "lowercase", "fst": "ymv", "root": "герой+N", "affixes": "+ADVZ#6"},
+      {"pos": 12, "text": "геройдуу", "type": "lowercase", "fst": "ymv", "root": "герой+N", "affixes": "+VRBLZ#1+NMLZ#2"},
+      {"pos": 12, "text": "геройдуу", "type": "lowercase", "fst": "ymv", "root": "герой+N", "affixes": "+VRBLZ#1+CONV#2"},
+      {"pos": 13, "text": "оҕуттулар", "type": "lowercase", "fst": "ymv", "root": "ох+N", "affixes": "+VRBLZ#2+CSTV+PST.3PL"},
+      {"pos": 13, "text": "оҕуттулар", "type": "lowercase", "fst": "ymv", "root": "оҕут+V", "affixes": "+PST.3PL"},
+      {"pos": 14, "text": "...", "type": "ellipsis", "fst": "ymv"}
+    ]
+  }
+]

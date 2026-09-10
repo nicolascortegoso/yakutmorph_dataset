@@ -1,0 +1,59 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 313,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Прямая речь",
+    "section": 568,
+    "notes": "Авторская речь включает в себя прямую речь.",
+    "sah": "«Мин дойдум — Совесткай Союз», — диир киэн туттуулаахтык Эредия Алда.",
+    "ru": "«Моя родина — Советский Союз», — гордо говорит Эредя Алда.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 2, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 3, "text": "дойдум", "type": "lowercase", "fst": "ymv", "root": "дойду+N", "affixes": "+POSS.1SG"},
+      {"pos": 4, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 5, "text": "Совесткай", "type": "title", "fst": "yma", "root": "совесткай+Adj"},
+      {"pos": 6, "text": "Союз", "type": "title", "fst": "ymv", "root": "союз+N"},
+      {"pos": 7, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 9, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 10, "text": "диир", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PRES"},
+      {"pos": 11, "text": "киэн", "type": "lowercase", "fst": "ymv", "root": "киэн+N"},
+      {"pos": 12, "text": "туттуулаахтык", "type": "lowercase", "fst": "ymv", "root": "туттуу+N", "affixes": "+ADJZ#1+ADVZ#5"},
+      {"pos": 13, "text": "Эредия", "type": "title", "fst": "yma", "root": "эредия+N"},
+      {"pos": 14, "text": "Алда", "type": "title", "fst": "yma", "root": "алда+N"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 313,
+    "chapter": "Формы передачи чужой речи",
+    "topic": "Прямая речь",
+    "section": 568,
+    "notes": "Авторская речь включает в себя прямую речь.",
+    "sah": "«Туох сонуннааххыный, Хаарчаан?» — оҕонньор тохтуу түһэн баран ыйытта.",
+    "ru": "«Какие у тебя новости, Харчан?» — погодя, спросил старик.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
+      {"pos": 2, "text": "Туох", "type": "title", "fst": "ymv", "root": "туох+Pron"},
+      {"pos": 3, "text": "сонуннааххыный", "type": "lowercase", "fst": "ymv", "root": "сонун+N", "affixes": "+ADJZ#1+2SG+INT"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "Хаарчаан", "type": "title", "fst": "ymv", "root": "хаар+N", "affixes": "+DIM#2"},
+      {"pos": 6, "text": "?", "type": "question", "fst": "ymv"},
+      {"pos": 7, "text": "»", "type": "quotation", "fst": "ymv"},
+      {"pos": 8, "text": "—", "type": "dash", "fst": "ymv"},
+      {"pos": 9, "text": "оҕонньор", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N"},
+      {"pos": 10, "text": "тохтуу", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+CONV#2"},
+      {"pos": 11, "text": "түһэн", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+CONV#1"},
+      {"pos": 12, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 13, "text": "ыйытта", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+PST.3SG"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

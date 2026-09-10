@@ -1,0 +1,43 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 239,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения условия",
+    "section": 366,
+    "notes": "Значение допущения (гипотетичности) может поддерживаться, усиливаться союзами, включенными в зависимую часть. Это союз өскө и его варианты, а также өскүруу (өскүрутун), употребляемые редко, в основном в говорах вилюйского и некоторых других районов.",
+    "sah": "Өскө ханнык эрэ билбэт киһим киирбэтэҕэ, буоллар, төһө өр ити курдук олоруохпутукн билбэтим.",
+    "ru": "Если бы не зашел какой-то незнакомый мне человек, я не знаю, сколько времени мы просидели бы таким образом.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Өскө", "type": "title", "fst": "ymv", "root": "өскө+CONJ"},
+      {"pos": 1, "text": "Өскө", "type": "title", "fst": "ymv", "root": "өс+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "Өскө", "type": "title", "fst": "ymv", "root": "өс+N", "affixes": "+DIM#3"},
+      {"pos": 2, "text": "ханнык", "type": "lowercase", "fst": "ymv", "root": "ханнык+Pron"},
+      {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
+      {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "билбэт", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 5, "text": "киһим", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+POSS.1SG"},
+      {"pos": 6, "text": "киирбэтэҕэ", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+NEG+CONV_COND#2+POSS.3SG"},
+      {"pos": 6, "text": "киирбэтэҕэ", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+NEG+PART_PAST+POSS.3SG"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#1"},
+      {"pos": 8, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PL"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "төһө", "type": "lowercase", "fst": "ymv", "root": "төһө+Pron"},
+      {"pos": 11, "text": "өр", "type": "lowercase", "fst": "ymv", "root": "өр+N"},
+      {"pos": 11, "text": "өр", "type": "lowercase", "fst": "ymv", "root": "өр+V"},
+      {"pos": 12, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 13, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
+      {"pos": 13, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+Part"},
+      {"pos": 13, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 13, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+ADVZ#5"},
+      {"pos": 14, "text": "олоруохпутукн", "type": "lowercase", "fst": "yma", "root": "олоруохпутукн+N"},
+      {"pos": 15, "text": "билбэтим", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+PART_PRES+POSS.1SG"},
+      {"pos": 15, "text": "билбэтим", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+PST.1SG"},
+      {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

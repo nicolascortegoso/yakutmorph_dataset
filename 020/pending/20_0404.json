@@ -1,0 +1,41 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 254,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 404,
+    "notes": "Событие, названное в зависимой части, не всегда соответствует действительности. Например, в одном произведении И. Нуолура рассказывается о том, как невестка торопит свекра, чтобы он побыстрее уехал. Тот в ответ говорит.",
+    "sah": "Сэгээр, эн да тиэтэппэтэҕин иһин, манна уһуур санаа суох буолла.",
+    "ru": "Милая, хоть ты и не торопила бы (не торопи), у меня нет мысли задерживаться здесь.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Сэгээр", "type": "title", "fst": "yma", "root": "сэгээр^Adv"},
+      {"pos": 1, "text": "Сэгээр", "type": "title", "fst": "yma", "root": "сэгэ^Adj", "affixes": "^VRBLZ#4a"},
+      {"pos": 1, "text": "Сэгээр", "type": "title", "fst": "yma", "root": "сэгэ^N", "affixes": "^VRBLZ#4a"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+REFL/PASS"},
+      {"pos": 4, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 4, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 5, "text": "тиэтэппэтэҕин", "type": "lowercase", "fst": "ymv", "root": "тиэтэй+V", "affixes": "+CSTV+NEG+CONV_COND#2+POSS.3SG.ACC"},
+      {"pos": 5, "text": "тиэтэппэтэҕин", "type": "lowercase", "fst": "ymv", "root": "тиэтэй+V", "affixes": "+CSTV+NEG+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 5, "text": "тиэтэппэтэҕин", "type": "lowercase", "fst": "ymv", "root": "тиэтэй+V", "affixes": "+CSTV+NEG+PART_PRES+POSS.3SG+2SG"},
+      {"pos": 6, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+REFL"},
+      {"pos": 6, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 9, "text": "уһуур", "type": "lowercase", "fst": "ymv", "root": "уст+N", "affixes": "+VRBLZ#3+PART_PRES"},
+      {"pos": 9, "text": "уһуур", "type": "lowercase", "fst": "ymv", "root": "уһаа+V", "affixes": "+PART_PRES"},
+      {"pos": 10, "text": "санаа", "type": "lowercase", "fst": "ymv", "root": "санаа+N"},
+      {"pos": 10, "text": "санаа", "type": "lowercase", "fst": "ymv", "root": "санаа+V"},
+      {"pos": 10, "text": "санаа", "type": "lowercase", "fst": "ymv", "root": "сан+N", "affixes": "+VRBLZ#3"},
+      {"pos": 11, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+      {"pos": 12, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

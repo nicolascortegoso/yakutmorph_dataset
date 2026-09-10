@@ -1,0 +1,39 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 269,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение предшествования",
+    "section": 457,
+    "notes": "В конструкции с зависимым сказуемым в форме *-ыах* + афф. притяж. *иннинэ* может получиться конкретное выражение величины разрыва во времени между событиями главной и зависимой части.",
+    "sah": "Сэмэнчик Маачаҕа кэлиэн аҕыс хонук иннинэ, Петухов үрээтинньик Якутскайтан эргиллэн тахсыбыта.",
+    "ru": "За восемь дней до приезда Семена в Мачу урядник Петухов возвратился из Якутска.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Сэмэнчик", "type": "title", "fst": "ymv", "root": "сэмэн+N", "affixes": "+DIM#1"},
+      {"pos": 2, "text": "Маачаҕа", "type": "title", "fst": "yma", "root": "маачах^Adv", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "Маачаҕа", "type": "title", "fst": "yma", "root": "маачах^N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "Маачаҕа", "type": "title", "fst": "yma", "root": "маачаҕа^N"},
+      {"pos": 2, "text": "Маачаҕа", "type": "title", "fst": "yma", "root": "маачай^V", "affixes": "^NMLZ#6+POSS.3SG"},
+      {"pos": 2, "text": "Маачаҕа", "type": "title", "fst": "yma", "root": "маача^Adj", "affixes": "+DAT"},
+      {"pos": 2, "text": "Маачаҕа", "type": "title", "fst": "yma", "root": "маача^Adv", "affixes": "+DAT"},
+      {"pos": 2, "text": "Маачаҕа", "type": "title", "fst": "yma", "root": "маача^N", "affixes": "+DAT"},
+      {"pos": 3, "text": "кэлиэн", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT+CONV#1"},
+      {"pos": 4, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "ах+N", "affixes": "+VRBLZ#2+RECP"},
+      {"pos": 4, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "ах+V", "affixes": "+RECP"},
+      {"pos": 4, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "аҕыс+Num"},
+      {"pos": 4, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "аҕы+N", "affixes": "+VRBLZ#2+RECP"},
+      {"pos": 5, "text": "хонук", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+NMLZ#5"},
+      {"pos": 6, "text": "иннинэ", "type": "lowercase", "fst": "ymv", "root": "иннинэ+POST"},
+      {"pos": 6, "text": "иннинэ", "type": "lowercase", "fst": "ymv", "root": "илин+N", "affixes": "+POSS.3SG.PRTV"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "Петухов", "type": "title", "fst": "yma", "root": "петухов+N"},
+      {"pos": 9, "text": "үрээтинньик", "type": "lowercase", "fst": "yma", "root": "үрээтинньик+N"},
+      {"pos": 10, "text": "Якутскайтан", "type": "title", "fst": "ymv", "root": "якутскай+Adj", "affixes": "+ABL"},
+      {"pos": 11, "text": "эргиллэн", "type": "lowercase", "fst": "ymv", "root": "эргий+V", "affixes": "+PASS+CONV#1"},
+      {"pos": 12, "text": "тахсыбыта", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

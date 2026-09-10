@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 257,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения цели",
+    "section": 413,
+    "notes": "Иногда употребляются целевые конструкции со сказуемым зависимой части, выраженным сочетанием — причастие на *-бат* + афф. притяжения + служебное слово *наада* «надо» в дательном падеже лично-предикативного склонения.",
+    "sah": "Маруся буоллаҕына кинини аһынарыттан улаханнык уйадыйда буолан баран, маннык кытаанах ыарыыга сытар киһи долгуйбатын наадатыгар, бэйэтин кыана тутунна.",
+    "ru": "Маруся же, хотя и глубоко проникалась жалостью к нему, вела себя сдержанно, чтобы (букв. с тем, чтобы; в целях, чтобы) не волновать человека, страдав- шего таким серьезным недугом.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Маруся", "type": "title", "fst": "yma", "root": "маруся+N"},
+      {"pos": 2, "text": "буоллаҕына", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 3, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
+      {"pos": 4, "text": "аһынарыттан", "type": "lowercase", "fst": "ymv", "root": "ай+V", "affixes": "+RECP+REFL+PART_PRES+POSS.3SG.ABL"},
+      {"pos": 5, "text": "улаханнык", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 6, "text": "уйадыйда", "type": "lowercase", "fst": "ymv", "root": "уйадый+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "маннык", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+DEF"},
+      {"pos": 11, "text": "кытаанах", "type": "lowercase", "fst": "ymv", "root": "кытаанах+Adj"},
+      {"pos": 12, "text": "ыарыыга", "type": "lowercase", "fst": "ymv", "root": "ыарыы+N", "affixes": "+DAT"},
+      {"pos": 13, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+PART_PRES"},
+      {"pos": 14, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 15, "text": "долгуйбатын", "type": "lowercase", "fst": "ymv", "root": "долгуй+V", "affixes": "+NEG+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 16, "text": "наадатыгар", "type": "lowercase", "fst": "ymv", "root": "наада+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 17, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 18, "text": "бэйэтин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 19, "text": "кыана", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+REFL/PASS+CONV#2"},
+      {"pos": 20, "text": "тутунна", "type": "lowercase", "fst": "ymv", "root": "тутун+V", "affixes": "+PST.3SG"},
+      {"pos": 21, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

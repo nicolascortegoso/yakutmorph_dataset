@@ -1,0 +1,33 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 246,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сложноподчиненные предложения условия",
+    "section": 377,
+    "notes": "Условно-выделительные предложения. В условно-выделительных конструкциях главная часть выделяет и вместе с тем ограничивает то, что допускается в зависимой части. Вотличие от условно-сопоставительных предложений в данных предложениях условное значение (значение допу- щения и достаточного основания) в результате его выделсния и ограничения не утрачивается, а только ослабляется. Сказуемое зависимой части по своей лексической основе обычно совпадает или сближается со сказуемым главной части.",
+    "sah": "Оҕоҕутун кыайдахтарына, эдэр ойууттар кыайыахтара.",
+    "ru": "Вашего ребенка, если вылечат, вылечат молодые шаманы.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Оҕоҕутун", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+POSS.2PL.ACC"},
+      {"pos": 2, "text": "кыайдахтарына", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+CONV_COND#2+POSS.3PL.PRTV"},
+      {"pos": 2, "text": "кыайдахтарына", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+CONV_COND#2+PL+POSS.3SG.PRTV"},
+      {"pos": 2, "text": "кыайдахтарына", "type": "lowercase", "fst": "ymv", "root": "кыа+N", "affixes": "+VRBLZ#2+CONV_COND#2+POSS.3PL.PRTV"},
+      {"pos": 2, "text": "кыайдахтарына", "type": "lowercase", "fst": "ymv", "root": "кыа+N", "affixes": "+VRBLZ#2+CONV_COND#2+PL+POSS.3SG.PRTV"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 4, "text": "эдэр", "type": "lowercase", "fst": "ymv", "root": "эдэр+Adj"},
+      {"pos": 5, "text": "ойууттар", "type": "lowercase", "fst": "yma", "root": "ойуутуй^V", "affixes": "+REFL+PART_PRES"},
+      {"pos": 5, "text": "ойууттар", "type": "lowercase", "fst": "yma", "root": "ойууттар^N"},
+      {"pos": 5, "text": "ойууттар", "type": "lowercase", "fst": "yma", "root": "ойуутта^Adv", "affixes": "^VRBLZ#4"},
+      {"pos": 5, "text": "ойууттар", "type": "lowercase", "fst": "yma", "root": "ойуутта^N", "affixes": "^VRBLZ#4"},
+      {"pos": 5, "text": "ойууттар", "type": "lowercase", "fst": "yma", "root": "ойуу^Adj", "affixes": "^VRBLZ#2+CSTV+PL"},
+      {"pos": 5, "text": "ойууттар", "type": "lowercase", "fst": "yma", "root": "ойуу^Adj", "affixes": "^VRBLZ#2+CSTV+CAUS"},
+      {"pos": 5, "text": "ойууттар", "type": "lowercase", "fst": "yma", "root": "ойуу^Adj", "affixes": "^VRBLZ#2+CSTV+CONV_COND#1"},
+      {"pos": 6, "text": "кыайыахтара", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
+      {"pos": 6, "text": "кыайыахтара", "type": "lowercase", "fst": "ymv", "root": "кыа+N", "affixes": "+VRBLZ#2+PART_FUT+PL+POSS.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

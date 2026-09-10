@@ -1,0 +1,30 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 251,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 395,
+    "notes": "Данные предложения могут иметь вопросительную форму.",
+    "sah": "Кини ити отону, киһи сиэмэ диэбитин үрдүнэн, тоҕо да сиэбитэ буолла?",
+    "ru": "Зачем же он съел эту ягоду, несмотря на то, что и было сказано не есть?",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+      {"pos": 2, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
+      {"pos": 3, "text": "отону", "type": "lowercase", "fst": "ymv", "root": "отон+N", "affixes": "+ACC"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+      {"pos": 6, "text": "сиэмэ", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+NEG"},
+      {"pos": 7, "text": "диэбитин", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PAST+POSS.3SG.ACC"},
+      {"pos": 8, "text": "үрдүнэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
+      {"pos": 11, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 12, "text": "сиэбитэ", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 13, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"},
+      {"pos": 14, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 275,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сравнительные сложноподчиненные предложения",
+    "section": 485,
+    "notes": "В ЗПЕ в роли сказуемого с аффиксом *-тааҕар* употребляются разные причастные формы, чаще всего причастия на *-ар* и *-быт*, которые принимают на себя аффикс сравнительного падежа; после сравнительной зависимой части часто следуют слова типа *ордук* «кроме», «лучше», *быдан* «намного».",
+    "sah": "Ол сорудах туолара, Колчак бүтүн биир дивизията түҥнэри эргий-битинээҕэр ордук суолталааҕын, умнуо суохтааххын.",
+    "ru": "Ты не должен забывать, что исполнение того поручения более важно, чем то, что была разбита целая дивизия Колчака.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 2, "text": "сорудах", "type": "lowercase", "fst": "ymv", "root": "сорудах+N"},
+      {"pos": 3, "text": "туолара", "type": "lowercase", "fst": "ymv", "root": "туол+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "Колчак", "type": "title", "fst": "yma", "root": "колчак+N"},
+      {"pos": 6, "text": "бүтүн", "type": "lowercase", "fst": "ymv", "root": "бүтүн+Adj"},
+      {"pos": 7, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
+      {"pos": 8, "text": "дивизията", "type": "lowercase", "fst": "ymv", "root": "дивизия+N", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "түҥнэри", "type": "lowercase", "fst": "ymv", "root": "түҥнэр+V", "affixes": "+ADVZ#1"},
+      {"pos": 10, "text": "эргий", "type": "lowercase", "fst": "ymv", "root": "эргий+V"},
+      {"pos": 11, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 12, "text": "битинээҕэр", "type": "lowercase", "fst": "ymv", "root": "бит+N", "affixes": "+POSS.3SG.COMP"},
+      {"pos": 13, "text": "ордук", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+ADJZ#16"},
+      {"pos": 14, "text": "суолталааҕын", "type": "lowercase", "fst": "ymv", "root": "суолта+N", "affixes": "+ADJZ#1+POSS.3SG.ACC"},
+      {"pos": 15, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 16, "text": "умнуо", "type": "lowercase", "fst": "ymv", "root": "умун+V", "affixes": "+PART_FUT"},
+      {"pos": 17, "text": "суохтааххын", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+ADJZ#1+2SG"},
+      {"pos": 18, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 275,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Сравнительные сложноподчиненные предложения",
+    "section": 485,
+    "notes": "В ЗПЕ в роли сказуемого с аффиксом *-тааҕар* употребляются разные причастные формы, чаще всего причастия на *-ар* и *-быт*, которые принимают на себя аффикс сравнительного падежа; после сравнительной зависимой части часто следуют слова типа *ордук* «кроме», «лучше», *быдан* «намного».",
+    "sah": "Даа, мин бэйэм киирсибиппинээҕэр, эн тустаргар, ордук тириттим.",
+    "ru": "Да, когда боролся ты, я вспотел больше, чем тогда, когда вступил бы в борьбу я сам.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Даа", "type": "title", "fst": "ymv", "root": "даа+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 4, "text": "бэйэм", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.1SG"},
+      {"pos": 5, "text": "киирсибиппинээҕэр", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+RECP+PART_PAST+POSS.1SG.COMP"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 7, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 8, "text": "тустаргар", "type": "lowercase", "fst": "ymv", "root": "туһун+V", "affixes": "+PART_PRES+POSS.2SG.DAT"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 10, "text": "ордук", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+ADJZ#16"},
+      {"pos": 11, "text": "тириттим", "type": "lowercase", "fst": "ymv", "root": "тирит+V", "affixes": "+PST.1SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

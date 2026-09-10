@@ -1,0 +1,31 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 263,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие значение следования",
+    "section": 429,
+    "notes": "Семантика следования (событие главной части следует за событием зависимой части) представлена следующими основными вариантами: 4) близкое (непосредственное) следование.",
+    "sah": "Оҕото кэлээтин кытта, ийэ остуолу тардыбыта.",
+    "ru": "Как только пришел ее ребенок, мать накрыла на стол.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "Оҕото", "type": "title", "fst": "ymv", "root": "ох+N", "affixes": "+VRBLZ#3+CAUS+CONV#2"},
+      {"pos": 1, "text": "Оҕото", "type": "title", "fst": "ymv", "root": "ох+N", "affixes": "+VRBLZ#3+CSTV+CONV#2"},
+      {"pos": 1, "text": "Оҕото", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 1, "text": "Оҕото", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "Оҕото", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "кэлээтин", "type": "lowercase", "fst": "yma", "root": "кэлээтин^V"},
+      {"pos": 2, "text": "кэлээтин", "type": "lowercase", "fst": "yma", "root": "кэлээтий^V", "affixes": "+REFL"},
+      {"pos": 2, "text": "кэлээтин", "type": "lowercase", "fst": "yma", "root": "кэлээ^V", "affixes": "+IMP"},
+      {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "ийэ", "type": "lowercase", "fst": "ymv", "root": "ийэ+N"},
+      {"pos": 6, "text": "остуолу", "type": "lowercase", "fst": "ymv", "root": "остуол+N", "affixes": "+ACC"},
+      {"pos": 7, "text": "тардыбыта", "type": "lowercase", "fst": "yma", "root": "тардыбыта^Adv"},
+      {"pos": 7, "text": "тардыбыта", "type": "lowercase", "fst": "yma", "root": "тардыбыта^N"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

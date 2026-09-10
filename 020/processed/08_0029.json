@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 26,
+    "chapter": "Двусоставное предложение",
+    "topic": "Прямое дополнение в исходном падеже",
+    "section": 29,
+    "notes": "Прямое дополнение может быть выражено в форме исходного падежа. Это бывает, когда прямо дополнение называет объект, составляющий неопределённую часть от целого.",
+    "sah": "Кыра кыыс куһаҕан буолуо диэн сиэбэтэ, отонуттан сиэтэ.",
+    "ru": "Младшая девочка, думая, что (рыба) плоха, не ела её, ягод своих поела.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Кыра", "type": "title", "fst": "ymv", "root": "кыра+Adj"},
+      {"pos": 2, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс+N"},
+      {"pos": 3, "text": "куһаҕан", "type": "lowercase", "fst": "ymv", "root": "куһаҕан+Adj"},
+      {"pos": 4, "text": "буолуо", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT"},
+      {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "сиэбэтэ", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+NEG+PST.3SG"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "отонуттан", "type": "lowercase", "fst": "ymv", "root": "отон+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 9, "text": "сиэтэ", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+PST.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

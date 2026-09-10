@@ -1,0 +1,33 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 252,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Уступительные сложноподчиненные предложения",
+    "section": 398,
+    "notes": "В этих предложениях значение уступки также усиливается определенными лексическими и служебными показателями в составе ЗПЕ и сказуемого ЗПЕ. Так, в ЗПЕ возможны частица *да* (*даҕаны*) и сочетание *төһө да* «сколько бы». Это сочетание в отличие от частицы *да* (*даҕаны*) выделяет не только подлежащее или какой-то второстепенный член, но и само сказуемое; уступка в этом случае акцентируется сильнее.",
+    "sah": "Төһө да күтталлааҕын иһин, атын кыях суох.",
+    "ru": "Как бы это ни было чревато опасностями, другого выхода нет.",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Төһө", "type": "title", "fst": "ymv", "root": "төһө+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+      {"pos": 3, "text": "күтталлааҕын", "type": "lowercase", "fst": "yma", "root": "күтталлаах+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "күтталлааҕын", "type": "lowercase", "fst": "yma", "root": "күтталлааҕын+N"},
+      {"pos": 3, "text": "күтталлааҕын", "type": "lowercase", "fst": "yma", "root": "күтталлаа+N", "affixes": "+2SG"},
+      {"pos": 3, "text": "күтталлааҕын", "type": "lowercase", "fst": "yma", "root": "күтталлаа+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 3, "text": "күтталлааҕын", "type": "lowercase", "fst": "yma", "root": "күттал+N", "affixes": "+ADJZ#1+POSS.3SG.ACC"},
+      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+REFL"},
+      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "атын", "type": "lowercase", "fst": "ymv", "root": "атын+Adj"},
+      {"pos": 6, "text": "атын", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 7, "text": "кыях", "type": "lowercase", "fst": "yma", "root": "кыях+N"},
+      {"pos": 8, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

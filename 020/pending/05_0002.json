@@ -1,0 +1,29 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 22,
+    "chapter": "Двусоставное предложение",
+    "topic": "Второстепенные члены предложения. Дополнение. Прямое дополнение и способы его выражения",
+    "section": 0,
+    "notes": "В романе Эрилик Эристина «Маарыкчаан ыччыттара» есть такое предложение.",
+    "sah": "... уонна кинилэр аан бастааҥҥы уураһыыларын уурастылар",
+    "ru": "... и они впервые целовались",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+      {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+PRTV"},
+      {"pos": 3, "text": "кинилэр", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 4, "text": "аан", "type": "lowercase", "fst": "ymv", "root": "аан+N"},
+      {"pos": 5, "text": "бастааҥҥы", "type": "lowercase", "fst": "yma", "root": "бастаан^Adv", "affixes": "^ADJZ#3"},
+      {"pos": 6, "text": "уураһыыларын", "type": "lowercase", "fst": "ymv", "root": "уураа+V", "affixes": "+RECP+NMLZ#2+POSS.3PL.ACC"},
+      {"pos": 6, "text": "уураһыыларын", "type": "lowercase", "fst": "ymv", "root": "уураа+V", "affixes": "+RECP+NMLZ#2+PL+POSS.3SG.ACC"},
+      {"pos": 6, "text": "уураһыыларын", "type": "lowercase", "fst": "ymv", "root": "уурай+V", "affixes": "+RECP+NMLZ#2+POSS.3PL.ACC"},
+      {"pos": 6, "text": "уураһыыларын", "type": "lowercase", "fst": "ymv", "root": "уурай+V", "affixes": "+RECP+NMLZ#2+PL+POSS.3SG.ACC"},
+      {"pos": 7, "text": "уурастылар", "type": "lowercase", "fst": "ymv", "root": "уураа+V", "affixes": "+RECP+PST.3PL"},
+      {"pos": 7, "text": "уурастылар", "type": "lowercase", "fst": "ymv", "root": "уурай+V", "affixes": "+RECP+PST.3PL"}
+    ]
+  }
+]

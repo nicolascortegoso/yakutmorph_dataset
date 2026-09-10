@@ -1,0 +1,67 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 42,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство образа действия",
+    "section": 75,
+    "notes": "Регулярны в роли обстоятельств образа действия различные деепричастия на *-а*, *-ан*, *-бакка*, *-бытынан*, *-бычча*.",
+    "sah": "Кинилэр мөккүһэ тураллар.",
+    "ru": "Они, споря, стоят.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "мөккүһэ", "type": "lowercase", "fst": "ymv", "root": "мөккүс+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "тураллар", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 42,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство образа действия",
+    "section": 75,
+    "notes": "Регулярны в роли обстоятельств образа действия различные деепричастия на *-а*, *-ан*, *-бакка*, *-бытынан*, *-бычча*.",
+    "sah": "Мин баай батталын тулуйбакка кыыл баран, Бодойбоҕо сырыттым ээ.",
+    "ru": "Я, не стерпев притеснения богача, сбежав на Бодайбо, находится там.",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "баай", "type": "lowercase", "fst": "ymv", "root": "баай+Adj"},
+      {"pos": 3, "text": "батталын", "type": "lowercase", "fst": "ymv", "root": "баттаа+V", "affixes": "+NMLZ#9+POSS.3SG.ACC"},
+      {"pos": 4, "text": "тулуйбакка", "type": "lowercase", "fst": "ymv", "root": "тулуй+V", "affixes": "+NEG+CONV#4"},
+      {"pos": 5, "text": "кыыл", "type": "lowercase", "fst": "ymv", "root": "кыыл+N"},
+      {"pos": 6, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 8, "text": "Бодойбоҕо", "type": "title", "fst": "yma", "root": "бодойбо+N", "affixes": "+DAT"},
+      {"pos": 9, "text": "сырыттым", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PST.1SG"},
+      {"pos": 10, "text": "ээ", "type": "lowercase", "fst": "ymv", "root": "ээ+MOD"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 42,
+    "chapter": "Двусоставное предложение",
+    "topic": "Обстоятельство образа действия",
+    "section": 75,
+    "notes": "Регулярны в роли обстоятельств образа действия различные деепричастия на *-а*, *-ан*, *-бакка*, *-бытынан*, *-бычча*.",
+    "sah": "...тумсугар от салаатан туппутунан үсүһүн кэлэр.",
+    "ru": "...держа в клюве четку, третий раз приходит.",
+    "id": 4,
+    "parses": [
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
+      {"pos": 2, "text": "тумсугар", "type": "lowercase", "fst": "ymv", "root": "тумус+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "от", "type": "lowercase", "fst": "ymv", "root": "от+N"},
+      {"pos": 4, "text": "салаатан", "type": "lowercase", "fst": "ymv", "root": "салаа+N", "affixes": "+VRBLZ#2+CSTV+CONV#1"},
+      {"pos": 5, "text": "туппутунан", "type": "lowercase", "fst": "ymv", "root": "тут+V", "affixes": "+PART_PAST+INST"},
+      {"pos": 6, "text": "үсүһүн", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+ORD+ADVZ#9"},
+      {"pos": 7, "text": "кэлэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

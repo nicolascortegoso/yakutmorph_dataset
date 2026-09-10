@@ -1,0 +1,61 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 20,
+    "chapter": "Двусоставное предложение",
+    "topic": "Именно сказуемое",
+    "section": 14,
+    "notes": "Притяжательные местоимения употребляются и как простые сказуемые, без связки, и со связкой, в составном именном сказуемом.",
+    "sah": "Мин бэйэм ыраас үппэр туттарабын.",
+    "ru": "Я за свои кровные (чистые) строю.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "бэйэм", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.1SG"},
+      {"pos": 3, "text": "ыраас", "type": "lowercase", "fst": "ymv", "root": "ыраас+Adj"},
+      {"pos": 4, "text": "үппэр", "type": "lowercase", "fst": "ymv", "root": "үп+N", "affixes": "+POSS.1SG.DAT"},
+      {"pos": 5, "text": "туттарабын", "type": "lowercase", "fst": "ymv", "root": "тут+V", "affixes": "+CAUS+PART_PRES+1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 20,
+    "chapter": "Двусоставное предложение",
+    "topic": "Именно сказуемое",
+    "section": 14,
+    "notes": "Притяжательные местоимения употребляются и как простые сказуемые, без связки, и со связкой, в составном именном сказуемом.",
+    "sah": "Ол аата миэхнэ буолумуна, кимиэнэ буолуой?",
+    "ru": "Значит, если это не мой, то чей будет?",
+    "id": 2,
+    "parses": [
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
+      {"pos": 2, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аата+MOD"},
+      {"pos": 3, "text": "миэхнэ", "type": "lowercase", "fst": "yma", "root": "миэхнэ+N"},
+      {"pos": 4, "text": "буолумуна", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+NEG+CONV#3"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 6, "text": "кимиэнэ", "type": "lowercase", "fst": "ymv", "root": "ким+Pron", "affixes": "+COLL#1+POSS.3SG"},
+      {"pos": 7, "text": "буолуой", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 8, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  },
+  {
+    "source": "Грамматика современного якутского литературного языка. Т.2. Синтаксис.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 20,
+    "chapter": "Двусоставное предложение",
+    "topic": "Именно сказуемое",
+    "section": 14,
+    "notes": "Сказуемое без связки имеет при себе вопросительно частицу.",
+    "sah": "Эйиэнэ дуо?",
+    "ru": "Твой, что ли?",
+    "id": 3,
+    "parses": [
+      {"pos": 1, "text": "Эйиэнэ", "type": "title", "fst": "ymv", "root": "эн+Pron", "affixes": "+COLL#1+POSS.3SG"},
+      {"pos": 2, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
+    ]
+  }
+]

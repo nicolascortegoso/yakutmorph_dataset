@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Грамматика современного якутского литературного языка.",
+    "authors": "Убрятова Е.И., Петров Н.Е., Неустроев Н.Н. и др.",
+    "page": 274,
+    "chapter": "Сложноподчиненные предложения",
+    "topic": "Сложноподчиненные предложения с обстоятельственной ЗПЕ. Конструкции, выражающие одновременность",
+    "section": 480,
+    "notes": "Если в предложениях с зависимым сказуемым в форме причастия на *-ар* с послелогом *тухары* событие главной части потенциально, временные отношения приобретают потенциальный и альтернативный оттенок, сближающий их с предложениями обусловленности.",
+    "sah": "Мин үлэлиирим тухары, эн өлөн-охтон биэриэҥ суоҕа.",
+    "ru": "Пока я работаю, ты не пропадешь.",
+    "id": 1,
+    "parses": [
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+      {"pos": 2, "text": "үлэлиирим", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.1SG"},
+      {"pos": 3, "text": "тухары", "type": "lowercase", "fst": "ymv", "root": "тухары+POST"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+      {"pos": 5, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+      {"pos": 6, "text": "өлөн", "type": "lowercase", "fst": "ymv", "root": "өл+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": "-", "type": "hyphen", "fst": "ymv"},
+      {"pos": 8, "text": "охтон", "type": "lowercase", "fst": "ymv", "root": "оҕут+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": "биэриэҥ", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PART_FUT+POSS.2SG"},
+      {"pos": 10, "text": "суоҕа", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+POSS.3SG"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+    ]
+  }
+]

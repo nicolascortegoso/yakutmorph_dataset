@@ -28,9 +28,11 @@
 |:---|:---|:---|
 | **ADJZ#1** | adjectivizer | *-лаах* (and allomorphs) forms adjectives from several types of nominal and verbal stems [Ubryatova et al., §262]. |
 | **ADJZ#10** | adjectivizer | *-ҕай/гэй* (and allomorphs) forms adjectives that express the result of an action from verbs ending in *-й*. Not productive [Ubryatova et al., §267]. |
+| **ADJZ#11** | adjectivizer | *-(ы)мтаҕай* (and allomorphs) forms adjectives that indicate the tendency towards an action or state [Ubryatova et al., §268]. |
 | **ADJZ#12** | adjectivizer | *-(ы)мтыа* (and allomorphs) forms adjectives that denote the tendency towards or capability to perform an action. Quite productive [Ubryatova et al., §269]. |
 | **ADJZ#13** | adjectivizer | *-ыык* (and allomorphs) forms adjectives that indicate the tendency towards an action from verb stems ending in consonant. Quite productive [Ubryatova et al., §270]. |
 | **ADJZ#14** | adjectivizer | *-с* form adjectives from imitatives and some figurative verbs. Quite productive [Ubryatova et al., §271]. |
+| **ADJZ#15** | adjectivizer | *-нньаҥ* (and allomorphs) forms adjectives that express the capability to perform an action from base and reflexive verbal stems. Productive [Ubryatova et al., §272]. |
 | **ADJZ#16** | adjectivizer | *-(ы)к* (and allomorphs) forms adjectives from verbal stems ending in *й*. Not very productive [Ubryatova et al., §273]. |
 | **ADJZ#17** | adjectivizer | *-р* (and allomorphs) forms adjectives from verbal stems. Not very productive [Ubryatova et al., §274]. |
 | **ADJZ#2** | adjectivizer | *-(ы)мсах* (and allomorphs) forms adjectives that denote special inclination from nominal stems. Very productive [Ubryatova et al., §259]. |
@@ -97,6 +99,8 @@
 | **IMP** | modality | no ref |
 | **POT** | modality | no ref |
 | **NEG** | negative | *-(ы)ма* (and allomorphs) forms the negative from verbal stems [Ubryatova et al., §113]. |
+| **ACCE** | no type | no ref |
+| **ADJV#1** | no type | no ref |
 | **ADJZ** | no type | no ref |
 | **AFFIR#1** | no type | no ref |
 | **AFFIR#2** | no type | no ref |
@@ -153,6 +157,7 @@
 | **POSS.1SG.ABL** | possessive case | no ref |
 | **POSS.1SG.ACC** | possessive case | no ref |
 | **POSS.1SG.COMIT** | possessive case | no ref |
+| **POSS.1SG.COMP** | possessive case | no ref |
 | **POSS.1SG.DAT** | possessive case | no ref |
 | **POSS.1SG.INST** | possessive case | no ref |
 | **POSS.1SG.PRTV** | possessive case | no ref |
@@ -163,6 +168,7 @@
 | **POSS.2PL.PRTV** | possessive case | no ref |
 | **POSS.2SG.ABL** | possessive case | no ref |
 | **POSS.2SG.ACC** | possessive case | no ref |
+| **POSS.2SG.COMIT** | possessive case | no ref |
 | **POSS.2SG.DAT** | possessive case | no ref |
 | **POSS.2SG.INST** | possessive case | no ref |
 | **POSS.2SG.PRTV** | possessive case | no ref |

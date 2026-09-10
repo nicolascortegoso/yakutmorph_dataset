@@ -99,8 +99,6 @@
 | **IMP** | modality | no ref |
 | **POT** | modality | no ref |
 | **NEG** | negative | *-(ы)ма* (and allomorphs) forms the negative from verbal stems [Ubryatova et al., §113]. |
-| **ACCE** | no type | no ref |
-| **ADJV#1** | no type | no ref |
 | **ADJZ** | no type | no ref |
 | **AFFIR#1** | no type | no ref |
 | **AFFIR#2** | no type | no ref |
@@ -121,7 +119,6 @@
 | **IMP#2.2SG** | no type | no ref |
 | **INT#1** | no type | no ref |
 | **INT#2** | no type | no ref |
-| **N** | no type | no ref |
 | **REFL/PASS** | no type | no ref |
 | **NMLZ#1** | nominalizer | *-һыт* (and allomorphs) conveys agency, an occupation, profession, inclination towards an action [Ubryatova et al., §155]. |
 | **NMLZ#2** | nominalizer | *-ыы* (and allomorphs) forms nouns from verbal stems ending in consonant. It refers mostly to the name of an action [Ubryatova et al., §174]. |

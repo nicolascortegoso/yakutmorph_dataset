@@ -11,10 +11,10 @@
     "ru": "Это-то (свое) подержи.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантык^N", "affixes": "+2SG"},
-      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантык^N", "affixes": "+POSS.2SG+ACC"},
-      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантый^V", "affixes": "^ADJZ#15+POSS.2SG+ACC"},
-      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантый^V", "affixes": "^NMLZ#5+POSS.2SG+ACC"},
+      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантык+N", "affixes": "+2SG"},
+      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантык+N", "affixes": "+POSS.2SG+ACC"},
+      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантый+V", "affixes": "+ADJZ#15+POSS.2SG+ACC"},
+      {"pos": 1, "text": "Мантыккын", "type": "title", "fst": "yma", "root": "мантый+V", "affixes": "+NMLZ#5+POSS.2SG+ACC"},
       {"pos": 2, "text": "тут", "type": "lowercase", "fst": "ymv", "root": "тут+V"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -55,10 +55,10 @@
     "parses": [
       {"pos": 1, "text": "Түргэн", "type": "title", "fst": "ymv", "root": "түрк+N", "affixes": "+VRBLZ#3+REFL/PASS"},
       {"pos": 1, "text": "Түргэн", "type": "title", "fst": "ymv", "root": "түргэн+Adj"},
-      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕустуй^V", "affixes": "^ADJZ#15"},
-      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕустуй^V", "affixes": "^NMLZ#5"},
-      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕус^N", "affixes": "^ADVZ#5"},
-      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕус^V", "affixes": "+REFL^ADJZ#15"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕустуй+V", "affixes": "+ADJZ#15"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕустуй+V", "affixes": "+NMLZ#5"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕус+N", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "соҕустук", "type": "lowercase", "fst": "yma", "root": "соҕус+V", "affixes": "+REFL+ADJZ#15"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }

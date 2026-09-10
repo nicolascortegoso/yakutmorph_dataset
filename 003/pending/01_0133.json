@@ -68,7 +68,7 @@
     "ru": "Кеша лишь улыбался сидя.",
     "id": 16,
     "parses": [
-      {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша^N"},
+      {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
       {"pos": 2, "text": "мичээрдээн", "type": "lowercase", "fst": "ymv", "root": "мичээр+N", "affixes": "+VRBLZ#1+CONV#1"},
       {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
       {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эр+N", "affixes": "+POSS.3SG"},
@@ -76,7 +76,7 @@
       {"pos": 4, "text": "кэбиһэ", "type": "lowercase", "fst": "ymv", "root": "кэп+N", "affixes": "+VRBLZ#2+RECP+CONV#2"},
       {"pos": 4, "text": "кэбиһэ", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+CONV#2"},
       {"pos": 4, "text": "кэбиһэ", "type": "lowercase", "fst": "ymv", "root": "кэбий+V", "affixes": "+RECP+CONV#2"},
-      {"pos": 5, "text": "олоорто", "type": "lowercase", "fst": "yma", "root": "олоорто^N"},
+      {"pos": 5, "text": "олоорто", "type": "lowercase", "fst": "yma", "root": "олоорто+N"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -91,9 +91,9 @@
     "ru": "Как только он отправит свое заявление, деньги бу дут посланы.",
     "id": 20,
     "parses": [
-      {"pos": 1, "text": "Заявлениетын", "type": "title", "fst": "yma", "root": "заявлениетын^N"},
-      {"pos": 1, "text": "Заявлениетын", "type": "title", "fst": "yma", "root": "заявлениет^N", "affixes": "+POSS.3SG+ACC"},
-      {"pos": 1, "text": "Заявлениетын", "type": "title", "fst": "yma", "root": "заявление^N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Заявлениетын", "type": "title", "fst": "yma", "root": "заявлениетын+N"},
+      {"pos": 1, "text": "Заявлениетын", "type": "title", "fst": "yma", "root": "заявлениет+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Заявлениетын", "type": "title", "fst": "yma", "root": "заявление+N", "affixes": "+POSS.3SG+ACC"},
       {"pos": 2, "text": "ыыттар", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+CAUS"},
       {"pos": 2, "text": "ыыттар", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+CONV_COND#1"},
       {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},

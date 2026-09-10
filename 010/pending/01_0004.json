@@ -11,12 +11,12 @@
     "id": 13,
     "parses": [
       {"pos": 1, "text": "остуол", "type": "lowercase", "fst": "ymv", "root": "остуол+N"},
-      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "аннытар^N"},
-      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анныта^Adv", "affixes": "^VRBLZ#4"},
-      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анныта^N", "affixes": "^VRBLZ#4"},
-      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анный^V", "affixes": "+CSTV+PART_PRES"},
-      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анны^Adv", "affixes": "^VRBLZ#2+CSTV+PART_PRES"},
-      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анны^N", "affixes": "^VRBLZ#2+CSTV+PART_PRES"},
+      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "аннытар+N"},
+      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анныта+Adv", "affixes": "+VRBLZ#4"},
+      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анныта+N", "affixes": "+VRBLZ#4"},
+      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анный+V", "affixes": "+CSTV+PART_PRES"},
+      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анны+Adv", "affixes": "+VRBLZ#2+CSTV+PART_PRES"},
+      {"pos": 2, "text": "аннытар", "type": "lowercase", "fst": "yma", "root": "анны+N", "affixes": "+VRBLZ#2+CSTV+PART_PRES"},
       {"pos": 3, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+CSTV"},
       {"pos": 3, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+PART_PRES"}
     ]
@@ -122,10 +122,10 @@
     "ru": "до вечера",
     "id": 150,
     "parses": [
-      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ^Adv"},
-      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ^N"},
-      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ^Adj", "affixes": "^VRBLZ#2^NMLZ#7+DAT"},
-      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ^N", "affixes": "^VRBLZ#2^NMLZ#7+DAT"},
+      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ+Adv"},
+      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ+N"},
+      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ+Adj", "affixes": "+VRBLZ#2+NMLZ#7+DAT"},
+      {"pos": 1, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ+N", "affixes": "+VRBLZ#2+NMLZ#7+DAT"},
       {"pos": 2, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"},
       {"pos": 2, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#5"}
     ]
@@ -141,9 +141,9 @@
     "ru": "до утра",
     "id": 151,
     "parses": [
-      {"pos": 1, "text": "сарсыардааҥҥа", "type": "lowercase", "fst": "yma", "root": "сарсыардаан^N", "affixes": "+DAT"},
-      {"pos": 1, "text": "сарсыардааҥҥа", "type": "lowercase", "fst": "yma", "root": "сарсыардааҥҥа^Adj"},
-      {"pos": 1, "text": "сарсыардааҥҥа", "type": "lowercase", "fst": "yma", "root": "сарсыардааҥҥа^N"},
+      {"pos": 1, "text": "сарсыардааҥҥа", "type": "lowercase", "fst": "yma", "root": "сарсыардаан+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "сарсыардааҥҥа", "type": "lowercase", "fst": "yma", "root": "сарсыардааҥҥа+Adj"},
+      {"pos": 1, "text": "сарсыардааҥҥа", "type": "lowercase", "fst": "yma", "root": "сарсыардааҥҥа+N"},
       {"pos": 2, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"},
       {"pos": 2, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#5"}
     ]
@@ -223,17 +223,17 @@
     "ru": "с утра до вечера",
     "id": 166,
     "parses": [
-      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыараттаа^V", "affixes": "+PASS"},
-      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыараттаа^V", "affixes": "+REFL"},
-      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыараттан^N"},
-      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыарат^N", "affixes": "^VRBLZ#1+PASS"},
-      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыарат^N", "affixes": "^VRBLZ#1+REFL"},
-      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыарат^N", "affixes": "+ABL"},
-      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыара^N", "affixes": "+ABL"},
-      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ^Adv"},
-      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ^N"},
-      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ^Adj", "affixes": "^VRBLZ#2^NMLZ#7+DAT"},
-      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ^N", "affixes": "^VRBLZ#2^NMLZ#7+DAT"},
+      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыараттаа+V", "affixes": "+PASS"},
+      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыараттаа+V", "affixes": "+REFL"},
+      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыараттан+N"},
+      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыарат+N", "affixes": "+VRBLZ#1+PASS"},
+      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыарат+N", "affixes": "+VRBLZ#1+REFL"},
+      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыарат+N", "affixes": "+ABL"},
+      {"pos": 1, "text": "сарсыараттан", "type": "lowercase", "fst": "yma", "root": "сарсыара+N", "affixes": "+ABL"},
+      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ+Adv"},
+      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээҥҥэ+N"},
+      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ+Adj", "affixes": "+VRBLZ#2+NMLZ#7+DAT"},
+      {"pos": 2, "text": "киэһээҥҥэ", "type": "lowercase", "fst": "yma", "root": "киэһээ+N", "affixes": "+VRBLZ#2+NMLZ#7+DAT"},
       {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"},
       {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#5"}
     ]
@@ -249,8 +249,8 @@
     "ru": "по двое",
     "id": 207,
     "parses": [
-      {"pos": 1, "text": "иккилин", "type": "lowercase", "fst": "yma", "root": "иккилин^V"},
-      {"pos": 1, "text": "иккилин", "type": "lowercase", "fst": "yma", "root": "иккил^N", "affixes": "+POSS.3SG+ACC"}
+      {"pos": 1, "text": "иккилин", "type": "lowercase", "fst": "yma", "root": "иккилин+V"},
+      {"pos": 1, "text": "иккилин", "type": "lowercase", "fst": "yma", "root": "иккил+N", "affixes": "+POSS.3SG+ACC"}
     ]
   },
   {
@@ -264,8 +264,8 @@
     "ru": "с удивлением",
     "id": 216,
     "parses": [
-      {"pos": 1, "text": "дьиктиргээбиттин", "type": "lowercase", "fst": "yma", "root": "дьиктиргээбиттин^V"},
-      {"pos": 1, "text": "дьиктиргээбиттин", "type": "lowercase", "fst": "yma", "root": "дьиктиргээбиттий^V", "affixes": "+REFL"}
+      {"pos": 1, "text": "дьиктиргээбиттин", "type": "lowercase", "fst": "yma", "root": "дьиктиргээбиттин+V"},
+      {"pos": 1, "text": "дьиктиргээбиттин", "type": "lowercase", "fst": "yma", "root": "дьиктиргээбиттий+V", "affixes": "+REFL"}
     ]
   },
   {
@@ -279,22 +279,22 @@
     "ru": "без устали",
     "id": 226,
     "parses": [
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа^V", "affixes": "+CAUS+POSS.3SG"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа^V", "affixes": "+CAUS+CONV#2"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа^V", "affixes": "+CSTV+POSS.3SG"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа^V", "affixes": "+CSTV+CONV#2"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтата^Adv"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтата^N"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтат^V", "affixes": "+CONV#2"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^Adv", "affixes": "^ADVZ#8"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^Adv", "affixes": "^VRBLZ#2+CSTV+POSS.3SG"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^Adv", "affixes": "^VRBLZ#2+CSTV+CONV#2"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^Adv", "affixes": "+POSS.3SG"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^Adv", "affixes": "+PRTV"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^N", "affixes": "^VRBLZ#2+CSTV+POSS.3SG"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^N", "affixes": "^VRBLZ#2+CSTV+CONV#2"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^N", "affixes": "+POSS.3SG"},
-      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта^N", "affixes": "+PRTV"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа+V", "affixes": "+CAUS+POSS.3SG"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа+V", "affixes": "+CAUS+CONV#2"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа+V", "affixes": "+CSTV+POSS.3SG"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтаа+V", "affixes": "+CSTV+CONV#2"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтата+Adv"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтата+N"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламтат+V", "affixes": "+CONV#2"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+Adv", "affixes": "+ADVZ#8"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+Adv", "affixes": "+VRBLZ#2+CSTV+POSS.3SG"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+Adv", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+Adv", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+Adv", "affixes": "+PRTV"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+N", "affixes": "+VRBLZ#2+CSTV+POSS.3SG"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+N", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+N", "affixes": "+POSS.3SG"},
+      {"pos": 1, "text": "сыламтата", "type": "lowercase", "fst": "yma", "root": "сыламта+N", "affixes": "+PRTV"},
       {"pos": 2, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"}
     ]
   },
@@ -309,8 +309,8 @@
     "ru": "без смущения",
     "id": 233,
     "parses": [
-      {"pos": 1, "text": "симиттибэккэ", "type": "lowercase", "fst": "yma", "root": "симиттибэккэ^Adv"},
-      {"pos": 1, "text": "симиттибэккэ", "type": "lowercase", "fst": "yma", "root": "симиттибэккэ^N"}
+      {"pos": 1, "text": "симиттибэккэ", "type": "lowercase", "fst": "yma", "root": "симиттибэккэ+Adv"},
+      {"pos": 1, "text": "симиттибэккэ", "type": "lowercase", "fst": "yma", "root": "симиттибэккэ+N"}
     ]
   }
 ]

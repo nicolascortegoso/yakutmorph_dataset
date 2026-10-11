@@ -2,9 +2,9 @@
 
 This dataset contains sentences, clauses, and multi-word expressions compiled from established descriptive studies of Yakut and standardized under a unified machine-readable annotation schema.
 
-**Total annotated contructions**: 16324
+**Total annotated contructions**: 16511
 
-**Last update**: 2026-09-10
+**Last update**: 2026-10-11
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 

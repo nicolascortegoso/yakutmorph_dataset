@@ -1,0 +1,24 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 288,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Unaccusativity diagnostics in Sakha: Causative alternation and others",
+      "section": "5.1.1. 10b",
+      "notes": "Unaccusatives do not allow control into purpose clause, unlike unergatives (10a).",
+      "sah": "Аудитория лекция истээри чуумпурда.",
+      "en": "The audience hushed in order to listen to the lecture.",
+      "tags": "*audience lecture listen-purp hush-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Аудитория", "type": "title", "fst": "ymv", "root": "аудитория+N"},
+         {"pos": 2, "text": "лекция", "type": "lowercase", "fst": "ymv", "root": "лекция+N"},
+         {"pos": 3, "text": "истээри", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+VRBLZ#1+CONV#5"},
+         {"pos": 3, "text": "истээри", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+REFL+CONV#5"},
+         {"pos": 4, "text": "чуумпурда", "type": "lowercase", "fst": "ymv", "root": "чуумпур+N", "affixes": "+PRTV"},
+         {"pos": 4, "text": "чуумпурда", "type": "lowercase", "fst": "ymv", "root": "чуумпу+Adj", "affixes": "+VRBLZ#4+CSTV+CONV#2"},
+         {"pos": 4, "text": "чуумпурда", "type": "lowercase", "fst": "ymv", "root": "чуумпу+Adj", "affixes": "+VRBLZ#4+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

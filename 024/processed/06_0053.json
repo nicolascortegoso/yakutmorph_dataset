@@ -1,0 +1,22 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 342,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocals in Sakha",
+      "section": "6.7.1. 53",
+      "notes": "The presence of a syntactically autonomous distributor is also evidence from the non-contradictory status of (53) which is identical to (50) except that the verb xot ‘defeat’ is marked with the reciprocal suffix.",
+      "sah": "Миша уонна Маша биэстэ хотусстулар.",
+      "en": "Misha and Masha each defeated the other five times.",
+      "tags": "Misha and Masha five.times defeat-rec-past-pl",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 3, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 4, "text": "биэстэ", "type": "lowercase", "fst": "ymv", "root": "биэс+Num", "affixes": "+ADVZ#8"},
+         {"pos": 5, "text": "хотусстулар", "type": "lowercase", "fst": "ymv", "root": "хот+V", "affixes": "+RECP+RECP+PST.3PL"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

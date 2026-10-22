@@ -1,0 +1,39 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 337,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 37a",
+      "notes": "Next, lexical and syntactic passives differ in their choice of a completed/perfective aspect auxiliary. There are two perfective auxiliaries which are derived from lexical verbs whose lexical meanings are lost when they are used as functional elements: intransitive xaal ‘remain’ for intransitives (37a) and transitive kebis ‘throw, hurl’ for transitives (37b). The auxiliaries precede the main verb which appears in the anterior gerund form.",
+      "sah": "Радио алдьанан хаалла.",
+      "en": "The radio broke completely",
+      "tags": "Radio break-ger remain-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Радио", "type": "title", "fst": "yma", "root": "радио+N"},
+         {"pos": 2, "text": "алдьанан", "type": "lowercase", "fst": "ymv", "root": "алдьан+V", "affixes": "+CONV#1"},
+         {"pos": 3, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаал+V", "affixes": "+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 337,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 37b",
+      "notes": "Next, lexical and syntactic passives differ in their choice of a completed/perfective aspect auxiliary. There are two perfective auxiliaries which are derived from lexical verbs whose lexical meanings are lost when they are used as functional elements: intransitive xaal ‘remain’ for intransitives (37a) and transitive kebis ‘throw, hurl’ for transitives (37b). The auxiliaries precede the main verb which appears in the anterior gerund form.",
+      "sah": "Куоска балыгы сиэн кэбистэ.",
+      "en": "The cat completely finished the fish (ate all of the fish)",
+      "tags": "Cat fish-acc eat-ger throw-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Куоска", "type": "title", "fst": "ymv", "root": "куоска+N"},
+         {"pos": 2, "text": "балыгы", "type": "lowercase", "fst": "ymv", "root": "балык+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "сиэн", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+CONV#1"},
+         {"pos": 4, "text": "кэбистэ", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,54 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 338,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 39a",
+      "notes": "As far as interpretation is concerned, if syntactic passivization applies after ACC has already been checked, then it is natural to expect interpretive correspondences between the accusative object of a regular transitive verb and the sole accusative argument of a syntactically passive verb. Such correspondences are indeed confirmed by the data: the two accusative DP’s display the same range of meanings and both disallow the non-specific reading. On the contrary, the nominative subject of a lexically passive verb admits all possible interpretations, including the non-specific one.",
+      "sah": "Мин кинигэни аахтым.",
+      "en": "I read the book/*a book.",
+      "tags": "I book-acc read-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "аахтым", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PST.1SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 338,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 39b",
+      "notes": "As far as interpretation is concerned, if syntactic passivization applies after ACC has already been checked, then it is natural to expect interpretive correspondences between the accusative object of a regular transitive verb and the sole accusative argument of a syntactically passive verb. Such correspondences are indeed confirmed by the data: the two accusative DP’s display the same range of meanings and both disallow the non-specific reading. On the contrary, the nominative subject of a lexically passive verb admits all possible interpretations, including the non-specific one.",
+      "sah": "Кинигэни ааҕылынна.",
+      "en": "The book/*A book was read.",
+      "tags": "Book-acc read-pass-past.3 ",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кинигэни", "type": "title", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "ааҕылынна", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 338,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 39c",
+      "notes": "As far as interpretation is concerned, if syntactic passivization applies after ACC has already been checked, then it is natural to expect interpretive correspondences between the accusative object of a regular transitive verb and the sole accusative argument of a syntactically passive verb. Such correspondences are indeed confirmed by the data: the two accusative DP’s display the same range of meanings and both disallow the non-specific reading. On the contrary, the nominative subject of a lexically passive verb admits all possible interpretations, including the non-specific one.",
+      "sah": "Кинигэ ааҕылынна.",
+      "en": "The book/A book was read.",
+      "tags": "Book read-pass-past.3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "ymv", "root": "кинигэ+N"},
+         {"pos": 2, "text": "ааҕылынна", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

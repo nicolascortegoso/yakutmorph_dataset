@@ -1,0 +1,45 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 361,
+      "chapter": "Decomposing accusative case",
+      "topic": "Accusative subjects in Sakha",
+      "section": "6.10. 103",
+      "notes": "In KP-clauses the embedded predicate must agree with its subject (both nominative and accusative) in person and number. In dien-clauses there are two patterns of agreement. First, as in (101), the embedded predicate shows full agreement. Second, agreement may be deficient as in (103): only in number expressed as ∅ for singular and –LAr for plural plus the default unspecified person marker –A (glossed as ‘3’). If agreement is deficient, the embedded subject must be accusative.",
+      "sah": "Мин эһигини бүгүн кыайыахтара диэн эрэммитим.",
+      "en": "I hoped you would win today.",
+      "tags": "I you-acc today win-fut-pl-3 COMP hope-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "эһигини", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron", "affixes": "+ACC"},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 4, "text": "кыайыахтара", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 6, "text": "эрэммитим", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+PART_PAST+POSS.1SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 361,
+      "chapter": "Decomposing accusative case",
+      "topic": "Accusative subjects in Sakha",
+      "section": "6.10. 103",
+      "notes": "In KP-clauses the embedded predicate must agree with its subject (both nominative and accusative) in person and number. In dien-clauses there are two patterns of agreement. First, as in (101), the embedded predicate shows full agreement. Second, agreement may be deficient as in (103): only in number expressed as ∅ for singular and –LAr for plural plus the default unspecified person marker –A (glossed as ‘3’). If agreement is deficient, the embedded subject must be accusative.",
+      "sah": "Мин эһиги бүгүн кыайыахтара диэн эрэммитим.",
+      "en": "I hoped you would win today.",
+      "tags": "I *you today win-fut-pl-3 COMP hope-past-1sg",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron"},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 4, "text": "кыайыахтара", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 6, "text": "эрэммитим", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+PART_PAST+POSS.1SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

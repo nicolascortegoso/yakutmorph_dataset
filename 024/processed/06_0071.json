@@ -1,0 +1,41 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 348,
+      "chapter": "Decomposing accusative case",
+      "topic": "Lexical and syntactic reciprocal sets",
+      "section": "6.7.3. 71a",
+      "notes": "The following relationship holds between non-transparent and transparent lexical reciprocal predicates and syntactic reciprocals. The former allow syntactic reciprocalization (70), the latter do not (71).",
+      "sah": "Миша Машалыын билсэр.",
+      "en": "Misha is acquainted with Masha.",
+      "tags": "Misha Masha-comit know-rec-aor",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "Машалыын", "type": "title", "fst": "yma", "root": "маша+N", "affixes": "+COMIT"},
+         {"pos": 3, "text": "билсэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+RECP+PART_PRES"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 349,
+      "chapter": "Decomposing accusative case",
+      "topic": "Lexical and syntactic reciprocal sets",
+      "section": "6.7.3. 71b",
+      "notes": "The following relationship holds between non-transparent and transparent lexical reciprocal predicates and syntactic reciprocals. The former allow syntactic reciprocalization (70), the latter do not (71).",
+      "sah": "Миша уонна Маша кинигэлэрин билсэллэр.",
+      "en": "Misha and Masha know each other’s books.",
+      "tags": "Misha and Masha book-pl-3.acc know-rec-aor-pl",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 3, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 4, "text": "кинигэлэрин", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+PL+POSS.3SG.ACC"},
+         {"pos": 5, "text": "билсэллэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+RECP+PART_PRES+PL"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

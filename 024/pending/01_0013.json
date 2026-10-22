@@ -1,0 +1,21 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 19,
+      "chapter": "Introduction",
+      "topic": "1.2.4. Consequences and implications of the feature formalisms",
+      "section": "13b",
+      "notes": "As Hale & Platero themselves note, their theory makes clear predictions and can be falsified readily. In particular, they make one prediction which is falsified by the data from Sakha. It runs as follows: “… assuming further that [V] is superior to [N], it is possible for a language to have nominalized verb phrases, but it would not be possible for a language to have verbalized noun phrases. To be sure, it is possible for a language to have deverbal nouns in the lexicon, since rules of the lexicon can refer directly to categorial features to derive a noun ([-V, +N]) from a verb ([+V]), or conversely, a verb ([+V, -N]) from a noun ([+N]). But at the phrasal level, this cannot happen, since phrase structure rules are not capable of effecting derivations of this sort (within the X-bar theory, that is). Therefore, if verbalized noun phrases exist in languages, our theory is false” (p. 38). In Sakha, at the phrasal level we find both nominalized verb phrases (13) as well verbalized noun phrases (14).",
+      "sah": "Армия куораты босхолоһуна.",
+      "en": "the army’s liberation of the town",
+      "tags": "Army town-acc liberate-nominalizer-3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Армия", "type": "title", "fst": "ymv", "root": "армия+N"},
+         {"pos": 2, "text": "куораты", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "босхолоһуна", "type": "lowercase", "fst": "ymv", "root": "босхо+Adv", "affixes": "+VRBLZ#1+ADJZ#14+POSS.3SG.PRTV"},
+         {"pos": 3, "text": "босхолоһуна", "type": "lowercase", "fst": "ymv", "root": "босхо+Adv", "affixes": "+VRBLZ#1+RECP+REFL+CONV#2"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

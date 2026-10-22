@@ -1,0 +1,20 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 149,
+      "chapter": "Nouns in Sakha",
+      "topic": "Raising analysis of possession",
+      "section": "3.1.2.2. 43",
+      "notes": "The derivation of a possessive clause with a nominative possessor starts out from the same initial structure as (41) but the possessor raises to Spec,IP. In chapter 4 it will be argued that when a DP raises to Spec,IP, its φ-features are copied onto Infl and get spelled out at PF with the appropriate agreement clitics. In (43) the [2SG] features of en ‘you’ are also copied to Infl but if they were spelled out the result would be ungrammatical en kinige-ler-iŋ baal-lar(*-yŋ). This is because there is a morphological constraint which bans the spellout of two distinct sets of φ-features on one and the same predicate: whereas the plural agreement marker reflects the number feature of the possessed (head) noun ‘books’, the second singular morpheme –yŋ signals the features of the possessor, distinct from the possessum.",
+      "sah": "Эн кинигэлэриҥ бааллар.",
+      "en": "You have books.",
+      "tags": "You book-pl-2sg copulaEXIST-pl",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 2, "text": "кинигэлэриҥ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+PL+POSS.2SG"},
+         {"pos": 3, "text": "бааллар", "type": "lowercase", "fst": "ymv", "root": "баар+N", "affixes": "+PL"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

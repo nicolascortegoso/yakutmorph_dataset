@@ -1,0 +1,47 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 363,
+      "chapter": "Decomposing accusative case",
+      "topic": "Extending Moore’s (1998) analysis: Copy raising into the matrix clause",
+      "section": "6.10.1. 106",
+      "notes": "A phenomenon similar to Sakha dien-clauses has been investigated in related Turkish by Moore 1998 who argues that agreeing sentential complements are CPs (105) and non-agreeing ones are IPs (104). In taking Agr as the determining element for finiteness in Turkish he follows George and Kornfilt 1981. In both (104) and (105) the embedded subject raises to the matrix clause object position and a chain is formed: in (104) the chain terminates in an empty category, the trace of the embedded subject whereas in (105) the tail of the chain is a silent pronominal. Whether languages/dialects allow A-chains ending in a silent pronominal is, according to Moore, parameterized: for those speakers who allow (105) the parameter has a positive setting.",
+      "sah": "Сардаана Айсены бэҕэһээ бүгүн кэлэр диэн иһиттэ.",
+      "en": "Sardaana heard yesterday that Aisen is coming today.",
+      "tags": "Sardaana Aisen-acc yesterday [CP today come-aor COMP] hear-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "Айсены", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "бэҕэһээ", "type": "lowercase", "fst": "ymv", "root": "бэҕэһээ+Adv"},
+         {"pos": 4, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 5, "text": "кэлэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES"},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 7, "text": "иһиттэ", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PST.3SG"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },    
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 363,
+      "chapter": "Decomposing accusative case",
+      "topic": "Extending Moore’s (1998) analysis: Copy raising into the matrix clause",
+      "section": "6.10.1. 106",
+      "notes": "A phenomenon similar to Sakha dien-clauses has been investigated in related Turkish by Moore 1998 who argues that agreeing sentential complements are CPs (105) and non-agreeing ones are IPs (104). In taking Agr as the determining element for finiteness in Turkish he follows George and Kornfilt 1981. In both (104) and (105) the embedded subject raises to the matrix clause object position and a chain is formed: in (104) the chain terminates in an empty category, the trace of the embedded subject whereas in (105) the tail of the chain is a silent pronominal. Whether languages/dialects allow A-chains ending in a silent pronominal is, according to Moore, parameterized: for those speakers who allow (105) the parameter has a positive setting.",
+      "sah": "Сардаана бэҕэһээ бүгүн Айсены кэлэр диэн иһиттэ.",
+      "en": "Sardaana heard yesterday that Aisen is coming today.",
+      "tags": "Sardaana yesterday [CP today *Aisen-acc come-aor COMP] hear-past.3",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "бэҕэһээ", "type": "lowercase", "fst": "ymv", "root": "бэҕэһээ+Adv"},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 4, "text": "Айсены", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+ACC"},
+         {"pos": 5, "text": "кэлэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES"},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 7, "text": "иһиттэ", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PST.3SG"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

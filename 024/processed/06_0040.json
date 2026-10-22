@@ -1,0 +1,57 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 338,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 40a",
+      "notes": "As far as interpretation is concerned, if syntactic passivization applies after ACC has already been checked, then it is natural to expect interpretive correspondences between the accusative object of a regular transitive verb and the sole accusative argument of a syntactically passive verb. Such correspondences are indeed confirmed by the data: the two accusative DP’s display the same range of meanings and both disallow the non-specific reading. On the contrary, the nominative subject of a lexically passive verb admits all possible interpretations, including the non-specific one.",
+      "sah": "Мин биир кинигэни аахтым.",
+      "en": "I read a (specific/*non-specific) book.",
+      "tags": "I one book-acc read-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
+         {"pos": 3, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "аахтым", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PST.1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 338,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 40b",
+      "notes": "As far as interpretation is concerned, if syntactic passivization applies after ACC has already been checked, then it is natural to expect interpretive correspondences between the accusative object of a regular transitive verb and the sole accusative argument of a syntactically passive verb. Such correspondences are indeed confirmed by the data: the two accusative DP’s display the same range of meanings and both disallow the non-specific reading. On the contrary, the nominative subject of a lexically passive verb admits all possible interpretations, including the non-specific one.",
+      "sah": "Биир кинигэни ааҕылынна.",
+      "en": "A (specific/*non-specific) book was read.",
+      "tags": "One book-acc read-pass-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Биир", "type": "title", "fst": "ymv", "root": "биир+Num"},
+         {"pos": 2, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "ааҕылынна", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 338,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in passivization",
+      "section": "6.6.1. 40c",
+      "notes": "As far as interpretation is concerned, if syntactic passivization applies after ACC has already been checked, then it is natural to expect interpretive correspondences between the accusative object of a regular transitive verb and the sole accusative argument of a syntactically passive verb. Such correspondences are indeed confirmed by the data: the two accusative DP’s display the same range of meanings and both disallow the non-specific reading. On the contrary, the nominative subject of a lexically passive verb admits all possible interpretations, including the non-specific one.",
+      "sah": "Биир кинигэ ааҕылынна.",
+      "en": "A (specific/non-specific) book was read.",
+      "tags": "One book read-pass-past.3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Биир", "type": "title", "fst": "ymv", "root": "биир+Num"},
+         {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N"},
+         {"pos": 3, "text": "ааҕылынна", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

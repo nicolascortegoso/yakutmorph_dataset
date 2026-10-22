@@ -1,0 +1,47 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 361,
+      "chapter": "Decomposing accusative case",
+      "topic": "Extending Moore’s (1998) analysis: Copy raising into the matrix clause",
+      "section": "6.10.1. 107",
+      "notes": "The reverse order is demonstrated by the nominative subject in (107). From these facts we can conclude that the accusative subject which must precede the matrix adverb and cannot follow the embedded clause adverb has raised into the matrix clause whereas the nominative subject is located in the embedded Spec,IP.",
+      "sah": "Сардаана Айсен бэҕэһээ бүгүн кэлэр диэн иһиттэ.",
+      "en": "Sardaana heard yesterday that Aisen is coming today.",
+      "tags": "Sardaana *Aisen yesterday [CP today come-aor COMP] hear-past.3",
+      "incorrect": true,
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "Айсен", "type": "title", "fst": "ymv", "root": "айсен+N"},
+         {"pos": 3, "text": "бэҕэһээ", "type": "lowercase", "fst": "ymv", "root": "бэҕэһээ+Adv"},
+         {"pos": 4, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 5, "text": "кэлэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES"},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 7, "text": "иһиттэ", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PST.3SG"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 361,
+      "chapter": "Decomposing accusative case",
+      "topic": "Extending Moore’s (1998) analysis: Copy raising into the matrix clause",
+      "section": "6.10.1. 107",
+      "notes": "The reverse order is demonstrated by the nominative subject in (107). From these facts we can conclude that the accusative subject which must precede the matrix adverb and cannot follow the embedded clause adverb has raised into the matrix clause whereas the nominative subject is located in the embedded Spec,IP.",
+      "sah": "Сардаана бэҕэһээ бүгүн Айсен кэлэр диэн иһиттэ.",
+      "en": "Sardaana heard yesterday that Aisen is coming today.",
+      "tags": "Sardaana yesterday [CP today Aisen come-aor COMP] hear-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "бэҕэһээ", "type": "lowercase", "fst": "ymv", "root": "бэҕэһээ+Adv"},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 4, "text": "Айсен", "type": "title", "fst": "ymv", "root": "айсен+N"},
+         {"pos": 5, "text": "кэлэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES"},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 7, "text": "иһиттэ", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PST.3SG"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

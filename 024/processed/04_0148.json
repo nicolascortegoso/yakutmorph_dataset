@@ -1,0 +1,39 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 280,
+      "chapter": "Adjectives in Sakha",
+      "topic": "The use of adjectives as arguments",
+      "section": "4.7. 148",
+      "notes": "First, when adjectival arguments function as direct objects of accusative- assigning verbs they must realize as KPs with the obligatory accusative morpheme which cannot be dropped. We have assumed that with nouns, NPs can be assigned thematic case directly by the verb in which case no KP is required. However, those NPs which have other syntactic features such as [definite], [specific], etc. licensed in DP require a structural case checker. In Sakha this structural case checker is KP to which the verb transmits its thematic case. Therefore the (im)possibility of accusative drop can be used as a diagnostic to probe into the internal structure of the noun phrase: if accusative KP cannot be dropped, then we are dealing with a DP. Assuming our analysis of the nature of this test is correct, (148) shows that argumental adjectives are indeed DPs.",
+      "sah": "Мин кыһылы көрөбүн.",
+      "en": "",
+      "tags": "I red-acc see-aor-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "кыһылы", "type": "lowercase", "fst": "ymv", "root": "кыһыл+Adj", "affixes": "+ACC"},
+         {"pos": 3, "text": "көрөбүн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+1SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 280,
+      "chapter": "Adjectives in Sakha",
+      "topic": "The use of adjectives as arguments",
+      "section": "4.7. 148",
+      "notes": "First, when adjectival arguments function as direct objects of accusative- assigning verbs they must realize as KPs with the obligatory accusative morpheme which cannot be dropped. We have assumed that with nouns, NPs can be assigned thematic case directly by the verb in which case no KP is required. However, those NPs which have other syntactic features such as [definite], [specific], etc. licensed in DP require a structural case checker. In Sakha this structural case checker is KP to which the verb transmits its thematic case. Therefore the (im)possibility of accusative drop can be used as a diagnostic to probe into the internal structure of the noun phrase: if accusative KP cannot be dropped, then we are dealing with a DP. Assuming our analysis of the nature of this test is correct, (148) shows that argumental adjectives are indeed DPs.",
+      "sah": "Мин кыһыл көрөбүн.",
+      "en": "",
+      "tags": "I *red see-aor-1sg",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "кыһыл", "type": "lowercase", "fst": "ymv", "root": "кыһыл+Adj"},
+         {"pos": 3, "text": "көрөбүн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+1SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

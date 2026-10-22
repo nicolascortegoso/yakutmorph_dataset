@@ -1,0 +1,27 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 356,
+      "chapter": "Decomposing accusative case",
+      "topic": "Syntactic causatives and instrumental case",
+      "section": "6.8.4. 90b",
+      "notes": "The next question is the appearance of instrumental case on the causee: are instrumental causees licensed by the same applicative head as dative ones? I will assume that the answer is no and that a causative verb which appears with an instrumental causee is not a lexical but a syntactic causative. Thus, instrumental-causee causatives are structurally higher than dative-causee causatives. This account explains why syntactic causatives allow only instrumental on the causee (84). It also implies that (83c) is a syntactic causative. As such, it must behave like syntactic causatives with respect to the tests mentioned in 5.3.4. As far as nominalization and passivization are concerned, this is indeed so as witnessed by the examples in (90). However, with respect to θ-feature sensitivity, VP-ellipsis and pronominal orientation instrumental causatives behave like lexical causatives. We will leave this issue for future research.",
+      "sah": "Кинигэ Эрилинэн аахтарылынна.",
+      "en": "The book was made to be read by Erel.",
+      "tags": "*Book Erel-instrum read-caus-pass-past.3",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "ymv", "root": "кинигэ+N"},
+         {"pos": 2, "text": "Эрилинэн", "type": "title", "fst": "yma", "root": "эрилинээ+V", "affixes": "+REFL/PASS"},
+         {"pos": 2, "text": "Эрилинэн", "type": "title", "fst": "yma", "root": "эрилин+V", "affixes": "+CONV#1"},
+         {"pos": 2, "text": "Эрилинэн", "type": "title", "fst": "yma", "root": "эрил+N", "affixes": "+INST"},
+         {"pos": 2, "text": "Эрилинэн", "type": "title", "fst": "yma", "root": "эрил+N", "affixes": "+POSS.3SG.INST"},
+         {"pos": 3, "text": "аахтарылынна", "type": "lowercase", "fst": "yma", "root": "аахтарылынна+Adv"},
+         {"pos": 3, "text": "аахтарылынна", "type": "lowercase", "fst": "yma", "root": "аахтарылынна+N"},
+         {"pos": 3, "text": "аахтарылынна", "type": "lowercase", "fst": "yma", "root": "аахтарый+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": "аахтарылынна", "type": "lowercase", "fst": "yma", "root": "аахтар+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

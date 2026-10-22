@@ -1,0 +1,74 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 370,
+      "chapter": "Decomposing accusative case",
+      "topic": "Syntactic approaches to Case",
+      "section": "6.11. 124a",
+      "notes": "Although there is clearly interaction between aspect and Case as witnessed by Finnish (Kiparsky 1996, 1998), aspect cannot be the whole story behind accusative case assignment. One piece of evidence that accusative case must be dissociated from aspect (pointed out by Eric Reuland (p.c.)) is presented by the example in (124). First, (124a) shows that the object can be marked accusative independent of whether the verb appears with a perfective aspect auxiliary kebis or not. The second example strengthens the point by showing that accusative case is preserved under nominalization whereas perfective aspect and nominalization are incompatible.",
+      "sah": "Кеша мээчиги бырахта.",
+      "en": "Kesha threw the ball.",
+      "tags": "Kesha ball-acc throw-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "мээчиги", "type": "lowercase", "fst": "ymv", "root": "мээчик+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "бырахта", "type": "lowercase", "fst": "ymv", "root": "бырах+V", "affixes": "+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 370,
+      "chapter": "Decomposing accusative case",
+      "topic": "Syntactic approaches to Case",
+      "section": "6.11. 124a",
+      "notes": "Although there is clearly interaction between aspect and Case as witnessed by Finnish (Kiparsky 1996, 1998), aspect cannot be the whole story behind accusative case assignment. One piece of evidence that accusative case must be dissociated from aspect (pointed out by Eric Reuland (p.c.)) is presented by the example in (124). First, (124a) shows that the object can be marked accusative independent of whether the verb appears with a perfective aspect auxiliary kebis or not. The second example strengthens the point by showing that accusative case is preserved under nominalization whereas perfective aspect and nominalization are incompatible.",
+      "sah": "Кеша мээчиги быраҕан кэбистэ.",
+      "en": "Kesha threw the ball.",
+      "tags": "Kesha ball-acc throw-ger perf.aux-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "мээчиги", "type": "lowercase", "fst": "ymv", "root": "мээчик+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "быраҕан", "type": "lowercase", "fst": "ymv", "root": "бырах+V", "affixes": "+CONV#1"},
+         {"pos": 4, "text": "кэбистэ", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 370,
+      "chapter": "Decomposing accusative case",
+      "topic": "Syntactic approaches to Case",
+      "section": "6.11. 124b",
+      "notes": "Although there is clearly interaction between aspect and Case as witnessed by Finnish (Kiparsky 1996, 1998), aspect cannot be the whole story behind accusative case assignment. One piece of evidence that accusative case must be dissociated from aspect (pointed out by Eric Reuland (p.c.)) is presented by the example in (124). First, (124a) shows that the object can be marked accusative independent of whether the verb appears with a perfective aspect auxiliary kebis or not. The second example strengthens the point by showing that accusative case is preserved under nominalization whereas perfective aspect and nominalization are incompatible.",
+      "sah": "Мээчиги быраҕыы кэбиһии",
+      "en": "throwing the ball/*having thrown the ball",
+      "tags": "Ball-acc throw-nom/*throw-ger perf.aux-nom",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Мээчиги", "type": "title", "fst": "ymv", "root": "мээчик+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "быраҕыы", "type": "lowercase", "fst": "ymv", "root": "бырах+V", "affixes": "+NMLZ#2"},
+         {"pos": 3, "text": "кэбиһии", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+NMLZ#2"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 370,
+      "chapter": "Decomposing accusative case",
+      "topic": "Syntactic approaches to Case",
+      "section": "6.11. 124b",
+      "notes": "Although there is clearly interaction between aspect and Case as witnessed by Finnish (Kiparsky 1996, 1998), aspect cannot be the whole story behind accusative case assignment. One piece of evidence that accusative case must be dissociated from aspect (pointed out by Eric Reuland (p.c.)) is presented by the example in (124). First, (124a) shows that the object can be marked accusative independent of whether the verb appears with a perfective aspect auxiliary kebis or not. The second example strengthens the point by showing that accusative case is preserved under nominalization whereas perfective aspect and nominalization are incompatible.",
+      "sah": "Мээчиги быраҕан кэбиһии",
+      "en": "*having thrown the ball",
+      "tags": "*throw-ger perf.aux-nom",
+      "incorrect": true,
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Мээчиги", "type": "title", "fst": "ymv", "root": "мээчик+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "быраҕан", "type": "lowercase", "fst": "ymv", "root": "бырах+V", "affixes": "+CONV#1"},
+         {"pos": 3, "text": "кэбиһии", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+NMLZ#2"}
+      ]
+   }
+]

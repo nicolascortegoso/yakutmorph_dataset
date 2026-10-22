@@ -1,0 +1,57 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 255,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Non-finite and finite subordination: Nominal predicates",
+      "section": "4.3.3. 95a",
+      "notes": "With respect to tense, nominal predicates of matrix sentences and finite complement clauses do not differ from each other. For both, present tense is possible out of the I[∅]-NP configuration without the support of a verbal auxiliary (95a-b); all other tenses require such an auxiliary. In non-finite sentential complements all tenses, including present, cannot do without the mediation of a copular verb (95c).",
+      "sah": "Кини хоһоонньут.",
+      "en": "He is a poet.",
+      "tags": "he poet",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 2, "text": "хоһоонньут", "type": "lowercase", "fst": "ymv", "root": "хоһоон+N", "affixes": "+NMLZ#1"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 255,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Non-finite and finite subordination: Nominal predicates",
+      "section": "4.3.3. 95b",
+      "notes": "With respect to tense, nominal predicates of matrix sentences and finite complement clauses do not differ from each other. For both, present tense is possible out of the I[∅]-NP configuration without the support of a verbal auxiliary (95a-b); all other tenses require such an auxiliary. In non-finite sentential complements all tenses, including present, cannot do without the mediation of a copular verb (95c).",
+      "sah": "Кини хоһоонньут диэн биллэр.",
+      "en": "It is known that he is a poet.",
+      "tags": "he poet Comp know-pass-aor",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 2, "text": "хоһоонньут", "type": "lowercase", "fst": "ymv", "root": "хоһоон+N", "affixes": "+NMLZ#1"},
+         {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 4, "text": "биллэр", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 255,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Non-finite and finite subordination: Nominal predicates",
+      "section": "4.3.3. 95c",
+      "notes": "With respect to tense, nominal predicates of matrix sentences and finite complement clauses do not differ from each other. For both, present tense is possible out of the I[∅]-NP configuration without the support of a verbal auxiliary (95a-b); all other tenses require such an auxiliary. In non-finite sentential complements all tenses, including present, cannot do without the mediation of a copular verb (95c).",
+      "sah": "Кини хоһоонньут буолара биллэр.",
+      "en": "It is known that he is a poet.",
+      "tags": "he poet be-aor-3 know-pass-aor",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 2, "text": "хоһоонньут", "type": "lowercase", "fst": "ymv", "root": "хоһоон+N", "affixes": "+NMLZ#1"},
+         {"pos": 3, "text": "буолара", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES+POSS.3SG"},
+         {"pos": 4, "text": "биллэр", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,39 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 309,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Causativization as lexicon-internal operation in Sakha",
+      "section": "5.3.3. 50a",
+      "notes": "The first test involves pronominal orientation and is based on Principle B of the Binding Theory. The pronoun cannot be coindexed with the subject noun phrase in (50a), nor can it be coindexed with the causer or the causee in (50b) suggesting that we are not dealing with a biclausal structure but rather with one predicate and a uniclausal structure.",
+      "sah": "Оокко кинини сэмэлээтэ.",
+      "en": "Ookko reproached him.",
+      "tags": "Ookko he-acc reproach-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Оокко", "type": "title", "fst": "ymv", "root": "оокко+N"},
+         {"pos": 2, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
+         {"pos": 3, "text": "сэмэлээтэ", "type": "lowercase", "fst": "ymv", "root": "сэмэ+N", "affixes": "+VRBLZ#1+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 309,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Causativization as lexicon-internal operation in Sakha",
+      "section": "5.3.3. 50b",
+      "notes": "The first test involves pronominal orientation and is based on Principle B of the Binding Theory. The pronoun cannot be coindexed with the subject noun phrase in (50a), nor can it be coindexed with the causer or the causee in (50b) suggesting that we are not dealing with a biclausal structure but rather with one predicate and a uniclausal structure.",
+      "sah": "Байбал Ооккоҕо кинини сэмэлэттэ.",
+      "en": "Bajbal made Ookkoi reproach him.",
+      "tags": "Bajbal Ookko-dat he-acc reproach-caus-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Байбал", "type": "title", "fst": "ymv", "root": "байбал+N"},
+         {"pos": 2, "text": "Ооккоҕо", "type": "title", "fst": "ymv", "root": "оокко+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
+         {"pos": 4, "text": "сэмэлэттэ", "type": "lowercase", "fst": "ymv", "root": "сэмэ+N", "affixes": "+VRBLZ#1+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

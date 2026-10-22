@@ -1,0 +1,39 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 333,
+      "chapter": "Decomposing accusative case",
+      "topic": "The low/high opposition in syntactic bundling",
+      "section": "6.5.2. 31a",
+      "notes": "Two more pieces of evidence pertain to affix ordering. The first one concerns ordering of the reflexive suffix –n- with respect to the affix –talaa which marks frequentative/distributive aspect. As (31) shows, the reflexive suffix of inalienable possession is closer to the root than the aspectual morpheme which, in its turn, is closer to the root than the reflexive suffix of benefaction.",
+      "sah": "Сардаана сирэйин сууйталанна.",
+      "en": "Sardaana washed her face several times.",
+      "tags": "Sardaana face-3.acc *wash-freq-refl-past.3",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "сирэйин", "type": "lowercase", "fst": "ymv", "root": "сирэй+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "сууйталанна", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+ITER#1+REFL/PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },    
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 333,
+      "chapter": "Decomposing accusative case",
+      "topic": "The low/high opposition in syntactic bundling",
+      "section": "6.5.2. 31b",
+      "notes": "Two more pieces of evidence pertain to affix ordering. The first one concerns ordering of the reflexive suffix –n- with respect to the affix –talaa which marks frequentative/distributive aspect. As (31) shows, the reflexive suffix of inalienable possession is closer to the root than the aspectual morpheme which, in its turn, is closer to the root than the reflexive suffix of benefaction.",
+      "sah": "Сардаана чаакытын сууйталанна.",
+      "en": "Sardaana washed her cup several times.",
+      "tags": "Sardaana cup-3.acc wash-freq-refl-past.3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "чаакытын", "type": "lowercase", "fst": "yma", "root": "чаакы+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "сууйталанна", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+ITER#1+REFL/PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

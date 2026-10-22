@@ -1,0 +1,41 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 152,
+      "chapter": "Nouns in Sakha",
+      "topic": "Possessives and locatives",
+      "section": "3.1.2.2.1. 49a",
+      "notes": "In terms of the current analysis, the presence of agreement in (46b) simply reflects the DP-internal origin of the possessor. Conversely, the lack of agreement in (46a) can be explained by the lack of movement dependency between ‘chair-dat’ and ‘book’. The same argument that was given to support the presence of a movement-related link in the examples (20)-(21) above can now be replicated to deny the presence of such a link in existential locatives. (20) repeated below in (48) features a possessive DP with a doubly ambiguous reading of the adjective urukku ‘former’: ‘former N’ in (a) and ‘formerly owned’ in (b). The same ambiguity is preserved in a possessive clause with an agreement between the dative possessor and the possessed noun (49a) whereas in locative (49b) with no agreement between location Ookko and locatum ‘house’ the ambiguity disappears. This absence of ambiguity is interpreted here as an indication that dative Ookkoqo was base-generated in Spec,LocP and not raised there from a DP-internal position.",
+      "sah": "Ооккоҕо урукку балаҕана баар.",
+      "en": "(a) Ookko has what used to be a house. (b) Ookko has his former house.",
+      "tags": "Ookko-dat former house-3 copulaEXIST",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Ооккоҕо", "type": "title", "fst": "ymv", "root": "оокко+N", "affixes": "+DAT"},
+         {"pos": 2, "text": "урукку", "type": "lowercase", "fst": "ymv", "root": "урут+Adv", "affixes": "+ADJZ#4"},
+         {"pos": 3, "text": "балаҕана", "type": "lowercase", "fst": "ymv", "root": "балаҕан+N", "affixes": "+POSS.3SG"},
+         {"pos": 4, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 153,
+      "chapter": "Nouns in Sakha",
+      "topic": "Possessives and locatives",
+      "section": "3.1.2.2.1. 49a",
+      "notes": "In terms of the current analysis, the presence of agreement in (46b) simply reflects the DP-internal origin of the possessor. Conversely, the lack of agreement in (46a) can be explained by the lack of movement dependency between ‘chair-dat’ and ‘book’. The same argument that was given to support the presence of a movement-related link in the examples (20)-(21) above can now be replicated to deny the presence of such a link in existential locatives. (20) repeated below in (48) features a possessive DP with a doubly ambiguous reading of the adjective urukku ‘former’: ‘former N’ in (a) and ‘formerly owned’ in (b). The same ambiguity is preserved in a possessive clause with an agreement between the dative possessor and the possessed noun (49a) whereas in locative (49b) with no agreement between location Ookko and locatum ‘house’ the ambiguity disappears. This absence of ambiguity is interpreted here as an indication that dative Ookkoqo was base-generated in Spec,LocP and not raised there from a DP-internal position.",
+      "sah": "Ооккоҕо урукку балаҕан баар.",
+      "en": "(a) Ookko has what used to be a house. (b) Ookko has his former house.",
+      "tags": "*Ookko-dat former house-3 copulaEXIST",
+      "ungrammatical": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ооккоҕо", "type": "title", "fst": "ymv", "root": "оокко+N", "affixes": "+DAT"},
+         {"pos": 2, "text": "урукку", "type": "lowercase", "fst": "ymv", "root": "урут+Adv", "affixes": "+ADJZ#4"},
+         {"pos": 3, "text": "балаҕан", "type": "lowercase", "fst": "ymv", "root": "балаҕан+N"},
+         {"pos": 4, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

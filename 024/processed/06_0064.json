@@ -1,0 +1,37 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 346,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocal verbs in Sakha and the lexicon/syntax dichotomy",
+      "section": "6.7.2. 64a",
+      "notes": "Consider (64b) which illustrates an attempt at relativizing/extracting the comitative DP out of a discontinuous reciprocal (64a). The result, however, is ungrammatical: (64b) can only be interpreted as a possessive structure with Misha acting as the possessor and Masha modified by the participial modifier üöxsübüt. If the comitative DP were a true argument of the singular reciprocal verb, this would be unexpected.",
+      "sah": "Миша Машалыын үөҕүстэ.",
+      "en": "Misha used abusive language with Masha (Misha and Masha used abusive language at each other).",
+      "tags": "Misha Masha-comit curse-rec-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "Машалыын", "type": "title", "fst": "yma", "root": "маша+N", "affixes": "+COMIT"},
+         {"pos": 3, "text": "үөҕүстэ", "type": "lowercase", "fst": "ymv", "root": "үөх+V", "affixes": "+RECP+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },  
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 346,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocal verbs in Sakha and the lexicon/syntax dichotomy",
+      "section": "6.7.2. 64b",
+      "notes": "Consider (64b) which illustrates an attempt at relativizing/extracting the comitative DP out of a discontinuous reciprocal (64a). The result, however, is ungrammatical: (64b) can only be interpreted as a possessive structure with Misha acting as the possessor and Masha modified by the participial modifier üöxsübüt. If the comitative DP were a true argument of the singular reciprocal verb, this would be unexpected.",
+      "sah": "Миша үөхсүбүт кыыһа",
+      "en": "Misha’s girl who used abusive language / *the girl with whom Misha used abusive language",
+      "tags": "",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "үөхсүбүт", "type": "lowercase", "fst": "ymv", "root": "үөх+V", "affixes": "+RECP+PART_PAST"},
+         {"pos": 3, "text": "кыыһа", "type": "lowercase", "fst": "ymv", "root": "кыыс+N", "affixes": "+POSS.3SG"}
+      ]
+   }
+]

@@ -1,0 +1,56 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 257,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Extractions out of predicates: the nominal/adjectival/verbal asymmetry",
+      "section": "4.4. 96a",
+      "notes": "Consider the examples in (96). In (96a) and (96b) we have complex nominal and adjectival predicates, complex in the sense that an optional dative goal argument is present. In (96c) we have a verbal predicate, also with a goal NP. Noun.",
+      "sah": "Күннэй Саргыга сирдьит.",
+      "en": "Künnej is a guide to Sargy.",
+      "tags": "Künnej Sargy-dat guide",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Күннэй", "type": "title", "fst": "ymv", "root": "күннэй+N"},
+         {"pos": 2, "text": "Саргыга", "type": "title", "fst": "ymv", "root": "саргы+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "сирдьит", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+NMLZ#1"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 257,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Extractions out of predicates: the nominal/adjectival/verbal asymmetry",
+      "section": "4.4. 96b",
+      "notes": "Consider the examples in (96). In (96a) and (96b) we have complex nominal and adjectival predicates, complex in the sense that an optional dative goal argument is present. In (96c) we have a verbal predicate, also with a goal NP. Adjective.",
+      "sah": "Күннэй Саргыга интэриэһинэй.",
+      "en": "Künnej is interesting to Sargy.",
+      "tags": "Künnej Sargy-dat interesting",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Күннэй", "type": "title", "fst": "ymv", "root": "күннэй+N"},
+         {"pos": 2, "text": "Саргыга", "type": "title", "fst": "ymv", "root": "саргы+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "интэриэһинэй", "type": "lowercase", "fst": "yma", "root": "интэриэһинэй+Adj"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 257,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Extractions out of predicates: the nominal/adjectival/verbal asymmetry",
+      "section": "4.4. 96c",
+      "notes": "Consider the examples in (96). In (96a) and (96b) we have complex nominal and adjectival predicates, complex in the sense that an optional dative goal argument is present. In (96c) we have a verbal predicate, also with a goal NP. Verb.",
+      "sah": "Күннэй Саргыга көмөлөһөр.",
+      "en": "Künnej helps Sargy.",
+      "tags": "Künnej Sargy-dat help-aor",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Күннэй", "type": "title", "fst": "ymv", "root": "күннэй+N"},
+         {"pos": 2, "text": "Саргыга", "type": "title", "fst": "ymv", "root": "саргы+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "көмөлөһөр", "type": "lowercase", "fst": "ymv", "root": "көмө+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

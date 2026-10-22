@@ -1,0 +1,38 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 275,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Intersective/nonintersective ambiguities",
+      "section": "4.5.3. 134a",
+      "notes": "This analysis makes one prediction: given the configuration in (133) it is conceivable that the small clause itself can move to Spec,IP stranding the adjective. This is indeed possible and, as expected, only the ‘individual’-related reading (‘physically strong’) is allowed. Note that it is not the case that the non-intersective reading disappears in predicate position: in (134b) the adjective has both intersective and non-intersective interpretations. Thus, the situation in Sakha is different from the situation in English discussed in detail in Larson 1999: whereas beautiful dancer is ambiguous between ‘a dancer who dances beautifully’ and ‘a dancer who is physically beautiful’, that dancer is beautiful has only the latter reading.",
+      "sah": "Айаар саахыматчыт күүстээх.",
+      "en": "Ajaar the chessplayer is strong physically",
+      "tags": "",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Айаар", "type": "title", "fst": "ymv", "root": "айаар+N"},
+         {"pos": 2, "text": "саахыматчыт", "type": "lowercase", "fst": "ymv", "root": "саахымат+N", "affixes": "+NMLZ#1"},
+         {"pos": 3, "text": "күүстээх", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+ADJZ#1"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 275,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Intersective/nonintersective ambiguities",
+      "section": "4.5.3. 134b",
+      "notes": "This analysis makes one prediction: given the configuration in (133) it is conceivable that the small clause itself can move to Spec,IP stranding the adjective. This is indeed possible and, as expected, only the ‘individual’-related reading (‘physically strong’) is allowed. Note that it is not the case that the non-intersective reading disappears in predicate position: in (134b) the adjective has both intersective and non-intersective interpretations. Thus, the situation in Sakha is different from the situation in English discussed in detail in Larson 1999: whereas beautiful dancer is ambiguous between ‘a dancer who dances beautifully’ and ‘a dancer who is physically beautiful’, that dancer is beautiful has only the latter reading.",
+      "sah": "Бу саахыматчыт күүстээх.",
+      "en": "This chessplayer is strong physically/qua chessplayer.’",
+      "tags": "",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+         {"pos": 2, "text": "саахыматчыт", "type": "lowercase", "fst": "ymv", "root": "саахымат+N", "affixes": "+NMLZ#1"},
+         {"pos": 3, "text": "күүстээх", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+ADJZ#1"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,46 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 343,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocal verbs in Sakha and the lexicon/syntax dichotomy",
+      "section": "6.7.2. 56a",
+      "notes": "Consider first the tests mentioned in Siloni 2001, namely, the ones for accusative pronouns and discontinuous reciprocals.8 As expected, no accusative reciprocal pronoun can cooccur with a lexical reciprocal verb (56) but is possible with a syntactic predicate as shown in (54).",
+      "sah": "Миша уонна Маша бэйэ бэйэлэрин көрүстүлэр.",
+      "en": "Misha and Masha saw each other/met.",
+      "tags": "*Misha defeat-rec-past.3/distract-rec-past.3/analyze-rec-past.3/miss-rec-past.3",
+      "incorrect": true,
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 3, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 4, "text": "бэйэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron"},
+         {"pos": 5, "text": "бэйэлэрин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+PL+POSS.3SG.ACC"},
+         {"pos": 6, "text": "көрүстүлэр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+PST.3PL"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 343,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocal verbs in Sakha and the lexicon/syntax dichotomy",
+      "section": "6.7.2. 56b",
+      "notes": "Consider first the tests mentioned in Siloni 2001, namely, the ones for accusative pronouns and discontinuous reciprocals.8 As expected, no accusative reciprocal pronoun can cooccur with a lexical reciprocal verb (56) but is possible with a syntactic predicate as shown in (54).",
+      "sah": "Миша уонна Маша бэйэ бэйэлэрин сылластылар.",
+      "en": "Misha and Masha kissed each other.",
+      "tags": "*Misha and Masha self self-pl-3.acc kiss-rec-past-pl",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 3, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 4, "text": "бэйэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron"},
+         {"pos": 5, "text": "бэйэлэрин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+PL+POSS.3SG.ACC"},
+         {"pos": 6, "text": "сылластылар", "type": "lowercase", "fst": "ymv", "root": "сыллаа+V", "affixes": "+RECP+PST.3PL"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

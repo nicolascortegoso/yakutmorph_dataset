@@ -1,0 +1,39 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 278,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Adverbial modification",
+      "section": "4.6. 144a",
+      "notes": "As for Sakha, the adverbial suffix –TYk cannot be assumed to be a noun: it is a pure suffix consisting of two simplex suffixes –t and –k. Apart from adverbs, –TYk is a productive suffix deriving nouns from nouns and verbs. In the current framework, suffixes deriving nouns from verbs are the ones which reduce verbal arguments, thereby turning n-place predicates into saturated expressions of the type <e>. If the suffix –TYk were a noun filling in the argument position of an adjective, then it would be expected to appear lower than a degree head. If it is not an argument but rather an argument-reducing morphological marker, then it is less restricted positionally which is indeed the case as can be seen from (144) where the addition of a post-adjectival degree element lifts the position of the suffix.",
+      "sah": "Кини бытааннык хаамар.",
+      "en": "He walks slowly.",
+      "tags": "He slow-adv walk-aor",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 2, "text": "бытааннык", "type": "lowercase", "fst": "ymv", "root": "бытаан+Adj", "affixes": "+ADVZ#5"},
+         {"pos": 3, "text": "хаамар", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+PART_PRES"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 278,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Adverbial modification",
+      "section": "4.6. 144b",
+      "notes": "As for Sakha, the adverbial suffix –TYk cannot be assumed to be a noun: it is a pure suffix consisting of two simplex suffixes –t and –k. Apart from adverbs, –TYk is a productive suffix deriving nouns from nouns and verbs. In the current framework, suffixes deriving nouns from verbs are the ones which reduce verbal arguments, thereby turning n-place predicates into saturated expressions of the type <e>. If the suffix –TYk were a noun filling in the argument position of an adjective, then it would be expected to appear lower than a degree head. If it is not an argument but rather an argument-reducing morphological marker, then it is less restricted positionally which is indeed the case as can be seen from (144) where the addition of a post-adjectival degree element lifts the position of the suffix.",
+      "sah": "Кини бытаан баҕайытык хаамар.",
+      "en": "He walks very slowly.",
+      "tags": "He slow very-adv walk-aor",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 2, "text": "бытаан", "type": "lowercase", "fst": "ymv", "root": "бытаан+Adj"},
+         {"pos": 3, "text": "баҕайытык", "type": "lowercase", "fst": "ymv", "root": "баҕайы+N", "affixes": "+ADVZ#5"},
+         {"pos": 4, "text": "хаамар", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,21 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 359,
+      "chapter": "Decomposing accusative case",
+      "topic": "Causation proper and permission",
+      "section": "6.8.6. 96",
+      "notes": "The actual morpheme –TAr may have the same function as the functional head Appl. Let’s adopt this view and see how it derives (96). As shown in (97), the internal and external arguments merge in the usual manner inside the VP. The suffix takes VP as complement resulting in a V-shell-like structure and licenses the causee in its specifier assigning accusative case. The verb raises to –TAr and discharges its [-c+m] onto the DP in Spec,TAR. Raising of the verb creates equidistance between Spec,IP, on the one hand, and Spec,TAR and Spec,VP, on the other. This allows the agent DP to raise out of VP to Spec,IP. The two accusative DPs left behind are frozen in situ: the DP in Spec,TAR is already licensed and there is no need for it to move so it does not move whereas the DP in the complement position of V cannot move over the first accusative DP. This explains why the two DPs must always be adjacent and nothing can intervene between them.",
+      "sah": "Миша Машаны хоһу хомуйтарда.",
+      "en": "Misha made/*let Masha clean up the room.",
+      "tags": "Misha Masha-acc room-acc clean.up-caus-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "Машаны", "type": "title", "fst": "yma", "root": "маша+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "хоһу", "type": "lowercase", "fst": "ymv", "root": "хос+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "хомуйтарда", "type": "lowercase", "fst": "ymv", "root": "хомуй+V", "affixes": "+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

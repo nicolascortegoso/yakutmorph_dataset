@@ -1,0 +1,57 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 232,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Deriving tense asymmetry between verbs and adjectives",
+      "section": "4.2.2. 61a",
+      "notes": "Another tense-related contrast between APs and VPs is that adjectives cannot form compound tenses directly (*I-Part-AP is ruled out) although merging an auxiliary allows APs to partake of the whole temporal range presented in (57) in which case the relevant substructure is [I-Part-Aux-AP]. It is through the mediation of an auxiliary verb that one can get e.g. future, past resultative and pluperfect tenses built on top of what is an adjectival base. Future.",
+      "sah": "Ас кэмчи буолуоҕа.",
+      "en": "Food will be scarce.",
+      "tags": "Food scarce be-future-3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Ас", "type": "title", "fst": "ymv", "root": "ас+N"},
+         {"pos": 2, "text": "кэмчи", "type": "lowercase", "fst": "ymv", "root": "кэмчи+Adj"},
+         {"pos": 3, "text": "буолуоҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+POSS.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 232,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Deriving tense asymmetry between verbs and adjectives",
+      "section": "4.2.2. 61b",
+      "notes": "Another tense-related contrast between APs and VPs is that adjectives cannot form compound tenses directly (*I-Part-AP is ruled out) although merging an auxiliary allows APs to partake of the whole temporal range presented in (57) in which case the relevant substructure is [I-Part-Aux-AP]. It is through the mediation of an auxiliary verb that one can get e.g. future, past resultative and pluperfect tenses built on top of what is an adjectival base. Past resultative.",
+      "sah": "Эн холку эбиккин.",
+      "en": "It turns out you are calm.",
+      "tags": "you calm aux-rem.past-2sg",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 2, "text": "холку", "type": "lowercase", "fst": "ymv", "root": "холку+Adj"},
+         {"pos": 3, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST+2SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 232,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Deriving tense asymmetry between verbs and adjectives",
+      "section": "4.2.2. 61c",
+      "notes": "Another tense-related contrast between APs and VPs is that adjectives cannot form compound tenses directly (*I-Part-AP is ruled out) although merging an auxiliary allows APs to partake of the whole temporal range presented in (57) in which case the relevant substructure is [I-Part-Aux-AP]. It is through the mediation of an auxiliary verb that one can get e.g. future, past resultative and pluperfect tenses built on top of what is an adjectival base. Pluperfect.",
+      "sah": "Эн судургу эбит этиҥ.",
+      "en": "You had been simple.",
+      "tags": "you simple aux-rem.past aux-immed.past-2sg",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 2, "text": "судургу", "type": "lowercase", "fst": "ymv", "root": "судургу+N"},
+         {"pos": 3, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST"},
+         {"pos": 4, "text": "этиҥ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.2SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

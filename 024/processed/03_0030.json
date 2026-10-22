@@ -1,0 +1,37 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 143,
+      "chapter": "Nouns in Sakha",
+      "topic": "Associative –LAAX",
+      "section": "3.1.2.1.1. 30a",
+      "notes": "In addition to the construction in (15b), Sakha has another type of an associative morpheme – the particle aax which, just like –LAAX, has no independent lexical meaning and, as betrayed by its looks, is derived from –LAAX. The two elements together perform what is performed by the plural pronoun in Afrikaans. They do not differ in terms of their semantic import, only in terms of nominal structure with which they appear and, as a result, they are in complementary distribution: aax is an independent morpheme (reflected in the fact that it is not subject to vowel harmony laws) and can take bigger chunks of nominal structure (whole DPs) as its complement, contrary to –LAAX which must assimilate to the phonological host to which it has cliticized and which is restricted to attach to bare singular nouns as in (15b). Thus, with plural and coordinated DPs aax must be used.",
+      "sah": "ол кыргыттар аах",
+      "en": "those girls and {their folks/one or more persons} / those girls",
+      "tags": "that girl-pl aax",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
+         {"pos": 2, "text": "кыргыттар", "type": "lowercase", "fst": "ymv", "root": "кыыс+N", "affixes": "+PL"},
+         {"pos": 3, "text": "аах", "type": "lowercase", "fst": "ymv", "root": "аах+Part"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 143,
+      "chapter": "Nouns in Sakha",
+      "topic": "Associative –LAAX",
+      "section": "3.1.2.1.1. 30b",
+      "notes": "In addition to the construction in (15b), Sakha has another type of an associative morpheme – the particle aax which, just like –LAAX, has no independent lexical meaning and, as betrayed by its looks, is derived from –LAAX. The two elements together perform what is performed by the plural pronoun in Afrikaans. They do not differ in terms of their semantic import, only in terms of nominal structure with which they appear and, as a result, they are in complementary distribution: aax is an independent morpheme (reflected in the fact that it is not subject to vowel harmony laws) and can take bigger chunks of nominal structure (whole DPs) as its complement, contrary to –LAAX which must assimilate to the phonological host to which it has cliticized and which is restricted to attach to bare singular nouns as in (15b). Thus, with plural and coordinated DPs aax must be used.",
+      "sah": "убайым уонна эдьиийим аах",
+      "en": "my elder brother and my elder sister and their folks / my elder brother and my elder sister and one or more persons / my elder brother and my elder sister",
+      "tags": "brother-1sg and sister-1sg aax",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "ymv", "root": "убай+N", "affixes": "+POSS.1SG"},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 3, "text": "эдьиийим", "type": "lowercase", "fst": "ymv", "root": "эдьиий+N", "affixes": "+POSS.1SG"},
+         {"pos": 4, "text": "аах", "type": "lowercase", "fst": "ymv", "root": "аах+Part"}
+      ]
+   }
+]

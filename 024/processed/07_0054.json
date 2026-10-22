@@ -1,0 +1,57 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 394,
+      "chapter": "Denominal verbs",
+      "topic": "Productive suffixes",
+      "section": "7.4.2. 54a",
+      "notes": "The second suffix /–msYj/ derives attitudinal verbs with an entirely compositional meaning ‘pretend to be/act like N’ with a negative connotation. Besides semantic transparency, another argument for the syntactic status of the suffix is the possibility of its attachment to AP-NP structures.",
+      "sah": "Миша Леналаахха мааны ыалдьытымсыйар.",
+      "en": "Misha behaves like a dear guest at Lena’s place.",
+      "tags": "Misha Lena-assoc-dat dear guest-verb-aor",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "Леналаахха", "type": "title", "fst": "yma", "root": "лена+N", "affixes": "+ADJZ#1+DAT"},
+         {"pos": 3, "text": "мааны", "type": "lowercase", "fst": "ymv", "root": "мааны+N"},
+         {"pos": 4, "text": "ыалдьытымсыйар", "type": "lowercase", "fst": "ymv", "root": "ыал+N", "affixes": "+NMLZ#1+VRBLZ#6+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 394,
+      "chapter": "Denominal verbs",
+      "topic": "Productive suffixes",
+      "section": "7.4.2. 54b",
+      "notes": "The second suffix /–msYj/ derives attitudinal verbs with an entirely compositional meaning ‘pretend to be/act like N’ with a negative connotation. Besides semantic transparency, another argument for the syntactic status of the suffix is the possibility of its attachment to AP-NP structures.",
+      "sah": "Миша үөрэнээччилэргэ улахан тойомсуйар.",
+      "en": "Misha behaves like a big cheese towards the children.",
+      "tags": "Misha pupil-pl-dat big boss-verb-aor",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "үөрэнээччилэргэ", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+HAB#1+PL+DAT"},
+         {"pos": 3, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj"},
+         {"pos": 4, "text": "тойомсуйар", "type": "lowercase", "fst": "ymv", "root": "тойон+N", "affixes": "+VRBLZ#5+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 394,
+      "chapter": "Denominal verbs",
+      "topic": "Productive suffixes",
+      "section": "7.4.2. 54c",
+      "notes": "The second suffix /–msYj/ derives attitudinal verbs with an entirely compositional meaning ‘pretend to be/act like N’ with a negative connotation. Besides semantic transparency, another argument for the syntactic status of the suffix is the possibility of its attachment to AP-NP structures.",
+      "sah": "Акаары ньирэмсийимэ!",
+      "en": "Stop acting naïve (like a stupid calf)!",
+      "tags": "Stupid calf-verb-neg",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Акаары", "type": "title", "fst": "ymv", "root": "акаары+Adj"},
+         {"pos": 2, "text": "ньирэмсийимэ", "type": "lowercase", "fst": "ymv", "root": "ньирэй+N", "affixes": "+VRBLZ#6+NEG"},
+         {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+      ]
+   }
+]

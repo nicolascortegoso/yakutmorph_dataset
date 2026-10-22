@@ -1,0 +1,55 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 232,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Alternating forms: INFL-PART-VP or INFL-AUX-PART-VP",
+      "section": "4.2.1.4. 59a",
+      "notes": "Apart from present tense derived from an INFL[∅TENSE]-AP configuration, two more simplex tenses are possible with adjectives: immediate/definite past and remote/reported/narrative past resulting, respectively, from [INFLIMMEDIATE PAST-AP] and [INFLREMOTE PAST-AP] structures. The [immediate past] tense feature can be realized by –DI or -∅, whereas [remote past] has only one exponent, –BYT. Both – DI and –BYT are suffixes in need of a lexical host in I. However, adjectives, unlike verbs, cannot move to Infl because APs do not introduce an event variable. Therefore, an alternative derivation using an auxiliary verb is available for both IIMMEDIATE PAST-AP (59b) and IREMOTE PAST-AP (59c). The IIMMEDIATE PAST-AP configuration, in addition to the auxiliated derivation, can give rise to (59a) conditioned by the availability of a zero allomorph for –DI. Immediate Past Tense.",
+      "sah": "Ас минньигэһэ.",
+      "en": "Food was delicious.",
+      "tags": "food delicious-3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Ас", "type": "title", "fst": "ymv", "root": "ас+N"},
+         {"pos": 2, "text": "минньигэһэ", "type": "lowercase", "fst": "ymv", "root": "минньий+V", "affixes": "+ADJZ#5+POSS.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 232,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Alternating forms: INFL-PART-VP or INFL-AUX-PART-VP",
+      "section": "4.2.1.4. 59b",
+      "notes": "Apart from present tense derived from an INFL[∅TENSE]-AP configuration, two more simplex tenses are possible with adjectives: immediate/definite past and remote/reported/narrative past resulting, respectively, from [INFLIMMEDIATE PAST-AP] and [INFLREMOTE PAST-AP] structures. The [immediate past] tense feature can be realized by –DI or -∅, whereas [remote past] has only one exponent, –BYT. Both – DI and –BYT are suffixes in need of a lexical host in I. However, adjectives, unlike verbs, cannot move to Infl because APs do not introduce an event variable. Therefore, an alternative derivation using an auxiliary verb is available for both IIMMEDIATE PAST-AP (59b) and IREMOTE PAST-AP (59c). The IIMMEDIATE PAST-AP configuration, in addition to the auxiliated derivation, can give rise to (59a) conditioned by the availability of a zero allomorph for –DI. Immediate Past Tense, with Aux.",
+      "sah": "Ас минньигэс этэ.",
+      "en": "Food was delicious.",
+      "tags": "food delicious aux-immed.past-3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ас", "type": "title", "fst": "ymv", "root": "ас+N"},
+         {"pos": 2, "text": "минньигэс", "type": "lowercase", "fst": "ymv", "root": "минньий+V", "affixes": "+ADJZ#5"},
+         {"pos": 3, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 232,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Alternating forms: INFL-PART-VP or INFL-AUX-PART-VP",
+      "section": "4.2.1.4. 59c",
+      "notes": "Apart from present tense derived from an INFL[∅TENSE]-AP configuration, two more simplex tenses are possible with adjectives: immediate/definite past and remote/reported/narrative past resulting, respectively, from [INFLIMMEDIATE PAST-AP] and [INFLREMOTE PAST-AP] structures. The [immediate past] tense feature can be realized by –DI or -∅, whereas [remote past] has only one exponent, –BYT. Both – DI and –BYT are suffixes in need of a lexical host in I. However, adjectives, unlike verbs, cannot move to Infl because APs do not introduce an event variable. Therefore, an alternative derivation using an auxiliary verb is available for both IIMMEDIATE PAST-AP (59b) and IREMOTE PAST-AP (59c). The IIMMEDIATE PAST-AP configuration, in addition to the auxiliated derivation, can give rise to (59a) conditioned by the availability of a zero allomorph for –DI. Remote past tense.",
+      "sah": "Ас минньигэс эбитэ.",
+      "en": "Food was delicious (long ago) / Food was reportedly delicious.",
+      "tags": "food delicious aux-remote.past-3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Ас", "type": "title", "fst": "ymv", "root": "ас+N"},
+         {"pos": 2, "text": "минньигэс", "type": "lowercase", "fst": "ymv", "root": "минньий+V", "affixes": "+ADJZ#5"},
+         {"pos": 3, "text": "эбитэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PART_PAST+POSS.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,40 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 196,
+      "chapter": "Nouns in Sakha",
+      "topic": "Structural deficiency in Sakha: The missing DP-layer",
+      "section": "3.4.2.1. 124a",
+      "notes": "Consider the example below: in (124a) the direct object is not marked for accusative even though the verb is accusative-assigning. We would like to argue that the direct object of accusative-assigning verbs can be either an NP as in (124a) or KP-DP-NP as in (124b). The NP is assigned thematic case directly by the verb: direct thematic case assignment is only possible under adjacency explaining why the NP saharxaj sibekki must immediately precede the verb, any other order being ungrammatical. In (124b) the NP embedded under KP-DP receives its case from KP, a structural case checker to which the verbal thematic case has been transmitted and no adjacency between the verb and its direct object is required.",
+      "sah": "Мин саһархай сибэкки үргээтим.",
+      "en": "I picked a yellow flower/flowers.",
+      "tags": "I yellow flower-∅ pick-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "саһархай", "type": "lowercase", "fst": "ymv", "root": "саһар+V", "affixes": "+ADJZ#9"},
+         {"pos": 3, "text": "сибэкки", "type": "lowercase", "fst": "ymv", "root": "сибэкки+N"},
+         {"pos": 4, "text": "үргээтим", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+PST.1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 196,
+      "chapter": "Nouns in Sakha",
+      "topic": "Structural deficiency in Sakha: The missing DP-layer",
+      "section": "3.4.2.1. 124b",
+      "notes": "Consider the example below: in (124a) the direct object is not marked for accusative even though the verb is accusative-assigning. We would like to argue that the direct object of accusative-assigning verbs can be either an NP as in (124a) or KP-DP-NP as in (124b). The NP is assigned thematic case directly by the verb: direct thematic case assignment is only possible under adjacency explaining why the NP saharxaj sibekki must immediately precede the verb, any other order being ungrammatical. In (124b) the NP embedded under KP-DP receives its case from KP, a structural case checker to which the verbal thematic case has been transmitted and no adjacency between the verb and its direct object is required.",
+      "sah": "Мин саһархай сибэккини үргээтим.",
+      "en": "I picked the yellow flower.",
+      "tags": "I yellow flower-acc pick-past-1sg",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "саһархай", "type": "lowercase", "fst": "ymv", "root": "саһар+V", "affixes": "+ADJZ#9"},
+         {"pos": 3, "text": "сибэккини", "type": "lowercase", "fst": "ymv", "root": "сибэкки+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "үргээтим", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+PST.1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,21 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 361,
+      "chapter": "Decomposing accusative case",
+      "topic": "Extending Moore’s (1998) analysis: Copy raising into the matrix clause",
+      "section": "6.10.1. 104",
+      "notes": "A phenomenon similar to Sakha dien-clauses has been investigated in related Turkish by Moore 1998 who argues that agreeing sentential complements are CPs (105) and non-agreeing ones are IPs (104). In taking Agr as the determining element for finiteness in Turkish he follows George and Kornfilt 1981. In both (104) and (105) the embedded subject raises to the matrix clause object position and a chain is formed: in (104) the chain terminates in an empty category, the trace of the embedded subject whereas in (105) the tail of the chain is a silent pronominal. Whether languages/dialects allow A-chains ending in a silent pronominal is, according to Moore, parameterized: for those speakers who allow (105) the parameter has a positive setting.",
+      "sah": "Сэни өлдү санырдум.",
+      "en": "I believed you to have died.",
+      "tags": "You-acc die-past believe-prog-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Сэни", "type": "title", "fst": "yma", "root": "сэни+N"},
+         {"pos": 2, "text": "өлдү", "type": "lowercase", "fst": "yma", "root": "өлдү+Adj"},
+         {"pos": 3, "text": "санырдум", "type": "lowercase", "fst": "yma", "root": "санырдум+N"},
+         {"pos": 3, "text": "санырдум", "type": "lowercase", "fst": "yma", "root": "санырду+N", "affixes": "+POSS.1SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

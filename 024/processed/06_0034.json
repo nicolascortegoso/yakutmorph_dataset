@@ -1,0 +1,41 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 334,
+      "chapter": "Decomposing accusative case",
+      "topic": "The low/high opposition in syntactic bundling",
+      "section": "6.5.2. 34a",
+      "notes": "Although the external argument is not realized syntactically in (3), its presence is implied. There is, however, one important difference between (33a) and (33b): only in the syntactic passive example (33b) is the external argument available semantically to license intentional adverbs and instrumental phrases as shown by the examples in (34). This difference presumably follows from the fact that in (34a) the external argument has been saturated lexicon-internally and, furthermore, the Spec,IP-position is occupied by the remaining Theme argument whereas in (34b) saturation happened in the syntax and Spec,IP is existentially quantified.",
+      "sah": "Түннүктэр соруйан тааһынан алдьатыллыахтара.",
+      "en": "",
+      "tags": "*Window-pl on.purpose stone-instrum break-pass-fut-pl-3",
+      "incorrect": true,
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Түннүктэр", "type": "title", "fst": "ymv", "root": "түннүк+N", "affixes": "+PL"},
+         {"pos": 2, "text": "соруйан", "type": "lowercase", "fst": "ymv", "root": "соруй+V", "affixes": "+CONV#1"},
+         {"pos": 3, "text": "тааһынан", "type": "lowercase", "fst": "ymv", "root": "таас+N", "affixes": "+INST"},
+         {"pos": 4, "text": "алдьатыллыахтара", "type": "lowercase", "fst": "ymv", "root": "алдьат+V", "affixes": "+PASS+PART_FUT+PL+POSS.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 334,
+      "chapter": "Decomposing accusative case",
+      "topic": "The low/high opposition in syntactic bundling",
+      "section": "6.5.2. 34b",
+      "notes": "Although the external argument is not realized syntactically in (3), its presence is implied. There is, however, one important difference between (33a) and (33b): only in the syntactic passive example (33b) is the external argument available semantically to license intentional adverbs and instrumental phrases as shown by the examples in (34). This difference presumably follows from the fact that in (34a) the external argument has been saturated lexicon-internally and, furthermore, the Spec,IP-position is occupied by the remaining Theme argument whereas in (34b) saturation happened in the syntax and Spec,IP is existentially quantified.",
+      "sah": "Түннүктэри соруйан тааһынан алдьатыллыаҕа.",
+      "en": "Windows will be broken on purpose with stones.",
+      "tags": "Window-pl-acc on.purpose stone-instrum break-pass-fut-3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Түннүктэри", "type": "title", "fst": "ymv", "root": "түннүк+N", "affixes": "+PL+ACC"},
+         {"pos": 2, "text": "соруйан", "type": "lowercase", "fst": "ymv", "root": "соруй+V", "affixes": "+CONV#1"},
+         {"pos": 3, "text": "тааһынан", "type": "lowercase", "fst": "ymv", "root": "таас+N", "affixes": "+INST"},
+         {"pos": 4, "text": "алдьатыллыаҕа", "type": "lowercase", "fst": "ymv", "root": "алдьат+V", "affixes": "+PASS+PART_FUT+POSS.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

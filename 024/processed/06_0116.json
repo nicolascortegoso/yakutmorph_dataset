@@ -1,0 +1,87 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 367,
+      "chapter": "Decomposing accusative case",
+      "topic": "Clausal arguments",
+      "section": "6.10.4.1. 116a",
+      "notes": "One verb which displays two alternating case patterns is three-place erenner ‘promise’. Two of its arguments are [+c+m] Agent and [-m] Subject Matter realized by a CP/KP-clause. A third argument is realized by a noun phrase which can be either accusative or dative: Keskil in the examples below. Since only a fully specified cluster can check accusative case, Keskil in (116a) and (117a) must realize such a cluster: the type of role that seems most suited in these cases is [-c-m]. On the contrary, the dative noun phrase must correspond to a unary cluster. Indeed, the interpretation which fits Keskil best in (116b) and (117b) is that of a goal or benefactor corresponding to [-c] in the Theta system.",
+      "sah": "Саргы Кэскили Айсен кэлиэ диэн эрэннэрдэ.",
+      "en": "Sargy promised to Keskil that Aisen will come.",
+      "tags": "S. K.-acc [CP Aisen come-fut DIEN] promise-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "Кэскили", "type": "title", "fst": "ymv", "root": "кэскил+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "Айсен", "type": "title", "fst": "ymv", "root": "айсен+N"},
+         {"pos": 4, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 6, "text": "эрэннэрдэ", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+CSTV+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 367,
+      "chapter": "Decomposing accusative case",
+      "topic": "Clausal arguments",
+      "section": "6.10.4.1. 116a",
+      "notes": "One verb which displays two alternating case patterns is three-place erenner ‘promise’. Two of its arguments are [+c+m] Agent and [-m] Subject Matter realized by a CP/KP-clause. A third argument is realized by a noun phrase which can be either accusative or dative: Keskil in the examples below. Since only a fully specified cluster can check accusative case, Keskil in (116a) and (117a) must realize such a cluster: the type of role that seems most suited in these cases is [-c-m]. On the contrary, the dative noun phrase must correspond to a unary cluster. Indeed, the interpretation which fits Keskil best in (116b) and (117b) is that of a goal or benefactor corresponding to [-c] in the Theta system.",
+      "sah": "Саргы Кэскили Айсены кэлиэ диэн эрэннэрдэ.",
+      "en": "Sargy promised to Keskil that Aisen will come.",
+      "tags": "S. K.-acc [CP *Aisen-acc come-fut DIEN] promise-past.3",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "Кэскили", "type": "title", "fst": "ymv", "root": "кэскил+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "Айсены", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 6, "text": "эрэннэрдэ", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+CSTV+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 367,
+      "chapter": "Decomposing accusative case",
+      "topic": "Clausal arguments",
+      "section": "6.10.4.1. 116b",
+      "notes": "One verb which displays two alternating case patterns is three-place erenner ‘promise’. Two of its arguments are [+c+m] Agent and [-m] Subject Matter realized by a CP/KP-clause. A third argument is realized by a noun phrase which can be either accusative or dative: Keskil in the examples below. Since only a fully specified cluster can check accusative case, Keskil in (116a) and (117a) must realize such a cluster: the type of role that seems most suited in these cases is [-c-m]. On the contrary, the dative noun phrase must correspond to a unary cluster. Indeed, the interpretation which fits Keskil best in (116b) and (117b) is that of a goal or benefactor corresponding to [-c] in the Theta system.",
+      "sah": "Саргы Кэскилгэ Айсен кэлиэ диэн эрэннэрдэ.",
+      "en": "Sargy promised to Keskil that Aisen will come.",
+      "tags": "S. K.-dat [CP Aisen come-fut DIEN] promise-past.3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "Кэскилгэ", "type": "title", "fst": "ymv", "root": "кэскил+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "Айсен", "type": "title", "fst": "ymv", "root": "айсен+N"},
+         {"pos": 4, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 6, "text": "эрэннэрдэ", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+CSTV+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 367,
+      "chapter": "Decomposing accusative case",
+      "topic": "Clausal arguments",
+      "section": "6.10.4.1. 116b",
+      "notes": "One verb which displays two alternating case patterns is three-place erenner ‘promise’. Two of its arguments are [+c+m] Agent and [-m] Subject Matter realized by a CP/KP-clause. A third argument is realized by a noun phrase which can be either accusative or dative: Keskil in the examples below. Since only a fully specified cluster can check accusative case, Keskil in (116a) and (117a) must realize such a cluster: the type of role that seems most suited in these cases is [-c-m]. On the contrary, the dative noun phrase must correspond to a unary cluster. Indeed, the interpretation which fits Keskil best in (116b) and (117b) is that of a goal or benefactor corresponding to [-c] in the Theta system.",
+      "sah": "Саргы Кэскилгэ Айсены кэлиэ диэн эрэннэрдэ.",
+      "en": "Sargy promised to Keskil that Aisen will come.",
+      "tags": "S. K.-dat [CP A.-acc come-fut DIEN] promise-past.3",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "Кэскилгэ", "type": "title", "fst": "ymv", "root": "кэскил+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "Айсены", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 6, "text": "эрэннэрдэ", "type": "lowercase", "fst": "ymv", "root": "эрэн+V", "affixes": "+CSTV+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

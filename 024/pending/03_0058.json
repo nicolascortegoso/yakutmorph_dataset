@@ -1,0 +1,23 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 157,
+      "chapter": "Nouns in Sakha",
+      "topic": "Possessives and locatives",
+      "section": "58a",
+      "notes": "First, the possessor can be extracted under relativization. In chapter 4 (section 4.4.1.3) we show that there is a thematic constraint operative in the formation of relative clauses in Sakha: only those NPs which receive thematic interpretation inside a relative clause can be promoted to Spec,CP (adopting a raising/promotion analysis of relative clauses à la Vergnaud 1974 / Kayne 1994). (58a) is an example of a ditransitive sentence with a possessive accusative object. (58b) is the relativized version of (58a) where the target of relativization is not the entire direct object but only its possessor. The well-formedness of (58b) is expected given the syntactic argument status of the possessor.",
+      "sah": "Мин Саргыга үөрэтээччи кинигэтин уларсыбытым.",
+      "en": "I lent out the [teacher’s book] to Sargy.",
+      "tags": "I Sargy-dat teacher book-3.acc lend-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "Саргыга", "type": "title", "fst": "ymv", "root": "саргы+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "үөрэтээччи", "type": "lowercase", "fst": "ymv", "root": "үөрэт+V", "affixes": "+HAB#1"},
+         {"pos": 4, "text": "кинигэтин", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 5, "text": "уларсыбытым", "type": "lowercase", "fst": "yma", "root": "уларсыбыты+Adj", "affixes": "+POSS.1SG"},
+         {"pos": 5, "text": "уларсыбытым", "type": "lowercase", "fst": "yma", "root": "улар+V", "affixes": "+RECP+PART_PAST+POSS.1SG"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

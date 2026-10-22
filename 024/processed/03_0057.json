@@ -1,0 +1,65 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 155,
+      "chapter": "Nouns in Sakha",
+      "topic": "Possessives and locatives",
+      "section": "3.1.2.2.1. 57a",
+      "notes": "Current assumptions which do not support a P-mediated analysis of possession for baar-clauses allow only one possibility: to analyze the counterparts of (56) in Sakha as locatives as in (55) and (57a). If the locatum DP (‘your book’) in (57a) has indeed moved to Spec,IP, it should be possible to raise it even further into the matrix object position when (57a) is embedded as in (57b)-(57c). In (57b) the embedded subject stays in the lower clause and therefore appears in the nominative case. In (57c) it leaves the embedded Spec,IP and raises to the matrix object position where it acquires accusative case marking (for details see 6.10).",
+      "sah": "Эн кинигэҥ миэхэ баар.",
+      "en": "I have your book.",
+      "tags": "[Spec,IP [you book-2sg]i [Spec,LocP me.dat [Spec,∃P ti [∃’ copulaEXIST ]]]]",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 2, "text": "кинигэҥ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.2SG"},
+         {"pos": 3, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
+         {"pos": 4, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 155,
+      "chapter": "Nouns in Sakha",
+      "topic": "Possessives and locatives",
+      "section": "3.1.2.2.1. 57b",
+      "notes": "Current assumptions which do not support a P-mediated analysis of possession for baar-clauses allow only one possibility: to analyze the counterparts of (56) in Sakha as locatives as in (55) and (57a). If the locatum DP (‘your book’) in (57a) has indeed moved to Spec,IP, it should be possible to raise it even further into the matrix object position when (57a) is embedded as in (57b)-(57c). In (57b) the embedded subject stays in the lower clause and therefore appears in the nominative case. In (57c) it leaves the embedded Spec,IP and raises to the matrix object position where it acquires accusative case marking (for details see 6.10).",
+      "sah": "Луокут эн кинигэҥ миэхэ баар диэн билэр.",
+      "en": "Lookut knows that I have your book.",
+      "tags": "Lookut you book-2sg me.dat copulaEXIST DIEN know-aor",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Луокут", "type": "title", "fst": "yma", "root": "луокут+N"},
+         {"pos": 2, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 3, "text": "кинигэҥ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.2SG"},
+         {"pos": 4, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
+         {"pos": 5, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 7, "text": "билэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 155,
+      "chapter": "Nouns in Sakha",
+      "topic": "Possessives and locatives",
+      "section": "3.1.2.2.1. 57c",
+      "notes": "Current assumptions which do not support a P-mediated analysis of possession for baar-clauses allow only one possibility: to analyze the counterparts of (56) in Sakha as locatives as in (55) and (57a). If the locatum DP (‘your book’) in (57a) has indeed moved to Spec,IP, it should be possible to raise it even further into the matrix object position when (57a) is embedded as in (57b)-(57c). In (57b) the embedded subject stays in the lower clause and therefore appears in the nominative case. In (57c) it leaves the embedded Spec,IP and raises to the matrix object position where it acquires accusative case marking (for details see 6.10).",
+      "sah": "Луокут эн кинигэҕин миэхэ баар диэн билэр.",
+      "en": "Lookut knows that I have your book.",
+      "tags": "Lookut you book-2sg-acc me.dat copulaEXIST DIEN know-aor",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Луокут", "type": "title", "fst": "yma", "root": "луокут+N"},
+         {"pos": 2, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 3, "text": "кинигэҕин", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.2SG.ACC"},
+         {"pos": 4, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
+         {"pos": 5, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 7, "text": "билэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

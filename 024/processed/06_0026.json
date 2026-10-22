@@ -1,0 +1,61 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 331,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in bundling",
+      "section": "6.5.1. 26",
+      "notes": "First of all, lexical reflexives (pure reflexives or reflexives proper) and syntactic reflexives differ in terms of their valency: whereas with syntactic reflexives the underlying arity of the predicate is preserved and the number of arguments is not reduced, lexical reflexives are one-place verbs derived from their transitive counterparts. The intransitive status of lexical reflexives is supported by the intransitive case pattern they take under causativization: when an intransitive verb is causativized, the causee can only be accusative whereas when a transitive verb is causativized, the causee can be accusative, dative or instrumental.",
+      "sah": "Кеша Айсены илиитин сууннарда.",
+      "en": "Kesha made Aisen wash his hands.",
+      "tags": "Kesha Aisen-acc hand-3.acc wash-refl-caus-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "Айсены", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "илиитин", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 4, "text": "сууннарда", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 331,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in bundling",
+      "section": "6.5.1. 26",
+      "notes": "First of all, lexical reflexives (pure reflexives or reflexives proper) and syntactic reflexives differ in terms of their valency: whereas with syntactic reflexives the underlying arity of the predicate is preserved and the number of arguments is not reduced, lexical reflexives are one-place verbs derived from their transitive counterparts. The intransitive status of lexical reflexives is supported by the intransitive case pattern they take under causativization: when an intransitive verb is causativized, the causee can only be accusative whereas when a transitive verb is causativized, the causee can be accusative, dative or instrumental.",
+      "sah": "Кеша Айсеҥҥа илиитин сууннарда.",
+      "en": "Kesha made Aisen wash his hands.",
+      "tags": "Kesha *Aisen-dat hand-3.acc wash-refl-caus-past.3",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "Айсеҥҥа", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "илиитин", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 4, "text": "сууннарда", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 331,
+      "chapter": "Decomposing accusative case",
+      "topic": "The lexical/syntactic opposition in bundling",
+      "section": "6.5.1. 26",
+      "notes": "First of all, lexical reflexives (pure reflexives or reflexives proper) and syntactic reflexives differ in terms of their valency: whereas with syntactic reflexives the underlying arity of the predicate is preserved and the number of arguments is not reduced, lexical reflexives are one-place verbs derived from their transitive counterparts. The intransitive status of lexical reflexives is supported by the intransitive case pattern they take under causativization: when an intransitive verb is causativized, the causee can only be accusative whereas when a transitive verb is causativized, the causee can be accusative, dative or instrumental.",
+      "sah": "Кеша Айсенынан илиитин сууннарда.",
+      "en": "Kesha made Aisen wash his hands.",
+      "tags": "Kesha *Aisen-instrum hand-3.acc wash-refl-caus-past.3",
+      "incorrect": true,
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "Айсенынан", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+INST"},
+         {"pos": 3, "text": "илиитин", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 4, "text": "сууннарда", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

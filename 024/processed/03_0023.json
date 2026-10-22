@@ -1,0 +1,37 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 140,
+      "chapter": "Nouns in Sakha",
+      "topic": "Analyzing –LAAX",
+      "section": "3.1.2.1. 23a",
+      "notes": "Adjectival –LAA-X can be viewed along similar lines – as asserting the existence of a noun which it introduces, turning this noun into a property and assigning this property to another noun: e.g. in küüs-teex kihi ‘strength-LAAX person: a strong person’ kihi ‘person’ is described as possessing the property of strength. –LAAX of possession does very much the same thing. We will assume the following analysis of LAAX-mediated possession. Since with –LAAX there is no modification/predication asymmetry (i.e. any N(P)-LAAX combination that can be used as a modifier can also be used as a predicate), both DP-internal (modifying) and clause-level (predicative ) possession will arise from the same underlying structure which will be taken to be a small clause (an FP) whose head is –LAAX mediating between two NPs, one in the specifier (kyys ‘girl’) and another in the complement position (xara yt ‘black dog’).",
+      "sah": "Хара ыттаах кыыс",
+      "en": "the girl with a black dog",
+      "tags": "black dog-LAAX girl",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Хара", "type": "title", "fst": "ymv", "root": "хара+Adj"},
+         {"pos": 2, "text": "ыттаах", "type": "lowercase", "fst": "ymv", "root": "ыт+N", "affixes": "+ADJZ#1"},
+         {"pos": 3, "text": "кыыс", "type": "lowercase", "fst": "ymv", "root": "кыыс+N"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 140,
+      "chapter": "Nouns in Sakha",
+      "topic": "Analyzing –LAAX",
+      "section": "3.1.2.1. 23b",
+      "notes": "Adjectival –LAA-X can be viewed along similar lines – as asserting the existence of a noun which it introduces, turning this noun into a property and assigning this property to another noun: e.g. in küüs-teex kihi ‘strength-LAAX person: a strong person’ kihi ‘person’ is described as possessing the property of strength. –LAAX of possession does very much the same thing. We will assume the following analysis of LAAX-mediated possession. Since with –LAAX there is no modification/predication asymmetry (i.e. any N(P)-LAAX combination that can be used as a modifier can also be used as a predicate), both DP-internal (modifying) and clause-level (predicative ) possession will arise from the same underlying structure which will be taken to be a small clause (an FP) whose head is –LAAX mediating between two NPs, one in the specifier (kyys ‘girl’) and another in the complement position (xara yt ‘black dog’).",
+      "sah": "Кыыс хара ыттаах.",
+      "en": "The girl has a black dog.",
+      "tags": "",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кыыс", "type": "title", "fst": "ymv", "root": "кыыс+N"},
+         {"pos": 2, "text": "хара", "type": "lowercase", "fst": "ymv", "root": "хара+Adj"},
+         {"pos": 3, "text": "ыттаах", "type": "lowercase", "fst": "ymv", "root": "ыт+N", "affixes": "+ADJZ#1"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

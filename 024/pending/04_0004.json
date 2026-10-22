@@ -1,0 +1,33 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 203,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Conjunction",
+      "section": "4",
+      "notes": "On the other hand, predicates based on the same type of lexical category can combine with each other even if they differ in their internal complexity. In (3) the verbal predicate is based on reflexive, passive, unmarked basic voice and causative verbs. In (4) the adjectival predicate is a combination of basic, denominal, deverbal and compound adjectives. In (5) a non-possessive NP predicate is coordinated with a possessive one.",
+      "sah": "Бу киһи эдэр, дьонумсах, аһыныгас уонна өс киирбэх.",
+      "en": "This person is young, sociable, compassionate and gullible.",
+      "tags": "this person young, people-adj, feel.sorry-adj and word enter-adj",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
+         {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
+         {"pos": 3, "text": "эдэр", "type": "lowercase", "fst": "ymv", "root": "эдэр+Adj"},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 5, "text": "дьонумсах", "type": "lowercase", "fst": "ymv", "root": "дьон+N", "affixes": "+ADJZ#2"},
+         {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
+         {"pos": 7, "text": "аһыныгас", "type": "lowercase", "fst": "ymv", "root": "аһыныгас+Adj"},
+         {"pos": 7, "text": "аһыныгас", "type": "lowercase", "fst": "ymv", "root": "аһын+V", "affixes": "+ADJZ#5"},
+         {"pos": 8, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 8, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+ADVZ#8"},
+         {"pos": 8, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+PRTV"},
+         {"pos": 9, "text": "өс", "type": "lowercase", "fst": "ymv", "root": "өс+N"},
+         {"pos": 9, "text": "өс", "type": "lowercase", "fst": "ymv", "root": "өс+V"},
+         {"pos": 10, "text": "киирбэх", "type": "lowercase", "fst": "yma", "root": "киирбээ+V", "affixes": "+ADJZ#16"},
+         {"pos": 10, "text": "киирбэх", "type": "lowercase", "fst": "yma", "root": "киирбээ+V", "affixes": "+NMLZ#6"},
+         {"pos": 10, "text": "киирбэх", "type": "lowercase", "fst": "yma", "root": "киирбэх+N"},
+         {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

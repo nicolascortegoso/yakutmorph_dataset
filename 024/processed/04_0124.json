@@ -1,0 +1,40 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 271,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Thematic account",
+      "section": "4.5.1.3. 124a",
+      "notes": "That the ‘former-N’ (‘ruin’) reading in (123b) arises out of the configuration like the one in (122) where AP modifies N(P) explains the contrast in (124) where bili ‘that’ realizes the DP-layer (repeated from section 3.3). In (124a) the adjective has attached to the noun whose discourse reference has not yet been fixed and therefore the N-modifying ‘ruin’-reading is available. In (124b) the adjective has attached to the DP which rules out the ‘ruin’-reading because the DP’s reference has already been fixed as ‘that house’. On the contrary, urukku ‘old style’ is not restricted in this way and can modify both N or DP.",
+      "sah": "Били урукку балаҕаны көрдүм.",
+      "en": "(a) I saw that old style house. (b) I saw that former house (ruin).",
+      "tags": "that former house-acc see-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Били", "type": "title", "fst": "ymv", "root": "били+Pron"},
+         {"pos": 2, "text": "урукку", "type": "lowercase", "fst": "ymv", "root": "урут+Adv", "affixes": "+ADJZ#4"},
+         {"pos": 3, "text": "балаҕаны", "type": "lowercase", "fst": "ymv", "root": "балаҕан+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "көрдүм", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PST.1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 271,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Thematic account",
+      "section": "4.5.1.3. 124b",
+      "notes": "That the ‘former-N’ (‘ruin’) reading in (123b) arises out of the configuration like the one in (122) where AP modifies N(P) explains the contrast in (124) where bili ‘that’ realizes the DP-layer (repeated from section 3.3). In (124a) the adjective has attached to the noun whose discourse reference has not yet been fixed and therefore the N-modifying ‘ruin’-reading is available. In (124b) the adjective has attached to the DP which rules out the ‘ruin’-reading because the DP’s reference has already been fixed as ‘that house’. On the contrary, urukku ‘old style’ is not restricted in this way and can modify both N or DP.",
+      "sah": "Урукку били балаҕаны көрдүм.",
+      "en": "(a) I saw that old style house. (b) *I saw that former house (ruin).",
+      "tags": "",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Урукку", "type": "title", "fst": "ymv", "root": "урут+Adv", "affixes": "+ADJZ#4"},
+         {"pos": 2, "text": "били", "type": "lowercase", "fst": "ymv", "root": "били+Pron"},
+         {"pos": 3, "text": "балаҕаны", "type": "lowercase", "fst": "ymv", "root": "балаҕан+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "көрдүм", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PST.1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

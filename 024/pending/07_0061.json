@@ -1,0 +1,21 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 397,
+      "chapter": "Denominal verbs",
+      "topic": "Unergative verbal roots and unergative verbs as √-suffix combinations",
+      "section": "7.5. 61",
+      "notes": "The accusative direct object can itself be suffixed with the diminutive suffix. In this case the verbal diminutive can no longer modify the object: the only option left for it is event modification.",
+      "sah": "Миша хонууканы сүүрэкэлээтэ.",
+      "en": "Misha ran around a small field in short bouts.",
+      "tags": "Misha field-dimin-acc run-dimin-verb-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "хонууканы", "type": "lowercase", "fst": "yma", "root": "хонуука+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "сүүрэкэлээтэ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+FREC#5+PST.3SG"},
+         {"pos": 3, "text": "сүүрэкэлээтэ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+FREC#5+SUDD#1+CSTV+CONV#2"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

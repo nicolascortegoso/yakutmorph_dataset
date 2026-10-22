@@ -1,0 +1,24 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 341,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocals in Sakha",
+      "section": "6.7.1. 50",
+      "notes": "On the surface of it, there are two means of marking reciprocity: pronoun and the suffix –s-. The reciprocal pronoun beje beje ‘self self’ is a reduplicated reflexive anaphor. It agrees with its antecedent in person and number. However, only the second beje is declined, the first one stays invariant. For the reciprocal pronoun Heim, Lasnik & May’s (1991) analysis can be adopted with first beje acting as the distributor and the second beje as the reciprocator. This explains why only the second beje which is responsible for reciprocating back on the subject is declined. This also explains why (50) is not contradictory: even though the collective reading is banned, the reciprocal pronoun can trigger a distributive reading on the subject and this is what we see in (50) which is interpreted as containing ten defeating events (Misha defeats Masha five times and vice versa).",
+      "sah": "Миша уонна Маша бэйэ бэйэлэрин биэстэ хоттулар.",
+      "en": "Misha and Masha each defeated the other five times.",
+      "tags": "Misha and Masha self self-pl-3.acc five.times defeat-past-pl",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 3, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 4, "text": "бэйэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron"},
+         {"pos": 5, "text": "бэйэлэрин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+PL+POSS.3SG.ACC"},
+         {"pos": 6, "text": "биэстэ", "type": "lowercase", "fst": "ymv", "root": "биэс+Num", "affixes": "+ADVZ#8"},
+         {"pos": 7, "text": "хоттулар", "type": "lowercase", "fst": "ymv", "root": "хот+V", "affixes": "+PST.3PL"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

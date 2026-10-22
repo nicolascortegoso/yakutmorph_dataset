@@ -1,0 +1,20 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 222,
+      "chapter": "Adjectives in Sakha",
+      "topic": "INFL[-TENSE FEATURE]-PART-VP",
+      "section": "4.2.1.1. 47",
+      "notes": "Two more cases when I is devoid of a tense feature are presented by past resultative and past episodic. The derivation of these tenses proceeds as in (42) except that the Part node is filled with a [remote past] feature (for [immediate past] see 4.2.1.2). In addition, past episodic contains an extra structural node realized by –LAA-X, a morpheme operational in deriving adjectives from nouns and in expressing both NP-level and clause-level possession (see chapter 3) which can be translated into English as ‘with’ (recall from chapter 2 that –LAA-X contains a productive verbalizer –LAA and a productive nominalizer/adjectivizer -x). We will assume that it is this morpheme which is responsible for the ‘there was once an episode’ reading. Past episodic: [IP [∅] [FP [LAA-X] [PartP [remote past] [VP [V] ]]]]",
+      "sah": "Мин лотереяҕа сүүйбүттээхпин.",
+      "en": "By the way, there was an episode in the past when I won in the lottery.",
+      "tags": "I lottery-dat win-rem.past-LAAX-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "лотереяҕа", "type": "lowercase", "fst": "ymv", "root": "лотерея+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "сүүйбүттээхпин", "type": "lowercase", "fst": "ymv", "root": "сүүй+V", "affixes": "+PART_PAST+DEB+1SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,70 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 121,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 44a",
+      "notes": "Moving to V→N derivation which takes place in the syntax, we find two cases of syntactic affixation in section 2 of appendix 3: (23) and (24). In (23) we have two suffixes, -YY and –hYn, deriving action nominalizations from verbs (regularly and productively). The suffixes have the same syntactic effect but differ in their morphological properties: -YY attaches to verbs ending in a consonant, -hYn attaches to verbs ending in a vowel. (44b) shows the nominalization of a simple transitive sentence in (44a). We will assume that in such nominalizations the external argument is saturated and this saturation is marked by the morphemes –YY/-hYn. This assumption is compatible with the interpretation of (44b) as implying that the action of reading the book is performed by someone. In (44c) an optional possessor is introduced which corresponds to the external argument of the corresponding transitive sentence. However, as argued in chapter 3, possessors are not external arguments and they can be introduced syntactically. This is what we are witnessing in (44c). (44d) shows that the case assigning properties of the underlying verb must be preserved as well such that the accusative object of (44a) cannot be expressed as a nominative possessor in (44d).",
+      "sah": "Сардаана кинигэни ааҕар.",
+      "en": "Sardaana reads the book.",
+      "tags": "Sardaana book-acc read-aor",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "ааҕар", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PART_PRES"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 121,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 44b",
+      "notes": "Moving to V→N derivation which takes place in the syntax, we find two cases of syntactic affixation in section 2 of appendix 3: (23) and (24). In (23) we have two suffixes, -YY and –hYn, deriving action nominalizations from verbs (regularly and productively). The suffixes have the same syntactic effect but differ in their morphological properties: -YY attaches to verbs ending in a consonant, -hYn attaches to verbs ending in a vowel. (44b) shows the nominalization of a simple transitive sentence in (44a). We will assume that in such nominalizations the external argument is saturated and this saturation is marked by the morphemes –YY/-hYn. This assumption is compatible with the interpretation of (44b) as implying that the action of reading the book is performed by someone. In (44c) an optional possessor is introduced which corresponds to the external argument of the corresponding transitive sentence. However, as argued in chapter 3, possessors are not external arguments and they can be introduced syntactically. This is what we are witnessing in (44c). (44d) shows that the case assigning properties of the underlying verb must be preserved as well such that the accusative object of (44a) cannot be expressed as a nominative possessor in (44d).",
+      "sah": "кинигэни ааҕыы",
+      "en": "reading the book",
+      "tags": "book-acc read-nom",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "ааҕыы", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+NMLZ#2"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 121,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 44c",
+      "notes": "Moving to V→N derivation which takes place in the syntax, we find two cases of syntactic affixation in section 2 of appendix 3: (23) and (24). In (23) we have two suffixes, -YY and –hYn, deriving action nominalizations from verbs (regularly and productively). The suffixes have the same syntactic effect but differ in their morphological properties: -YY attaches to verbs ending in a consonant, -hYn attaches to verbs ending in a vowel. (44b) shows the nominalization of a simple transitive sentence in (44a). We will assume that in such nominalizations the external argument is saturated and this saturation is marked by the morphemes –YY/-hYn. This assumption is compatible with the interpretation of (44b) as implying that the action of reading the book is performed by someone. In (44c) an optional possessor is introduced which corresponds to the external argument of the corresponding transitive sentence. However, as argued in chapter 3, possessors are not external arguments and they can be introduced syntactically. This is what we are witnessing in (44c). (44d) shows that the case assigning properties of the underlying verb must be preserved as well such that the accusative object of (44a) cannot be expressed as a nominative possessor in (44d).",
+      "sah": "Сардаана кинигэни ааҕыыта",
+      "en": "Sardaana’s reading the book",
+      "tags": "Sardaana book-acc read-nom-3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "ааҕыыта", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+NMLZ#2+POSS.3SG"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 121,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 44d",
+      "notes": "Moving to V→N derivation which takes place in the syntax, we find two cases of syntactic affixation in section 2 of appendix 3: (23) and (24). In (23) we have two suffixes, -YY and –hYn, deriving action nominalizations from verbs (regularly and productively). The suffixes have the same syntactic effect but differ in their morphological properties: -YY attaches to verbs ending in a consonant, -hYn attaches to verbs ending in a vowel. (44b) shows the nominalization of a simple transitive sentence in (44a). We will assume that in such nominalizations the external argument is saturated and this saturation is marked by the morphemes –YY/-hYn. This assumption is compatible with the interpretation of (44b) as implying that the action of reading the book is performed by someone. In (44c) an optional possessor is introduced which corresponds to the external argument of the corresponding transitive sentence. However, as argued in chapter 3, possessors are not external arguments and they can be introduced syntactically. This is what we are witnessing in (44c). (44d) shows that the case assigning properties of the underlying verb must be preserved as well such that the accusative object of (44a) cannot be expressed as a nominative possessor in (44d).",
+      "sah": "Кинигэ ааҕыыта",
+      "en": "the book’s reading; the reading of the book",
+      "tags": "*book read-nom-3",
+      "incorrect": true,
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "ymv", "root": "кинигэ+N"},
+         {"pos": 2, "text": "ааҕыыта", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+NMLZ#2+POSS.3SG"}
+      ]
+   }
+]

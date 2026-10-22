@@ -1,0 +1,37 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 345,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocal verbs in Sakha and the lexicon/syntax dichotomy",
+      "section": "6.7.2. 62a",
+      "notes": "The Sakha data do not support viewing discontinuous reciprocals as transitive. Evidence comes from the following observations. As argued in chapter 4 (section 4.4.1.3), a thematic constraint is operative in the formation of relative clauses in Sakha: only arguments can be relativized. The argument/adjunct asymmetry is responsible for the contrast in (62) and between (62) and (63) (repeated from chapter 4, examples (108) and (109)). The comitative noun phrase in (62a) is not an argument of the verb, therefore cannot serve as target of relativization (62b). In (63a), however, the verb kel ‘come’ is put in the comitative voice – kelis ‘come with someone’ in which case oqonnjorduun ‘old man-comitative’ becomes an argument and can be relativized as in (63b). Comitative voice which is realized with the same suffix as reciprocal but is distinct from the latter will be considered shortly.",
+      "sah": "Оокко оҕонньордуун кэллэ.",
+      "en": "Ookko came with an old man.",
+      "tags": "Ookko old.man-comit come-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Оокко", "type": "title", "fst": "ymv", "root": "оокко+N"},
+         {"pos": 2, "text": "оҕонньордуун", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N", "affixes": "+COMIT"},
+         {"pos": 3, "text": "кэллэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 345,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocal verbs in Sakha and the lexicon/syntax dichotomy",
+      "section": "6.7.2. 62b",
+      "notes": "The Sakha data do not support viewing discontinuous reciprocals as transitive. Evidence comes from the following observations. As argued in chapter 4 (section 4.4.1.3), a thematic constraint is operative in the formation of relative clauses in Sakha: only arguments can be relativized. The argument/adjunct asymmetry is responsible for the contrast in (62) and between (62) and (63) (repeated from chapter 4, examples (108) and (109)). The comitative noun phrase in (62a) is not an argument of the verb, therefore cannot serve as target of relativization (62b). In (63a), however, the verb kel ‘come’ is put in the comitative voice – kelis ‘come with someone’ in which case oqonnjorduun ‘old man-comitative’ becomes an argument and can be relativized as in (63b). Comitative voice which is realized with the same suffix as reciprocal but is distinct from the latter will be considered shortly.",
+      "sah": "Оокко кэлбит оҕонньоро",
+      "en": "an old man with whom Ookko came",
+      "tags": "Ookko come-past old.man-3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Оокко", "type": "title", "fst": "ymv", "root": "оокко+N"},
+         {"pos": 2, "text": "кэлбит", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST"},
+         {"pos": 3, "text": "оҕонньоро", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N", "affixes": "+POSS.3SG"}
+      ]
+   }
+]

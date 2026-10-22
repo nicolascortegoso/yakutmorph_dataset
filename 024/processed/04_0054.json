@@ -1,0 +1,37 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 226,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Alternating forms: INFL-PART-VP or INFL-AUX-PART-VP",
+      "section": "4.2.1.4. 54a",
+      "notes": "So the final structures submitted to spellout are given in (54), with the irrelevant details (e.g. intermediate traces) omitted. The only difference between (52-53-54a) and (52-53-54b) is that the auxiliary e- has been chosen only in the numeration for the former. The spellout of (54a) would proceed unconntroversially, with all the nodes overtly realized by the appropriate morphemes. As for (54b), if it were spelled out as it is, the result would be ungrammatical although note that the same structure is grammatical in related Turkish (55) where it is labeled ‘aorist perfect’ (adapted from Mardin 1961:184).",
+      "sah": "Мин билэр этим.",
+      "en": "I used to know.",
+      "tags": "I know-aor aux-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "билэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES"},
+         {"pos": 3, "text": "этим", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.1SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 226,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Alternating forms: INFL-PART-VP or INFL-AUX-PART-VP",
+      "section": "4.2.1.4. 54b",
+      "notes": "So the final structures submitted to spellout are given in (54), with the irrelevant details (e.g. intermediate traces) omitted. The only difference between (52-53-54a) and (52-53-54b) is that the auxiliary e- has been chosen only in the numeration for the former. The spellout of (54a) would proceed unconntroversially, with all the nodes overtly realized by the appropriate morphemes. As for (54b), if it were spelled out as it is, the result would be ungrammatical although note that the same structure is grammatical in related Turkish (55) where it is labeled ‘aorist perfect’ (adapted from Mardin 1961:184).",
+      "sah": "Мин билэрим.",
+      "en": "I used to know.",
+      "tags": "I know-aor-1sg ",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "билэрим", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES+POSS.1SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,22 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 254,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Non-finite and finite subordination: Verbal predicates",
+      "section": "4.3.1. 90",
+      "notes": "The examples below illustrate some of the cases. (89) is ambiguous between present/future and past imperfect-1 interpretations. This is because both tenses involve the same structure INFL-Part[AORIST]-VP, except that in the present/future the INFL node is empty whereas in the past imperfect-1 it is a host to the [immediate past] feature which, for the lack of a lexical category raised to INFL, is spelled out by a zero morpheme. The starred examples in (90) and (91) show that the verbal predicate of a non-finite sentential complement can be put neither in the past imperfect-2 nor in the immediate past tenses. Present/future.",
+      "sah": "Эн бааҥҥа үлэлиириҥ биллэр.",
+      "en": "It is known that you used to work in the bank.",
+      "tags": "*You bank-dat work-immed.past-2sg know-pass-aor",
+      "incorrect": true,
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 2, "text": "бааҥҥа", "type": "lowercase", "fst": "ymv", "root": "баан+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "үлэлиириҥ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.2SG"},
+         {"pos": 4, "text": "биллэр", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,57 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 138,
+      "chapter": "Nouns in Sakha",
+      "topic": "There is a dative possessor",
+      "section": "18a",
+      "notes": "Both nominative and dative possessive sentences differ from possessive noun phrases in one crucial respect: only the clause-level possessor can become separated from the possessum as the examples below demonstrate.",
+      "sah": "Тоҕо бүгүн уруокка эн кинигэҥ киртийдэй?",
+      "en": "Why did your book become dirty today at the lesson?",
+      "tags": "Why today lesson-dat you book-2sg become.dirty-past.3-Q",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "ymv", "root": "тох+V", "affixes": "+CONV#2"},
+         {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "ymv", "root": "тоҕо+Adv"},
+         {"pos": 1, "text": "Тоҕо", "type": "title", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+POSS.3SG"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүк+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүк+V", "affixes": "+REFL"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 3, "text": "уруокка", "type": "lowercase", "fst": "ymv", "root": "уруок+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "уруокка", "type": "lowercase", "fst": "ymv", "root": "уруок+N", "affixes": "+DIM#3"},
+         {"pos": 4, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 4, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+CONV#1"},
+         {"pos": 4, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+REFL/PASS"},
+         {"pos": 5, "text": "кинигэҥ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.2SG"},
+         {"pos": 6, "text": "киртийдэй", "type": "lowercase", "fst": "yma", "root": "киртийдэ+N", "affixes": "+VRBLZ#2"},
+         {"pos": 7, "text": "?", "type": "question", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 138,
+      "chapter": "Nouns in Sakha",
+      "topic": "There is a dative possessor",
+      "section": "18a",
+      "notes": "Both nominative and dative possessive sentences differ from possessive noun phrases in one crucial respect: only the clause-level possessor can become separated from the possessum as the examples below demonstrate.",
+      "sah": "Эн тоҕо бүгүн уруокка кинигэҥ киртийдэй",
+      "en": "*Why did your book become dirty today at the lesson?",
+      "tags": "*Why today lesson-dat you book-2sg become.dirty-past.3-Q",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "э+V", "affixes": "+CONV#1"},
+         {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "э+V", "affixes": "+REFL/PASS"},
+         {"pos": 2, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+CONV#2"},
+         {"pos": 2, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
+         {"pos": 2, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#6+POSS.3SG"},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүк+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүк+V", "affixes": "+REFL"},
+         {"pos": 3, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 4, "text": "уруокка", "type": "lowercase", "fst": "ymv", "root": "уруок+N", "affixes": "+DAT"},
+         {"pos": 4, "text": "уруокка", "type": "lowercase", "fst": "ymv", "root": "уруок+N", "affixes": "+DIM#3"},
+         {"pos": 5, "text": "кинигэҥ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.2SG"},
+         {"pos": 6, "text": "киртийдэй", "type": "lowercase", "fst": "yma", "root": "киртийдэ+N", "affixes": "+VRBLZ#2"}
+      ]
+   }
+]

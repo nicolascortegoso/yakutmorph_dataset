@@ -1,0 +1,44 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 368,
+      "chapter": "Decomposing accusative case",
+      "topic": "Clausal adjuncts",
+      "section": "6.10.4.2. 120c",
+      "notes": "Basic causative verbs and their unaccusative alternates can also appear with reason DIEN-clauses as (120a-b) illustrate. (120c) shows an unergative verb.",
+      "sah": "Маша Миша көрүө диэн түргэнник хаамта.",
+      "en": "Masha walked fast so that Misha wouldn't see.",
+      "tags": "Masha [Misha see-fut DIEN] quickly walk-past.3",
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 2, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 3, "text": "көрүө", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_FUT"},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 5, "text": "түргэнник", "type": "lowercase", "fst": "ymv", "root": "түргэн+Adj", "affixes": "+ADVZ#5"},
+         {"pos": 6, "text": "хаамта", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 368,
+      "chapter": "Decomposing accusative case",
+      "topic": "Clausal adjuncts",
+      "section": "6.10.4.2. 120c",
+      "notes": "Basic causative verbs and their unaccusative alternates can also appear with reason DIEN-clauses as (120a-b) illustrate. (120c) shows an unergative verb.",
+      "sah": "Маша Мишаны көрүө диэн түргэнник хаамта.",
+      "en": "Masha walked fast so that Misha wouldn't see.",
+      "tags": "Masha [Misha-acc see-fut DIEN] quickly walk-past.3",
+      "id": 6,
+      "parses": [
+         {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 2, "text": "Мишаны", "type": "title", "fst": "yma", "root": "миша+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "көрүө", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_FUT"},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 5, "text": "түргэнник", "type": "lowercase", "fst": "ymv", "root": "түргэн+Adj", "affixes": "+ADVZ#5"},
+         {"pos": 6, "text": "хаамта", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }    
+]

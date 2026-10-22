@@ -1,0 +1,40 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 322,
+      "chapter": "Decomposing accusative case",
+      "topic": "Thematic accusative in Sakha: NP-arguments",
+      "section": "6.2. 7a",
+      "notes": "As shown in (7a), the direct object of an accusative verb can be unmarked in which case it will receive non-specific interpretation. On the contrary, if it is overtly marked with the accusative morpheme as in (7b), it will be interpreted specifically. RRS assume, adopting Danon’s (2002) proposal, that if the noun phrase which checks off thematic accusative, also has a syntactic feature such as [animate], [human], [definite], [specific] (depending on the language), then this feature, being syntactic, must be checked by a structural Case checker – in the case at hand the morpheme –(n)I spelling out the functional category K(ase). This captures the relationship between accusative and specificity. Nevertheless, in chapter 2 I slightly reformulate RRS’s proposal suggesting instead that a syntactic feature like [specific] is licensed in the DP-domain and therefore a specific nominal argument must necessarily project up to the DP-level. Being a DP, it cannot be assigned thematic case directly by the verb and requires a structural case checker KP. I assume that thematic accusative can only be assigned to a lexical category – NP. Therefore, whenever the nominal argument is to receive a specific interpretation, thus projecting to become a DP, the verb must transmit its thematic case to the KP projected on top of DP.",
+      "sah": "Мин саһархай сибэкки үргээтим.",
+      "en": "I picked a yellow flower/flowers.",
+      "tags": "I yellow flower-∅ pick-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "саһархай", "type": "lowercase", "fst": "ymv", "root": "саһар+V", "affixes": "+ADJZ#9"},
+         {"pos": 3, "text": "сибэкки", "type": "lowercase", "fst": "ymv", "root": "сибэкки+N"},
+         {"pos": 4, "text": "үргээтим", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+PST.1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 322,
+      "chapter": "Decomposing accusative case",
+      "topic": "Thematic accusative in Sakha: NP-arguments",
+      "section": "6.2. 7b",
+      "notes": "As shown in (7a), the direct object of an accusative verb can be unmarked in which case it will receive non-specific interpretation. On the contrary, if it is overtly marked with the accusative morpheme as in (7b), it will be interpreted specifically. RRS assume, adopting Danon’s (2002) proposal, that if the noun phrase which checks off thematic accusative, also has a syntactic feature such as [animate], [human], [definite], [specific] (depending on the language), then this feature, being syntactic, must be checked by a structural Case checker – in the case at hand the morpheme –(n)I spelling out the functional category K(ase). This captures the relationship between accusative and specificity. Nevertheless, in chapter 2 I slightly reformulate RRS’s proposal suggesting instead that a syntactic feature like [specific] is licensed in the DP-domain and therefore a specific nominal argument must necessarily project up to the DP-level. Being a DP, it cannot be assigned thematic case directly by the verb and requires a structural case checker KP. I assume that thematic accusative can only be assigned to a lexical category – NP. Therefore, whenever the nominal argument is to receive a specific interpretation, thus projecting to become a DP, the verb must transmit its thematic case to the KP projected on top of DP.",
+      "sah": "Мин саһархай сибэккини үргээтим.",
+      "en": "I picked {a specific/the} yellow flower.",
+      "tags": " yellow flower-acc pick-past-1sg",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "саһархай", "type": "lowercase", "fst": "ymv", "root": "саһар+V", "affixes": "+ADJZ#9"},
+         {"pos": 3, "text": "сибэккини", "type": "lowercase", "fst": "ymv", "root": "сибэкки+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "үргээтим", "type": "lowercase", "fst": "ymv", "root": "үргээ+V", "affixes": "+PST.1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,40 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 123,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 48",
+      "notes": "The suffix has another syntactic use: it derives habitual participles.",
+      "sah": "Кини тэрилтэни үчүгэйдик салайар.",
+      "en": "He runs the company well.",
+      "tags": "He company-acc well run-pres",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 2, "text": "тэрилтэни", "type": "lowercase", "fst": "ymv", "root": "тэрий+V", "affixes": "+NMLZ#8+ACC"},
+         {"pos": 3, "text": "үчүгэйдик", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+         {"pos": 4, "text": "салайар", "type": "lowercase", "fst": "ymv", "root": "салай+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 123,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 48",
+      "notes": "The suffix has another syntactic use: it derives habitual participles.",
+      "sah": "Кини тэрилтэни үчүгэйдик салайааччы.",
+      "en": "He usually runs the company well.",
+      "tags": "He company-acc well run-habit",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 2, "text": "тэрилтэни", "type": "lowercase", "fst": "ymv", "root": "тэрий+V", "affixes": "+NMLZ#8+ACC"},
+         {"pos": 3, "text": "үчүгэйдик", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+         {"pos": 4, "text": "салайааччы", "type": "lowercase", "fst": "ymv", "root": "салай+V", "affixes": "+HAB#1"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

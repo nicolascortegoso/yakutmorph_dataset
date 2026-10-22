@@ -1,0 +1,35 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 122,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 46a",
+      "notes": "Nominalization can affect all kinds of verbs: (in)transitive, (un)derived, marked with various voices such as reflexive, reciprocal, causative, passive25. (45) and (46) show nominalizations of a causative and passive verbs. In the latter case it is the derived subject of passive that is saturated testifying to the syntactic nature of nominalization. That the nominative possessor which is optionally possible in (46b) does not correspond to the external argument of (46a) is shown by a difference in interpretation. While in (46a) it is Keskil who is chosen, in (46b) this is not the only reading available for Keskil who can also be the person contemplating on someone being chosen, can be the author of a theory on political elections, etc.",
+      "sah": "Кэскил талылынна.",
+      "en": "Keskil was chosen.",
+      "tags": "Keskil choose-pass-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кэскил", "type": "title", "fst": "ymv", "root": "кэскил+N"},
+         {"pos": 2, "text": "талылынна", "type": "lowercase", "fst": "ymv", "root": "тал+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 122,
+      "chapter": "Decomposing lexical categories in Sakha",
+      "topic": "Deriving nouns from verbs",
+      "section": "2.4.3. 46b",
+      "notes": "Nominalization can affect all kinds of verbs: (in)transitive, (un)derived, marked with various voices such as reflexive, reciprocal, causative, passive25. (45) and (46) show nominalizations of a causative and passive verbs. In the latter case it is the derived subject of passive that is saturated testifying to the syntactic nature of nominalization. That the nominative possessor which is optionally possible in (46b) does not correspond to the external argument of (46a) is shown by a difference in interpretation. While in (46a) it is Keskil who is chosen, in (46b) this is not the only reading available for Keskil who can also be the person contemplating on someone being chosen, can be the author of a theory on political elections, etc.",
+      "sah": "Кэскил талыллыыта",
+      "en": "Keskil was chosen",
+      "tags": "Keskil choose-pass-nom-3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кэскил", "type": "title", "fst": "ymv", "root": "кэскил+N"},
+         {"pos": 2, "text": "талыллыыта", "type": "lowercase", "fst": "ymv", "root": "тал+V", "affixes": "+PASS+NMLZ#2+POSS.3SG"}
+      ]
+   }
+]

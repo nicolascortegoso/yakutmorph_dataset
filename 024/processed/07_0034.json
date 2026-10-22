@@ -1,0 +1,91 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 387,
+      "chapter": "Denominal verbs",
+      "topic": "“Secrete/discharge N”",
+      "section": "7.2.9. 34a",
+      "notes": "Cognate objects are allowed (33a). The incorporated noun can be modified (33b) but not plural (33c).",
+      "sah": "Мэндэ кырыымпалаата.",
+      "en": "Mende played a violin.",
+      "tags": "Mende violin-verb-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мэндэ", "type": "title", "fst": "yma", "root": "мэндэ+N"},
+         {"pos": 2, "text": "кырыымпалаата", "type": "lowercase", "fst": "ymv", "root": "кырыымпа+N", "affixes": "+VRBLZ#1+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 387,
+      "chapter": "Denominal verbs",
+      "topic": "“Secrete/discharge N”",
+      "section": "7.2.9. 34a",
+      "notes": "Cognate objects are allowed (33a). The incorporated noun can be modified (33b) but not plural (33c).",
+      "sah": "Мэндэ кырыымпаны кырыымпалаата.",
+      "en": "Mende played a violin.",
+      "tags": "Mende *violin-acc violin-verb-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Мэндэ", "type": "title", "fst": "yma", "root": "мэндэ+N"},
+         {"pos": 2, "text": "кырыымпаны", "type": "lowercase", "fst": "ymv", "root": "кырыымпа+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "кырыымпалаата", "type": "lowercase", "fst": "ymv", "root": "кырыымпа+N", "affixes": "+VRBLZ#1+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 387,
+      "chapter": "Denominal verbs",
+      "topic": "“Secrete/discharge N”",
+      "section": "7.2.9. 34b",
+      "notes": "Cognate objects are allowed (33a). The incorporated noun can be modified (33b) but not plural (33c).",
+      "sah": "Мэндэ кырыымпалаата.",
+      "en": "Mende played a violin.",
+      "tags": "Mende violin-verb-past.3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Мэндэ", "type": "title", "fst": "yma", "root": "мэндэ+N"},
+         {"pos": 2, "text": "кырыымпалаата", "type": "lowercase", "fst": "ymv", "root": "кырыымпа+N", "affixes": "+VRBLZ#1+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 387,
+      "chapter": "Denominal verbs",
+      "topic": "“Secrete/discharge N”",
+      "section": "7.2.9. 34b",
+      "notes": "Cognate objects are allowed (33a). The incorporated noun can be modified (33b) but not plural (33c).",
+      "sah": "Мэндэ саҥа кырыымпалаата.",
+      "en": "Mende played a *new violin.",
+      "tags": "Mende new violin-verb-past.3",
+      "incorrect": true,
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Мэндэ", "type": "title", "fst": "yma", "root": "мэндэ+N"},
+         {"pos": 2, "text": "саҥа", "type": "lowercase", "fst": "ymv", "root": "саҥа+Adj"},
+         {"pos": 3, "text": "кырыымпалаата", "type": "lowercase", "fst": "ymv", "root": "кырыымпа+N", "affixes": "+VRBLZ#1+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 387,
+      "chapter": "Denominal verbs",
+      "topic": "“Secrete/discharge N”",
+      "section": "7.2.9. 34c",
+      "notes": "Cognate objects are allowed (33a). The incorporated noun can be modified (33b) but not plural (33c).",
+      "sah": "Мэндэ кырыымпалардаата.",
+      "en": "Intended: Mende played several violins.",
+      "tags": "*Mende violin-pl-verb-past.3",
+      "incorrect": true,
+      "id": 5,
+      "parses": [
+         {"pos": 1, "text": "Мэндэ", "type": "title", "fst": "yma", "root": "мэндэ+N"},
+         {"pos": 2, "text": "кырыымпалардаата", "type": "lowercase", "fst": "ymv", "root": "кырыымпа+N", "affixes": "+PL+VRBLZ#1+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

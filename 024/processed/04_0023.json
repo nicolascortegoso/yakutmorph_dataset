@@ -1,0 +1,57 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 209,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Negation",
+      "section": "4.1.3. 23a",
+      "notes": "–LAA-x adjectives also have two options of negation. While buolbatax attaches to the whole N-LAA-x adjective, -3 suox attaches to the N-part only. Therefore (23b) has a transparently nominal reading ‘we have no strength’.",
+      "sah": "Биһиги күүстээх буолбатахпыт.",
+      "en": "We are not strong.",
+      "tags": "We strength-verb-adj be-neg-subj-1pl",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
+         {"pos": 2, "text": "күүстээх", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+ADJZ#1"},
+         {"pos": 3, "text": "буолбатахпыт", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+NEG+CONV_COND#2+1PL"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 209,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Negation",
+      "section": "4.1.3. 23b",
+      "notes": "–LAA-x adjectives also have two options of negation. While buolbatax attaches to the whole N-LAA-x adjective, -3 suox attaches to the N-part only. Therefore (23b) has a transparently nominal reading ‘we have no strength’.",
+      "sah": "Биһиги күүһэ суохпут.",
+      "en": "We are not strong.",
+      "tags": "We strength-3 no-1pl",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
+         {"pos": 2, "text": "күүһэ", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+POSS.3SG"},
+         {"pos": 3, "text": "суохпут", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+1PL"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },    
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 209,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Negation",
+      "section": "4.1.3. 23b",
+      "notes": "–LAA-x adjectives also have two options of negation. While buolbatax attaches to the whole N-LAA-x adjective, -3 suox attaches to the N-part only. Therefore (23b) has a transparently nominal reading ‘we have no strength’.",
+      "sah": "Биһиги күүстээҕэ суохпут.",
+      "en": "We are not strong.",
+      "tags": "We *strength-verb-adj-3 no-1pl",
+      "incorrect": true,
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
+         {"pos": 2, "text": "күүстээҕэ", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+ADJZ#1+POSS.3SG"},
+         {"pos": 3, "text": "суохпут", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+1PL"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,40 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 309,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Causativization as lexicon-internal operation in Sakha",
+      "section": "5.3.3. 51",
+      "notes": "The second diagnostic concerns VP-ellipsis. In the context of VP-deletion syntactic causatives are expected to be ambiguous: either the whole causative predicate can be recovered or just the embedded one. A lexical causative is unambiguous: only the entire causative complex can be recovered as in (51a).",
+      "sah": "Айаал Саргыга отон сиэттэ.",
+      "en": "Ajaal made Sargy eat berries.",
+      "tags": "Ajaal Sargy-dat berry eat-caus-past.3.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Айаал", "type": "title", "fst": "ymv", "root": "айаал+N"},
+         {"pos": 2, "text": "Саргыга", "type": "title", "fst": "ymv", "root": "саргы+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "отон", "type": "lowercase", "fst": "ymv", "root": "отон+N"},
+         {"pos": 4, "text": "сиэттэ", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 309,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Causativization as lexicon-internal operation in Sakha",
+      "section": "5.3.3. 51",
+      "notes": "The second diagnostic concerns VP-ellipsis. In the context of VP-deletion syntactic causatives are expected to be ambiguous: either the whole causative predicate can be recovered or just the embedded one. A lexical causative is unambiguous: only the entire causative complex can be recovered as in (51a).",
+      "sah": "Кэскил эмиэ оннук гынна.",
+      "en": "Ajaal made Sargy eat berries.",
+      "tags": "Keskil too so do-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кэскил", "type": "title", "fst": "ymv", "root": "кэскил+N"},
+         {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ+Adv"},
+         {"pos": 3, "text": "оннук", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+DEF"},
+         {"pos": 4, "text": "гынна", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

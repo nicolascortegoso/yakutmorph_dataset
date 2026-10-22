@@ -1,0 +1,54 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 282,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Impersonal subjects",
+      "section": "4.8. 152a",
+      "notes": "Such impersonal subjects are possible with intransitive (both unergative and unaccusative) as well as transitive verbs when they are suffixed with the aorist participial marker and used as embedded predicates. The impersonal subject receives an arbitrary human interpretation. (152) replicates (151) for adjectives, however, with one difference: the impersonal subject receives an arbitrary interpretation which is not restricted to humans. If buol ‘be’ is merged with AP as in (153), then, being a verb, it will appear as aorist buolar and the impersonal subject will be arbitrary human, parallel to (151).",
+      "sah": "Бытаан куһаҕан.",
+      "en": "It is bad when people/things are slow.",
+      "tags": "Slow bad",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Бытаан", "type": "title", "fst": "ymv", "root": "бытаан+Adj"},
+         {"pos": 2, "text": "куһаҕан", "type": "lowercase", "fst": "ymv", "root": "куһаҕан+Adj"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 282,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Impersonal subjects",
+      "section": "4.8. 152b",
+      "notes": "Such impersonal subjects are possible with intransitive (both unergative and unaccusative) as well as transitive verbs when they are suffixed with the aorist participial marker and used as embedded predicates. The impersonal subject receives an arbitrary human interpretation. (152) replicates (151) for adjectives, however, with one difference: the impersonal subject receives an arbitrary interpretation which is not restricted to humans. If buol ‘be’ is merged with AP as in (153), then, being a verb, it will appear as aorist buolar and the impersonal subject will be arbitrary human, parallel to (151).",
+      "sah": "Бытааны ким да сөбүлээбэт.",
+      "en": "Nobody likes when people/things are slow.",
+      "tags": "Slow-acc who particle like-neg.aor",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Бытааны", "type": "title", "fst": "ymv", "root": "бытаан+Adj", "affixes": "+ACC"},
+         {"pos": 2, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+Pron"},
+         {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
+         {"pos": 4, "text": "сөбүлээбэт", "type": "lowercase", "fst": "ymv", "root": "сөбүлээ+V", "affixes": "+NEG+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 282,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Impersonal subjects",
+      "section": "4.8. 152c",
+      "notes": "Such impersonal subjects are possible with intransitive (both unergative and unaccusative) as well as transitive verbs when they are suffixed with the aorist participial marker and used as embedded predicates. The impersonal subject receives an arbitrary human interpretation. (152) replicates (151) for adjectives, however, with one difference: the impersonal subject receives an arbitrary interpretation which is not restricted to humans. If buol ‘be’ is merged with AP as in (153), then, being a verb, it will appear as aorist buolar and the impersonal subject will be arbitrary human, parallel to (151).",
+      "sah": "Бытаан.",
+      "en": "(S)he/Something specific is slow.",
+      "tags": "",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Бытаан", "type": "title", "fst": "ymv", "root": "бытаан+Adj"},
+         {"pos": 2, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

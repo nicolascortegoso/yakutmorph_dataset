@@ -1,0 +1,36 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 390,
+      "chapter": "Denominal verbs",
+      "topic": "Denominal verbs ending in –LA-N",
+      "section": "7.3.1.1. 42",
+      "notes": "As mentioned above, the examples in (36c), (37c) and (39c) are not ungrammatical: it is the intended proper reflexive meaning which makes them ill-formed. As shown below, assigning them a different meaning makes them well-formed.",
+      "sah": "Кеша харчыланна.",
+      "en": "Kesha provided himself with money. But: ‘Kesha came into possession of money/housing.",
+      "tags": "Kesha money-verb-refl-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "харчыланна", "type": "lowercase", "fst": "ymv", "root": "харчы+N", "affixes": "+VRBLZ#1+REFL/PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 390,
+      "chapter": "Denominal verbs",
+      "topic": "Denominal verbs ending in –LA-N",
+      "section": "7.3.1.1. 42",
+      "notes": "As mentioned above, the examples in (36c), (37c) and (39c) are not ungrammatical: it is the intended proper reflexive meaning which makes them ill-formed. As shown below, assigning them a different meaning makes them well-formed.",
+      "sah": "Кеша дьиэлэннэ.",
+      "en": "Kesha provided himself with housing. But: ‘Kesha came into possession of money/housing.",
+      "tags": "Kesha house-verb-refl-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "дьиэлэннэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+VRBLZ#1+REFL/PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

@@ -1,0 +1,56 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 329,
+      "chapter": "Decomposing accusative case",
+      "topic": "Inalienable possession reflexives and benefactives",
+      "section": "6.5. 21a",
+      "notes": "There are two contexts in Sakha when syntactic bundling takes place shown in (21). In (21a) we have an inalienable possession (IP) reading and in (21b) – a benefactive reading.",
+      "sah": "Сардаана илиитин суунна.",
+      "en": "Sardaana washed her hands.",
+      "tags": "Sardaana hand-3.acc wash-refl-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "илиитин", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "суунна", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },    
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 329,
+      "chapter": "Decomposing accusative case",
+      "topic": "Inalienable possession reflexives and benefactives",
+      "section": "6.5. 21",
+      "notes": "There are two contexts in Sakha when syntactic bundling takes place shown in (21). In (21a) we have an inalienable possession (IP) reading and in (21b) – a benefactive reading.",
+      "sah": "Сардаана миин астанна.",
+      "en": "Sardaana cooked herself soup.",
+      "tags": "Sardaana soup cook-refl-past.3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "миин", "type": "lowercase", "fst": "ymv", "root": "миин+N"},
+         {"pos": 3, "text": "астанна", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#1+REFL/PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 329,
+      "chapter": "Decomposing accusative case",
+      "topic": "Inalienable possession reflexives and benefactives",
+      "section": "6.5. 21",
+      "notes": "There are two contexts in Sakha when syntactic bundling takes place shown in (21). In (21a) we have an inalienable possession (IP) reading and in (21b) – a benefactive reading.",
+      "sah": "Сардаана сонун абырахтанна.",
+      "en": "Sardaana mended her coat (for herself).",
+      "tags": "Sardaana coat-3.acc mend-refl-past.3",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "сонун", "type": "lowercase", "fst": "ymv", "root": "сон+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "абырахтанна", "type": "lowercase", "fst": "ymv", "root": "абырах+N", "affixes": "+VRBLZ#1+REFL/PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

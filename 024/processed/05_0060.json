@@ -1,0 +1,80 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 313,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "McGinnis 2000",
+      "section": "5.4.1. 60a",
+      "notes": "(59b) can be causativized as in (60a) which is glossed in accordance with the technical details of the previous paragraph. By assumption, the second causative morpheme spells out a syntactic causative head which has attached to a predicate whose category has already been determined by the first, root causative. Subjecting (60a) to another round of causativization yields (60b) which must be analyzed as two category-external causatives above a root causative.",
+      "sah": "Саргы Ленаҕа ууну оргуттарда.",
+      "en": "Sargy made Lena boil water.",
+      "tags": "Lena water-acc √boil-vcaus-vcaus-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "Ленаҕа", "type": "title", "fst": "yma", "root": "лена+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "ууну", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "оргуттарда", "type": "lowercase", "fst": "ymv", "root": "оргуй+V", "affixes": "+CSTV+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 313,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "McGinnis 2000",
+      "section": "5.4.1. 60a",
+      "notes": "(59b) can be causativized as in (60a) which is glossed in accordance with the technical details of the previous paragraph. By assumption, the second causative morpheme spells out a syntactic causative head which has attached to a predicate whose category has already been determined by the first, root causative. Subjecting (60a) to another round of causativization yields (60b) which must be analyzed as two category-external causatives above a root causative.",
+      "sah": "Саргы Ленаҕа ууну тохтордо.",
+      "en": "Sargy made Lena spill water.",
+      "tags": "Lena water-acc √spill-vcaus-vcaus-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "Ленаҕа", "type": "title", "fst": "yma", "root": "лена+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "ууну", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "тохтордо", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 313,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "McGinnis 2000",
+      "section": "5.4.1. 60b",
+      "notes": "(59b) can be causativized as in (60a) which is glossed in accordance with the technical details of the previous paragraph. By assumption, the second causative morpheme spells out a syntactic causative head which has attached to a predicate whose category has already been determined by the first, root causative. Subjecting (60a) to another round of causativization yields (60b) which must be analyzed as two category-external causatives above a root causative.",
+      "sah": "Семен Саргынан Ленаҕа ууну оргуттартарда.",
+      "en": "Semen made Sargy make Lena boil water.",
+      "tags": "Semen Sargy-instr Lena-dat water-acc √boil-vcaus-vcaus-vcaus-past.3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Семен", "type": "title", "fst": "yma", "root": "семен+N"},
+         {"pos": 2, "text": "Саргынан", "type": "title", "fst": "ymv", "root": "саргы+N", "affixes": "+INST"},
+         {"pos": 3, "text": "Ленаҕа", "type": "title", "fst": "yma", "root": "лена+N", "affixes": "+DAT"},
+         {"pos": 4, "text": "ууну", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+ACC"},
+         {"pos": 5, "text": "оргуттартарда", "type": "lowercase", "fst": "ymv", "root": "оргуй+V", "affixes": "+CSTV+CAUS+CAUS+PST.3SG"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 313,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "McGinnis 2000",
+      "section": "5.4.1. 60b",
+      "notes": "(59b) can be causativized as in (60a) which is glossed in accordance with the technical details of the previous paragraph. By assumption, the second causative morpheme spells out a syntactic causative head which has attached to a predicate whose category has already been determined by the first, root causative. Subjecting (60a) to another round of causativization yields (60b) which must be analyzed as two category-external causatives above a root causative.",
+      "sah": "Семен Саргынан Ленаҕа ууну тохтортордо.",
+      "en": "Semen made Sargy make Lena spill water.",
+      "tags": "Semen Sargy-instr Lena-dat water-acc √spill-vcaus-vcaus-vcaus-past.3",
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Семен", "type": "title", "fst": "yma", "root": "семен+N"},
+         {"pos": 2, "text": "Саргынан", "type": "title", "fst": "ymv", "root": "саргы+N", "affixes": "+INST"},
+         {"pos": 3, "text": "Ленаҕа", "type": "title", "fst": "yma", "root": "лена+N", "affixes": "+DAT"},
+         {"pos": 4, "text": "ууну", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+ACC"},
+         {"pos": 5, "text": "тохтортордо", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+CAUS+CAUS+PST.3SG"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

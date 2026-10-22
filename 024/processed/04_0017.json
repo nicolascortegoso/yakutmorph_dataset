@@ -1,0 +1,35 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 207,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Negation",
+      "section": "4.1.3. 17a",
+      "notes": "Negation data reveal very interesting asymmetries. Verbs are negated with the help of the negative suffix –MA. This suffix occurs quite high in the structure as shown by the ordering in (17b) where it is further away from the verbal stem than the reflexive and passive voice suffixes.",
+      "sah": "Айаал барбата.",
+      "en": "Ajaal did not go.",
+      "tags": "Ajaal go-neg-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Айаал", "type": "title", "fst": "ymv", "root": "айаал+N"},
+         {"pos": 2, "text": "барбата", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+NEG+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },    
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 207,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Negation",
+      "section": "4.1.3. 17b",
+      "notes": "Negation data reveal very interesting asymmetries. Verbs are negated with the help of the negative suffix –MA. This suffix occurs quite high in the structure as shown by the ordering in (17b) where it is further away from the verbal stem than the reflexive and passive voice suffixes.",
+      "sah": "Суунуллубата.",
+      "en": "There was no self-washing done (It was not self-washed).",
+      "tags": "wash-refl-pass-neg-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Суунуллубата", "type": "title", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PASS+NEG+PST.3SG"},
+         {"pos": 2, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

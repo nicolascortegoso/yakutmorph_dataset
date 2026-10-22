@@ -1,0 +1,55 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 133,
+      "chapter": "Nouns in Sakha",
+      "topic": "The lack of genitive case in Sakha and the obligatory presence of the dummy noun in possessor predicates",
+      "section": "3.1.1.2. 3a",
+      "notes": "The possessive paradigm in Sakha is very similar to the one in Turkish except that the Turkish possessor appears in the genitive case. Genitive is an extinct case in modern Sakha although it was functional at earlier stages (Korkina et al. 1982:150). It does appear, however, in the structural context of embedded possessors: whenever the possessor is itself a possessive NP as in (3a), its head noun is obligatorily marked with the genitive morpheme as shown in (3b). The number of embeddings is not restricted and possessors can iterate freely as (3c) shows where the most deeply embedded possessor is Sargy which takes aqa ‘father’ as its possessum and the possessive NP thus formed takes another aqa as its possessum and so forth.",
+      "sah": "Саргы убайа",
+      "en": "Sargy’s brother",
+      "tags": "Sargy brother-3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "убайа", "type": "lowercase", "fst": "ymv", "root": "убай+N", "affixes": "+POSS.3SG"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 133,
+      "chapter": "Nouns in Sakha",
+      "topic": "The lack of genitive case in Sakha and the obligatory presence of the dummy noun in possessor predicates",
+      "section": "3.1.1.2. 3b",
+      "notes": "The possessive paradigm in Sakha is very similar to the one in Turkish except that the Turkish possessor appears in the genitive case. Genitive is an extinct case in modern Sakha although it was functional at earlier stages (Korkina et al. 1982:150). It does appear, however, in the structural context of embedded possessors: whenever the possessor is itself a possessive NP as in (3a), its head noun is obligatorily marked with the genitive morpheme as shown in (3b). The number of embeddings is not restricted and possessors can iterate freely as (3c) shows where the most deeply embedded possessor is Sargy which takes aqa ‘father’ as its possessum and the possessive NP thus formed takes another aqa as its possessum and so forth.",
+      "sah": "Саргы убайын дьиэтэ",
+      "en": "Sargy’s brother’s house",
+      "tags": "Sargy brother-gen house-3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "убайын", "type": "lowercase", "fst": "ymv", "root": "убай+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "дьиэтэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.3SG"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 133,
+      "chapter": "Nouns in Sakha",
+      "topic": "The lack of genitive case in Sakha and the obligatory presence of the dummy noun in possessor predicates",
+      "section": "3.1.1.2. 3c",
+      "notes": "The possessive paradigm in Sakha is very similar to the one in Turkish except that the Turkish possessor appears in the genitive case. Genitive is an extinct case in modern Sakha although it was functional at earlier stages (Korkina et al. 1982:150). It does appear, however, in the structural context of embedded possessors: whenever the possessor is itself a possessive NP as in (3a), its head noun is obligatorily marked with the genitive morpheme as shown in (3b). The number of embeddings is not restricted and possessors can iterate freely as (3c) shows where the most deeply embedded possessor is Sargy which takes aqa ‘father’ as its possessum and the possessive NP thus formed takes another aqa as its possessum and so forth.",
+      "sah": "Саргы аҕатын аҕатын аҕатын аҕатын аҕата",
+      "en": "Sargy’s father’s father’s father’s father’s father",
+      "tags": "Sargy father-gen father-gen father-gen father-gen father-3",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Саргы", "type": "title", "fst": "ymv", "root": "саргы+N"},
+         {"pos": 2, "text": "аҕатын", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "аҕатын", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 4, "text": "аҕатын", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 5, "text": "аҕатын", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 6, "text": "аҕата", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.3SG"}
+      ]
+   }
+]

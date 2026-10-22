@@ -1,0 +1,37 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 308,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Causativization as lexicon-internal operation in Sakha",
+      "section": "5.3.3. 49a",
+      "notes": "That the content of θ-features does play a role in causativization can be seen from the following piece of data. A verb such as öhös has two senses: transitive agentive ‘oppose’ (+c+m) and intransitive stative ‘be obstinate’ (-c+m). Under causativization only the former meaning is preserved.",
+      "sah": "Мичил өсөһөр.",
+      "en": "Micil is being obstinate.",
+      "tags": "Micil be.obstinate-aor",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мичил", "type": "title", "fst": "ymv", "root": "мичил+N"},
+         {"pos": 2, "text": "өсөһөр", "type": "lowercase", "fst": "ymv", "root": "өһөс+V", "affixes": "+PART_PRES"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 308,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Causativization as lexicon-internal operation in Sakha",
+      "section": "5.3.3. 49b",
+      "notes": "That the content of θ-features does play a role in causativization can be seen from the following piece of data. A verb such as öhös has two senses: transitive agentive ‘oppose’ (+c+m) and intransitive stative ‘be obstinate’ (-c+m). Under causativization only the former meaning is preserved.",
+      "sah": "Мичил итини өсөһөр.",
+      "en": "Micil opposes this.",
+      "tags": "Micil this-acc oppose-aor",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Мичил", "type": "title", "fst": "ymv", "root": "мичил+N"},
+         {"pos": 2, "text": "итини", "type": "lowercase", "fst": "ymv", "root": "ити+Pron", "affixes": "+ACC"},
+         {"pos": 3, "text": "өсөһөр", "type": "lowercase", "fst": "ymv", "root": "өһөс+V", "affixes": "+PART_PRES"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }    
+]

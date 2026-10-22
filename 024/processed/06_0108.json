@@ -1,0 +1,24 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 361,
+      "chapter": "Decomposing accusative case",
+      "topic": "Extending Moore’s (1998) analysis: Copy raising into the matrix clause",
+      "section": "6.10.1. 108",
+      "notes": "Moore argues that the subject which raises out of CP leaves a pronominal copy trace. Two pieces of evidence can be cited to support the presence of a pro-trace in Sakha as well. First, a nominative pronoun can be inserted in the embedded clause resuming the trace of the raised subject as in (108).",
+      "sah": "Сардаана Айсены кини бүгүн кэлэр диэн иһиттэ.",
+      "en": "Sardaana heard that Aisen is coming today.",
+      "tags": "Sardaana Aisen-acc [CP he today come-aor COMP] hear-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+N"},
+         {"pos": 2, "text": "Айсены", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
+         {"pos": 4, "text": "бүгүн", "type": "lowercase", "fst": "ymv", "root": "бүгүн+Adv"},
+         {"pos": 5, "text": "кэлэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES"},
+         {"pos": 6, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 7, "text": "иһиттэ", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PST.3SG"},
+         {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

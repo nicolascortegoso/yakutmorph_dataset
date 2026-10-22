@@ -1,0 +1,53 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 300,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Lexical V→N derivation: M-reduction of argument structure",
+      "section": "5.2.1. 36a",
+      "notes": "The behaviour of unaccusatives with respect to lexical nominalization can be contrasted with the behaviour of regular causatives which only allow syntactic nominalizations in –YY/-hYn and –CI/-AAccY: no instances of lexical nominalization taking a regular causative as input have been found. (36a) shows a regular causative derived from aax ‘read’. Aaxtar can be nominalized in the syntax as shown in (36b) with argument structure preserved but it cannot be turned into a noun with argument structure reduced.",
+      "sah": "Лена Сардаананы суругу аахтарда.",
+      "en": "Lena made Sardaana read the letter.",
+      "tags": "Lena Sardaana-acc letter-acc read-caus-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+N"},
+         {"pos": 2, "text": "Сардаананы", "type": "title", "fst": "ymv", "root": "сардаана+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "суругу", "type": "lowercase", "fst": "ymv", "root": "суруй+V", "affixes": "+NMLZ#5+ACC"},
+         {"pos": 4, "text": "аахтарда", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 300,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Lexical V→N derivation: M-reduction of argument structure",
+      "section": "5.2.1. 36b",
+      "notes": "The behaviour of unaccusatives with respect to lexical nominalization can be contrasted with the behaviour of regular causatives which only allow syntactic nominalizations in –YY/-hYn and –CI/-AAccY: no instances of lexical nominalization taking a regular causative as input have been found. (36a) shows a regular causative derived from aax ‘read’. Aaxtar can be nominalized in the syntax as shown in (36b) with argument structure preserved but it cannot be turned into a noun with argument structure reduced.",
+      "sah": "кинигэни аахтарыы",
+      "en": "making to read the book",
+      "tags": "book-acc read-caus-nom",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "аахтарыы", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+CAUS+NMLZ#2"}
+      ]
+   },    
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 300,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Lexical V→N derivation: M-reduction of argument structure",
+      "section": "5.2.1. 36b",
+      "notes": "The behaviour of unaccusatives with respect to lexical nominalization can be contrasted with the behaviour of regular causatives which only allow syntactic nominalizations in –YY/-hYn and –CI/-AAccY: no instances of lexical nominalization taking a regular causative as input have been found. (36a) shows a regular causative derived from aax ‘read’. Aaxtar can be nominalized in the syntax as shown in (36b) with argument structure preserved but it cannot be turned into a noun with argument structure reduced.",
+      "sah": "кинигэни аахтарааччы",
+      "en": "maker to read the book",
+      "tags": "book-acc read-caus-nom",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "аахтарааччы", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+CAUS+HAB#1"}
+      ]
+   }
+]

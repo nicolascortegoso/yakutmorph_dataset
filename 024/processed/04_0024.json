@@ -1,0 +1,43 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 210,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Negation",
+      "section": "4.1.3. 24a",
+      "notes": "Going back to the main topic, a reduplicated adjective is incompatible with suox negation (24a) but possible with buolbatax (24b) implying that Neg suox competes with Deg realized by the reduplicator and occurs as low as Deg. Finally, (25) shows that the two negations can cooccur. All these facts put together suggest the following picture: there is an AP-specific Neg-Deg functional head which can be realized either by the negative particle suox or by the intensifying reduplicator.",
+      "sah": "Ас дэп-дэлэйэ суох.",
+      "en": "",
+      "tags": "* Food red-abundant-3 no",
+      "incorrect": true,
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Ас", "type": "title", "fst": "ymv", "root": "ас+N"},
+         {"pos": 2, "text": "дэп", "type": "lowercase", "fst": "yma", "compound": true, "root": "дэп+INTENS"},
+         {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 4, "text": "дэлэйэ", "type": "lowercase", "fst": "ymv", "compound": true, "root": "дэлэй+Adj", "affixes": "+POSS.3SG"},
+         {"pos": 5, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 210,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Negation",
+      "section": "4.1.3. 24b",
+      "notes": "Going back to the main topic, a reduplicated adjective is incompatible with suox negation (24a) but possible with buolbatax (24b) implying that Neg suox competes with Deg realized by the reduplicator and occurs as low as Deg. Finally, (25) shows that the two negations can cooccur. All these facts put together suggest the following picture: there is an AP-specific Neg-Deg functional head which can be realized either by the negative particle suox or by the intensifying reduplicator.",
+      "sah": "Ас дэп-дэлэй буолбатах.",
+      "en": "Food is not very abundant.",
+      "tags": "Food red-abundant be-neg-subj",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Ас", "type": "title", "fst": "ymv", "root": "ас+N"},
+         {"pos": 2, "text": "дэп", "type": "lowercase", "fst": "yma", "compound": true, "root": "дэп+INTENS"},
+         {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
+         {"pos": 4, "text": "дэлэй", "type": "lowercase", "fst": "ymv", "compound": true, "root": "дэлэй+Adj"},
+         {"pos": 5, "text": "буолбатах", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+NEG+CONV_COND#2"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

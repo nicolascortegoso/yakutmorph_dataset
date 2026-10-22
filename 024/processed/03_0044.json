@@ -1,0 +1,23 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 150,
+      "chapter": "Nouns in Sakha",
+      "topic": "Raising analysis of possession",
+      "section": "3.1.2.2. 44",
+      "notes": "There is one argument that the possessor has raised to Spec,IP. In chapter 6 (section 6.10) we will argue that only subjects of embedded clauses can raise from Spec,IP to the matrix object position where they receive accusative case marking. As shown in (44), this is indeed possible with the nominative possessor en ‘you’ in (43).",
+      "sah": "Мин эйигин массыынаҥ баар диэн иһиттим.",
+      "en": "I heard that you have a car.",
+      "tags": "I you.acc car-2sg copulaEXIST DIEN hear-past-1sg",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
+         {"pos": 2, "text": "эйигин", "type": "lowercase", "fst": "ymv", "root": "эн+Pron", "affixes": "+ACC"},
+         {"pos": 3, "text": "массыынаҥ", "type": "lowercase", "fst": "ymv", "root": "массыына+N", "affixes": "+POSS.2SG"},
+         {"pos": 4, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
+         {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 6, "text": "иһиттим", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PST.1SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

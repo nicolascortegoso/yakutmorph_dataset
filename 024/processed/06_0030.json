@@ -1,0 +1,43 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 333,
+      "chapter": "Decomposing accusative case",
+      "topic": "The low/high opposition in syntactic bundling",
+      "section": "6.5.2. 30",
+      "notes": "Third, syntactic nominalizations can only be derived from IP-reflexives but not from benefactive reflexives as shown in (30).",
+      "sah": "Илиини суунуу астаныы доруобуйаҕа туһалаах.",
+      "en": "Hand-acc wash-refl-nom cook-refl-nom health-dat beneficial",
+      "tags": "Washing one’s hands for oneself is beneficial to one’s health.",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Илиини", "type": "title", "fst": "ymv", "root": "илии+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "суунуу", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+NMLZ#2"},
+         {"pos": 3, "text": "астаныы", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#1+REFL/PASS+NMLZ#2"},
+         {"pos": 4, "text": "доруобуйаҕа", "type": "lowercase", "fst": "ymv", "root": "доруобуйа+N", "affixes": "+DAT"},
+         {"pos": 5, "text": "туһалаах", "type": "lowercase", "fst": "ymv", "root": "туһа+N", "affixes": "+ADJZ#1"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 333,
+      "chapter": "Decomposing accusative case",
+      "topic": "The low/high opposition in syntactic bundling",
+      "section": "6.5.2. 30",
+      "notes": "Third, syntactic nominalizations can only be derived from IP-reflexives but not from benefactive reflexives as shown in (30).",
+      "sah": "Илиини миини астаныы доруобуйаҕа туһалаах.",
+      "en": "Hand-acc *soup-acc cook-refl-nom health-dat beneficial",
+      "tags": "Washing *cooking soup for oneself is beneficial to one’s health.",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Илиини", "type": "title", "fst": "ymv", "root": "илии+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "миини", "type": "lowercase", "fst": "ymv", "root": "миин+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "астаныы", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#1+REFL/PASS+NMLZ#2"},
+         {"pos": 4, "text": "доруобуйаҕа", "type": "lowercase", "fst": "ymv", "root": "доруобуйа+N", "affixes": "+DAT"},
+         {"pos": 5, "text": "туһалаах", "type": "lowercase", "fst": "ymv", "root": "туһа+N", "affixes": "+ADJZ#1"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

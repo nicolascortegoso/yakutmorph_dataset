@@ -1,0 +1,40 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 289,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Unaccusativity diagnostics in Sakha: Causative alternation and others",
+      "section": "5.1.1. 14a",
+      "notes": "Another causative-related argument comes from t-doubling which is possible with regular t-causatives but impossible with transitive alternates of unaccusatives. Given in (13) is the t-causative derived from the unergative verb ülelee ‘work’. The causative suffix –t- can be doubled by another causative suffix –TAr- (which attaches to consonants, here –t-), with no ensuing change of meaning. Thus, the second causative suffix is the phonological doublet of the first one and is not associated with an extra causer argument. On the contrary, the –t- morpheme appearing on the unaccusative verb like baj ‘become rich’ cannot have a phonological doublet: the second causative must introduce another causer as shown in (14b). With regular causatives this is also possible (14a), hence ülelet is ambiguous between ‘make someone work’ and ‘make someone make someone work’.",
+      "sah": "Кеша Айсеҥҥа Кэскили үлэлэттэрдэ.",
+      "en": "Kesha made Aisen make Keskil work.",
+      "tags": "Kesha Aisen-dat Keskil-acc work-caus-caus-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "Айсеҥҥа", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "Кэскили", "type": "title", "fst": "ymv", "root": "кэскил+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "үлэлэттэрдэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+CSTV+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 289,
+      "chapter": "Causatives and unaccusatives",
+      "topic": "Unaccusativity diagnostics in Sakha: Causative alternation and others",
+      "section": "5.1.1. 14b",
+      "notes": "Another causative-related argument comes from t-doubling which is possible with regular t-causatives but impossible with transitive alternates of unaccusatives. Given in (13) is the t-causative derived from the unergative verb ülelee ‘work’. The causative suffix –t- can be doubled by another causative suffix –TAr- (which attaches to consonants, here –t-), with no ensuing change of meaning. Thus, the second causative suffix is the phonological doublet of the first one and is not associated with an extra causer argument. On the contrary, the –t- morpheme appearing on the unaccusative verb like baj ‘become rich’ cannot have a phonological doublet: the second causative must introduce another causer as shown in (14b). With regular causatives this is also possible (14a), hence ülelet is ambiguous between ‘make someone work’ and ‘make someone make someone work’.",
+      "sah": "Кеша Айсеҥҥа Кэскили байыттарда.",
+      "en": "Kesha made Aisen make Keskil rich.",
+      "tags": "Kesha Aisen-dat Keskil-acc become.rich-caus-caus-past.3",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+         {"pos": 2, "text": "Айсеҥҥа", "type": "title", "fst": "ymv", "root": "айсен+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "Кэскили", "type": "title", "fst": "ymv", "root": "кэскил+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "байыттарда", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+CSTV+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

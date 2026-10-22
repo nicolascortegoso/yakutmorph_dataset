@@ -1,0 +1,62 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 202,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Conjunction",
+      "section": "4.1.1. 1a",
+      "notes": "The examples below show that mixed conjunctions are ruled out.",
+      "sah": "Оокко тустар да саахыматтыыр да.",
+      "en": "Ookko wrestles and plays chess.",
+      "tags": "Ookko wrestle-aor and play.chess-aor and",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Оокко", "type": "title", "fst": "ymv", "root": "оокко+N"},
+         {"pos": 2, "text": "тустар", "type": "lowercase", "fst": "ymv", "root": "туһун+V", "affixes": "+CONJ_PRES"},
+         {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+         {"pos": 4, "text": "саахыматтыыр", "type": "lowercase", "fst": "ymv", "root": "саахымат+N", "affixes": "+VRBLZ#1+CONJ_PRES"},
+         {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 202,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Conjunction",
+      "section": "4.1.1. 1b",
+      "notes": "The examples below show that mixed conjunctions are ruled out.",
+      "sah": "Оокко күүстээх да сымса да.",
+      "en": "Ookko is strong and quick.",
+      "tags": "Ookko strong and quick and",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Оокко", "type": "title", "fst": "ymv", "root": "оокко+N"},
+         {"pos": 2, "text": "күүстээх", "type": "lowercase", "fst": "ymv", "root": "күүс+N", "affixes": "+ADJZ#1"},
+         {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+         {"pos": 4, "text": "сымса", "type": "lowercase", "fst": "ymv", "root": "сымса+Adj"},
+         {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   },
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 202,
+      "chapter": "Adjectives in Sakha",
+      "topic": "Conjunction",
+      "section": "4.1.1. 1c",
+      "notes": "The examples below show that mixed conjunctions are ruled out.",
+      "sah": "Оокко булчут да сирдьит да.",
+      "en": "Ookko is a hunter and a guide.",
+      "tags": "Ookko hunter and guide and",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Оокко", "type": "title", "fst": "ymv", "root": "оокко+N"},
+         {"pos": 2, "text": "булчут", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+NMLZ#1"},
+         {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+         {"pos": 4, "text": "сирдьит", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+NMLZ#1"},
+         {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+CONJ"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

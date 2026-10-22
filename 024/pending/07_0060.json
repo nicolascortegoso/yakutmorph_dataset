@@ -1,0 +1,22 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 396,
+      "chapter": "Denominal verbs",
+      "topic": "Unergative verbal roots and unergative verbs as √-suffix combinations",
+      "section": "7.5. 60",
+      "notes": "In (60) the diminutive verb occurs with a regular non-diminutive noun. Again, as in (59) the verbal diminutive can qualify the running event itself as a series of quick happenings or it can qualify the accusative direct object as having a small size.",
+      "sah": "Миша хонууну сүүрэкэлээтэ.",
+      "en": "a) Misha ran over a small field. b) Misha ran around a field in short bouts.",
+      "tags": "Misha field-acc run-dimin-verb-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "хонууну", "type": "lowercase", "fst": "ymv", "root": "хонуу+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "хонууну", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+NMLZ#2+ACC"},
+         {"pos": 3, "text": "сүүрэкэлээтэ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+FREC#5+PST.3SG"},
+         {"pos": 3, "text": "сүүрэкэлээтэ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+FREC#5+SUDD#1+CSTV+CONV#2"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

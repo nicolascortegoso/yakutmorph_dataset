@@ -1,0 +1,21 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 355,
+      "chapter": "Decomposing accusative case",
+      "topic": "Licensing the causee by functional heads: Appl and Acc",
+      "section": "6.8.3. 88",
+      "notes": "If the source of accusative on the causee in causative transitive structures is not thematic, it must be structural. In 6.5.2 we argued that the causative morpheme spells out a functional head required for licensing the causee, namely, Appl: the causee which is merged VP-internally moves to the specifier of Appl. An Appl analysis, however, can only be maintained for datives and instrumentals. Unlike accusative causees, they are not subject to word order restrictions. As shown in (88), if both the underlying agent and patient arguments are marked accusative, the ordering is strictly causee-patient: the first accusative noun phrase is interpreted invariably as causee.",
+      "sah": "Миша Машаны Лушаны мөхтөрдө.",
+      "en": "Misha made Masha scold Lusha. (*Misha made Lusha scold Masha.)",
+      "tags": "Misha Masha-acc Lusha-acc scold-caus-past.3",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "Машаны", "type": "title", "fst": "yma", "root": "маша+N", "affixes": "+ACC"},
+         {"pos": 3, "text": "Лушаны", "type": "title", "fst": "yma", "root": "луша+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "мөхтөрдө", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

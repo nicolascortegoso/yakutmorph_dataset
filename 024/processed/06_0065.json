@@ -1,0 +1,23 @@
+[
+   {
+      "source": "Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103)",
+      "page": 347,
+      "chapter": "Decomposing accusative case",
+      "topic": "Reciprocal verbs in Sakha and the lexicon/syntax dichotomy",
+      "section": "6.7.2. 65",
+      "notes": "A natural question, then, is what gets reduced under syntactic reciprocalization in Sakha. Examples (55) and (60) repeated below suggest an answer which makes syntactic reciprocals parallel to syntactic reflexives. As argued above in 6.5, in syntactic reflexivization what is bundled with the external agent role is the possessor of either the inalienable body part or of the benefactive argument. Similarly, what reciprocates back on the subject in (65) and (66) is the possessor of töröppütter ‘parents’ which realizes the internal argument in (65) and the benefactive argument in (66).",
+      "sah": "Миша уонна Маша төрөппүттэрин биэстэ хотусстулар.",
+      "en": "Misha and Masha each defeated the other’s parents five times.",
+      "tags": "M. and M. parent-pl-3.acc five.times defeat-rec-past-pl",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+N"},
+         {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
+         {"pos": 3, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+         {"pos": 4, "text": "төрөппүттэрин", "type": "lowercase", "fst": "ymv", "root": "төрөө+V", "affixes": "+CAUS+PART_PAST+PL+POSS.3SG.ACC"},
+         {"pos": 5, "text": "биэстэ", "type": "lowercase", "fst": "ymv", "root": "биэс+Num", "affixes": "+ADVZ#8"},
+         {"pos": 6, "text": "хотусстулар", "type": "lowercase", "fst": "ymv", "root": "хот+V", "affixes": "+RECP+RECP+PST.3PL"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      ]
+   }
+]

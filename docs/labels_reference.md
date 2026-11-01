@@ -106,6 +106,7 @@
 | **AUG#1** | no type | no ref |
 | **AUG#2** | no type | no ref |
 | **AUG#3** | no type | no ref |
+| **CONJ_PRES** | no type | no ref |
 | **DEB** | no type | no ref |
 | **DIM** | no type | no ref |
 | **DISTR** | no type | no ref |

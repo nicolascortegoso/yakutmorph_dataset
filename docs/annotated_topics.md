@@ -789,3 +789,110 @@
 | 023 | Причастие в функции подлежащего | 31 |
 | 023 | Причастие в функции дополнения | 30 |
 | 023 | Значения причастий в субстантивной функции | 42 |
+| 024 | Consequences and implications of the feature formalisms | 110 |
+| 024 | Deriving nouns from verbs | 150 |
+| 024 | Deriving adjectives from verbs | 30 |
+| 024 | The lack of genitive case in Sakha and the obligatory presence of the dummy noun in possessor predicates | 416 |
+| 024 | Clausal possession: Full NP possessor predicates | 48 |
+| 024 | Clausal possession: -LAAX | 200 |
+| 024 | There is a nominative possessor | 31 |
+| 024 | There is a dative possessor | 81 |
+| 024 | Analyzing possessives | 42 |
+| 024 | Analyzing –LAAX | 45 |
+| 024 | Associative –LAAX | 51 |
+| 024 | Raising analysis of possession | 150 |
+| 024 | 3.1.2.2. Raising analysis of possession | 39 |
+| 024 | Possessives and locatives | 375 |
+| 024 | Inalienability as a grammatical category | 80 |
+| 024 | Absence of relationality with possessive predicates | 561 |
+| 024 | Postpositional phrases | 110 |
+| 024 | Adjectival modification and temporary possession | 96 |
+| 024 | Root compounds | 14 |
+| 024 | Possessive compounds | 100 |
+| 024 | Dvandva compounds | 102 |
+| 024 | Baker’s (2003) criterion of identity | 36 |
+| 024 | Other proposals for nouns as arguments | 38 |
+| 024 | Structural deficiency in Sakha: The missing DP-layer | 52 |
+| 024 | Conjunction | 55 |
+| 024 | Agreement | 9 |
+| 024 | Agreement in finite predication | 155 |
+| 024 | Agreement in non-finite predication | 105 |
+| 024 | Negation | 80 |
+| 024 | Structures for adjectival predication without buol ‘be’ (present tense) | 284 |
+| 024 | Buol ‘be’ introducing a generic operator | 120 |
+| 024 | Structures for adjectival predication with buol ‘be’ and for nominal predication (present tense) | 288 |
+| 024 | Tense and the three types of predicates | 39 |
+| 024 | INFL[-TENSE FEATURE]-PART-VP | 168 |
+| 024 | INFL[+TENSE FEATURE]-VP | 46 |
+| 024 | INFL-AUX-PART-VP | 16 |
+| 024 | Alternating forms: INFL-PART-VP or INFL-AUX-PART-VP | 306 |
+| 024 | Deriving tense asymmetry between verbs and adjectives | 371 |
+| 024 | Matrix bare verbs | 136 |
+| 024 | A sample derivation for a nominal predicate in the past and future tenses | 146 |
+| 024 | Embedded predication and the obligatoriness of buol ‘be’ with nonfinite nominal predicates | 180 |
+| 024 | Non-finite and finite subordination: Verbal predicates | 216 |
+| 024 | Non-finite and finite subordination: Adjectival predicates | 116 |
+| 024 | Non-finite and finite subordination: Nominal predicates | 55 |
+| 024 | Extractions out of predicates: the nominal/adjectival/verbal asymmetry | 210 |
+| 024 | Two differences between Sakha and Turkish RCs51 | 141 |
+| 024 | The argument/adjunct asymmetry in extraction | 220 |
+| 024 | Baker’s (2003) account | 44 |
+| 024 | Thematic account | 48 |
+| 024 | The N→A conversion | 72 |
+| 024 | 4.5.2. The N→A conversion | 25 |
+| 024 | Intersective/nonintersective ambiguities | 80 |
+| 024 | Prenominal/postnominal contrasts | 96 |
+| 024 | 4.6. Adverbial modification | 27 |
+| 024 | Adverbial modification | 66 |
+| 024 | The use of adjectives as arguments | 102 |
+| 024 | Impersonal subjects | 57 |
+| 024 | 4.8. Impersonal subjects | 24 |
+| 024 | Causative/unaccusative alternations | 35 |
+| 024 | Unaccusativity diagnostics in Sakha: Causative alternation and others | 690 |
+| 024 | 5.1.1. Unaccusativity diagnostics in Sakha: Causative alternation and others | 76 |
+| 024 | Negation scope | 28 |
+| 024 | Adverbial scope | 30 |
+| 024 | 5.1.2.5. Levin & Rappaport Hovav’s (1995) arguments | 51 |
+| 024 | Levin & Rappaport Hovav’s (1995) arguments | 42 |
+| 024 | Lexical V→N derivation: M-reduction of argument structure | 171 |
+| 024 | Introducing Sakha causatives | 56 |
+| 024 | Causativization as lexicon-internal operation in Sakha | 216 |
+| 024 | High syntactic causatives | 150 |
+| 024 | McGinnis 2000 | 52 |
+| 024 | Thematic accusative in Sakha: NP-arguments | 126 |
+| 024 | 6.2. Thematic accusative in Sakha: NP-arguments | 47 |
+| 024 | Reflexive semantic predicates which are not syntactic predicates | 320 |
+| 024 | Inalienable possession reflexives and benefactives | 200 |
+| 024 | The lexical/syntactic opposition in bundling | 132 |
+| 024 | The low/high opposition in syntactic bundling | 315 |
+| 024 | The lexical/syntactic opposition in passivization | 392 |
+| 024 | Reciprocals in Sakha | 100 |
+| 024 | 6.7.1. Reciprocals in Sakha | 27 |
+| 024 | Reciprocal verbs in Sakha and the lexicon/syntax dichotomy | 638 |
+| 024 | Lexical and syntactic reciprocal sets | 148 |
+| 024 | Comitatives | 88 |
+| 024 | Double accusative in causatives | 186 |
+| 024 | Licensing the causee by functional heads: Appl and Acc | 108 |
+| 024 | Syntactic causatives and instrumental case | 42 |
+| 024 | Causation proper and permission | 62 |
+| 024 | Double accusative and the part-whole relationship | 98 |
+| 024 | Accusative subjects in Sakha | 84 |
+| 024 | Extending Moore’s (1998) analysis: Copy raising into the matrix clause | 560 |
+| 024 | Interpretive differences between nominative and accusative subjects | 67 |
+| 024 | The landing site of the embedded subject | 40 |
+| 024 | Clausal arguments | 68 |
+| 024 | Clausal adjuncts | 48 |
+| 024 | Summary: Discourse accusative versus thematic accusative | 168 |
+| 024 | Syntactic approaches to Case | 28 |
+| 024 | Extending H&K's proposal to denominal verb formation in Sakha | 366 |
+| 024 | 7.1.1. Extending H&K's proposal to denominal verb formation in Sakha | 136 |
+| 024 | Denominal LAA-verbs | 228 |
+| 024 | “Go in the direction of N” | 26 |
+| 024 | “Secrete/discharge N” | 42 |
+| 024 | Weather verbs | 13 |
+| 024 | Reflexivization: Lexical and syntactic bundling | 282 |
+| 024 | Denominal verbs ending in –LA-N | 155 |
+| 024 | Causativization | 15 |
+| 024 | Reciprocal formation | 60 |
+| 024 | Productive suffixes | 76 |
+| 024 | Unergative verbal roots and unergative verbs as √-suffix combinations | 414 |

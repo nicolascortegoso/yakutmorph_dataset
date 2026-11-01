@@ -91,3 +91,10 @@
 | 021 | Сослагательное наклонение | 10 |
 | 021 | Предположительное наклонение | 2 |
 | 023 | Субстантивная функция причастий в якутском языке | 23 |
+| 024 | Introduction | 4 |
+| 024 | Decomposing lexical categories in Sakha | 16 |
+| 024 | Nouns in Sakha | 241 |
+| 024 | Adjectives in Sakha | 241 |
+| 024 | Causatives and unaccusatives | 122 |
+| 024 | Decomposing accusative case | 241 |
+| 024 | Denominal verbs | 152 |

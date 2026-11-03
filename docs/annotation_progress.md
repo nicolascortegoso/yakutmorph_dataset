@@ -24,5 +24,5 @@
 | 020 | Syntax | 5067 | 3687 | 72.76% | Грамматика современного якутского литературного языка. Т.2. Синтаксис. |
 | 021 | Verbal moods | 71 | 69 | 97.18% | Винокурова Н.И., Винокуров И.П. Наклонения в якутском и английском языках: сравнительный анализ. Северо-Восточный гуманитарный вестник. – 2012. – N 2 (5). – С. 98-107. |
 | 023 | The substantive function of participles | 23 | 22 | 95.65% | Попова, Н.И. Субстантивная функция причастий в якутском языке / Н. И. Попова // Якутский язык: история и актуальные вопросы : сборник научных трудов. — Якутск : Издательство СО АН СССР, Якутский филиал, 1986. — С. 116-122. |
-| 024 | Lexical categories and argument structure | 1017 | 901 | 88.59% | Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103). |
-|  | TOTAL | 21002 | 17412 | 82.91% |  |
+| 024 | Lexical categories and argument structure | 1016 | 981 | 96.56% | Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103). |
+|  | TOTAL | 21001 | 17492 | 83.29% |  |

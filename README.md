@@ -42,7 +42,7 @@ The `source` folder contains JSON files with structured metadata and textual dat
 - `topic`: Specific morphological phenomenon.
 - `notes`: Author-provided commentary relevant to the example.
 - `sah`: Original Yakut sentence.
-- `ru`: Russian (English) gloss or translation.
+- `ru` or `en`: Russian (English) gloss or translation.
 - `incorrect`: When present, it flags that the author considered the sequence ungrammatical or incorrect.
 
 Each file typically groups examples illustrating a specific topic within a chapter. At this stage, no automatic morphological analysis has been applied.

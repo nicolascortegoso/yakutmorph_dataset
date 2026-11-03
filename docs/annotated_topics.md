@@ -877,7 +877,7 @@
 | 024 | Causation proper and permission | 62 |
 | 024 | Double accusative and the part-whole relationship | 98 |
 | 024 | Accusative subjects in Sakha | 84 |
-| 024 | Extending Moore’s (1998) analysis: Copy raising into the matrix clause | 560 |
+| 024 | Extending Moore’s (1998) analysis: Copy raising into the matrix clause | 420 |
 | 024 | Interpretive differences between nominative and accusative subjects | 67 |
 | 024 | The landing site of the embedded subject | 40 |
 | 024 | Clausal arguments | 68 |

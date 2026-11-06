@@ -31,8 +31,8 @@
     "ru": "Иван Егорович что-то многое говорил о пользе денег.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+N"},
-      {"pos": 2, "text": "Егорович", "type": "title", "fst": "yma", "root": "егорович+N"},
+      {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
+      {"pos": 2, "text": "Егорович", "type": "title", "fst": "yma", "root": "егорович+PN"},
       {"pos": 3, "text": "харчы", "type": "lowercase", "fst": "ymv", "root": "харчы+N"},
       {"pos": 4, "text": "туһатын", "type": "lowercase", "fst": "ymv", "root": "туһа+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 5, "text": "туһунан", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+POSS.3SG.INST"},
@@ -188,7 +188,7 @@
     "ru": "Туманов почему-то глубоко вздохнул.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Туманов", "type": "title", "fst": "yma", "root": "туманов+N"},
+      {"pos": 1, "text": "Туманов", "type": "title", "fst": "yma", "root": "туманов+PN"},
       {"pos": 2, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
       {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
       {"pos": 4, "text": "дириҥник", "type": "lowercase", "fst": "ymv", "root": "дириҥ+Adj", "affixes": "+ADVZ#5"},

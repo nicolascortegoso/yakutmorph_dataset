@@ -30,13 +30,13 @@
     "parses": [
       {"pos": 1, "text": "Байи", "type": "title", "fst": "yma", "root": "байи+N"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Костя", "type": "title", "fst": "yma", "root": "костя+N"},
+      {"pos": 3, "text": "Костя", "type": "title", "fst": "yma", "root": "костя+PN"},
       {"pos": 4, "text": "тэһийбэтэ", "type": "lowercase", "fst": "ymv", "root": "тэһий+V", "affixes": "+NEG+PART_PRES+POSS.3SG"},
       {"pos": 5, "text": "быһыылаах", "type": "lowercase", "fst": "ymv", "root": "быһыы+N", "affixes": "+ADJZ#1"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 7, "text": "—", "type": "dash", "fst": "ymv"},
       {"pos": 8, "text": "диэт", "type": "lowercase", "fst": "yma", "root": "диэт+N"},
-      {"pos": 9, "text": "Роза", "type": "title", "fst": "ymv", "root": "роза+N"},
+      {"pos": 9, "text": "Роза", "type": "title", "fst": "ymv", "root": "роза+PN"},
       {"pos": 10, "text": "тура", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#2"},
       {"pos": 11, "text": "эккирээтэ", "type": "lowercase", "fst": "ymv", "root": "эккирээ+V", "affixes": "+PST.3SG"},
       {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
@@ -249,7 +249,7 @@
     "parses": [
       {"pos": 1, "text": "Сүр", "type": "title", "fst": "ymv", "root": "сүр+N"},
       {"pos": 2, "text": "тиэтэлинэн", "type": "lowercase", "fst": "ymv", "root": "тиэтэл+N", "affixes": "+POSS.3SG+INST"},
-      {"pos": 3, "text": "Арамаан", "type": "title", "fst": "yma", "root": "арамаан+N"},
+      {"pos": 3, "text": "Арамаан", "type": "title", "fst": "yma", "root": "арамаан+PN"},
       {"pos": 4, "text": "тахса", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+CONV#2"},
       {"pos": 5, "text": "ойдо", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+PST.3SG"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
@@ -266,8 +266,8 @@
     "ru": "Затем Надежда Алексеевна распахнула шифоньер.",
     "id": 17,
     "parses": [
-      {"pos": 1, "text": "Надежда", "type": "title", "fst": "yma", "root": "надежда+N"},
-      {"pos": 2, "text": "Алексеевна", "type": "title", "fst": "yma", "root": "алексеевна+N"},
+      {"pos": 1, "text": "Надежда", "type": "title", "fst": "yma", "root": "надежда+PN"},
+      {"pos": 2, "text": "Алексеевна", "type": "title", "fst": "yma", "root": "алексеевна+PN"},
       {"pos": 3, "text": "аны", "type": "lowercase", "fst": "ymv", "root": "аны+Adv"},
       {"pos": 4, "text": "шифоньерын", "type": "lowercase", "fst": "yma", "root": "шифоньер+N", "affixes": "+POSS.3SG+ACC"},
       {"pos": 5, "text": "аһа", "type": "lowercase", "fst": "ymv", "root": "ас+V", "affixes": "+CONV#2"},
@@ -287,7 +287,7 @@
     "id": 18,
     "parses": [
       {"pos": 1, "text": "Долбууртан", "type": "title", "fst": "ymv", "root": "долбуур+N", "affixes": "+ABL"},
-      {"pos": 2, "text": "Некрасов", "type": "title", "fst": "yma", "root": "некрасов+N"},
+      {"pos": 2, "text": "Некрасов", "type": "title", "fst": "yma", "root": "некрасов+PN"},
       {"pos": 3, "text": "кинигэтин", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 4, "text": "ылан", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+CONV#1"},
       {"pos": 5, "text": "аһа", "type": "lowercase", "fst": "ymv", "root": "ас+V", "affixes": "+CONV#2"},
@@ -306,7 +306,7 @@
     "ru": "Егор, перегнав их и доехав первым, с лошади с силой открыв дверь, крикнул.",
     "id": 19,
     "parses": [
-      {"pos": 1, "text": "Дьөгүөр", "type": "title", "fst": "yma", "root": "дьөгүөр+N"},
+      {"pos": 1, "text": "Дьөгүөр", "type": "title", "fst": "yma", "root": "дьөгүөр+PN"},
       {"pos": 2, "text": "куота", "type": "lowercase", "fst": "ymv", "root": "куот+V", "affixes": "+CONV#2"},
       {"pos": 3, "text": "көтүтэн", "type": "lowercase", "fst": "ymv", "root": "көт+V", "affixes": "+CSTV+CONV#1"},
       {"pos": 4, "text": "тиийэн", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+CONV#1"},
@@ -435,7 +435,7 @@
     "ru": "Максим, услышав это известие, стал тормошить своих родителей: Я бы учился, отпустите меня учиться.",
     "id": 28,
     "parses": [
-      {"pos": 1, "text": "Максим", "type": "title", "fst": "yma", "root": "максим+N"},
+      {"pos": 1, "text": "Максим", "type": "title", "fst": "yma", "root": "максим+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
       {"pos": 4, "text": "сураҕы", "type": "lowercase", "fst": "ymv", "root": "сураа+V", "affixes": "+NMLZ#6+ACC"},
@@ -517,7 +517,7 @@
     "ru": "Александра стали волновать когда-то возникшие и (букв.: возникнув) потухшие мысли.",
     "id": 31,
     "parses": [
-      {"pos": 1, "text": "Александры", "type": "title", "fst": "yma", "root": "александр+N", "affixes": "+ACC"},
+      {"pos": 1, "text": "Александры", "type": "title", "fst": "yma", "root": "александр+PN", "affixes": "+ACC"},
       {"pos": 2, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хаһан+Pron"},
       {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
       {"pos": 4, "text": "күөдьүйэн", "type": "lowercase", "fst": "ymv", "root": "күөдьүй+V", "affixes": "+CONV#1"},
@@ -643,7 +643,7 @@
       {"pos": 13, "text": "һо", "type": "lowercase", "fst": "ymv", "root": "һо+IMIT"},
       {"pos": 14, "text": "!", "type": "exclamation", "fst": "ymv"},
       {"pos": 15, "text": "—", "type": "dash", "fst": "ymv"},
-      {"pos": 16, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+N"},
+      {"pos": 16, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+PN"},
       {"pos": 17, "text": "уҥа", "type": "lowercase", "fst": "ymv", "root": "уҥ+V", "affixes": "+CONV#2"},
       {"pos": 18, "text": "-", "type": "hyphen", "fst": "ymv"},
       {"pos": 19, "text": "таала", "type": "lowercase", "fst": "ymv", "root": "таал+V", "affixes": "+CONV#2"},
@@ -741,7 +741,7 @@
     "ru": "Лиза умолкла на полуслове.",
     "id": 41,
     "parses": [
-      {"pos": 1, "text": "Лиза", "type": "title", "fst": "yma", "root": "лиза+N"},
+      {"pos": 1, "text": "Лиза", "type": "title", "fst": "yma", "root": "лиза+PN"},
       {"pos": 2, "text": "бөтө", "type": "lowercase", "fst": "ymv", "root": "бөт+V", "affixes": "+CONV#2"},
       {"pos": 3, "text": "бэрдэрдэ", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+CAUS+PST.3SG"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}

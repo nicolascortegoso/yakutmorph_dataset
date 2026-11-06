@@ -30,7 +30,7 @@
     "parses": [
       {"pos": 1, "text": "Старшай", "type": "title", "fst": "ymv", "root": "старшай+Adj"},
       {"pos": 2, "text": "лейтенант", "type": "lowercase", "fst": "ymv", "root": "лейтенант+N"},
-      {"pos": 3, "text": "Махнев", "type": "title", "fst": "yma", "root": "махнев+N"},
+      {"pos": 3, "text": "Махнев", "type": "title", "fst": "yma", "root": "махнев+PN"},
       {"pos": 4, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
       {"pos": 5, "text": "взводун", "type": "lowercase", "fst": "ymv", "root": "взвод+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 6, "text": "командирын", "type": "lowercase", "fst": "ymv", "root": "командир+N", "affixes": "+POSS.3SG.ACC"},
@@ -126,7 +126,7 @@
     "ru": "Ваня решил поговоришь с ним решительно.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Ваня", "type": "title", "fst": "yma", "root": "ваня+N"},
+      {"pos": 1, "text": "Ваня", "type": "title", "fst": "yma", "root": "ваня+PN"},
       {"pos": 2, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
       {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
       {"pos": 4, "text": "өтөрү", "type": "lowercase", "fst": "ymv", "root": "өт+V", "affixes": "+CSTV+ADVZ#1"},

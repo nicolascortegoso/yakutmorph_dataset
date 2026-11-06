@@ -103,7 +103,7 @@
     "parses": [
       {"pos": 1, "text": "Якутскайтан", "type": "title", "fst": "ymv", "root": "якутскай+Adj", "affixes": "+ABL"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+ABL"},
+      {"pos": 3, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+ABL"},
       {"pos": 4, "text": "тиийэ", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+CONV#2"},
       {"pos": 5, "text": "кэлбиттэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+PL"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
@@ -121,7 +121,7 @@
     "ru": "Из Москвы, говоришь?",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+ABL"},
+      {"pos": 1, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+ABL"},
       {"pos": 2, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+MOD"},
       {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
     ]
@@ -138,7 +138,7 @@
     "ru": "Из Москвы тоже.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+ABL"},
+      {"pos": 1, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+ABL"},
       {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ+Adv"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -520,8 +520,8 @@
       {"pos": 3, "text": "»", "type": "quotation", "fst": "ymv"},
       {"pos": 4, "text": "колхоз", "type": "lowercase", "fst": "ymv", "root": "колхоз+N"},
       {"pos": 5, "text": "уола", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG"},
-      {"pos": 6, "text": "Одуор", "type": "title", "fst": "yma", "root": "одуор+N"},
-      {"pos": 7, "text": "Халтаайап", "type": "title", "fst": "yma", "root": "халтаайап+N"},
+      {"pos": 6, "text": "Одуор", "type": "title", "fst": "yma", "root": "одуор+PN"},
+      {"pos": 7, "text": "Халтаайап", "type": "title", "fst": "yma", "root": "халтаайап+PN"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },

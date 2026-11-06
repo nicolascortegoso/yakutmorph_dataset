@@ -45,9 +45,9 @@
     "ru": "Надежда Алексеевна подошла к Аласову вплотную.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Надежда", "type": "title", "fst": "yma", "root": "надежда+N"},
-      {"pos": 2, "text": "Алексеевна", "type": "title", "fst": "yma", "root": "алексеевна+N"},
-      {"pos": 3, "text": "Аласовка", "type": "title", "fst": "yma", "root": "аласов+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "Надежда", "type": "title", "fst": "yma", "root": "надежда+PN"},
+      {"pos": 2, "text": "Алексеевна", "type": "title", "fst": "yma", "root": "алексеевна+PN"},
+      {"pos": 3, "text": "Аласовка", "type": "title", "fst": "yma", "root": "аласов+PN", "affixes": "+DAT"},
       {"pos": 4, "text": "ыкса", "type": "lowercase", "fst": "ymv", "root": "ык+V", "affixes": "+RECP+CONV#2"},
       {"pos": 5, "text": "кэллэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3SG"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
@@ -100,7 +100,7 @@
     "ru": "С Семеном пошли вместе.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Сэмэни", "type": "title", "fst": "ymv", "root": "сэмэн+N", "affixes": "+ACC"},
+      {"pos": 1, "text": "Сэмэни", "type": "title", "fst": "ymv", "root": "сэмэн+PN", "affixes": "+ACC"},
       {"pos": 2, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
       {"pos": 3, "text": "аргыстаһан", "type": "lowercase", "fst": "ymv", "root": "аргыс+N", "affixes": "+VRBLZ#1+RECP+CONV#1"},
       {"pos": 4, "text": "барда", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.3SG"},

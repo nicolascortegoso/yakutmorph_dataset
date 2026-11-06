@@ -73,8 +73,8 @@
     "ru": "Фон Рюллих быстро щелкнул выключателем микрофона.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Фон", "type": "title", "fst": "yma", "root": "фон+N"},
-      {"pos": 2, "text": "Рюллих", "type": "title", "fst": "yma", "root": "рюллих+N"},
+      {"pos": 1, "text": "Фон", "type": "title", "fst": "yma", "root": "фон+PN"},
+      {"pos": 2, "text": "Рюллих", "type": "title", "fst": "yma", "root": "рюллих+PN"},
       {"pos": 3, "text": "микрофон", "type": "lowercase", "fst": "ymv", "root": "микрофон+N"},
       {"pos": 4, "text": "күлүүһүн", "type": "lowercase", "fst": "ymv", "root": "күлүүс+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 5, "text": "чап", "type": "lowercase", "fst": "ymv", "root": "чап+IMIT"},
@@ -132,7 +132,7 @@
     "ru": "Вася мигом вытащив свой (перочинный) нож и, закусив зубами, открыл с резким хрустом...",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 2, "text": "бэйэтин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "быһаҕын", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+NMLZ#6+POSS.3SG.ACC"},
       {"pos": 4, "text": "сулбу", "type": "lowercase", "fst": "ymv", "root": "сулбу+Adv"},
@@ -159,7 +159,7 @@
       "ru": "Коловоротов, тяжело дыша, входил в помещение и с легким шумом выронил свою трость.",
       "id": 8,
       "parses": [
-         {"pos": 1, "text": "Коловоротов", "type": "title", "fst": "yma", "root": "коловоротов+N"},
+         {"pos": 1, "text": "Коловоротов", "type": "title", "fst": "yma", "root": "коловоротов+PN"},
          {"pos": 2, "text": "аҕылаан", "type": "lowercase", "fst": "ymv", "root": "аҕылаа+V", "affixes": "+CONV#1"},
          {"pos": 3, "text": "киирэн", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+CONV#1"},
          {"pos": 4, "text": "иһэн", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+CONV#1"},

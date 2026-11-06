@@ -284,7 +284,7 @@
     "parses": [
       {"pos": 1, "text": "Үс", "type": "title", "fst": "ymv", "root": "үс+Num"},
       {"pos": 2, "text": "үөстээх", "type": "lowercase", "fst": "ymv", "root": "үөс+N", "affixes": "+ADJZ#1"},
-      {"pos": 3, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+N"},
+      {"pos": 3, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+PN"},
       {"pos": 4, "text": "хотун", "type": "lowercase", "fst": "ymv", "root": "хотун+N"},
       {"pos": 5, "text": "муора", "type": "lowercase", "fst": "ymv", "root": "муора+N"},
       {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
@@ -380,7 +380,7 @@
     "ru": "Нина здесь словно рыба, попавшая в сети.",
     "id": 20,
     "parses": [
-      {"pos": 1, "text": "Нина", "type": "title", "fst": "yma", "root": "нина+N"},
+      {"pos": 1, "text": "Нина", "type": "title", "fst": "yma", "root": "нина+PN"},
       {"pos": 2, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
       {"pos": 3, "text": "илимҥэ", "type": "lowercase", "fst": "ymv", "root": "илим+N", "affixes": "+DAT"},
       {"pos": 4, "text": "киирбит", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PART_PAST"},
@@ -470,7 +470,7 @@
     "ru": "Коля посматривал в сторону матери своими живыми глазами.",
     "id": 25,
     "parses": [
-      {"pos": 1, "text": "Коля", "type": "title", "fst": "yma", "root": "коля+N"},
+      {"pos": 1, "text": "Коля", "type": "title", "fst": "yma", "root": "коля+PN"},
       {"pos": 2, "text": "ийэтин", "type": "lowercase", "fst": "ymv", "root": "ийэ+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "диэки", "type": "lowercase", "fst": "ymv", "root": "диэки+POST"},
       {"pos": 4, "text": "сытыы", "type": "lowercase", "fst": "ymv", "root": "сытыы+Adj"},
@@ -788,8 +788,8 @@
     "ru": "Когда пришел Кеша Тускаев, начался митинг.",
     "id": 43,
     "parses": [
-      {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
-      {"pos": 2, "text": "Тускаев", "type": "title", "fst": "yma", "root": "тускаев+N"},
+      {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+PN"},
+      {"pos": 2, "text": "Тускаев", "type": "title", "fst": "yma", "root": "тускаев+PN"},
       {"pos": 3, "text": "кэлбитин", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+POSS.3SG.ACC"},
       {"pos": 4, "text": "кэннэ", "type": "lowercase", "fst": "ymv", "root": "кэннэ+POST"},
       {"pos": 5, "text": "митинг", "type": "lowercase", "fst": "ymv", "root": "митинг+N"},
@@ -931,7 +931,7 @@
     "ru": "На протяжении всего бассейна Лены везде так.",
     "id": 50,
     "parses": [
-      {"pos": 1, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+N"},
+      {"pos": 1, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+PN"},
       {"pos": 2, "text": "умнаһын", "type": "lowercase", "fst": "ymv", "root": "умнас+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "тухары", "type": "lowercase", "fst": "ymv", "root": "тухары+POST"},
       {"pos": 4, "text": "итинник", "type": "lowercase", "fst": "ymv", "root": "ити+Pron", "affixes": "+DEF"},

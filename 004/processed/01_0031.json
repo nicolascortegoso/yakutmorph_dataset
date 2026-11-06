@@ -10,8 +10,8 @@
     "ru": "Эрдэлир помогал Егордану строить шалаш (тут держать, строить).",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Эрдэлиир", "type": "title", "fst": "ymv", "root": "эрдэлиир+N"},
-      {"pos": 2, "text": "Дьөгүөрдээҥҥэ", "type": "title", "fst": "ymv", "root": "дьөгүөрдээн+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "Эрдэлиир", "type": "title", "fst": "ymv", "root": "эрдэлиир+PN"},
+      {"pos": 2, "text": "Дьөгүөрдээҥҥэ", "type": "title", "fst": "ymv", "root": "дьөгүөрдээн+PN", "affixes": "+DAT"},
       {"pos": 3, "text": "отуу", "type": "lowercase", "fst": "ymv", "root": "отуу+N"},
       {"pos": 4, "text": "тутуста", "type": "lowercase", "fst": "ymv", "root": "тут+V", "affixes": "+RECP+PST.3SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
@@ -28,10 +28,10 @@
     "ru": "Парень Никита помог Боллорутте возить сено с берега Талбы (тиэй- возить).",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+N"},
+      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+PN"},
       {"pos": 2, "text": "уол", "type": "lowercase", "fst": "ymv", "root": "уол+N"},
       {"pos": 3, "text": "Боллооруттаҕа", "type": "title", "fst": "ymv", "root": "боллой+V", "affixes": "+SLOW#1+CSTV+CONV_COND#2+POSS.3SG"},
-      {"pos": 4, "text": "Талба", "type": "title", "fst": "ymv", "root": "талба+N"},
+      {"pos": 4, "text": "Талба", "type": "title", "fst": "ymv", "root": "талба+PN"},
       {"pos": 5, "text": "кытылыттан", "type": "lowercase", "fst": "ymv", "root": "кытыл+N", "affixes": "+POSS.3SG.ABL"},
       {"pos": 6, "text": "от", "type": "lowercase", "fst": "ymv", "root": "от+N"},
       {"pos": 7, "text": "тиэйистэ", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+RECP+PST.3SG"},
@@ -87,7 +87,7 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "Кэнниттэн", "type": "title", "fst": "ymv", "root": "кэлин+N", "affixes": "+POSS.3SG.ABL"},
-      {"pos": 2, "text": "Миитэрэй", "type": "title", "fst": "ymv", "root": "миитэрэй+N"},
+      {"pos": 2, "text": "Миитэрэй", "type": "title", "fst": "ymv", "root": "миитэрэй+PN"},
       {"pos": 3, "text": "бииргэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+DAT"},
       {"pos": 4, "text": "тахсыста", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+RECP+PST.3SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
@@ -128,7 +128,7 @@
       {"pos": 2, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
       {"pos": 3, "text": "эдэр", "type": "lowercase", "fst": "ymv", "root": "эдэр+Adj"},
       {"pos": 4, "text": "булчут", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+NMLZ#1"},
-      {"pos": 5, "text": "Уйбааскы", "type": "title", "fst": "yma", "root": "уйбааскы+N"},
+      {"pos": 5, "text": "Уйбааскы", "type": "title", "fst": "yma", "root": "уйбааскы+PN"},
       {"pos": 6, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "оҕо+N"},
       {"pos": 7, "text": "барсыста", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+RECP+RECP+PST.3SG"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
@@ -146,8 +146,8 @@
     "id": 8,
     "parses": [
       {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "Түүлээх", "type": "title", "fst": "fst", "root": "түү+N", "affixes": "+ADJZ#1"},
-      {"pos": 3, "text": "Уллуҥаҕы", "type": "title", "fst": "fst", "root": "уллуҥах+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "Түүлээх", "type": "title", "fst": "fst", "root": "түү+PN", "affixes": "+ADJZ#1"},
+      {"pos": 3, "text": "Уллуҥаҕы", "type": "title", "fst": "fst", "root": "уллуҥах+PN", "affixes": "+ACC"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 5, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын+V", "affixes": "+CONV#2"},
       {"pos": 6, "text": "төрүт", "type": "lowercase", "fst": "fst", "root": "төрүт+Adv"},

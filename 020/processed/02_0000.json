@@ -125,7 +125,7 @@
     "ru": "Иван работает",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+N"},
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+PN"},
       {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"}
     ]
   },
@@ -141,7 +141,7 @@
     "ru": "работает ли Иван?",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+N"},
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+PN"},
       {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
       {"pos": 3, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
       {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
@@ -159,7 +159,7 @@
     "ru": "Иван, работай!",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+N"},
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "үлэлээ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1"},
       {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"}

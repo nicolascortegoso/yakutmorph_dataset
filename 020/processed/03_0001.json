@@ -11,8 +11,8 @@
     "ru": "Дмитрий Бутуков лежа стреляет.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Дмитрий", "type": "title", "fst": "ymv", "root": "дмитрий+N"},
-      {"pos": 2, "text": "Бутуукап", "type": "title", "fst": "yma", "root": "бутуукап+N"},
+      {"pos": 1, "text": "Дмитрий", "type": "title", "fst": "ymv", "root": "дмитрий+PN"},
+      {"pos": 2, "text": "Бутуукап", "type": "title", "fst": "yma", "root": "бутуукап+PN"},
       {"pos": 3, "text": "сытан", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "эрэн", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV#1"},
       {"pos": 5, "text": "ытар", "type": "lowercase", "fst": "ymv", "root": "ыт+V", "affixes": "+PART_PRES"},
@@ -53,7 +53,7 @@
     "ru": "Бутуковские взобрались на горку.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Бутуукаптаах", "type": "title", "fst": "yma", "root": "бутуукап+N", "affixes": "+ADJZ#1"},
+      {"pos": 1, "text": "Бутуукаптаах", "type": "title", "fst": "yma", "root": "бутуукап+PN", "affixes": "+ADJZ#1"},
       {"pos": 2, "text": "сыыр", "type": "lowercase", "fst": "ymv", "root": "сыыр+N"},
       {"pos": 3, "text": "үрдүгэр", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 4, "text": "ытталлар", "type": "lowercase", "fst": "ymv", "root": "ытын+V", "affixes": "+PART_PRES+PL"},

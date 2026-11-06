@@ -44,8 +44,8 @@
     "ru": "Мария Ивановна, вскочив, поцеловала девушку в щеку.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Мария", "type": "title", "fst": "yma", "root": "мария+N"},
-      {"pos": 2, "text": "Ивановна", "type": "title", "fst": "yma", "root": "ивановна+N"},
+      {"pos": 1, "text": "Мария", "type": "title", "fst": "yma", "root": "мария+PN"},
+      {"pos": 2, "text": "Ивановна", "type": "title", "fst": "yma", "root": "ивановна+PN"},
       {"pos": 3, "text": "ойон", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "туран", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#1"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
@@ -70,7 +70,7 @@
       {"pos": 1, "text": "Кырасыабайгын", "type": "title", "fst": "yma", "root": "кырасыабай+Adj", "affixes": "+2SG"},
       {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "Лаана", "type": "title", "fst": "yma", "root": "лаана+N"},
+      {"pos": 4, "text": "Лаана", "type": "title", "fst": "yma", "root": "лаана+PN"},
       {"pos": 5, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   }

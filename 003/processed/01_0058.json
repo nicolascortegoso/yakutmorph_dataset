@@ -30,7 +30,7 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Капитан", "type": "title", "fst": "ymv", "root": "капитан+N"},
-      {"pos": 2, "text": "Иванов", "type": "title", "fst": "yma", "root": "иванов+N"},
+      {"pos": 2, "text": "Иванов", "type": "title", "fst": "yma", "root": "иванов+PN"},
       {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
@@ -45,7 +45,7 @@
     "ru": "Фокин, очень гневно крикнув, обернулся в его сторону.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Фокин", "type": "title", "fst": "yma", "root": "фокин+N"},
+      {"pos": 1, "text": "Фокин", "type": "title", "fst": "yma", "root": "фокин+PN"},
       {"pos": 2, "text": "сур", "type": "lowercase", "fst": "ymv", "root": "сур+IMIT"},
       {"pos": 3, "text": "киҥнээхтик", "type": "lowercase", "fst": "ymv", "root": "киҥ+N", "affixes": "+ADJZ#1+ADVZ#5"},
       {"pos": 4, "text": "кыламмытынан", "type": "lowercase", "fst": "ymv", "root": "кылан+V", "affixes": "+PART_PAST+INST"},

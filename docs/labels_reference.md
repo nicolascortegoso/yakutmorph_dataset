@@ -144,7 +144,6 @@
 | **POSS.1SG** | possessive | *-(ы)м* first person singular possessive. |
 | **POSS.2PL** | possessive | *-ҕыт* second person plural possessive. |
 | **POSS.2SG** | possessive | *-(ы)ҥ* second person singular possessive. |
-| **POSS.3PL** | possessive | used in combination with possessive cases. |
 | **POSS.3SG** | possessive | *-(т)а* third person singular possessive. |
 | **POSS.1PL.ABL** | possessive case | no ref |
 | **POSS.1PL.ACC** | possessive case | no ref |

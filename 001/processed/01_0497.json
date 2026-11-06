@@ -12,7 +12,7 @@
     "parses": [
       {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
       {"pos": 2, "text": "илиигин", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 3, "text": "суун", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL"},
+      {"pos": 3, "text": "суун", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -46,7 +46,7 @@
     "parses": [
       {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
       {"pos": 2, "text": "от", "type": "lowercase", "fst": "ymv", "root": "от+N"},
-      {"pos": 3, "text": "тиэнэллэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL+PART_PRES+PL"},
+      {"pos": 3, "text": "тиэнэллэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES+PL"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -78,7 +78,7 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "От", "type": "title", "fst": "ymv", "root": "от+N"},
-      {"pos": 2, "text": "тиэнэбин", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL+PART_PRES+1SG"},
+      {"pos": 2, "text": "тиэнэбин", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }

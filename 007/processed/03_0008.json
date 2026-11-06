@@ -79,7 +79,7 @@
     "ru": "На самом деле, учиться без отрыва от производства еще легче.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Дьиҥэр", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 1, "text": "Дьиҥэр", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG.DAT"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 3, "text": "үлэлии", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#2"},
       {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
@@ -101,14 +101,14 @@
     "ru": "На самом деле, меня ругают за то, что больше всего сижу один.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Дьиҥэр", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 1, "text": "Дьиҥэр", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG.DAT"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 3, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
       {"pos": 4, "text": "мөҕүллэрим", "type": "lowercase", "fst": "fst", "root": "мөх+V", "affixes": "+PASS+PART_PRES+POSS.1SG"},
       {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ+V", "affixes": "+CONV#1"},
       {"pos": 6, "text": "үксүн", "type": "lowercase", "fst": "fst", "root": "үксүн+Adv"},
-      {"pos": 7, "text": "соҕотоҕун", "type": "lowercase", "fst": "fst", "root": "соҕотох+Adj", "affixes": "+POSS.3SG+ACC"},
-      {"pos": 8, "text": "олорорбуттан", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+PART_PRES+POSS.1SG+ABL"},
+      {"pos": 7, "text": "соҕотоҕун", "type": "lowercase", "fst": "fst", "root": "соҕотох+Adj", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 8, "text": "олорорбуттан", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+PART_PRES+POSS.1SG.ABL"},
       {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
     ]
   },
@@ -123,7 +123,7 @@
     "ru": "На самом деле, эта статья конституции была открыто нарушена.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Дьиҥинэн", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG+INST"},
+      {"pos": 1, "text": "Дьиҥинэн", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG.INST"},
       {"pos": 2, "text": "конституция", "type": "lowercase", "fst": "fst", "root": "конституция+N"},
       {"pos": 3, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити+Pron"},
       {"pos": 4, "text": "ыстатыйата", "type": "lowercase", "fst": "fst", "root": "ыстатыйа+N", "affixes": "+POSS.3SG"},
@@ -147,7 +147,7 @@
       {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уонна+CONJ"},
       {"pos": 3, "text": "тыа", "type": "lowercase", "fst": "fst", "root": "тыа+N"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "дьиҥинэн", "type": "lowercase", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG+INST"},
+      {"pos": 5, "text": "дьиҥинэн", "type": "lowercase", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG.INST"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 7, "text": "билиҥҥи", "type": "lowercase", "fst": "fst", "root": "билиҥҥи+Adj"},
       {"pos": 8, "text": "кэмҥэ", "type": "lowercase", "fst": "fst", "root": "кэм+N", "affixes": "+DAT"},
@@ -213,8 +213,8 @@
     "ru": "А на самом деле, это, оказывается был шум поднявшегося бычка, который лежал в пустом хлеве.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Дьиҥэр", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG+DAT"},
-      {"pos": 2, "text": "буоллаҕына", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG+PRTV"},
+      {"pos": 1, "text": "Дьиҥэр", "type": "title", "fst": "fst", "root": "дьиҥ+Adj", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "буоллаҕына", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 4, "text": "иччитэх", "type": "lowercase", "fst": "fst", "root": "иччитэх+Adj"},
       {"pos": 5, "text": "хотоҥҥо", "type": "lowercase", "fst": "fst", "root": "хотон+N", "affixes": "+DAT"},

@@ -27,7 +27,7 @@
     "ru": "он едет верхом на своем коне",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "атын", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "атын", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "миинэн", "type": "lowercase", "fst": "fst", "root": "миин+V", "affixes": "+CONV#1"},
       {"pos": 3, "text": "иһэр", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PART_PRES"}
     ]
@@ -60,7 +60,7 @@
     "id": 4,
     "parses": [
       {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "fst", "root": "дьиэ+N"},
-      {"pos": 2, "text": "үрдүгэр", "type": "lowercase", "fst": "fst", "root": "үрүт+N", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 2, "text": "үрдүгэр", "type": "lowercase", "fst": "fst", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 3, "text": "ыттан", "type": "lowercase", "fst": "fst", "root": "ытын+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "тураллара", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+PART_PRES+PL+POSS.3SG"}
     ]
@@ -214,7 +214,7 @@
     "ru": "не справившись с работой, я запоздал",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "үлэбин", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 1, "text": "үлэбин", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+POSS.1SG.ACC"},
       {"pos": 2, "text": "кыайымына", "type": "lowercase", "fst": "fst", "root": "кыай+V", "affixes": "+NEG+CONV#3"},
       {"pos": 3, "text": "хойутаан", "type": "lowercase", "fst": "fst", "root": "хойут+Adv", "affixes": "+VRBLZ#3+CONV#1"},
       {"pos": 4, "text": "хааллым", "type": "lowercase", "fst": "fst", "root": "хаал+V", "affixes": "+PST.1SG"}

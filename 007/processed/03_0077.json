@@ -218,7 +218,7 @@
       {"pos": 1, "text": "Хайаахтыай", "type": "title", "fst": "fst", "root": "хайаа+V", "affixes": "+DIM+PART_FUT+INT"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 3, "text": "арай", "type": "lowercase", "fst": "fst", "root": "арай+MOD"},
-      {"pos": 4, "text": "кыатаннаҕына", "type": "lowercase", "fst": "fst", "root": "кыатан+V", "affixes": "+CONV_COND#2+POSS.3SG+PRTV"},
+      {"pos": 4, "text": "кыатаннаҕына", "type": "lowercase", "fst": "fst", "root": "кыатан+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
       {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ+Part"},
       {"pos": 6, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"},
       {"pos": 7, "text": "буолар", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_PRES"},
@@ -259,9 +259,9 @@
     "parses": [
       {"pos": 1, "text": "Хайыаҥый", "type": "title", "fst": "fst", "root": "хайаа+V", "affixes": "+PART_FUT+POSS.2SG+INT"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "харчыгын", "type": "lowercase", "fst": "fst", "root": "харчы+N", "affixes": "+POSS.2SG+ACC"},
+      {"pos": 3, "text": "харчыгын", "type": "lowercase", "fst": "fst", "root": "харчы+N", "affixes": "+POSS.2SG.ACC"},
       {"pos": 4, "text": "төттөрү", "type": "lowercase", "fst": "fst", "root": "төнүн+V", "affixes": "+CSTV+ADVZ#1"},
-      {"pos": 5, "text": "ыларгар", "type": "lowercase", "fst": "fst", "root": "ыл+V", "affixes": "+PART_PRES+POSS.2SG+DAT"},
+      {"pos": 5, "text": "ыларгар", "type": "lowercase", "fst": "fst", "root": "ыл+V", "affixes": "+PART_PRES+POSS.2SG.DAT"},
       {"pos": 6, "text": "тиийэҕин", "type": "lowercase", "fst": "fst", "root": "тиий+V", "affixes": "+PART_PRES+2SG"},
       {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -281,7 +281,7 @@
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 3, "text": "хайыахпыный", "type": "lowercase", "fst": "fst", "root": "хайаа+V", "affixes": "+PART_FUT+1SG+INT"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "солкуобайбын", "type": "lowercase", "fst": "fst", "root": "солкуобай+N", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 5, "text": "солкуобайбын", "type": "lowercase", "fst": "fst", "root": "солкуобай+N", "affixes": "+POSS.1SG.ACC"},
       {"pos": 6, "text": "биэрдэҕим", "type": "lowercase", "fst": "fst", "root": "биэр+V", "affixes": "+CONV_COND#2+POSS.1SG"},
       {"pos": 7, "text": "дии", "type": "lowercase", "fst": "fst", "root": "дии+Part"},
       {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
@@ -375,7 +375,7 @@
     "ru": "Если не осилим, ничего не поделаешь.",
     "id": 21,
     "parses": [
-      {"pos": 1, "text": "Кыайбатахпытына", "type": "title", "fst": "fst", "root": "кыай+V", "affixes": "+NEG+CONV_COND#2+POSS.1PL+PRTV"},
+      {"pos": 1, "text": "Кыайбатахпытына", "type": "title", "fst": "fst", "root": "кыай+V", "affixes": "+NEG+CONV_COND#2+POSS.1PL.PRTV"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 3, "text": "хайыахпытый", "type": "lowercase", "fst": "fst", "root": "хайаа+V", "affixes": "+PART_FUT+POSS.1PL+INT"},
       {"pos": 4, "text": "?", "type": "question", "fst": "fst"}

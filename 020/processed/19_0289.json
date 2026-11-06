@@ -81,7 +81,7 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "Күндү", "type": "title", "fst": "ymv", "root": "күндү+Adj"},
-      {"pos": 2, "text": "Ленин", "type": "title", "fst": "yma", "root": "ленин+N"},
+      {"pos": 2, "text": "Ленин", "type": "title", "fst": "yma", "root": "ленин+PN"},
       {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
@@ -122,7 +122,7 @@
       {"pos": 3, "text": "туойа", "type": "lowercase", "fst": "ymv", "root": "туой+V", "affixes": "+CONV#2"},
       {"pos": 4, "text": "турабын", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES+1SG"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "Өрүүчээ", "type": "title", "fst": "yma", "root": "өрүүчээ+N"},
+      {"pos": 6, "text": "Өрүүчээ", "type": "title", "fst": "yma", "root": "өрүүчээ+PN"},
       {"pos": 7, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
@@ -139,8 +139,8 @@
     "id": 8,
     "parses": [
       {"pos": 1, "text": "Күндү", "type": "title", "fst": "ymv", "root": "күндү+Adj"},
-      {"pos": 2, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+N"},
-      {"pos": 3, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+N"},
+      {"pos": 2, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
+      {"pos": 3, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+PN"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "Улуу", "type": "title", "fst": "ymv", "root": "улуу+Adj"},
       {"pos": 6, "text": "Кыайыы", "type": "title", "fst": "ymv", "root": "кыай+V", "affixes": "+NMLZ#2"},
@@ -183,7 +183,7 @@
     "parses": [
       {"pos": 1, "text": "Өскөтө", "type": "title", "fst": "ymv", "root": "өскөтө+CONJ"},
       {"pos": 2, "text": "кистэлэҥмин", "type": "lowercase", "fst": "ymv", "root": "кистээ+V", "affixes": "+NMLZ#7+POSS.1SG.ACC"},
-      {"pos": 3, "text": "Машаҕа", "type": "title", "fst": "yma", "root": "маша+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "Машаҕа", "type": "title", "fst": "yma", "root": "маша+PN", "affixes": "+DAT"},
       {"pos": 4, "text": "арыйыаҥ", "type": "lowercase", "fst": "ymv", "root": "арый+V", "affixes": "+PART_FUT+POSS.2SG"},
       {"pos": 5, "text": "—", "type": "dash", "fst": "ymv"},
       {"pos": 6, "text": "«", "type": "quotation", "fst": "ymv"},
@@ -274,7 +274,7 @@
     "ru": "Вася, сейчас же начнем работу.",
     "id": 17,
     "parses": [
-      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "сибилигин", "type": "lowercase", "fst": "ymv", "root": "сибилигин+Adv"},
       {"pos": 4, "text": "үлэбитин", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+POSS.1PL.ACC"},
@@ -296,11 +296,11 @@
     "parses": [
       {"pos": 1, "text": "Тохтоо", "type": "title", "fst": "ymv", "root": "тохтоо+V"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Нина", "type": "title", "fst": "yma", "root": "нина+N"},
+      {"pos": 3, "text": "Нина", "type": "title", "fst": "yma", "root": "нина+PN"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "иһит", "type": "lowercase", "fst": "ymv", "root": "иһит+V"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "Ниночка", "type": "title", "fst": "yma", "root": "ниночка+N"},
+      {"pos": 7, "text": "Ниночка", "type": "title", "fst": "yma", "root": "ниночка+PN"},
       {"pos": 8, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
@@ -319,7 +319,7 @@
       {"pos": 1, "text": "Оннук", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+DEF"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "табаарыс", "type": "lowercase", "fst": "ymv", "root": "табаарыс+N"},
-      {"pos": 4, "text": "Ленин", "type": "title", "fst": "yma", "root": "ленин+N"},
+      {"pos": 4, "text": "Ленин", "type": "title", "fst": "yma", "root": "ленин+PN"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -503,9 +503,9 @@
       {"pos": 2, "text": "улуу", "type": "lowercase", "fst": "ymv", "root": "улуу+Adj"},
       {"pos": 3, "text": "поэмата", "type": "lowercase", "fst": "ymv", "root": "поэма+N", "affixes": "+POSS.3SG"},
       {"pos": 4, "text": "—", "type": "dash", "fst": "ymv"},
-      {"pos": 5, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+N"},
+      {"pos": 5, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+PN"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+N"},
+      {"pos": 7, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+PN"},
       {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 9, "text": "киэҥник", "type": "lowercase", "fst": "ymv", "root": "киэҥ+Adj", "affixes": "+ADVZ#5"},
       {"pos": 10, "text": "мэндээр", "type": "lowercase", "fst": "ymv", "root": "мэндээ+N", "affixes": "+VRBLZ#4"},
@@ -668,7 +668,7 @@
     "parses": [
       {"pos": 1, "text": "Капитал", "type": "title", "fst": "ymv", "root": "капитал+N"},
       {"pos": 2, "text": "сүрэҕин", "type": "lowercase", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "Ильич", "type": "title", "fst": "yma", "root": "ильич+N"},
+      {"pos": 3, "text": "Ильич", "type": "title", "fst": "yma", "root": "ильич+PN"},
       {"pos": 4, "text": "илиитэ", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.3SG"},
       {"pos": 5, "text": "тобулу", "type": "lowercase", "fst": "ymv", "root": "тобул+V", "affixes": "+ADVZ#1"},
       {"pos": 6, "text": "ыппыта", "type": "lowercase", "fst": "ymv", "root": "ыт+V", "affixes": "+PART_PAST+POSS.3SG"},
@@ -692,9 +692,9 @@
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "үөскээбит", "type": "lowercase", "fst": "ymv", "root": "үөскээ+V", "affixes": "+PART_PAST"},
       {"pos": 5, "text": "киэҥ", "type": "lowercase", "fst": "ymv", "root": "киэҥ+Adj"},
-      {"pos": 6, "text": "Ленам", "type": "title", "fst": "yma", "root": "лена+N", "affixes": "+POSS.1SG"},
+      {"pos": 6, "text": "Ленам", "type": "title", "fst": "yma", "root": "лена+PN", "affixes": "+POSS.1SG"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 8, "text": "Долгуҥҥунан", "type": "title", "fst": "ymv", "root": "долгун+N", "affixes": "+POSS.2SG.INST"},
+      {"pos": 8, "text": "Долгуҥҥунан", "type": "title", "fst": "ymv", "root": "долгун+PN", "affixes": "+POSS.2SG.INST"},
       {"pos": 9, "text": "тойукпун", "type": "lowercase", "fst": "ymv", "root": "той+V", "affixes": "+NMLZ#5+1SG"},
       {"pos": 10, "text": "доҕуһуоллаа", "type": "lowercase", "fst": "ymv", "root": "доҕуһуол+N", "affixes": "+VRBLZ#1"},
       {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
@@ -812,7 +812,7 @@
       {"pos": 1, "text": "Оо", "type": "title", "fst": "ymv", "root": "оо+INJ"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "Улуу", "type": "title", "fst": "ymv", "root": "улуу+Adj"},
-      {"pos": 4, "text": "Космос", "type": "title", "fst": "ymv", "root": "космос+N"},
+      {"pos": 4, "text": "Космос", "type": "title", "fst": "ymv", "root": "космос+PN"},
       {"pos": 5, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
@@ -973,7 +973,7 @@
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+V"},
       {"pos": 6, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
-      {"pos": 7, "text": "Элиэнньин", "type": "title", "fst": "yma", "root": "элиэнньин+N"},
+      {"pos": 7, "text": "Элиэнньин", "type": "title", "fst": "yma", "root": "элиэнньин+PN"},
       {"pos": 8, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
       {"pos": 9, "text": "кимий", "type": "lowercase", "fst": "ymv", "root": "ким+Pron", "affixes": "+INT"},
       {"pos": 10, "text": "?", "type": "question", "fst": "ymv"}
@@ -991,10 +991,10 @@
     "ru": "Вася, а Вася, поговори со мной.",
     "id": 58,
     "parses": [
-      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "ээ", "type": "lowercase", "fst": "ymv", "root": "ээ+MOD"},
-      {"pos": 4, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 4, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 6, "text": "кэпсэтэ", "type": "lowercase", "fst": "ymv", "root": "кэпсээ+V", "affixes": "+CAUS+CONV#2"},
       {"pos": 7, "text": "түс", "type": "lowercase", "fst": "ymv", "root": "түс+V"},
@@ -1060,7 +1060,7 @@
     "parses": [
       {"pos": 1, "text": "Ой", "type": "title", "fst": "ymv", "root": "ой+INJ"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Анюта", "type": "title", "fst": "yma", "root": "анюта+N"},
+      {"pos": 3, "text": "Анюта", "type": "title", "fst": "yma", "root": "анюта+PN"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "тахсыма", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+NEG"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
@@ -1080,7 +1080,7 @@
     "parses": [
       {"pos": 1, "text": "Тоойуом", "type": "title", "fst": "ymv", "root": "тоойуом+MOD"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Маня", "type": "title", "fst": "yma", "root": "маня+N"},
+      {"pos": 3, "text": "Маня", "type": "title", "fst": "yma", "root": "маня+PN"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "туох", "type": "lowercase", "fst": "ymv", "root": "туох+Pron"},
       {"pos": 6, "text": "буоллуҥ", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.2SG"},
@@ -1138,7 +1138,7 @@
     "ru": "Бабушка Варвара, мы — ребята, едущие к оленеводам показывать концерт.",
     "id": 68,
     "parses": [
-      {"pos": 1, "text": "Балбаара", "type": "title", "fst": "ymv", "root": "балбаара+N"},
+      {"pos": 1, "text": "Балбаара", "type": "title", "fst": "ymv", "root": "балбаара+PN"},
       {"pos": 2, "text": "эбээ", "type": "lowercase", "fst": "ymv", "root": "эбээ+INJ"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron"},
@@ -1228,9 +1228,9 @@
     "id": 75,
     "parses": [
       {"pos": 1, "text": "Атаһым", "type": "title", "fst": "ymv", "root": "атас+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "Охулуокап", "type": "title", "fst": "yma", "root": "охулуокап+N"},
+      {"pos": 2, "text": "Охулуокап", "type": "title", "fst": "yma", "root": "охулуокап+PN"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "Бүөтүрүм", "type": "title", "fst": "ymv", "root": "бүөтүр+N", "affixes": "+POSS.1SG"},
+      {"pos": 4, "text": "Бүөтүрүм", "type": "title", "fst": "ymv", "root": "бүөтүр+PN", "affixes": "+POSS.1SG"},
       {"pos": 5, "text": "барахсан", "type": "lowercase", "fst": "ymv", "root": "барахсан+N"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 7, "text": "аатырбыт", "type": "lowercase", "fst": "ymv", "root": "аат+N", "affixes": "+VRBLZ#4+PART_PAST"},
@@ -1284,7 +1284,7 @@
       {"pos": 1, "text": "Анюта", "type": "title", "fst": "yma", "root": "анюта+N"},
       {"pos": 2, "text": "аҕата", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.3SG"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "Анюта", "type": "title", "fst": "yma", "root": "анюта+N"},
+      {"pos": 4, "text": "Анюта", "type": "title", "fst": "yma", "root": "анюта+PN"},
       {"pos": 5, "text": "ийэтэ", "type": "lowercase", "fst": "ymv", "root": "ийэ+N", "affixes": "+POSS.3SG"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 7, "text": "хаалыҥ", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+IMP#1.2PL"},
@@ -1309,7 +1309,7 @@
       {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
       {"pos": 3, "text": "колхозтар", "type": "lowercase", "fst": "yma", "root": "колхоз+N", "affixes": "+PL"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "Армия", "type": "title", "fst": "ymv", "root": "армия+N"},
+      {"pos": 5, "text": "Армия", "type": "title", "fst": "ymv", "root": "армия+PN"},
       {"pos": 6, "text": "норуоттар", "type": "lowercase", "fst": "ymv", "root": "норуот+N", "affixes": "+PL"},
       {"pos": 7, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
@@ -1510,7 +1510,7 @@
       {"pos": 1, "text": "Бырастыы", "type": "title", "fst": "ymv", "root": "бырастыы+INJ"},
       {"pos": 2, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "Кавказ", "type": "title", "fst": "yma", "root": "кавказ+N"},
+      {"pos": 4, "text": "Кавказ", "type": "title", "fst": "yma", "root": "кавказ+PN"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 6, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 7, "text": "бардым", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.1SG"},
@@ -1583,7 +1583,7 @@
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "Чохоон", "type": "title", "fst": "yma", "root": "чохоон+N"},
+      {"pos": 5, "text": "Чохоон", "type": "title", "fst": "yma", "root": "чохоон+PN"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 7, "text": "өйдөөтүҥ", "type": "lowercase", "fst": "ymv", "root": "өй+N", "affixes": "+VRBLZ#1+PST.2SG"},
       {"pos": 8, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},

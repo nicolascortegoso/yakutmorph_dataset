@@ -38,9 +38,9 @@
     "ru": "Меня восторженно встретили Клавдия Ивановна Кирсанова и Ярославский, обняли, расцеловали.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Клавдия", "type": "title", "fst": "yma", "root": "клавдия+N"},
-      {"pos": 2, "text": "Ивановна", "type": "title", "fst": "yma", "root": "ивановна+N"},
-      {"pos": 3, "text": "Кирсанова", "type": "title", "fst": "yma", "root": "кирсанова+N"},
+      {"pos": 1, "text": "Клавдия", "type": "title", "fst": "yma", "root": "клавдия+PN"},
+      {"pos": 2, "text": "Ивановна", "type": "title", "fst": "yma", "root": "ивановна+PN"},
+      {"pos": 3, "text": "Кирсанова", "type": "title", "fst": "yma", "root": "кирсанова+PN"},
       {"pos": 4, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
       {"pos": 5, "text": "Ярославскай", "type": "title", "fst": "ymv", "root": "ярославскай+Adj"},
       {"pos": 6, "text": "миигин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+ACC"},
@@ -68,7 +68,7 @@
     "id": 4,
     "parses": [
       {"pos": 1, "text": "Биирдэ", "type": "title", "fst": "ymv", "root": "биир+Num", "affixes": "+ADVZ#8"},
-      {"pos": 2, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+N"},
+      {"pos": 2, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+PN"},
       {"pos": 3, "text": "эһэтэ", "type": "lowercase", "fst": "ymv", "root": "эһэ+N", "affixes": "+POSS.3SG"},
       {"pos": 4, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"},
       {"pos": 5, "text": "таһыттан", "type": "lowercase", "fst": "ymv", "root": "тас+N", "affixes": "+POSS.3SG.ABL"},

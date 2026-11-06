@@ -45,13 +45,13 @@
     "ru": "Максим улыбнулся: «Я Максим».",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Максим", "type": "title", "fst": "yma", "root": "максим+N"},
+      {"pos": 1, "text": "Максим", "type": "title", "fst": "yma", "root": "максим+PN"},
       {"pos": 2, "text": "мичик", "type": "lowercase", "fst": "ymv", "root": "мичий+V", "affixes": "+ADJZ#16"},
       {"pos": 3, "text": "гынна", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+PST.3SG"},
       {"pos": 4, "text": ":", "type": "colon", "fst": "ymv"},
       {"pos": 5, "text": "«", "type": "quotation", "fst": "ymv"},
       {"pos": 6, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 7, "text": "Максиммын", "type": "title", "fst": "yma", "root": "максим+N", "affixes": "+1SG"},
+      {"pos": 7, "text": "Максиммын", "type": "title", "fst": "yma", "root": "максим+PN", "affixes": "+1SG"},
       {"pos": 8, "text": "»", "type": "quotation", "fst": "ymv"},
       {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -112,8 +112,8 @@
     "ru": "Значит, дочь Ивана Ивановича.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+N"},
-      {"pos": 2, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+N"},
+      {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
+      {"pos": 2, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+PN"},
       {"pos": 3, "text": "кыыһа", "type": "lowercase", "fst": "ymv", "root": "кыыс+N", "affixes": "+POSS.3SG"},
       {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}

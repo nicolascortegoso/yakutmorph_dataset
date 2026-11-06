@@ -28,7 +28,7 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "билигин+Adv"},
-      {"pos": 2, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+DAT"},
       {"pos": 3, "text": "ханнык", "type": "lowercase", "fst": "ymv", "root": "ханнык+Pron"},
       {"pos": 4, "text": "юбканы", "type": "lowercase", "fst": "yma", "root": "юбка+N", "affixes": "+ACC"},
       {"pos": 5, "text": "кэтэллэрий", "type": "lowercase", "fst": "ymv", "root": "кэт+V", "affixes": "+PART_PRES+PL+INT"},
@@ -49,9 +49,9 @@
     "parses": [
       {"pos": 1, "text": "Арааһы", "type": "title", "fst": "ymv", "root": "араас+Adj", "affixes": "+ACC"},
       {"pos": 2, "text": "кэтэллэр", "type": "lowercase", "fst": "ymv", "root": "кэт+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 3, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+DAT"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "Ася", "type": "title", "fst": "yma", "root": "ася+N"},
+      {"pos": 5, "text": "Ася", "type": "title", "fst": "yma", "root": "ася+PN"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -146,7 +146,7 @@
     "id": 8,
     "parses": [
       {"pos": 1, "text": "Кинини", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
-      {"pos": 2, "text": "Сеня", "type": "title", "fst": "yma", "root": "сеня+N"},
+      {"pos": 2, "text": "Сеня", "type": "title", "fst": "yma", "root": "сеня+PN"},
       {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "ааттыыллара", "type": "lowercase", "fst": "ymv", "root": "аат+N", "affixes": "+VRBLZ#1+PART_PRES+PL+POSS.3SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}

@@ -11,7 +11,7 @@
     "ru": "Смотри (на) Васю.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Васяны", "type": "title", "fst": "yma", "root": "вася+N", "affixes": "+ACC"},
+      {"pos": 1, "text": "Васяны", "type": "title", "fst": "yma", "root": "вася+PN", "affixes": "+ACC"},
       {"pos": 2, "text": "көр", "type": "lowercase", "fst": "ymv", "root": "көр+V"},
       {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -110,9 +110,9 @@
     "ru": "Вася и Витя.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 2, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
-      {"pos": 3, "text": "Витя", "type": "title", "fst": "yma", "root": "витя+N"},
+      {"pos": 3, "text": "Витя", "type": "title", "fst": "yma", "root": "витя+PN"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -128,11 +128,11 @@
     "ru": "Вася пришел, а Витя нет.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 1, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 2, "text": "кэлбит", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "оттон", "type": "lowercase", "fst": "ymv", "root": "оттон+CONJ"},
-      {"pos": 5, "text": "Витя", "type": "title", "fst": "yma", "root": "витя+N"},
+      {"pos": 5, "text": "Витя", "type": "title", "fst": "yma", "root": "витя+PN"},
       {"pos": 6, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
       {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -149,9 +149,9 @@
     "ru": "Васю, Витю встретил-я.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Васяны", "type": "title", "fst": "yma", "root": "вася+N", "affixes": "+ACC"},
+      {"pos": 1, "text": "Васяны", "type": "title", "fst": "yma", "root": "вася+PN", "affixes": "+ACC"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Витяны", "type": "title", "fst": "yma", "root": "витяны+N"},
+      {"pos": 3, "text": "Витяны", "type": "title", "fst": "yma", "root": "витяны+PN"},
       {"pos": 4, "text": "көрүстүм", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+PST.1SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -169,7 +169,7 @@
     "id": 10,
     "parses": [
       {"pos": 1, "text": "Витялаах", "type": "title", "fst": "yma", "root": "витя+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 2, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 3, "text": "кэллилэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3PL"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -187,7 +187,7 @@
     "id": 11,
     "parses": [
       {"pos": 1, "text": "Витя", "type": "title", "fst": "yma", "root": "витя+N"},
-      {"pos": 2, "text": "Васялыын", "type": "title", "fst": "yma", "root": "вася+N", "affixes": "+COMIT"},
+      {"pos": 2, "text": "Васялыын", "type": "title", "fst": "yma", "root": "вася+PN", "affixes": "+COMIT"},
       {"pos": 3, "text": "кэллилэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3PL"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -205,7 +205,7 @@
     "id": 12,
     "parses": [
       {"pos": 1, "text": "Витя", "type": "title", "fst": "yma", "root": "витя+N"},
-      {"pos": 2, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 2, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 3, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "кэллилэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3PL"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
@@ -225,7 +225,7 @@
     "parses": [
       {"pos": 1, "text": "Витя", "type": "title", "fst": "yma", "root": "витя+N"},
       {"pos": 2, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
-      {"pos": 3, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+N"},
+      {"pos": 3, "text": "Вася", "type": "title", "fst": "yma", "root": "вася+PN"},
       {"pos": 4, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]

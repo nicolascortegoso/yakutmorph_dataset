@@ -302,7 +302,7 @@
     "id": 20,
     "parses": [
       {"pos": 1, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити+Pron"},
-      {"pos": 2, "text": "Штамна", "type": "title", "fst": "yma", "root": "штамна+N"},
+      {"pos": 2, "text": "Штамна", "type": "title", "fst": "yma", "root": "штамна+PN"},
       {"pos": 3, "text": "кэргэн", "type": "lowercase", "fst": "ymv", "root": "кэргэн+N"},
       {"pos": 4, "text": "тахсаары", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+CONV#5"},
       {"pos": 5, "text": "гынар", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+PART_PRES"},
@@ -455,8 +455,8 @@
     "parses": [
       {"pos": 1, "text": "Ээ", "type": "title", "fst": "ymv", "root": "ээ+MOD"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Мария", "type": "title", "fst": "yma", "root": "мария+N"},
-      {"pos": 4, "text": "Ивановна", "type": "title", "fst": "yma", "root": "ивановна+N"},
+      {"pos": 3, "text": "Мария", "type": "title", "fst": "yma", "root": "мария+PN"},
+      {"pos": 4, "text": "Ивановна", "type": "title", "fst": "yma", "root": "ивановна+PN"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 6, "text": "быраһаайдаһан", "type": "lowercase", "fst": "ymv", "root": "быраһаай+INJ", "affixes": "+VRBLZ#1+RECP+CONV#1"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
@@ -485,7 +485,7 @@
       {"pos": 5, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+2SG"},
       {"pos": 6, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 8, "text": "Сэмэн", "type": "title", "fst": "ymv", "root": "сэмэн+N"},
+      {"pos": 8, "text": "Сэмэн", "type": "title", "fst": "ymv", "root": "сэмэн+PN"},
       {"pos": 9, "text": "?", "type": "question", "fst": "ymv"}
     ]
   },
@@ -584,7 +584,7 @@
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 4, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 5, "text": "Эндэҥэҕэр", "type": "title", "fst": "yma", "root": "эндэҥэ+N", "affixes": "+POSS.2SG+DAT"},
+      {"pos": 5, "text": "Эндэҥэҕэр", "type": "title", "fst": "yma", "root": "эндэҥэ+PN", "affixes": "+POSS.2SG.DAT"},
       {"pos": 6, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
       {"pos": 7, "text": "ыаллаһаары", "type": "lowercase", "fst": "ymv", "root": "ыал+N", "affixes": "+VRBLZ#1+RECP+CONV#5"},
       {"pos": 8, "text": "гыннахпына", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"},
@@ -779,7 +779,7 @@
     "ru": "О, вот попался бы Констан- тин к нам в руки, как бы мы с ним разделались.",
     "id": 46,
     "parses": [
-      {"pos": 1, "text": "Көстөкүүн", "type": "title", "fst": "yma", "root": "көстөкүүн+N"},
+      {"pos": 1, "text": "Көстөкүүн", "type": "title", "fst": "yma", "root": "көстөкүүн+PN"},
       {"pos": 2, "text": "илиибитигэр", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.1PL.DAT"},
       {"pos": 3, "text": "түбэстэр", "type": "lowercase", "fst": "ymv", "root": "түбэс+V", "affixes": "+CONV_COND#1"},
       {"pos": 4, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},

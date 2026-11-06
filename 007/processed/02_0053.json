@@ -12,8 +12,8 @@
     "parses": [
       {"pos": 1, "text": "Эр", "type": "title", "fst": "ymv", "root": "эр+N"},
       {"pos": 2, "text": "бэрдэ", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "Эрдэлиир", "type": "title", "fst": "ymv", "root": "эрдэлиир+N"},
-      {"pos": 4, "text": "Миитэрэйбин", "type": "title", "fst": "ymv", "root": "миитэрэй+N", "affixes": "+1SG"},
+      {"pos": 3, "text": "Эрдэлиир", "type": "title", "fst": "ymv", "root": "эрдэлиир+PN"},
+      {"pos": 4, "text": "Миитэрэйбин", "type": "title", "fst": "ymv", "root": "миитэрэй+PN", "affixes": "+1SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -53,7 +53,7 @@
       {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
       {"pos": 2, "text": "аатын", "type": "lowercase", "fst": "ymv", "root": "аат+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "Күкүр", "type": "title", "fst": "ymv", "root": "күкүр+N"},
-      {"pos": 4, "text": "Уус", "type": "title", "fst": "ymv", "root": "уус+N"},
+      {"pos": 4, "text": "Уус", "type": "title", "fst": "ymv", "root": "уус+PN"},
       {"pos": 5, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии+Part"},
       {"pos": 6, "text": "?", "type": "question", "fst": "ymv"}
     ]
@@ -72,7 +72,7 @@
       {"pos": 1, "text": "Ээ", "type": "title", "fst": "ymv", "root": "ээ+MOD"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "Күкүр", "type": "title", "fst": "ymv", "root": "күкүр+N"},
-      {"pos": 4, "text": "Уус", "type": "title", "fst": "ymv", "root": "уус+N"},
+      {"pos": 4, "text": "Уус", "type": "title", "fst": "ymv", "root": "уус+PN"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]
   },
@@ -166,7 +166,7 @@
       {"pos": 1, "text": "Көр", "type": "title", "fst": "ymv", "root": "көр+V"},
       {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "Сүөкүлэ", "type": "title", "fst": "yma", "root": "сүөкүлэ+N"},
+      {"pos": 4, "text": "Сүөкүлэ", "type": "title", "fst": "yma", "root": "сүөкүлэ+PN"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 6, "text": "тула", "type": "lowercase", "fst": "ymv", "root": "тула+N"},
       {"pos": 7, "text": "дьол", "type": "lowercase", "fst": "ymv", "root": "дьол+N"},
@@ -214,7 +214,7 @@
     "ru": "Кэтириис не поняла иронию мальчика.",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Кэтириис", "type": "title", "fst": "ymv", "root": "кэтириис+N"},
+      {"pos": 1, "text": "Кэтириис", "type": "title", "fst": "ymv", "root": "кэтириис+PN"},
       {"pos": 2, "text": "уол", "type": "lowercase", "fst": "ymv", "root": "уол+N"},
       {"pos": 3, "text": "үгэтин", "type": "lowercase", "fst": "ymv", "root": "үгэ+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 4, "text": "өйдөөбөтө", "type": "lowercase", "fst": "ymv", "root": "өй+N", "affixes": "+VRBLZ#1+NEG+PST.3SG"},

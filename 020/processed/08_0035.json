@@ -204,7 +204,7 @@
     "ru": "Никита, я немедленно отправляюсь к Плоскому.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Никита", "type": "title", "fst": "yma", "root": "никита+N"},
+      {"pos": 1, "text": "Никита", "type": "title", "fst": "yma", "root": "никита+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
       {"pos": 4, "text": "сип", "type": "lowercase", "fst": "ymv", "root": "сип+IMIT"},
@@ -398,7 +398,7 @@
     "ru": "Он что-то вымаливает, просит у Егордана.",
     "id": 21,
     "parses": [
-      {"pos": 1, "text": "Дьөгүөрдээнтэн", "type": "title", "fst": "ymv", "root": "дьөгүөрдээн+N", "affixes": "+ABL"},
+      {"pos": 1, "text": "Дьөгүөрдээнтэн", "type": "title", "fst": "ymv", "root": "дьөгүөрдээн+PN", "affixes": "+ABL"},
       {"pos": 2, "text": "тугу", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+ACC"},
       {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
       {"pos": 4, "text": "ааттаһар", "type": "lowercase", "fst": "ymv", "root": "ааттас+V", "affixes": "+PART_PRES"},
@@ -636,7 +636,7 @@
     "id": 32,
     "parses": [
       {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "Дон", "type": "title", "fst": "yma", "root": "дон+N"},
+      {"pos": 2, "text": "Дон", "type": "title", "fst": "yma", "root": "дон+PN"},
       {"pos": 3, "text": "өрүскэ", "type": "lowercase", "fst": "ymv", "root": "өрүс+N", "affixes": "+DAT"},
       {"pos": 4, "text": "киирдибит", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PST.1PL"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
@@ -654,7 +654,7 @@
     "ru": "Сергей прислонился к окну.",
     "id": 33,
     "parses": [
-      {"pos": 1, "text": "Сергей", "type": "title", "fst": "ymv", "root": "сергей+N"},
+      {"pos": 1, "text": "Сергей", "type": "title", "fst": "ymv", "root": "сергей+PN"},
       {"pos": 2, "text": "түннүккэ", "type": "lowercase", "fst": "ymv", "root": "түннүк+N", "affixes": "+DAT"},
       {"pos": 3, "text": "сыһынна", "type": "lowercase", "fst": "ymv", "root": "сыһын+V", "affixes": "+PST.3SG"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
@@ -713,13 +713,13 @@
     "parses": [
       {"pos": 1, "text": "Эдэр", "type": "title", "fst": "ymv", "root": "эдэр+Adj"},
       {"pos": 2, "text": "специалистар", "type": "lowercase", "fst": "ymv", "root": "специалист+N", "affixes": "+PL"},
-      {"pos": 3, "text": "Ийэ", "type": "title", "fst": "ymv", "root": "ийэ+N"},
+      {"pos": 3, "text": "Ийэ", "type": "title", "fst": "ymv", "root": "ийэ+PN"},
       {"pos": 4, "text": "дойду", "type": "lowercase", "fst": "ymv", "root": "дойду+N"},
       {"pos": 5, "text": "тэбэр", "type": "lowercase", "fst": "ymv", "root": "тэп+V", "affixes": "+PART_PRES"},
       {"pos": 6, "text": "сүрэҕиттэн", "type": "lowercase", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.3SG.ABL"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 8, "text": "улуу", "type": "lowercase", "fst": "ymv", "root": "улуу+Adj"},
-      {"pos": 9, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+ABL"},
+      {"pos": 9, "text": "Москваттан", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+ABL"},
       {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 11, "text": "кытары", "type": "lowercase", "fst": "ymv", "root": "кытар+V", "affixes": "+ADVZ#1"},
       {"pos": 12, "text": "кэлэллэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES+PL"},

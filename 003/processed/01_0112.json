@@ -10,7 +10,7 @@
     "ru": "Иван зря послал своего парня.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+N"},
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+PN"},
       {"pos": 2, "text": "уолун", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "дьоҕойон", "type": "lowercase", "fst": "ymv", "root": "дьоҕойон+Adv"},
       {"pos": 4, "text": "ыыппыт", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+PART_PAST"},
@@ -448,8 +448,8 @@
     "parses": [
       {"pos": 1, "text": "Аан", "type": "title", "fst": "ymv", "root": "аан+N"},
       {"pos": 2, "text": "бастаан", "type": "lowercase", "fst": "ymv", "root": "бас+N", "affixes": "+VRBLZ#1+CONV#1"},
-      {"pos": 3, "text": "Егор", "type": "title", "fst": "yma", "root": "егор+N"},
-      {"pos": 4, "text": "Винокуров", "type": "title", "fst": "yma", "root": "винокуров+N"},
+      {"pos": 3, "text": "Егор", "type": "title", "fst": "yma", "root": "егор+PN"},
+      {"pos": 4, "text": "Винокуров", "type": "title", "fst": "yma", "root": "винокуров+PN"},
       {"pos": 5, "text": "көрбүт", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PAST"},
       {"pos": 6, "text": "ньирэйдэрин", "type": "lowercase", "fst": "ymv", "root": "ньирэй+N", "affixes": "+PL+POSS.3SG.ACC"},
       {"pos": 7, "text": "ыйаабыттара", "type": "lowercase", "fst": "ymv", "root": "ый+N", "affixes": "+VRBLZ#3+PART_PAST+PL+POSS.3SG"},
@@ -556,7 +556,7 @@
     "ru": "Иван, опередив (всех) в работе, получил премию.",
     "id": 41,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+N"},
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+PN"},
       {"pos": 2, "text": "үлэҕэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+DAT"},
       {"pos": 3, "text": "бастаан", "type": "lowercase", "fst": "ymv", "root": "бас+N", "affixes": "+VRBLZ#1+CONV#1"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
@@ -684,8 +684,8 @@
     "ru": "По указанию Дмитрия Николаевича я неграмотных учил в одиночку и группами.",
     "id": 49,
     "parses": [
-      {"pos": 1, "text": "Дмитрий", "type": "title", "fst": "ymv", "root": "дмитрий+N"},
-      {"pos": 2, "text": "Николаевич", "type": "title", "fst": "yma", "root": "николаевич+N"},
+      {"pos": 1, "text": "Дмитрий", "type": "title", "fst": "ymv", "root": "дмитрий+PN"},
+      {"pos": 2, "text": "Николаевич", "type": "title", "fst": "yma", "root": "николаевич+PN"},
       {"pos": 3, "text": "ыйыытынан", "type": "lowercase", "fst": "ymv", "root": "ый+V", "affixes": "+NMLZ#2+POSS.3SG.INST"},
       {"pos": 4, "text": "үөрэҕэ", "type": "lowercase", "fst": "ymv", "root": "үөрэх+N", "affixes": "+POSS.3SG"},
       {"pos": 5, "text": "суохтары", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+PL+ACC"},

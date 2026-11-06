@@ -12,7 +12,7 @@
     "parses": [
       {"pos": 1, "text": "Хайа", "type": "title", "fst": "ymv", "root": "хайа+MOD"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Биичэ", "type": "title", "fst": "yma", "root": "биичэ+N"},
+      {"pos": 3, "text": "Биичэ", "type": "title", "fst": "yma", "root": "биичэ+PN"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "аны", "type": "lowercase", "fst": "ymv", "root": "аны+Adv"},
       {"pos": 6, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хаһан+Pron"},
@@ -49,11 +49,11 @@
     "ru": "Никита, ты что, Майыс не узнал?",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ+N"},
+      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "хайа", "type": "lowercase", "fst": "ymv", "root": "хайа+MOD"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "Маайыһы", "type": "title", "fst": "ymv", "root": "маайыс+N", "affixes": "+ACC"},
+      {"pos": 5, "text": "Маайыһы", "type": "title", "fst": "ymv", "root": "маайыс+PN", "affixes": "+ACC"},
       {"pos": 6, "text": "билбэтиҥ", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+PST.2SG"},
       {"pos": 7, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
       {"pos": 8, "text": "?", "type": "question", "fst": "ymv"}

@@ -54,8 +54,8 @@
     "ru": "Петр Иванович, опоздав, в тот день не подоспел к заседанию правления.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Петр", "type": "title", "fst": "yma", "root": "петр+N"},
-      {"pos": 2, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+N"},
+      {"pos": 1, "text": "Петр", "type": "title", "fst": "yma", "root": "петр+PN"},
+      {"pos": 2, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+PN"},
       {"pos": 3, "text": "хойутаан", "type": "lowercase", "fst": "ymv", "root": "хойут+Adv", "affixes": "+VRBLZ#3+CONV#1"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
@@ -122,7 +122,7 @@
       {"pos": 1, "text": "Улаатан", "type": "title", "fst": "ymv", "root": "улаат+V", "affixes": "+CONV#1"},
       {"pos": 2, "text": "иһэн", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+CONV#1"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "Анемподист", "type": "title", "fst": "yma", "root": "анемподист+N"},
+      {"pos": 4, "text": "Анемподист", "type": "title", "fst": "yma", "root": "анемподист+PN"},
       {"pos": 5, "text": "үөрэниэн", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_FUT+CONV#1"},
       {"pos": 6, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adv"},
       {"pos": 7, "text": "баҕарар", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES"},
@@ -165,7 +165,7 @@
     "id": 12,
     "parses": [
       {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "Өлүөхүмэҕэ", "type": "title", "fst": "yma", "root": "өлүөхүмэ+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "Өлүөхүмэҕэ", "type": "title", "fst": "yma", "root": "өлүөхүмэ+PN", "affixes": "+DAT"},
       {"pos": 3, "text": "адвокатынан", "type": "lowercase", "fst": "ymv", "root": "адвокат+N", "affixes": "+INST"},
       {"pos": 4, "text": "үлэлии", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#2"},
       {"pos": 5, "text": "олорон", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+CONV#1"},
@@ -257,7 +257,7 @@
     "id": 17,
     "parses": [
       {"pos": 1, "text": "Кэлин", "type": "title", "fst": "ymv", "root": "кэлин+N"},
-      {"pos": 2, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "Москваҕа", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+DAT"},
       {"pos": 3, "text": "олохсуйан", "type": "lowercase", "fst": "ymv", "root": "олох+N", "affixes": "+VRBLZ#5+CONV#1"},
       {"pos": 4, "text": "бараммын", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1+1SG"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
@@ -358,7 +358,7 @@
       {"pos": 2, "text": "ыалдьан", "type": "lowercase", "fst": "ymv", "root": "ыарый+V", "affixes": "+CONV#1"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 5, "text": "Москвалыырбын", "type": "title", "fst": "yma", "root": "москва+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.1SG+ACC"},
+      {"pos": 5, "text": "Москвалыырбын", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+VRBLZ#1+PART_PRES+POSS.1SG.ACC"},
       {"pos": 6, "text": "тохтоттум", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+CSTV+PST.1SG"},
       {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
     ]

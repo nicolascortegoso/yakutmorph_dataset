@@ -71,7 +71,7 @@
     "ru": "К Аласову они очень хорошо относятся ",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Аласовка", "type": "title", "fst": "yma", "root": "аласов+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "Аласовка", "type": "title", "fst": "yma", "root": "аласов+PN", "affixes": "+DAT"},
       {"pos": 2, "text": "бэртэр", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj", "affixes": "+PL"}
     ]
   },
@@ -103,7 +103,7 @@
     "id": 7,
     "parses": [
       {"pos": 1, "text": "Миэхэ", "type": "title", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
-      {"pos": 2, "text": "Мэхээһим", "type": "title", "fst": "yma", "root": "мэхээс+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "Мэхээһим", "type": "title", "fst": "yma", "root": "мэхээс+PN", "affixes": "+POSS.1SG"},
       {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
       {"pos": 4, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
@@ -285,7 +285,7 @@
     "id": 17,
     "parses": [
       {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "Тааскар", "type": "title", "fst": "ymv", "root": "таас+N", "affixes": "+POSS.2SG.DAT"},
+      {"pos": 2, "text": "Тааскар", "type": "title", "fst": "ymv", "root": "таас+PN", "affixes": "+POSS.2SG.DAT"},
       {"pos": 3, "text": "тахсан", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
@@ -658,7 +658,7 @@
     "ru": "Оказывается, Степанов очень устал и проголодался (выражает чрезмерную силу проявления действия, эмоционально усиливая достоверность его).",
     "id": 38,
     "parses": [
-      {"pos": 1, "text": "Степанов", "type": "title", "fst": "yma", "root": "степанов+N"},
+      {"pos": 1, "text": "Степанов", "type": "title", "fst": "yma", "root": "степанов+PN"},
       {"pos": 2, "text": "сылайбыта", "type": "lowercase", "fst": "ymv", "root": "сылай+V", "affixes": "+PART_PAST+POSS.3SG"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "аччыктаабыта", "type": "lowercase", "fst": "ymv", "root": "аччык+Adj", "affixes": "+VRBLZ#1+PART_PAST+POSS.3SG"},

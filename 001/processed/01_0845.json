@@ -31,7 +31,7 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Уордаах", "type": "title", "fst": "ymv", "root": "уор+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "Сиирдэри", "type": "title", "fst": "ymv", "root": "сиирдэр+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "Сиирдэри", "type": "title", "fst": "ymv", "root": "сиирдэр+PN", "affixes": "+ACC"},
       {"pos": 3, "text": "утары", "type": "lowercase", "fst": "ymv", "root": "утар+V", "affixes": "+ADVZ#1"},
       {"pos": 4, "text": "туран", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#1"},
       {"pos": 5, "text": "кэллэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3SG"},
@@ -111,7 +111,7 @@
       {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
       {"pos": 2, "text": "күнтэн", "type": "lowercase", "fst": "ymv", "root": "күн+N", "affixes": "+ABL"},
       {"pos": 3, "text": "антах", "type": "lowercase", "fst": "ymv", "root": "антах+Adv"},
-      {"pos": 4, "text": "Боппуолдьа", "type": "title", "fst": "ymv", "root": "боппуолдьа+N"},
+      {"pos": 4, "text": "Боппуолдьа", "type": "title", "fst": "ymv", "root": "боппуолдьа+PN"},
       {"pos": 5, "text": "айах", "type": "lowercase", "fst": "ymv", "root": "айах+N"},
       {"pos": 6, "text": "буоларыҥ", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES+POSS.2SG"},
       {"pos": 7, "text": "тохтуур", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+PART_PRES"},
@@ -241,7 +241,7 @@
     "ru": "Над Японией ночью ярко горит множество звезд.",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "Япония", "type": "title", "fst": "yma", "root": "япония+N"},
+      {"pos": 1, "text": "Япония", "type": "title", "fst": "yma", "root": "япония+PN"},
       {"pos": 2, "text": "үөһэ", "type": "lowercase", "fst": "ymv", "root": "үөһэ+Adv"},
       {"pos": 3, "text": "түүн", "type": "lowercase", "fst": "ymv", "root": "түүн+N"},
       {"pos": 4, "text": "үгүс", "type": "lowercase", "fst": "ymv", "root": "үгүс+Adj"},
@@ -261,7 +261,7 @@
     "ru": "Выше Витима начинается Иркутская область.",
     "id": 16,
     "parses": [
-      {"pos": 1, "text": "Витимтэн", "type": "title", "fst": "yma", "root": "витим+N", "affixes": "+ABL"},
+      {"pos": 1, "text": "Витимтэн", "type": "title", "fst": "yma", "root": "витим+PN", "affixes": "+ABL"},
       {"pos": 2, "text": "үөһэ", "type": "lowercase", "fst": "ymv", "root": "үөһэ+Adv"},
       {"pos": 3, "text": "Иркутскай", "type": "title", "fst": "ymv", "root": "иркутскай+Adj"},
       {"pos": 4, "text": "уобалас", "type": "lowercase", "fst": "ymv", "root": "уобалас+N"},
@@ -354,7 +354,7 @@
     "ru": "Откуда мне знать лучше Михаила?",
     "id": 20,
     "parses": [
-      {"pos": 1, "text": "Михаилтан", "type": "title", "fst": "yma", "root": "михаил+N", "affixes": "+ABL"},
+      {"pos": 1, "text": "Михаилтан", "type": "title", "fst": "yma", "root": "михаил+PN", "affixes": "+ABL"},
       {"pos": 2, "text": "ордук", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+NMLZ#5"},
       {"pos": 3, "text": "билэрим", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES+POSS.1SG"},
       {"pos": 4, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
@@ -373,7 +373,7 @@
     "ru": "Выходят все, кроме Нины.",
     "id": 21,
     "parses": [
-      {"pos": 1, "text": "Нинаттан", "type": "title", "fst": "yma", "root": "нина+N", "affixes": "+ABL"},
+      {"pos": 1, "text": "Нинаттан", "type": "title", "fst": "yma", "root": "нина+PN", "affixes": "+ABL"},
       {"pos": 2, "text": "ураты", "type": "lowercase", "fst": "ymv", "root": "ураты+Adv"},
       {"pos": 3, "text": "бары", "type": "lowercase", "fst": "ymv", "root": "бары+Pron"},
       {"pos": 4, "text": "тахсаллар", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PART_PRES+PL"},
@@ -395,7 +395,7 @@
       {"pos": 2, "text": "тайҕа", "type": "lowercase", "fst": "ymv", "root": "тайҕа+N"},
       {"pos": 3, "text": "курдары", "type": "lowercase", "fst": "ymv", "root": "курдар+V", "affixes": "+ADVZ#1"},
       {"pos": 4, "text": "одуулуура", "type": "lowercase", "fst": "ymv", "root": "одуу+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG"},
-      {"pos": 5, "text": "Ильич", "type": "title", "fst": "yma", "root": "ильич+N"},
+      {"pos": 5, "text": "Ильич", "type": "title", "fst": "yma", "root": "ильич+PN"},
       {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }

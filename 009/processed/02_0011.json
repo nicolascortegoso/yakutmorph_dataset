@@ -43,7 +43,7 @@
     "ru": "Петя слушает музыку.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Петя", "type": "title", "fst": "yma", "root": "петя+N"},
+      {"pos": 1, "text": "Петя", "type": "title", "fst": "yma", "root": "петя+PN"},
       {"pos": 2, "text": "музыка", "type": "lowercase", "fst": "ymv", "root": "музыка+N"},
       {"pos": 3, "text": "истэр", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PART_PRES"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
@@ -77,7 +77,7 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "Сельсовет", "type": "title", "fst": "ymv", "root": "сельсовет+N"},
-      {"pos": 2, "text": "Потаповы", "type": "title", "fst": "yma", "root": "потапов+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "Потаповы", "type": "title", "fst": "yma", "root": "потапов+PN", "affixes": "+ACC"},
       {"pos": 3, "text": "киномеханигынан", "type": "lowercase", "fst": "ymv", "root": "киномеханик+N", "affixes": "+INST"},
       {"pos": 4, "text": "анаабыт", "type": "lowercase", "fst": "ymv", "root": "анаа+V", "affixes": "+PART_PAST"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
@@ -94,7 +94,7 @@
     "ru": "Потапов назначен киномехаником.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Потапов", "type": "title", "fst": "yma", "root": "потапов+N"},
+      {"pos": 1, "text": "Потапов", "type": "title", "fst": "yma", "root": "потапов+PN"},
       {"pos": 2, "text": "киномеханигынан", "type": "lowercase", "fst": "ymv", "root": "киномеханик+N", "affixes": "+INST"},
       {"pos": 3, "text": "анаммыт", "type": "lowercase", "fst": "ymv", "root": "анаа+V", "affixes": "+REFL/PASS+PART_PAST"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}

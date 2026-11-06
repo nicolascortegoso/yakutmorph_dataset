@@ -32,8 +32,8 @@
     "ru": "Батурин тяжело уселся на принесенный Галей стул.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Батурин", "type": "title", "fst": "yma", "root": "батурин+N"},
-      {"pos": 2, "text": "Галя", "type": "title", "fst": "yma", "root": "галя+N"},
+      {"pos": 1, "text": "Батурин", "type": "title", "fst": "yma", "root": "батурин+PN"},
+      {"pos": 2, "text": "Галя", "type": "title", "fst": "yma", "root": "галя+PN"},
       {"pos": 3, "text": "аҕалан", "type": "lowercase", "fst": "ymv", "root": "аҕал+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "биэрбит", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PART_PAST"},
       {"pos": 5, "text": "олоппоһугар", "type": "lowercase", "fst": "ymv", "root": "олоппос+N", "affixes": "+POSS.3SG.DAT"},
@@ -80,7 +80,7 @@
     "ru": "Аня, как только прочла письмо, начала плакать.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Аня", "type": "title", "fst": "yma", "root": "аня+N"},
+      {"pos": 1, "text": "Аня", "type": "title", "fst": "yma", "root": "аня+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "суругу", "type": "lowercase", "fst": "ymv", "root": "суруй+V", "affixes": "+NMLZ#5+ACC"},
       {"pos": 4, "text": "ааҕаат", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+CONV#6"},
@@ -380,7 +380,7 @@
       {"pos": 2, "text": "кэллэ", "type": "lowercase", "fst": "yma", "root": "кэл+V", "affixes": "+PST.3SG"},
       {"pos": 3, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "Бүөтүр", "type": "title", "fst": "ymv", "root": "бүөтүр+N"},
+      {"pos": 5, "text": "Бүөтүр", "type": "title", "fst": "ymv", "root": "бүөтүр+PN"},
       {"pos": 6, "text": "?", "type": "question", "fst": "ymv"}
     ]
   },
@@ -481,7 +481,7 @@
       {"pos": 4, "text": "кэпсээ", "type": "lowercase", "fst": "ymv", "root": "кэпсээ+V"},
       {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+N"},
+      {"pos": 7, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+PN"},
       {"pos": 8, "text": "!", "type": "exclamation", "fst": "ymv"}
     ]
   },
@@ -592,7 +592,7 @@
     "ru": "Маша, испугавшись собаки, заплакала.",
     "id": 30,
     "parses": [
-      {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+N"},
+      {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+PN"},
       {"pos": 2, "text": "ыттан", "type": "lowercase", "fst": "ymv", "root": "ыт+N", "affixes": "+ABL"},
       {"pos": 3, "text": "куттанан", "type": "lowercase", "fst": "ymv", "root": "куттаа+V", "affixes": "+REFL/PASS+CONV#1"},
       {"pos": 4, "text": "ытаабыт", "type": "lowercase", "fst": "ymv", "root": "ытаа+V", "affixes": "+PART_PAST"},
@@ -666,7 +666,7 @@
     "parses": [
       {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
       {"pos": 2, "text": "сылдьан", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "Бүөтүрү", "type": "title", "fst": "ymv", "root": "бүөтүр+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "Бүөтүрү", "type": "title", "fst": "ymv", "root": "бүөтүр+PN", "affixes": "+ACC"},
       {"pos": 4, "text": "көрсүбүт", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+PART_PAST"},
       {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
     ]

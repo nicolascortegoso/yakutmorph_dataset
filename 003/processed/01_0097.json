@@ -32,7 +32,7 @@
     "ru": "Егордан, ничего не говоря, громко стонал.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Дьөгүөрдээн", "type": "title", "fst": "ymv", "root": "дьөгүөрдээн+N"},
+      {"pos": 1, "text": "Дьөгүөрдээн", "type": "title", "fst": "ymv", "root": "дьөгүөрдээн+PN"},
       {"pos": 2, "text": "тугу", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+ACC"},
       {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
       {"pos": 4, "text": "саҥарбакка", "type": "lowercase", "fst": "ymv", "root": "саҥа+N", "affixes": "+VRBLZ#4+NEG+PART_PRES+DAT"},
@@ -77,7 +77,7 @@
     "ru": "Никита, никому не адресуя, сказал.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+N"},
+      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "кимиэхэ", "type": "lowercase", "fst": "ymv", "root": "ким+Pron", "affixes": "+DAT"},
       {"pos": 4, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
@@ -123,8 +123,8 @@
     "ru": "Иван Семенович, не останавливаясь в городе, едет в Кильдямцы к купцу Иннокентию.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+N"},
-      {"pos": 2, "text": "Сэмэнэбис", "type": "title", "fst": "yma", "root": "сэмэнэбис+N"},
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "yma", "root": "уйбаан+PN"},
+      {"pos": 2, "text": "Сэмэнэбис", "type": "title", "fst": "yma", "root": "сэмэнэбис+PN"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "куоракка", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+DAT"},
       {"pos": 5, "text": "тохтообокко", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+NEG+CONV#4"},
@@ -209,7 +209,7 @@
       {"pos": 3, "text": "киирбэккэ", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+NEG+CONV#4"},
       {"pos": 4, "text": "эрэбит", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part", "affixes": "+1PL"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "Илим", "type": "title", "fst": "ymv", "root": "илим+N"},
+      {"pos": 6, "text": "Илим", "type": "title", "fst": "ymv", "root": "илим+PN"},
       {"pos": 7, "text": "трагынан", "type": "lowercase", "fst": "yma", "root": "тракт+N", "affixes": "+POSS.3SG.INST"},
       {"pos": 8, "text": "сатыы", "type": "lowercase", "fst": "ymv", "root": "сатыы+Adv"},
       {"pos": 9, "text": "тимир", "type": "lowercase", "fst": "ymv", "root": "тимир+N"},
@@ -231,7 +231,7 @@
     "parses": [
       {"pos": 1, "text": "Бэл", "type": "title", "fst": "ymv", "root": "бэл+MOD"},
       {"pos": 2, "text": "диэтэр", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV_COND#1"},
-      {"pos": 3, "text": "Каака", "type": "title", "fst": "yma", "root": "каака+N"},
+      {"pos": 3, "text": "Каака", "type": "title", "fst": "yma", "root": "каака+PN"},
       {"pos": 4, "text": "ойуун", "type": "lowercase", "fst": "ymv", "root": "ойуун+N"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 6, "text": "тыыммакка", "type": "lowercase", "fst": "ymv", "root": "тыын+V", "affixes": "+NEG+PART_PRES+DAT"},

@@ -10,9 +10,9 @@
       "ru": "Иван и Петр (Иван с Петром) уехали на охоту.",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+N"},
+         {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
          {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-         {"pos": 3, "text": "Петр", "type": "title", "fst": "yma", "root": "петр+N"},
+         {"pos": 3, "text": "Петр", "type": "title", "fst": "yma", "root": "петр+PN"},
          {"pos": 4, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
          {"pos": 5, "text": "бултуу", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+VRBLZ#1+NMLZ#2"},
          {"pos": 6, "text": "таҕыстылар", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PST.3PL"},
@@ -30,9 +30,9 @@
       "ru": "Иван и Петр (Иван с Петром) уехали на охоту.",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+N"},
+         {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
          {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-         {"pos": 3, "text": "Петр", "type": "title", "fst": "yma", "root": "петр+N"},
+         {"pos": 3, "text": "Петр", "type": "title", "fst": "yma", "root": "петр+PN"},
          {"pos": 4, "text": "буоланнар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1+PL"},
          {"pos": 5, "text": "бултуу", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+VRBLZ#1+NMLZ#2"},
          {"pos": 6, "text": "таҕыстылар", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PST.3PL"},
@@ -197,7 +197,7 @@
     "id": 11,
     "parses": [
       {"pos": 1, "text": "Иннокентий", "type": "title", "fst": "yma", "root": "иннокентий+N"},
-      {"pos": 2, "text": "Михайлович", "type": "title", "fst": "yma", "root": "михайлович+N"},
+      {"pos": 2, "text": "Михайлович", "type": "title", "fst": "yma", "root": "михайлович+PN"},
       {"pos": 3, "text": "сааһын", "type": "lowercase", "fst": "ymv", "root": "саас+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 4, "text": "тухары", "type": "lowercase", "fst": "ymv", "root": "тухары+POST"},
       {"pos": 5, "text": "бастаан", "type": "lowercase", "fst": "ymv", "root": "бас+N", "affixes": "+VRBLZ#1+CONV#1"},

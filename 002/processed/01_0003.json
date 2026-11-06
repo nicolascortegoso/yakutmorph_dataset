@@ -113,9 +113,9 @@
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "дьэ", "type": "lowercase", "fst": "ymv", "root": "дьэ+MOD"},
       {"pos": 4, "text": "билигин", "type": "lowercase", "fst": "ymv", "root": "билигин+Adv"},
-      {"pos": 5, "text": "Сөдүөччүйэ", "type": "title", "fst": "yma", "root": "сөдүөччүйэ+N"},
+      {"pos": 5, "text": "Сөдүөччүйэ", "type": "title", "fst": "yma", "root": "сөдүөччүйэ+PN"},
       {"pos": 6, "text": "уола", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG"},
-      {"pos": 7, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+N"},
+      {"pos": 7, "text": "Микиитэ", "type": "title", "fst": "yma", "root": "микиитэ+PN"},
       {"pos": 8, "text": "эһигини", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron", "affixes": "+ACC"},
       {"pos": 9, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
       {"pos": 10, "text": "кэпсэтэрэ", "type": "lowercase", "fst": "ymv", "root": "кэпсээ+V", "affixes": "+CAUS+PART_PRES+POSS.3SG"},
@@ -226,7 +226,7 @@
     "ru": "Изо всех своих сил стараюсь ведь я.",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Сүрэхпинэн", "type": "title", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.1SG+INST"},
+      {"pos": 1, "text": "Сүрэхпинэн", "type": "title", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.1SG.INST"},
       {"pos": 2, "text": "үлэлии", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#2"},
       {"pos": 3, "text": "сатыыбын", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+PART_PRES+1SG"},
       {"pos": 4, "text": "эбээт", "type": "lowercase", "fst": "ymv", "root": "эбээт+Part"},
@@ -261,7 +261,7 @@
       "ru": "Гаврила ты, наверное, не сможешь прогнать из колхоза!",
       "id": 14,
       "parses": [
-         {"pos": 1, "text": "Хабырылланы", "type": "title", "fst": "ymv", "root": "хабырылла+N", "affixes": "+ACC"},
+         {"pos": 1, "text": "Хабырылланы", "type": "title", "fst": "ymv", "root": "хабырылла+PN", "affixes": "+ACC"},
          {"pos": 2, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
          {"pos": 3, "text": "колхозтан", "type": "lowercase", "fst": "yma", "root": "колхоз+N", "affixes": "+ABL"},
          {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
@@ -405,7 +405,7 @@
     "ru": "Позвать что ли Михаила Семеновича (Не позвать ли нам Михаила Семеновича).",
     "id": 21,
     "parses": [
-      {"pos": 1, "text": "Михаил", "type": "title", "fst": "yma", "root": "михаил+N"},
+      {"pos": 1, "text": "Михаил", "type": "title", "fst": "yma", "root": "михаил+PN"},
       {"pos": 2, "text": "Семеновиһы", "type": "title", "fst": "yma", "root": "семенович+N", "affixes": "+ACC"},
       {"pos": 3, "text": "ыҥыран", "type": "lowercase", "fst": "ymv", "root": "ыҥыр+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "көрөрбүт", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+POSS.1PL"},
@@ -501,8 +501,8 @@
     "parses": [
       {"pos": 1, "text": "Баҕар", "type": "title", "fst": "ymv", "root": "баҕар+MOD"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Сааба", "type": "title", "fst": "yma", "root": "сааба+N"},
-      {"pos": 4, "text": "Уоһукабы", "type": "title", "fst": "yma", "root": "уоһукап+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "Сааба", "type": "title", "fst": "yma", "root": "сааба+PN"},
+      {"pos": 4, "text": "Уоһукабы", "type": "title", "fst": "yma", "root": "уоһукап+PN", "affixes": "+ACC"},
       {"pos": 5, "text": "билэргит", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_PRES+POSS.2PL"},
       {"pos": 6, "text": "буолаарай", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+POT"},
       {"pos": 7, "text": "?", "type": "question", "fst": "ymv"}
@@ -693,7 +693,7 @@
     "id": 38,
     "parses": [
       {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "Нинаны", "type": "title", "fst": "yma", "root": "нина+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "Нинаны", "type": "title", "fst": "yma", "root": "нина+PN", "affixes": "+ACC"},
       {"pos": 3, "text": "билбэтиҥ", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+PART_PRES+POSS.2SG"},
       {"pos": 4, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#1"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},

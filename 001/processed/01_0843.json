@@ -13,7 +13,7 @@
       {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
       {"pos": 2, "text": "Якутскайтан", "type": "title", "fst": "ymv", "root": "якутскай+Adj", "affixes": "+ABL"},
       {"pos": 3, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "Майдахаарга", "type": "title", "fst": "yma", "root": "майдахаар+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "Майдахаарга", "type": "title", "fst": "yma", "root": "майдахаар+PN", "affixes": "+DAT"},
       {"pos": 5, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"},
       {"pos": 6, "text": "сүүс", "type": "lowercase", "fst": "ymv", "root": "сүүс+Num"},
       {"pos": 7, "text": "көс", "type": "lowercase", "fst": "ymv", "root": "көс+N"},
@@ -96,7 +96,7 @@
     "ru": "В них я дошел до Алдана.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Алдаҥҥа", "type": "title", "fst": "ymv", "root": "алдан+N", "affixes": "+DAT"},
+      {"pos": 1, "text": "Алдаҥҥа", "type": "title", "fst": "ymv", "root": "алдан+PN", "affixes": "+DAT"},
       {"pos": 2, "text": "тиийэ", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+CONV#2"},
       {"pos": 3, "text": "кэтэн", "type": "lowercase", "fst": "ymv", "root": "кэт+V", "affixes": "+CONV#1"},
       {"pos": 4, "text": "кэлбитим", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+POSS.1SG"},
@@ -184,7 +184,7 @@
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "күнү", "type": "lowercase", "fst": "ymv", "root": "күн+N", "affixes": "+ACC"},
       {"pos": 5, "text": "көрсө", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+CONV#2"},
-      {"pos": 6, "text": "Салааската", "type": "title", "fst": "ymv", "root": "салааска+N", "affixes": "+PRTV"},
+      {"pos": 6, "text": "Салааската", "type": "title", "fst": "ymv", "root": "салааска+PN", "affixes": "+PRTV"},
       {"pos": 7, "text": "сүүрдүөҕүҥ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+CSTV+PART_FUT+IMP#1.1PL"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -200,7 +200,7 @@
     "ru": "Дмитрий добронравен, всегда весел, более того, он артист от природы.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Миитэрэй", "type": "title", "fst": "ymv", "root": "миитэрэй+N"},
+      {"pos": 1, "text": "Миитэрэй", "type": "title", "fst": "ymv", "root": "миитэрэй+PN"},
       {"pos": 2, "text": "үтүө", "type": "lowercase", "fst": "ymv", "root": "үтүө+Adj"},
       {"pos": 3, "text": "майгылаах", "type": "lowercase", "fst": "ymv", "root": "майгы+N", "affixes": "+ADJZ#1"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},

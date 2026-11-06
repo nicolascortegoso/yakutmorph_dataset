@@ -52,7 +52,7 @@
     "parses": [
       {"pos": 1, "text": "Хайа", "type": "title", "fst": "ymv", "root": "хайа+Pron"},
       {"pos": 2, "text": "оттон", "type": "lowercase", "fst": "ymv", "root": "оттон+CONJ"},
-      {"pos": 3, "text": "Ариша", "type": "title", "fst": "yma", "root": "ариша+N"},
+      {"pos": 3, "text": "Ариша", "type": "title", "fst": "yma", "root": "ариша+PN"},
       {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
     ]
   },
@@ -136,8 +136,8 @@
     "ru": "Вадима Николаевича?",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Вадим", "type": "title", "fst": "yma", "root": "вадим+N"},
-      {"pos": 2, "text": "Николаевиһы", "type": "title", "fst": "yma", "root": "николаевич+N", "affixes": "+ACC"},
+      {"pos": 1, "text": "Вадим", "type": "title", "fst": "yma", "root": "вадим+PN"},
+      {"pos": 2, "text": "Николаевиһы", "type": "title", "fst": "yma", "root": "николаевич+PN", "affixes": "+ACC"},
       {"pos": 3, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
       {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
     ]
@@ -238,7 +238,7 @@
     "ru": "Кеша, почему уходишь?",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+N"},
+      {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+PN"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
       {"pos": 4, "text": "бараҕын", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PRES+2SG"},
@@ -505,7 +505,7 @@
     "parses": [
       {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
       {"pos": 2, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аата+MOD"},
-      {"pos": 3, "text": "Каака", "type": "title", "fst": "yma", "root": "каака+N"},
+      {"pos": 3, "text": "Каака", "type": "title", "fst": "yma", "root": "каака+PN"},
       {"pos": 4, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
       {"pos": 5, "text": "уолу", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+ACC"},
       {"pos": 6, "text": "күһэйэн", "type": "lowercase", "fst": "ymv", "root": "күһэй+V", "affixes": "+CONV#1"},

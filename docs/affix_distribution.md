@@ -2,40 +2,40 @@
 
 [To main README](../README.md)
 
-Total affixes: 74848
+Total affixes: 74901
 
 Total unique affixes: 190
 
 | affix | frequency |
 |:---|:---|
-| POSS.3SG | 6196 |
-| PART_PRES | 5943 |
-| CONV#1 | 4687 |
-| ACC | 4070 |
+| POSS.3SG | 6199 |
+| PART_PRES | 5950 |
+| CONV#1 | 4691 |
+| ACC | 4074 |
 | DAT | 3731 |
-| PL | 3659 |
-| PART_PAST | 3330 |
-| CONV#2 | 2797 |
-| PART_FUT | 2596 |
+| PL | 3660 |
+| PART_PAST | 3332 |
+| CONV#2 | 2799 |
+| PART_FUT | 2598 |
 | PST.3SG | 2526 |
-| VRBLZ#1 | 2216 |
-| NEG | 1907 |
+| VRBLZ#1 | 2218 |
+| NEG | 1908 |
 | ADJZ#1 | 1687 |
 | POSS.1SG | 1670 |
-| POSS.3SG.ACC | 1485 |
-| RECP | 1359 |
-| CONV_COND#2 | 1166 |
-| ABL | 1022 |
-| INST | 984 |
-| CSTV | 937 |
-| POSS.3SG.DAT | 785 |
+| POSS.3SG.ACC | 1488 |
+| RECP | 1362 |
+| CONV_COND#2 | 1168 |
+| ABL | 1023 |
+| INST | 985 |
+| CSTV | 939 |
+| POSS.3SG.DAT | 786 |
 | CAUS | 782 |
 | 1SG | 764 |
-| POSS.2SG | 702 |
+| POSS.2SG | 704 |
 | NMLZ#2 | 699 |
 | REFL/PASS | 658 |
 | PASS | 624 |
-| INT | 593 |
+| INT | 594 |
 | 2SG | 581 |
 | POSS.1PL | 567 |
 | PST.3PL | 561 |
@@ -43,13 +43,13 @@ Total unique affixes: 190
 | ADVZ#5 | 537 |
 | REFL | 484 |
 | VRBLZ#4 | 435 |
-| POSS.3SG.INST | 392 |
-| 1PL | 354 |
+| POSS.3SG.INST | 393 |
+| 1PL | 355 |
 | CONV_COND#1 | 334 |
 | VRBLZ#3 | 333 |
-| ADJZ#16 | 321 |
+| ADJZ#16 | 322 |
 | LOC | 308 |
-| NMLZ#5 | 299 |
+| NMLZ#5 | 300 |
 | PRTV | 296 |
 | CONV#5 | 281 |
 | NMLZ#1 | 278 |
@@ -57,7 +57,7 @@ Total unique affixes: 190
 | VRBLZ#2 | 258 |
 | HAB#1 | 249 |
 | POSS.3SG.ABL | 244 |
-| DEF | 242 |
+| DEF | 243 |
 | ADVZ#1 | 232 |
 | ADVZ#8 | 221 |
 | DEB | 217 |
@@ -75,7 +75,7 @@ Total unique affixes: 190
 | IMP#1.3SG | 132 |
 | ORD | 127 |
 | COLL | 117 |
-| POSS.2SG.ACC | 114 |
+| POSS.2SG.ACC | 115 |
 | ADJZ#6 | 107 |
 | POSS.1SG.DAT | 107 |
 | CONV#3 | 105 |
@@ -107,7 +107,7 @@ Total unique affixes: 190
 | ADVZ#3 | 61 |
 | ACCE#2 | 57 |
 | ADVZ#10 | 56 |
-| POSS.2SG.DAT | 52 |
+| POSS.2SG.DAT | 53 |
 | POSS.1SG.PRTV | 52 |
 | IMP#1.1SG | 51 |
 | VRBLZ#12 | 50 |
@@ -120,14 +120,14 @@ Total unique affixes: 190
 | FREC#1 | 42 |
 | FREC#4 | 40 |
 | DIM#2 | 36 |
+| POSS.2SG.PRTV | 35 |
 | POSS.3PL.DAT | 35 |
 | DIM#4 | 35 |
 | AUG#3 | 35 |
-| POSS.2SG.PRTV | 34 |
 | POSS.1PL.DAT | 32 |
 | IMP#1.1PL | 32 |
 | IMP#1.3PL | 29 |
-| POSS.1SG.ABL | 27 |
+| POSS.1SG.ABL | 28 |
 | ITER#2 | 27 |
 | NMLZ#7 | 27 |
 | ADVZ#9 | 25 |

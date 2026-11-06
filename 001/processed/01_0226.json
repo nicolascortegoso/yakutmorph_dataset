@@ -10,9 +10,9 @@
     "ru": "Они работают и ночью (даже ночью).",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Түүннэри", "type": "title", "fst": "ymv", "root": "түүн+N", "affixes": "+ADVZ#7"},
-      {"pos": 2, "text": "үлэлииллэр", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES+PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Түүннэри", "type": "title", "fst": "voc", "root": "түүн+N", "affixes": "+ADVZ#7"},
+      {"pos": 2, "text": "үлэлииллэр", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES+PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -26,10 +26,10 @@
     "ru": "И ночью, и днём.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Түүннэри", "type": "title", "fst": "ymv", "root": "түүн+N", "affixes": "+ADVZ#7"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "күнүстэри", "type": "lowercase", "fst": "ymv", "root": "күнүс+Adv", "affixes": "+ADVZ#7"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Түүннэри", "type": "title", "fst": "voc", "root": "түүн+N", "affixes": "+ADVZ#7"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "күнүстэри", "type": "lowercase", "fst": "voc", "root": "күнүс+Adv", "affixes": "+ADVZ#7"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -43,13 +43,13 @@
     "ru": "И зимою, и летом мы живем в доном доме.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кыһыннары", "type": "title", "fst": "ymv", "root": "кыһын+N", "affixes": "+ADVZ#7"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "сайыннары", "type": "lowercase", "fst": "ymv", "root": "сайын+N", "affixes": "+ADVZ#7"},
-      {"pos": 4, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 5, "text": "дьэбэ", "type": "lowercase", "fst": "ymv", "root": "дьэбэ+N"},
-      {"pos": 6, "text": "олоробут", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PRES+1PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кыһыннары", "type": "title", "fst": "voc", "root": "кыһын+N", "affixes": "+ADVZ#7"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "сайыннары", "type": "lowercase", "fst": "voc", "root": "сайын+N", "affixes": "+ADVZ#7"},
+      {"pos": 4, "text": "биир", "type": "lowercase", "fst": "voc", "root": "биир+Num"},
+      {"pos": 5, "text": "дьэбэ", "type": "lowercase", "fst": "voc", "root": "дьэбэ+N"},
+      {"pos": 6, "text": "олоробут", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -63,11 +63,11 @@
     "ru": "В нынешнем году и летом стало холодно.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Быйыл", "type": "title", "fst": "ymv", "root": "быйыл+Adv"},
-      {"pos": 2, "text": "сайыннары", "type": "lowercase", "fst": "ymv", "root": "сайын+N", "affixes": "+ADVZ#7"},
-      {"pos": 3, "text": "тымныы", "type": "lowercase", "fst": "ymv", "root": "тымныы+N"},
-      {"pos": 4, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Быйыл", "type": "title", "fst": "voc", "root": "быйыл+Adv"},
+      {"pos": 2, "text": "сайыннары", "type": "lowercase", "fst": "voc", "root": "сайын+N", "affixes": "+ADVZ#7"},
+      {"pos": 3, "text": "тымныы", "type": "lowercase", "fst": "voc", "root": "тымныы+N"},
+      {"pos": 4, "text": "буолла", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -81,12 +81,12 @@
     "ru": "Он загреб в пригоршнию (что-нибудь) вместе с разным мусором.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Сыыстары", "type": "title", "fst": "ymv", "root": "сыыс+N", "affixes": "+ADVZ#7"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "буордары", "type": "lowercase", "fst": "ymv", "root": "буор+N", "affixes": "+ADVZ#7"},
-      {"pos": 4, "text": "ытыһан", "type": "lowercase", "fst": "ymv", "root": "ытыс+V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": "ылла", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+PST.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сыыстары", "type": "title", "fst": "voc", "root": "сыыс+N", "affixes": "+ADVZ#7"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "буордары", "type": "lowercase", "fst": "voc", "root": "буор+N", "affixes": "+ADVZ#7"},
+      {"pos": 4, "text": "ытыһан", "type": "lowercase", "fst": "voc", "root": "ытыс+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "ылла", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+PST.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -100,9 +100,9 @@
     "ru": "Проглотить (мясо) вместе с костью.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "уҥуохтары", "type": "lowercase", "fst": "ymv", "root": "уҥуох+N", "affixes": "+ADVZ#7"},
-      {"pos": 2, "text": "ыйыһын", "type": "lowercase", "fst": "ymv", "root": "ыйыһын+V"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "уҥуохтары", "type": "lowercase", "fst": "voc", "root": "уҥуох+N", "affixes": "+ADVZ#7"},
+      {"pos": 2, "text": "ыйыһын", "type": "lowercase", "fst": "voc", "root": "ыйыһын+V"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

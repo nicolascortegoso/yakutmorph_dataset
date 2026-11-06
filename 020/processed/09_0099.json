@@ -11,15 +11,15 @@
     "ru": "Бабушка Кэдэлдьи...приветливо и важно стелется, нежно и плавно шевелится.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Кэдэлдьи", "type": "title", "fst": "yma", "root": "кэдэлдьи+N"},
-      {"pos": 2, "text": "эбэ", "type": "lowercase", "fst": "ymv", "root": "эбэ+N"},
-      {"pos": 3, "text": "...", "type": "ellipsis", "fst": "ymv"},
-      {"pos": 4, "text": "эйэҕэстик", "type": "lowercase", "fst": "ymv", "root": "эйэҕэс+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 5, "text": "күөгэйэр", "type": "lowercase", "fst": "ymv", "root": "күөгэй+V", "affixes": "+PART_PRES"},
-      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "нарыннык", "type": "lowercase", "fst": "ymv", "root": "нарын+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 8, "text": "наскыйар", "type": "lowercase", "fst": "ymv", "root": "наскый+V", "affixes": "+PART_PRES"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кэдэлдьи", "type": "title", "fst": "aff", "root": "кэдэлдьи+N"},
+      {"pos": 2, "text": "эбэ", "type": "lowercase", "fst": "voc", "root": "эбэ+N"},
+      {"pos": 3, "text": "...", "type": "ellipsis", "fst": "voc"},
+      {"pos": 4, "text": "эйэҕэстик", "type": "lowercase", "fst": "voc", "root": "эйэҕэс+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 5, "text": "күөгэйэр", "type": "lowercase", "fst": "voc", "root": "күөгэй+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 7, "text": "нарыннык", "type": "lowercase", "fst": "voc", "root": "нарын+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 8, "text": "наскыйар", "type": "lowercase", "fst": "voc", "root": "наскый+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -34,10 +34,10 @@
     "ru": "Вызывающая воспоминания Амга-госпожа.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ахтылҕаннаах", "type": "title", "fst": "ymv", "root": "ахтылҕан+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "Амма", "type": "title", "fst": "ymv", "root": "амма+PN"},
-      {"pos": 3, "text": "хотун", "type": "lowercase", "fst": "ymv", "root": "хотун+N"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ахтылҕаннаах", "type": "title", "fst": "voc", "root": "ахтылҕан+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "Амма", "type": "title", "fst": "voc", "root": "амма+PN"},
+      {"pos": 3, "text": "хотун", "type": "lowercase", "fst": "voc", "root": "хотун+N"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -52,22 +52,22 @@
     "ru": "Однако он остался сидеть, завороженный плавным разливом госпожи бабушки Амги.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 2, "text": "эрээри", "type": "lowercase", "fst": "ymv", "root": "эрээри+CONJ"},
-      {"pos": 3, "text": "Амма", "type": "title", "fst": "ymv", "root": "амма+PN"},
-      {"pos": 4, "text": "эбэ", "type": "lowercase", "fst": "ymv", "root": "эбэ+N"},
-      {"pos": 5, "text": "хотун", "type": "lowercase", "fst": "ymv", "root": "хотун+N"},
-      {"pos": 6, "text": "холку", "type": "lowercase", "fst": "ymv", "root": "холку+Adj"},
-      {"pos": 7, "text": "сүүрүгэ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+NMLZ#5+POSS.3SG"},
-      {"pos": 8, "text": "киэнинэн", "type": "lowercase", "fst": "ymv", "root": "киэн+N", "affixes": "+POSS.3SG.INST"},
-      {"pos": 9, "text": "күөгэйэ", "type": "lowercase", "fst": "ymv", "root": "күөгэй+V", "affixes": "+CONV#2"},
-      {"pos": 10, "text": "устарын", "type": "lowercase", "fst": "ymv", "root": "уһун+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
-      {"pos": 11, "text": "одууластар", "type": "lowercase", "fst": "ymv", "root": "одуу+N", "affixes": "+VRBLZ#1+ADJZ#14+PL"},
-      {"pos": 12, "text": "одуулаһан", "type": "lowercase", "fst": "ymv", "root": "одуу+N", "affixes": "+VRBLZ#1+RECP+CONV#1"},
-      {"pos": 13, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 14, "text": "олорон", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+CONV#1"},
-      {"pos": 15, "text": "хаалла", "type": "lowercase", "fst": "yma", "root": "хаал+V", "affixes": "+PST.3SG"},
-      {"pos": 16, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "эрээри", "type": "lowercase", "fst": "voc", "root": "эрээри+CONJ"},
+      {"pos": 3, "text": "Амма", "type": "title", "fst": "voc", "root": "амма+PN"},
+      {"pos": 4, "text": "эбэ", "type": "lowercase", "fst": "voc", "root": "эбэ+N"},
+      {"pos": 5, "text": "хотун", "type": "lowercase", "fst": "voc", "root": "хотун+N"},
+      {"pos": 6, "text": "холку", "type": "lowercase", "fst": "voc", "root": "холку+Adj"},
+      {"pos": 7, "text": "сүүрүгэ", "type": "lowercase", "fst": "voc", "root": "сүүр+V", "affixes": "+NMLZ#5+POSS.3SG"},
+      {"pos": 8, "text": "киэнинэн", "type": "lowercase", "fst": "voc", "root": "киэн+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 9, "text": "күөгэйэ", "type": "lowercase", "fst": "voc", "root": "күөгэй+V", "affixes": "+CONV#2"},
+      {"pos": 10, "text": "устарын", "type": "lowercase", "fst": "voc", "root": "уһун+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 11, "text": "одууластар", "type": "lowercase", "fst": "voc", "root": "одуу+N", "affixes": "+VRBLZ#1+ADJZ#14+PL"},
+      {"pos": 12, "text": "одуулаһан", "type": "lowercase", "fst": "voc", "root": "одуу+N", "affixes": "+VRBLZ#1+RECP+CONV#1"},
+      {"pos": 13, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 14, "text": "олорон", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+CONV#1"},
+      {"pos": 15, "text": "хаалла", "type": "lowercase", "fst": "aff", "root": "хаал+V", "affixes": "+PST.3SG"},
+      {"pos": 16, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -10,8 +10,8 @@
     "ru": "обо мне",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "туспунан", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+POSS.1SG.INST"}
+      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "туспунан", "type": "lowercase", "fst": "voc", "root": "тус+N", "affixes": "+POSS.1SG.INST"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "о тебе",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "тускунан", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+POSS.2SG.INST"}
+      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "тускунан", "type": "lowercase", "fst": "voc", "root": "тус+N", "affixes": "+POSS.2SG.INST"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "о нем",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "туһунан", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+POSS.3SG.INST"}
+      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "туһунан", "type": "lowercase", "fst": "voc", "root": "тус+N", "affixes": "+POSS.3SG.INST"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "о них",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "кинилэр", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "тустарынан", "type": "lowercase", "fst": "ymv", "root": "тус+N", "affixes": "+POSS.3PL.INST"}
+      {"pos": 1, "text": "кинилэр", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "тустарынан", "type": "lowercase", "fst": "voc", "root": "тус+N", "affixes": "+POSS.3PL.INST"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "на протяжении дня",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"},
-      {"pos": 2, "text": "былааныгар", "type": "lowercase", "fst": "ymv", "root": "былаан+N", "affixes": "+POSS.3SG.DAT"}
+      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 2, "text": "былааныгар", "type": "lowercase", "fst": "voc", "root": "былаан+N", "affixes": "+POSS.3SG.DAT"}
     ]
   },
   {
@@ -85,9 +85,9 @@
     "ru": "на протяжении прошедших дней",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "ааспыт", "type": "lowercase", "fst": "ymv", "root": "аас+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "күннэр", "type": "lowercase", "fst": "ymv", "root": "күн+N", "affixes": "+PL"},
-      {"pos": 3, "text": "былааннарыгар", "type": "lowercase", "fst": "ymv", "root": "былаан+N", "affixes": "+POSS.3PL.DAT"}
+      {"pos": 1, "text": "ааспыт", "type": "lowercase", "fst": "voc", "root": "аас+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "күннэр", "type": "lowercase", "fst": "voc", "root": "күн+N", "affixes": "+PL"},
+      {"pos": 3, "text": "былааннарыгар", "type": "lowercase", "fst": "voc", "root": "былаан+N", "affixes": "+POSS.3PL.DAT"}
     ]
   },
   {
@@ -101,8 +101,8 @@
     "ru": "несмотря на сказанное",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "эппит", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"}
+      {"pos": 1, "text": "эппит", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"}
     ]
   },
   {
@@ -116,8 +116,8 @@
     "ru": "верх сказанного",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "эппит", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "үрдэ", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "эппит", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "үрдэ", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -131,8 +131,8 @@
     "ru": "",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "эппитим", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_PAST+POSS.1SG"},
-      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"}
+      {"pos": 1, "text": "эппитим", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"}
     ]
   },
   {
@@ -146,8 +146,8 @@
     "ru": "",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "эппиттэрин", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PART_PAST+POSS.3PL.ACC"},
-      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"}
+      {"pos": 1, "text": "эппиттэрин", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PART_PAST+POSS.3PL.ACC"},
+      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"}
     ]
   },
   {
@@ -161,8 +161,8 @@
     "ru": "",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "булчут", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+NMLZ#1"},
-      {"pos": 2, "text": "быһыытынан", "type": "lowercase", "fst": "ymv", "root": "быһыы+N", "affixes": "+POSS.3SG.INST"}
+      {"pos": 1, "text": "булчут", "type": "lowercase", "fst": "voc", "root": "булт+N", "affixes": "+NMLZ#1"},
+      {"pos": 2, "text": "быһыытынан", "type": "lowercase", "fst": "voc", "root": "быһыы+N", "affixes": "+POSS.3SG.INST"}
     ]
   },
   {
@@ -176,8 +176,8 @@
     "ru": "",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "булчуттар", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+NMLZ#1+PL"},
-      {"pos": 2, "text": "быһыыларынан", "type": "lowercase", "fst": "ymv", "root": "быһыы+N", "affixes": "+POSS.3PL.INST"}
+      {"pos": 1, "text": "булчуттар", "type": "lowercase", "fst": "voc", "root": "булт+N", "affixes": "+NMLZ#1+PL"},
+      {"pos": 2, "text": "быһыыларынан", "type": "lowercase", "fst": "voc", "root": "быһыы+N", "affixes": "+POSS.3PL.INST"}
     ]
   }
 ]

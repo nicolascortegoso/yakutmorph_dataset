@@ -10,11 +10,11 @@
     "ru": "А чего бы вам не растопить свою печь хорошенько.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Оһоххутун", "type": "title", "fst": "fst", "root": "оһох+N", "affixes": "+POSS.2PL.ACC"},
-      {"pos": 2, "text": "үчүгэйдик", "type": "lowercase", "fst": "fst", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 3, "text": "оттон", "type": "lowercase", "fst": "fst", "root": "отун+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "биэриэххитин", "type": "lowercase", "fst": "fst", "root": "биэр+V", "affixes": "+PART_FUT+POSS.2PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Оһоххутун", "type": "title", "fst": "voc", "root": "оһох+N", "affixes": "+POSS.2PL.ACC"},
+      {"pos": 2, "text": "үчүгэйдик", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 3, "text": "оттон", "type": "lowercase", "fst": "voc", "root": "отун+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "биэриэххитин", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+PART_FUT+POSS.2PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,11 +28,11 @@
     "ru": "Сидели бы да и разговаривали себе (Почему бы вам не сидеть да и разговаривать).",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Кэпсэтэ", "type": "title", "fst": "fst", "root": "кэпсээ+V", "affixes": "+CAUS+CONV#2"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 3, "text": "кэпсэтэ", "type": "lowercase", "fst": "fst", "root": "кэпсээ+V", "affixes": "+CAUS+CONV#2"},
-      {"pos": 4, "text": "олоруоххутун", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+PART_FUT+POSS.2PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кэпсэтэ", "type": "title", "fst": "voc", "root": "кэпсээ+V", "affixes": "+CAUS+CONV#2"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "кэпсэтэ", "type": "lowercase", "fst": "voc", "root": "кэпсээ+V", "affixes": "+CAUS+CONV#2"},
+      {"pos": 4, "text": "олоруоххутун", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_FUT+POSS.2PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -46,10 +46,10 @@
     "ru": "Чего же ты не спишь? (Тебе лучше (следует) заснуть)?",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "оттон+CONJ"},
-      {"pos": 2, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн+Pron"},
-      {"pos": 3, "text": "утуйуоххунуй", "type": "lowercase", "fst": "fst", "root": "утуй+V", "affixes": "+PART_FUT+2SG+INT"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "fst"}
+      {"pos": 1, "text": "Оттон", "type": "title", "fst": "voc", "root": "оттон+CONJ"},
+      {"pos": 2, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 3, "text": "утуйуоххунуй", "type": "lowercase", "fst": "voc", "root": "утуй+V", "affixes": "+PART_FUT+2SG+INT"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -63,10 +63,10 @@
     "ru": "Вставайте же (Чего же вы не встаете - вам необходимо встать).",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "Оттон", "type": "title", "fst": "fst", "root": "оттон+CONJ"},
-      {"pos": 2, "text": "эһиги", "type": "lowercase", "fst": "fst", "root": "эһиги+Pron"},
-      {"pos": 3, "text": "туруоххутунуй", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+PART_FUT+POSS.2PL+INT"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Оттон", "type": "title", "fst": "voc", "root": "оттон+CONJ"},
+      {"pos": 2, "text": "эһиги", "type": "lowercase", "fst": "voc", "root": "эһиги+Pron"},
+      {"pos": 3, "text": "туруоххутунуй", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_FUT+POSS.2PL+INT"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -10,8 +10,8 @@
     "ru": "кто-нибудь",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+Pron"},
-      {"pos": 2, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "эмэ+Part"}
+      {"pos": 1, "text": "ким", "type": "lowercase", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 2, "text": "эмэ", "type": "lowercase", "fst": "voc", "root": "эмэ+Part"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "несколько",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "хас", "type": "lowercase", "fst": "ymv", "root": "хас+Pron"},
-      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"}
+      {"pos": 1, "text": "хас", "type": "lowercase", "fst": "voc", "root": "хас+Pron"},
+      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "никто",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"}
+      {"pos": 1, "text": "ким", "type": "lowercase", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "лишь один",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"}
+      {"pos": 1, "text": "биир", "type": "lowercase", "fst": "voc", "root": "биир+Num"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "они также",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "кинилэр", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ+Adv"}
+      {"pos": 1, "text": "кинилэр", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"}
     ]
   },
   {
@@ -85,9 +85,9 @@
     "ru": "Говорят, он учится.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Үөрэнэр", "type": "title", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_PRES"},
-      {"pos": 2, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үһү+Part"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үөрэнэр", "type": "title", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES"},
+      {"pos": 2, "text": "үһү", "type": "lowercase", "fst": "voc", "root": "үһү+Part"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -101,8 +101,8 @@
     "ru": "он-то ничтожный",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕас+Part"}
+      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "баҕас", "type": "lowercase", "fst": "voc", "root": "баҕас+Part"}
     ]
   }
 ]

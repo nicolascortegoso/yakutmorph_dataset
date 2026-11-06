@@ -10,8 +10,8 @@
     "ru": "он продолжал идти",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "турда", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "турда", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "я продолжал идти",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "турдум", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PST.1SG"}
+      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "турдум", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PST.1SG"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "он продолжал идти (в прошлом)",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "турбута", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PAST+POSS.3SG"}
+      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "турбута", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PAST+POSS.3SG"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "он будет продолжать идти",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "туруоҕа", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_FUT+POSS.3SG"}
+      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "туруоҕа", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_FUT+POSS.3SG"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "вы продолжайте идти",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "туруҥ", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+IMP#1.2PL"}
+      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "туруҥ", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+IMP#1.2PL"}
     ]
   },
   {
@@ -85,10 +85,10 @@
     "ru": "Он продолжал идти в школу.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Оскуолаҕа", "type": "title", "fst": "ymv", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "турда", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PST.3SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оскуолаҕа", "type": "title", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "бара", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "турда", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

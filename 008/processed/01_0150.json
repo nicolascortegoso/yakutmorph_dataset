@@ -10,8 +10,8 @@
     "ru": "созревший хлеб",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "буспут", "type": "lowercase", "fst": "ymv", "root": "бус+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "бурдук", "type": "lowercase", "fst": "ymv", "root": "бурдук+N"}
+      {"pos": 1, "text": "буспут", "type": "lowercase", "fst": "voc", "root": "бус+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "бурдук", "type": "lowercase", "fst": "voc", "root": "бурдук+N"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "упавшее дерево",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "охтубут", "type": "lowercase", "fst": "ymv", "root": "оҕун+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "мас", "type": "lowercase", "fst": "ymv", "root": "мас+N"}
+      {"pos": 1, "text": "охтубут", "type": "lowercase", "fst": "voc", "root": "оҕун+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "высохшее озеро",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "уолбут", "type": "lowercase", "fst": "ymv", "root": "уол+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "күөл", "type": "lowercase", "fst": "ymv", "root": "күөл+N"}
+      {"pos": 1, "text": "уолбут", "type": "lowercase", "fst": "voc", "root": "уол+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "күөл", "type": "lowercase", "fst": "voc", "root": "күөл+N"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "разбогатевший колхоз",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "байбыт", "type": "lowercase", "fst": "ymv", "root": "бай+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "колхоз", "type": "lowercase", "fst": "ymv", "root": "колхоз+N"}
+      {"pos": 1, "text": "байбыт", "type": "lowercase", "fst": "voc", "root": "бай+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "поевший конь",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "аһаабыт", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#3+PART_PAST"},
-      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "ymv", "root": "ат+N"}
+      {"pos": 1, "text": "аһаабыт", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+PART_PAST"},
+      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "voc", "root": "ат+N"}
     ]
   },
   {
@@ -85,9 +85,9 @@
     "ru": "люди, жившее здесь",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 2, "text": "олорбут", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PAST"},
-      {"pos": 3, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"}
+      {"pos": 1, "text": "манна", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 2, "text": "олорбут", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PAST"},
+      {"pos": 3, "text": "дьон", "type": "lowercase", "fst": "voc", "root": "дьон+N"}
     ]
   },
   {
@@ -101,9 +101,9 @@
     "ru": "собака, поймавшая зайца",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "куобаҕы", "type": "lowercase", "fst": "ymv", "root": "куобах+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "туппут", "type": "lowercase", "fst": "ymv", "root": "тут+V", "affixes": "+PART_PAST"},
-      {"pos": 3, "text": "ыт", "type": "lowercase", "fst": "ymv", "root": "ыт+N"}
+      {"pos": 1, "text": "куобаҕы", "type": "lowercase", "fst": "voc", "root": "куобах+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "туппут", "type": "lowercase", "fst": "voc", "root": "тут+V", "affixes": "+PART_PAST"},
+      {"pos": 3, "text": "ыт", "type": "lowercase", "fst": "voc", "root": "ыт+N"}
     ]
   },
   {
@@ -117,9 +117,9 @@
     "ru": "человек, надевший щубу",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "сон", "type": "lowercase", "fst": "ymv", "root": "сон+N"},
-      {"pos": 2, "text": "кэппит", "type": "lowercase", "fst": "ymv", "root": "кэт+V", "affixes": "+PART_PAST"},
-      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"}
+      {"pos": 1, "text": "сон", "type": "lowercase", "fst": "voc", "root": "сон+N"},
+      {"pos": 2, "text": "кэппит", "type": "lowercase", "fst": "voc", "root": "кэт+V", "affixes": "+PART_PAST"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"}
     ]
   }
 ]

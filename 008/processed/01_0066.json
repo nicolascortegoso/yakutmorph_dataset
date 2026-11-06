@@ -10,8 +10,8 @@
     "ru": "от табаку твоего поделись",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "табаххыттан", "type": "lowercase", "fst": "fst", "root": "табах+N", "affixes": "+POSS.2SG.ABL"},
-      {"pos": 2, "text": "бэрис", "type": "lowercase", "fst": "fst", "root": "бэрис+V"}
+      {"pos": 1, "text": "табаххыттан", "type": "lowercase", "fst": "voc", "root": "табах+N", "affixes": "+POSS.2SG.ABL"},
+      {"pos": 2, "text": "бэрис", "type": "lowercase", "fst": "voc", "root": "бэрис+V"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "я накормил коней или коня (вообще)",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "ат", "type": "lowercase", "fst": "fst", "root": "ат+N"},
-      {"pos": 2, "text": "аһаттым", "type": "lowercase", "fst": "fst", "root": "ас+N", "affixes": "+VRBLZ#3+CAUS+PST.1SG"}
+      {"pos": 1, "text": "ат", "type": "lowercase", "fst": "voc", "root": "ат+N"},
+      {"pos": 2, "text": "аһаттым", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+CAUS+PST.1SG"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "я накормил коня (известного)",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "аты", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "аһаттым", "type": "lowercase", "fst": "fst", "root": "ас+N", "affixes": "+VRBLZ#3+CAUS+PST.1SG"}
+      {"pos": 1, "text": "аты", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "аһаттым", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+CAUS+PST.1SG"}
     ]
   },
   {
@@ -55,11 +55,11 @@
     "ru": "на воротах повесили один флаг",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "олбуор", "type": "lowercase", "fst": "fst", "root": "олбуор+N"},
-      {"pos": 2, "text": "ааныгар", "type": "lowercase", "fst": "fst", "root": "аан+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир+Num"},
-      {"pos": 4, "text": "былааҕы", "type": "lowercase", "fst": "fst", "root": "былаах+N", "affixes": "+ACC"},
-      {"pos": 5, "text": "ыйаабыттар", "type": "lowercase", "fst": "fst", "root": "ыйаа+V", "affixes": "+PART_PAST+PL"}
+      {"pos": 1, "text": "олбуор", "type": "lowercase", "fst": "voc", "root": "олбуор+N"},
+      {"pos": 2, "text": "ааныгар", "type": "lowercase", "fst": "voc", "root": "аан+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "биир", "type": "lowercase", "fst": "voc", "root": "биир+Num"},
+      {"pos": 4, "text": "былааҕы", "type": "lowercase", "fst": "voc", "root": "былаах+N", "affixes": "+ACC"},
+      {"pos": 5, "text": "ыйаабыттар", "type": "lowercase", "fst": "voc", "root": "ыйаа+V", "affixes": "+PART_PAST+PL"}
     ]
   },
   {
@@ -73,11 +73,11 @@
     "ru": "на воротах повесили (какой-то) красный флаг",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "олбуор", "type": "lowercase", "fst": "fst", "root": "олбуор+N"},
-      {"pos": 2, "text": "ааныгар", "type": "lowercase", "fst": "fst", "root": "аан+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "кыһыл", "type": "lowercase", "fst": "fst", "root": "кыһыл+Adj"},
-      {"pos": 4, "text": "былаах", "type": "lowercase", "fst": "fst", "root": "былаах+N"},
-      {"pos": 5, "text": "ыйаабыттар", "type": "lowercase", "fst": "fst", "root": "ыйаа+V", "affixes": "+PART_PAST+PL"}
+      {"pos": 1, "text": "олбуор", "type": "lowercase", "fst": "voc", "root": "олбуор+N"},
+      {"pos": 2, "text": "ааныгар", "type": "lowercase", "fst": "voc", "root": "аан+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "кыһыл", "type": "lowercase", "fst": "voc", "root": "кыһыл+Adj"},
+      {"pos": 4, "text": "былаах", "type": "lowercase", "fst": "voc", "root": "былаах+N"},
+      {"pos": 5, "text": "ыйаабыттар", "type": "lowercase", "fst": "voc", "root": "ыйаа+V", "affixes": "+PART_PAST+PL"}
     ]
   },
   {
@@ -91,9 +91,9 @@
     "ru": "я прочитал эту книгу",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "кинигэни", "type": "lowercase", "fst": "fst", "root": "кинигэ+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "аахтым", "type": "lowercase", "fst": "fst", "root": "аах+V", "affixes": "+PST.1SG"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "кинигэни", "type": "lowercase", "fst": "voc", "root": "кинигэ+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "аахтым", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+PST.1SG"}
     ]
   },
   {
@@ -107,9 +107,9 @@
     "ru": "я купил новую книгу",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "саҥа", "type": "lowercase", "fst": "fst", "root": "саҥа+Adj"},
-      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "fst", "root": "кинигэ+N"},
-      {"pos": 3, "text": "атыыластым", "type": "lowercase", "fst": "fst", "root": "атыы+N", "affixes": "+VRBLZ#1+RECP+PST.1SG"}
+      {"pos": 1, "text": "саҥа", "type": "lowercase", "fst": "voc", "root": "саҥа+Adj"},
+      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "voc", "root": "кинигэ+N"},
+      {"pos": 3, "text": "атыыластым", "type": "lowercase", "fst": "voc", "root": "атыы+N", "affixes": "+VRBLZ#1+RECP+PST.1SG"}
     ]
   }
 ]

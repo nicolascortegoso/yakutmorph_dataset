@@ -10,7 +10,7 @@
     "ru": "по шесть раз, по шести на каждого",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "алталыыта", "type": "lowercase", "fst": "ymv", "root": "алта+Num", "affixes": "+DISTR+ADVZ#8"}
+      {"pos": 1, "text": "алталыыта", "type": "lowercase", "fst": "voc", "root": "алта+Num", "affixes": "+DISTR+ADVZ#8"}
     ]
   },
   {
@@ -24,7 +24,7 @@
     "ru": "около двадцати раз каждый. около двадцати на каждого",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "сүүрбэччэлиитэ", "type": "lowercase", "fst": "ymv", "root": "сүүрбэ+Num", "affixes": "+APPR#1+DISTR+ADVZ#8"}
+      {"pos": 1, "text": "сүүрбэччэлиитэ", "type": "lowercase", "fst": "voc", "root": "сүүрбэ+Num", "affixes": "+APPR#1+DISTR+ADVZ#8"}
     ]
   },
   {
@@ -38,9 +38,9 @@
     "ru": "по два-три раза, по две-три штуки на каждого",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "иккилиитэ", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+DISTR+ADVZ#8"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "үстүүтэ", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+DISTR+ADVZ#8"}
+      {"pos": 1, "text": "иккилиитэ", "type": "lowercase", "fst": "voc", "root": "икки+Num", "affixes": "+DISTR+ADVZ#8"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "үстүүтэ", "type": "lowercase", "fst": "voc", "root": "үс+Num", "affixes": "+DISTR+ADVZ#8"}
     ]
   },
   {
@@ -54,10 +54,10 @@
     "ru": "Все скажите по одному разу.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Бары", "type": "title", "fst": "ymv", "root": "бары+Pron"},
-      {"pos": 2, "text": "биирдиитэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+DISTR+ADVZ#8"},
-      {"pos": 3, "text": "этиҥ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бары", "type": "title", "fst": "voc", "root": "бары+Pron"},
+      {"pos": 2, "text": "биирдиитэ", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+DISTR+ADVZ#8"},
+      {"pos": 3, "text": "этиҥ", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -71,10 +71,10 @@
     "ru": "Всем дай по одной штуке.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Барыларыгар", "type": "title", "fst": "ymv", "root": "бары+Pron", "affixes": "+PL+POSS.3SG.DAT"},
-      {"pos": 2, "text": "биирдиитэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+DISTR+ADVZ#8"},
-      {"pos": 3, "text": "биэр", "type": "lowercase", "fst": "ymv", "root": "биэр+V"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Барыларыгар", "type": "title", "fst": "voc", "root": "бары+Pron", "affixes": "+PL+POSS.3SG.DAT"},
+      {"pos": 2, "text": "биирдиитэ", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+DISTR+ADVZ#8"},
+      {"pos": 3, "text": "биэр", "type": "lowercase", "fst": "voc", "root": "биэр+V"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -88,9 +88,9 @@
     "ru": "Мы ходили почти по десять раз.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Уончалыыта", "type": "title", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1+DISTR+ADVZ#8"},
-      {"pos": 2, "text": "сырыттыбыт", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PST.1PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уончалыыта", "type": "title", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1+DISTR+ADVZ#8"},
+      {"pos": 2, "text": "сырыттыбыт", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+PST.1PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -104,9 +104,9 @@
     "ru": "Берите приблизительно по десять штук каждый.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Уончалыыта", "type": "title", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1+DISTR+ADVZ#8"},
-      {"pos": 2, "text": "ылыҥ", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уончалыыта", "type": "title", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1+DISTR+ADVZ#8"},
+      {"pos": 2, "text": "ылыҥ", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

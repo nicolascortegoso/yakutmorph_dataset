@@ -10,14 +10,14 @@
     "ru": "Лет десять тому назад тоже имел место один грандиозный скандал.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Уонча", "type": "title", "fst": "fst", "root": "уон+Num", "affixes": "+APPR#1"},
-      {"pos": 2, "text": "сыллааҕыта", "type": "lowercase", "fst": "fst", "root": "сыллааҕы+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ+Adv"},
-      {"pos": 4, "text": "биир", "type": "lowercase", "fst": "fst", "root": "биир+Num"},
-      {"pos": 5, "text": "дуолан", "type": "lowercase", "fst": "fst", "root": "дуолан+Adj"},
-      {"pos": 6, "text": "айдаан", "type": "lowercase", "fst": "fst", "root": "айдаан+N"},
-      {"pos": 7, "text": "буолбуттаах", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_PAST+DEB"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Уонча", "type": "title", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1"},
+      {"pos": 2, "text": "сыллааҕыта", "type": "lowercase", "fst": "voc", "root": "сыллааҕы+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"},
+      {"pos": 4, "text": "биир", "type": "lowercase", "fst": "voc", "root": "биир+Num"},
+      {"pos": 5, "text": "дуолан", "type": "lowercase", "fst": "voc", "root": "дуолан+Adj"},
+      {"pos": 6, "text": "айдаан", "type": "lowercase", "fst": "voc", "root": "айдаан+N"},
+      {"pos": 7, "text": "буолбуттаах", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PAST+DEB"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -31,16 +31,16 @@
     "ru": "Подумал ли хоть раз о том, что ты смертен?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Өлөр", "type": "title", "fst": "ymv", "root": "өл+V", "affixes": "+PART_PRES"},
-      {"pos": 2, "text": "дууһалаахпын", "type": "lowercase", "fst": "ymv", "root": "дууһа+N", "affixes": "+ADJZ#1+POSS.1SG.ACC"},
-      {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "биирдэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+ADVZ#8"},
-      {"pos": 5, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "эмэ+Part"},
-      {"pos": 6, "text": "өйдүөҥ", "type": "lowercase", "fst": "ymv", "root": "өй+N", "affixes": "+VRBLZ#1+PART_FUT+POSS.2SG"},
-      {"pos": 7, "text": "көөртүҥ", "type": "lowercase", "fst": "yma", "root": "көөртү+Adv", "affixes": "+POSS.2SG"},
-      {"pos": 8, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"},
-      {"pos": 9, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
-      {"pos": 10, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Өлөр", "type": "title", "fst": "voc", "root": "өл+V", "affixes": "+PART_PRES"},
+      {"pos": 2, "text": "дууһалаахпын", "type": "lowercase", "fst": "voc", "root": "дууһа+N", "affixes": "+ADJZ#1+POSS.1SG.ACC"},
+      {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "биирдэ", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+ADVZ#8"},
+      {"pos": 5, "text": "эмэ", "type": "lowercase", "fst": "voc", "root": "эмэ+Part"},
+      {"pos": 6, "text": "өйдүөҥ", "type": "lowercase", "fst": "voc", "root": "өй+N", "affixes": "+VRBLZ#1+PART_FUT+POSS.2SG"},
+      {"pos": 7, "text": "көөртүҥ", "type": "lowercase", "fst": "aff", "root": "көөртү+Adv", "affixes": "+POSS.2SG"},
+      {"pos": 8, "text": "баар", "type": "lowercase", "fst": "voc", "root": "баар+N"},
+      {"pos": 9, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 10, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -54,11 +54,11 @@
     "ru": "Не бывало того, чтобы черт первенствовал над человеком.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Айыыны", "type": "title", "fst": "fst", "root": "айыы+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "абааһы", "type": "lowercase", "fst": "fst", "root": "абааһы+N"},
-      {"pos": 3, "text": "бастаабыта", "type": "lowercase", "fst": "fst", "root": "бас+N", "affixes": "+VRBLZ#1+PART_PAST+POSS.3SG"},
-      {"pos": 4, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох+N"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Айыыны", "type": "title", "fst": "voc", "root": "айыы+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "абааһы", "type": "lowercase", "fst": "voc", "root": "абааһы+N"},
+      {"pos": 3, "text": "бастаабыта", "type": "lowercase", "fst": "voc", "root": "бас+N", "affixes": "+VRBLZ#1+PART_PAST+POSS.3SG"},
+      {"pos": 4, "text": "суох", "type": "lowercase", "fst": "voc", "root": "суох+N"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -72,16 +72,16 @@
     "ru": "Раньше тонущий в воде человек когда так не кричал.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Урут", "type": "title", "fst": "ymv", "root": "урут+Adv"},
-      {"pos": 2, "text": "ууга", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "түһэр", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
-      {"pos": 5, "text": "биирдэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+ADVZ#8"},
-      {"pos": 6, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 7, "text": "итигирдик", "type": "lowercase", "fst": "ymv", "root": "итий+V", "affixes": "+ADJZ#8+ADVZ#5"},
-      {"pos": 8, "text": "хаһыытаабыта", "type": "lowercase", "fst": "ymv", "root": "хаһыытаа+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 9, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Урут", "type": "title", "fst": "voc", "root": "урут+Adv"},
+      {"pos": 2, "text": "ууга", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "түһэр", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 5, "text": "биирдэ", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+ADVZ#8"},
+      {"pos": 6, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 7, "text": "итигирдик", "type": "lowercase", "fst": "voc", "root": "итий+V", "affixes": "+ADJZ#8+ADVZ#5"},
+      {"pos": 8, "text": "хаһыытаабыта", "type": "lowercase", "fst": "voc", "root": "хаһыытаа+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 9, "text": "суох", "type": "lowercase", "fst": "voc", "root": "суох+N"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

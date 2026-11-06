@@ -11,12 +11,12 @@
     "ru": "Когда буду приходить с работы, буду помогать.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Үлэбиттэн", "type": "title", "fst": "ymv", "root": "үлэ+N", "affixes": "+POSS.1SG.ABL"},
-      {"pos": 2, "text": "кэллэхпинэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "көмөлөһөр", "type": "lowercase", "fst": "ymv", "root": "көмө+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
-      {"pos": 5, "text": "буолуом", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+POSS.1SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үлэбиттэн", "type": "title", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.1SG.ABL"},
+      {"pos": 2, "text": "кэллэхпинэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "көмөлөһөр", "type": "lowercase", "fst": "voc", "root": "көмө+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
+      {"pos": 5, "text": "буолуом", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_FUT+POSS.1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -31,15 +31,15 @@
     "ru": "Когда Трофим встречал Кулуканова, он заискивающе улыбался.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Трофим", "type": "title", "fst": "yma", "root": "трофим+PN"},
-      {"pos": 2, "text": "Кулукановы", "type": "title", "fst": "yma", "root": "кулуканов+PN", "affixes": "+ACC"},
-      {"pos": 3, "text": "көрүстэҕинэ", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+CONV_COND#2+POSS.3SG.PRTV"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
-      {"pos": 6, "text": "буола", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#2"},
-      {"pos": 7, "text": "сатаан", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+CONV#1"},
-      {"pos": 8, "text": "мичээрдиирэ", "type": "lowercase", "fst": "ymv", "root": "мичээр+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Трофим", "type": "title", "fst": "aff", "root": "трофим+PN"},
+      {"pos": 2, "text": "Кулукановы", "type": "title", "fst": "aff", "root": "кулуканов+PN", "affixes": "+ACC"},
+      {"pos": 3, "text": "көрүстэҕинэ", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+RECP+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "бэрт", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj"},
+      {"pos": 6, "text": "буола", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "сатаан", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "мичээрдиирэ", "type": "lowercase", "fst": "voc", "root": "мичээр+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

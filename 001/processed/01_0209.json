@@ -10,8 +10,8 @@
     "ru": "работа (работы) колхозов",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "ymv", "root": "колхоз+N", "affixes": "+PL"},
-      {"pos": 2, "text": "үлэлэрэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+PL+POSS.3SG"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N", "affixes": "+PL"},
+      {"pos": 2, "text": "үлэлэрэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+PL+POSS.3SG"}
     ]
   },
   {
@@ -25,9 +25,9 @@
     "ru": "работа трактора совхоза (совхозного трактора)",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "совхоз", "type": "lowercase", "fst": "ymv", "root": "совхоз+N"},
-      {"pos": 2, "text": "тракторын", "type": "lowercase", "fst": "ymv", "root": "трактор+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "үлэтэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "совхоз", "type": "lowercase", "fst": "voc", "root": "совхоз+N"},
+      {"pos": 2, "text": "тракторын", "type": "lowercase", "fst": "voc", "root": "трактор+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "үлэтэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -41,10 +41,10 @@
     "ru": "качество работы совхозного трактора",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "совхоз", "type": "lowercase", "fst": "ymv", "root": "совхоз+N"},
-      {"pos": 2, "text": "тракторын", "type": "lowercase", "fst": "ymv", "root": "трактор+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "үлэтин", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 4, "text": "хаачыстыбата", "type": "lowercase", "fst": "ymv", "root": "хаачыстыба+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "совхоз", "type": "lowercase", "fst": "voc", "root": "совхоз+N"},
+      {"pos": 2, "text": "тракторын", "type": "lowercase", "fst": "voc", "root": "трактор+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "үлэтин", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "хаачыстыбата", "type": "lowercase", "fst": "voc", "root": "хаачыстыба+N", "affixes": "+POSS.3SG"}
     ]
   }
 ]

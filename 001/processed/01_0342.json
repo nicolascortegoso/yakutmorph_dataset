@@ -10,11 +10,11 @@
     "ru": "Дай рублей десять.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Биир", "type": "title", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 2, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон+Num"},
-      {"pos": 3, "text": "сүүстэ", "type": "lowercase", "fst": "ymv", "root": "сүүс+N", "affixes": "+PRTV"},
-      {"pos": 4, "text": "аҕал", "type": "lowercase", "fst": "ymv", "root": "аҕал+V"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Биир", "type": "title", "fst": "voc", "root": "биир+Num"},
+      {"pos": 2, "text": "уон", "type": "lowercase", "fst": "voc", "root": "уон+Num"},
+      {"pos": 3, "text": "сүүстэ", "type": "lowercase", "fst": "voc", "root": "сүүс+N", "affixes": "+PRTV"},
+      {"pos": 4, "text": "аҕал", "type": "lowercase", "fst": "voc", "root": "аҕал+V"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,12 +28,12 @@
     "ru": "Пошли людей эдак пять.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Биир", "type": "title", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 2, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "эмэ+Part"},
-      {"pos": 3, "text": "биэс", "type": "lowercase", "fst": "ymv", "root": "биэс+Num"},
-      {"pos": 4, "text": "киһитэ", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+PRTV"},
-      {"pos": 5, "text": "ыыт", "type": "lowercase", "fst": "ymv", "root": "ыыт+V"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Биир", "type": "title", "fst": "voc", "root": "биир+Num"},
+      {"pos": 2, "text": "эмэ", "type": "lowercase", "fst": "voc", "root": "эмэ+Part"},
+      {"pos": 3, "text": "биэс", "type": "lowercase", "fst": "voc", "root": "биэс+Num"},
+      {"pos": 4, "text": "киһитэ", "type": "lowercase", "fst": "voc", "root": "киһи+N", "affixes": "+PRTV"},
+      {"pos": 5, "text": "ыыт", "type": "lowercase", "fst": "voc", "root": "ыыт+V"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,10 +47,10 @@
     "ru": "Спроси когда-нибудь.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Биирдэ", "type": "title", "fst": "ymv", "root": "биир+Num", "affixes": "+ADVZ#8"},
-      {"pos": 2, "text": "эмэ", "type": "lowercase", "fst": "ymv", "root": "эмэ+Part"},
-      {"pos": 3, "text": "ыйытаар", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+IMP#2.2SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Биирдэ", "type": "title", "fst": "voc", "root": "биир+Num", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "эмэ", "type": "lowercase", "fst": "voc", "root": "эмэ+Part"},
+      {"pos": 3, "text": "ыйытаар", "type": "lowercase", "fst": "voc", "root": "ыйыт+V", "affixes": "+IMP#2.2SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

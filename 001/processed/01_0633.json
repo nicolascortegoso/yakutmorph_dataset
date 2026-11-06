@@ -10,10 +10,10 @@
     "ru": "Наташа, подожди же.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Наташа", "type": "title", "fst": "yma", "root": "наташа+PN"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "тохтоорууй", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+INT#1"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Наташа", "type": "title", "fst": "aff", "root": "наташа+PN"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "тохтоорууй", "type": "lowercase", "fst": "voc", "root": "тохтоо+V", "affixes": "+INT#1"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -27,16 +27,16 @@
     "ru": "Встань же, походи, попрыгай, нами ожидаемая, наша любимая мать.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Турууй", "type": "title", "fst": "ymv", "root": "тур+V", "affixes": "+INT#1"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "хаамыый", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+INT#1"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "ойуоккалаарыый", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+FREC#2+IMP#2.2SG+INT#1"},
-      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "күүтэр", "type": "lowercase", "fst": "ymv", "root": "күүт+V", "affixes": "+PART_PRES"},
-      {"pos": 8, "text": "таптыыр", "type": "lowercase", "fst": "ymv", "root": "таптаа+V", "affixes": "+PART_PRES"},
-      {"pos": 9, "text": "ийэбит", "type": "lowercase", "fst": "ymv", "root": "ийэ+N", "affixes": "+POSS.1PL"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Турууй", "type": "title", "fst": "voc", "root": "тур+V", "affixes": "+INT#1"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "хаамыый", "type": "lowercase", "fst": "voc", "root": "хаамп+V", "affixes": "+INT#1"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "ойуоккалаарыый", "type": "lowercase", "fst": "voc", "root": "ой+V", "affixes": "+FREC#2+IMP#2.2SG+INT#1"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 7, "text": "күүтэр", "type": "lowercase", "fst": "voc", "root": "күүт+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": "таптыыр", "type": "lowercase", "fst": "voc", "root": "таптаа+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": "ийэбит", "type": "lowercase", "fst": "voc", "root": "ийэ+N", "affixes": "+POSS.1PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

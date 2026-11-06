@@ -10,9 +10,9 @@
     "ru": "свой нож потерял вместе с ножнами",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "быһахпын", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+NMLZ#6+POSS.1SG.ACC"},
-      {"pos": 2, "text": "кыыннары", "type": "lowercase", "fst": "ymv", "root": "кыын+N", "affixes": "+ADVZ#7"},
-      {"pos": 3, "text": "сүтэрдим", "type": "lowercase", "fst": "ymv", "root": "сүт+V", "affixes": "+CSTV+PST.1SG"}
+      {"pos": 1, "text": "быһахпын", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+NMLZ#6+POSS.1SG.ACC"},
+      {"pos": 2, "text": "кыыннары", "type": "lowercase", "fst": "voc", "root": "кыын+N", "affixes": "+ADVZ#7"},
+      {"pos": 3, "text": "сүтэрдим", "type": "lowercase", "fst": "voc", "root": "сүт+V", "affixes": "+CSTV+PST.1SG"}
     ]
   },
   {
@@ -26,10 +26,10 @@
     "ru": "я взял это ружье вместе с чехлом",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "сааны", "type": "lowercase", "fst": "ymv", "root": "саа+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "хаалары", "type": "lowercase", "fst": "ymv", "root": "хаа+N", "affixes": "+ADVZ#7"},
-      {"pos": 4, "text": "ылбытым", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+PART_PAST+POSS.1SG"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "сааны", "type": "lowercase", "fst": "voc", "root": "саа+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "хаалары", "type": "lowercase", "fst": "voc", "root": "хаа+N", "affixes": "+ADVZ#7"},
+      {"pos": 4, "text": "ылбытым", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+PART_PAST+POSS.1SG"}
     ]
   },
   {
@@ -43,9 +43,9 @@
     "ru": "они опрокицывают деревья вместе с корнями",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "тиити", "type": "lowercase", "fst": "ymv", "root": "тиит+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "силистэри", "type": "lowercase", "fst": "ymv", "root": "силис+N", "affixes": "+ADVZ#7"},
-      {"pos": 3, "text": "түөрэллэр", "type": "lowercase", "fst": "ymv", "root": "түөр+V", "affixes": "+PART_PRES+PL"}
+      {"pos": 1, "text": "тиити", "type": "lowercase", "fst": "voc", "root": "тиит+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "силистэри", "type": "lowercase", "fst": "voc", "root": "силис+N", "affixes": "+ADVZ#7"},
+      {"pos": 3, "text": "түөрэллэр", "type": "lowercase", "fst": "voc", "root": "түөр+V", "affixes": "+PART_PRES+PL"}
     ]
   },
   {
@@ -59,8 +59,8 @@
     "ru": "самого вместе с конём",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "аттары", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+PL+ACC"},
-      {"pos": 2, "text": "бэйэлэри", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+PL+ACC"}
+      {"pos": 1, "text": "аттары", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+PL+ACC"},
+      {"pos": 2, "text": "бэйэлэри", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+PL+ACC"}
     ]
   },
   {
@@ -74,9 +74,9 @@
     "ru": "мой старший брат пришёл со своим ребёнком",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "fst", "root": "убай+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "оҕотунуун", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.3SG.COMIT"},
-      {"pos": 3, "text": "кэлбит", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PART_PAST"}
+      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "voc", "root": "убай+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "оҕотунуун", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.3SG.COMIT"},
+      {"pos": 3, "text": "кэлбит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST"}
     ]
   },
   {
@@ -90,9 +90,9 @@
     "ru": "лицо его покраснело вместе с ушами",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "сирэйэ", "type": "lowercase", "fst": "fst", "root": "сирэй+N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": "кулгаахтыын", "type": "lowercase", "fst": "fst", "root": "кулгаах+N", "affixes": "+COMIT"},
-      {"pos": 3, "text": "кытарда", "type": "lowercase", "fst": "fst", "root": "кытар+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "сирэйэ", "type": "lowercase", "fst": "voc", "root": "сирэй+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "кулгаахтыын", "type": "lowercase", "fst": "voc", "root": "кулгаах+N", "affixes": "+COMIT"},
+      {"pos": 3, "text": "кытарда", "type": "lowercase", "fst": "voc", "root": "кытар+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -106,12 +106,12 @@
     "ru": "вот сено, которое я нагрёб вместе с стариком",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "оҕонньордуун", "type": "lowercase", "fst": "fst", "root": "оҕонньор+N", "affixes": "+COMIT"},
-      {"pos": 3, "text": "муспут", "type": "lowercase", "fst": "fst", "root": "мус+V", "affixes": "+PART_PAST"},
-      {"pos": 4, "text": "отум", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+POSS.1SG"},
-      {"pos": 5, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 6, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар+V"}
+      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "оҕонньордуун", "type": "lowercase", "fst": "voc", "root": "оҕонньор+N", "affixes": "+COMIT"},
+      {"pos": 3, "text": "муспут", "type": "lowercase", "fst": "voc", "root": "мус+V", "affixes": "+PART_PAST"},
+      {"pos": 4, "text": "отум", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+POSS.1SG"},
+      {"pos": 5, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 6, "text": "баар", "type": "lowercase", "fst": "voc", "root": "баар+V"}
     ]
   },
   {
@@ -125,10 +125,10 @@
     "ru": "сено, которое нагребли я и старик",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "fst", "root": "убай+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "оҕонньордуун", "type": "lowercase", "fst": "fst", "root": "оҕонньор+N", "affixes": "+COMIT"},
-      {"pos": 3, "text": "муспут", "type": "lowercase", "fst": "fst", "root": "мус+V", "affixes": "+PART_PAST"},
-      {"pos": 4, "text": "оппут", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+POSS.1PL"}
+      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "voc", "root": "убай+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "оҕонньордуун", "type": "lowercase", "fst": "voc", "root": "оҕонньор+N", "affixes": "+COMIT"},
+      {"pos": 3, "text": "муспут", "type": "lowercase", "fst": "voc", "root": "мус+V", "affixes": "+PART_PAST"},
+      {"pos": 4, "text": "оппут", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+POSS.1PL"}
     ]
   },
   {
@@ -142,10 +142,10 @@
     "ru": "и утки, и туси прилетели",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "кустуун", "type": "lowercase", "fst": "fst", "root": "кус+N", "affixes": "+COMIT"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 3, "text": "хаастыын", "type": "lowercase", "fst": "fst", "root": "хаас+N", "affixes": "+COMIT"},
-      {"pos": 4, "text": "кэлбиттэр", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PART_PAST+PL"}
+      {"pos": 1, "text": "кустуун", "type": "lowercase", "fst": "voc", "root": "кус+N", "affixes": "+COMIT"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "хаастыын", "type": "lowercase", "fst": "voc", "root": "хаас+N", "affixes": "+COMIT"},
+      {"pos": 4, "text": "кэлбиттэр", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST+PL"}
     ]
   },
   {
@@ -159,9 +159,9 @@
     "ru": "собака с кошкой не дружит",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "ыт", "type": "lowercase", "fst": "fst", "root": "ыт+N"},
-      {"pos": 2, "text": "куоскалыын", "type": "lowercase", "fst": "fst", "root": "куоска+N", "affixes": "+COMIT"},
-      {"pos": 3, "text": "доҕордоспот", "type": "lowercase", "fst": "fst", "root": "доҕор+N", "affixes": "+VRBLZ#1+RECP+NEG+PART_PRES"}
+      {"pos": 1, "text": "ыт", "type": "lowercase", "fst": "voc", "root": "ыт+N"},
+      {"pos": 2, "text": "куоскалыын", "type": "lowercase", "fst": "voc", "root": "куоска+N", "affixes": "+COMIT"},
+      {"pos": 3, "text": "доҕордоспот", "type": "lowercase", "fst": "voc", "root": "доҕор+N", "affixes": "+VRBLZ#1+RECP+NEG+PART_PRES"}
     ]
   },
   {
@@ -175,10 +175,10 @@
     "ru": "этот конь с глазами белый (даже глаза у него белые)",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "fst", "root": "ат+N"},
-      {"pos": 3, "text": "харахтыын", "type": "lowercase", "fst": "fst", "root": "харах+N", "affixes": "+COMIT"},
-      {"pos": 4, "text": "маҕан", "type": "lowercase", "fst": "fst", "root": "маҕан+Adj"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "voc", "root": "ат+N"},
+      {"pos": 3, "text": "харахтыын", "type": "lowercase", "fst": "voc", "root": "харах+N", "affixes": "+COMIT"},
+      {"pos": 4, "text": "маҕан", "type": "lowercase", "fst": "voc", "root": "маҕан+Adj"}
     ]
   },
   {
@@ -192,9 +192,9 @@
     "ru": "журавль с лисицей стали соседями",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "туруйа", "type": "lowercase", "fst": "fst", "root": "туруйа+N"},
-      {"pos": 2, "text": "саһыллыын", "type": "lowercase", "fst": "fst", "root": "саһыл+N", "affixes": "+COMIT"},
-      {"pos": 3, "text": "ыалласпыттар", "type": "lowercase", "fst": "fst", "root": "ыал+N", "affixes": "+VRBLZ#1+RECP+PART_PAST+PL"}
+      {"pos": 1, "text": "туруйа", "type": "lowercase", "fst": "voc", "root": "туруйа+N"},
+      {"pos": 2, "text": "саһыллыын", "type": "lowercase", "fst": "voc", "root": "саһыл+N", "affixes": "+COMIT"},
+      {"pos": 3, "text": "ыалласпыттар", "type": "lowercase", "fst": "voc", "root": "ыал+N", "affixes": "+VRBLZ#1+RECP+PART_PAST+PL"}
     ]
   },
   {
@@ -208,9 +208,9 @@
     "ru": "мой отец с моим старшим братом отправились в город",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "убайбыныын", "type": "lowercase", "fst": "fst", "root": "убай+N", "affixes": "+POSS.1SG.COMIT"},
-      {"pos": 3, "text": "куораттаатылар", "type": "lowercase", "fst": "fst", "root": "куорат+N", "affixes": "+VRBLZ#1+PST.3PL"}
+      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "убайбыныын", "type": "lowercase", "fst": "voc", "root": "убай+N", "affixes": "+POSS.1SG.COMIT"},
+      {"pos": 3, "text": "куораттаатылар", "type": "lowercase", "fst": "voc", "root": "куорат+N", "affixes": "+VRBLZ#1+PST.3PL"}
     ]
   },
   {
@@ -224,9 +224,9 @@
     "ru": "ребёнок наш уснул в одежде",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "оҕобут", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.1PL"},
-      {"pos": 2, "text": "таҥастыын", "type": "lowercase", "fst": "fst", "root": "таҥас+N", "affixes": "+COMIT"},
-      {"pos": 3, "text": "утуйбут", "type": "lowercase", "fst": "fst", "root": "утуй+V", "affixes": "+PART_PAST"}
+      {"pos": 1, "text": "оҕобут", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.1PL"},
+      {"pos": 2, "text": "таҥастыын", "type": "lowercase", "fst": "voc", "root": "таҥас+N", "affixes": "+COMIT"},
+      {"pos": 3, "text": "утуйбут", "type": "lowercase", "fst": "voc", "root": "утуй+V", "affixes": "+PART_PAST"}
     ]
   },
   {
@@ -240,10 +240,10 @@
     "ru": "сидя в шубе, он попил вместе с ними чаю",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "соннуун", "type": "lowercase", "fst": "fst", "root": "сон+N", "affixes": "+COMIT"},
-      {"pos": 2, "text": "олорон", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "чэйтэн", "type": "lowercase", "fst": "fst", "root": "чэй+N", "affixes": "+ABL"},
-      {"pos": 4, "text": "иһиспитэ", "type": "lowercase", "fst": "fst", "root": "ис+N", "affixes": "+VRBLZ#2+RECP+PART_PAST+POSS.3SG"}
+      {"pos": 1, "text": "соннуун", "type": "lowercase", "fst": "voc", "root": "сон+N", "affixes": "+COMIT"},
+      {"pos": 2, "text": "олорон", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "чэйтэн", "type": "lowercase", "fst": "voc", "root": "чэй+N", "affixes": "+ABL"},
+      {"pos": 4, "text": "иһиспитэ", "type": "lowercase", "fst": "voc", "root": "ис+N", "affixes": "+VRBLZ#2+RECP+PART_PAST+POSS.3SG"}
     ]
   }
 ]

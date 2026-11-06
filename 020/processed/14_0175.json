@@ -11,12 +11,12 @@
     "ru": "Обязательно связь установить нужно.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Хайаан", "type": "title", "fst": "ymv", "root": "хайаа+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "сибээһи", "type": "lowercase", "fst": "ymv", "root": "сибээс+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "олохтоотоххо", "type": "lowercase", "fst": "ymv", "root": "олох+Adv", "affixes": "+VRBLZ#1+CONV_COND#2+DAT"},
-      {"pos": 5, "text": "сатанар", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+PART_PRES"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хайаан", "type": "title", "fst": "voc", "root": "хайаа+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "сибээһи", "type": "lowercase", "fst": "voc", "root": "сибээс+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "олохтоотоххо", "type": "lowercase", "fst": "voc", "root": "олох+Adv", "affixes": "+VRBLZ#1+CONV_COND#2+DAT"},
+      {"pos": 5, "text": "сатанар", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+PART_PRES"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -31,11 +31,11 @@
     "ru": "Обязательно выступить нужно.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Хайаан", "type": "title", "fst": "ymv", "root": "хайаа+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "саҥардахха", "type": "lowercase", "fst": "ymv", "root": "саҥа+N", "affixes": "+VRBLZ#4+CONV_COND#2+DAT"},
-      {"pos": 4, "text": "сатанар", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+PART_PRES"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хайаан", "type": "title", "fst": "voc", "root": "хайаа+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "саҥардахха", "type": "lowercase", "fst": "voc", "root": "саҥа+N", "affixes": "+VRBLZ#4+CONV_COND#2+DAT"},
+      {"pos": 4, "text": "сатанар", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+PART_PRES"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -50,12 +50,12 @@
     "ru": "Обязательно няню найти нужно.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Хайаатар", "type": "title", "fst": "ymv", "root": "хайаа+V", "affixes": "+CONV_COND#1"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "ньээҥкэ", "type": "lowercase", "fst": "ymv", "root": "ньээҥкэ+N"},
-      {"pos": 4, "text": "буллахха", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 5, "text": "табыллар", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хайаатар", "type": "title", "fst": "voc", "root": "хайаа+V", "affixes": "+CONV_COND#1"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "ньээҥкэ", "type": "lowercase", "fst": "voc", "root": "ньээҥкэ+N"},
+      {"pos": 4, "text": "буллахха", "type": "lowercase", "fst": "voc", "root": "бул+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 5, "text": "табыллар", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -70,9 +70,9 @@
     "ru": "Предостерегаться нужно.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Сэрэннэххэ", "type": "title", "fst": "ymv", "root": "сэрэн+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 2, "text": "табыллар", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сэрэннэххэ", "type": "title", "fst": "voc", "root": "сэрэн+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 2, "text": "табыллар", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -87,11 +87,11 @@
     "ru": "Однако нужно объясниться, видимо.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Бэйэ", "type": "title", "fst": "ymv", "root": "бэйэ+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "быһаарыстахха", "type": "lowercase", "fst": "ymv", "root": "быһаар+V", "affixes": "+RECP+CONV_COND#2+DAT"},
-      {"pos": 4, "text": "сатаныыһы", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+AFFIR#1"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бэйэ", "type": "title", "fst": "voc", "root": "бэйэ+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "быһаарыстахха", "type": "lowercase", "fst": "voc", "root": "быһаар+V", "affixes": "+RECP+CONV_COND#2+DAT"},
+      {"pos": 4, "text": "сатаныыһы", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+AFFIR#1"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -106,9 +106,9 @@
     "ru": "Нужно, видимо, подумать.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Толкуйданнахха", "type": "title", "fst": "ymv", "root": "толкуй+N", "affixes": "+VRBLZ#1+REFL/PASS+CONV_COND#2+DAT"},
-      {"pos": 2, "text": "сатаныыһык", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+AFFIR#2"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Толкуйданнахха", "type": "title", "fst": "voc", "root": "толкуй+N", "affixes": "+VRBLZ#1+REFL/PASS+CONV_COND#2+DAT"},
+      {"pos": 2, "text": "сатаныыһык", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+AFFIR#2"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -123,11 +123,11 @@
     "ru": "Только нужно так делать, видимо.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Арай", "type": "title", "fst": "ymv", "root": "арай+MOD"},
-      {"pos": 2, "text": "инньэ", "type": "lowercase", "fst": "ymv", "root": "инньэ+Adv"},
-      {"pos": 3, "text": "гыннахха", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 4, "text": "табыллыыһык", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+AFFIR#2"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Арай", "type": "title", "fst": "voc", "root": "арай+MOD"},
+      {"pos": 2, "text": "инньэ", "type": "lowercase", "fst": "voc", "root": "инньэ+Adv"},
+      {"pos": 3, "text": "гыннахха", "type": "lowercase", "fst": "voc", "root": "гын+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 4, "text": "табыллыыһык", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+AFFIR#2"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -142,11 +142,11 @@
     "ru": "От этого заранее нужно будет предостеречься.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Ону", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+ACC"},
-      {"pos": 2, "text": "эрдэттэн", "type": "lowercase", "fst": "ymv", "root": "эрдэ+N", "affixes": "+ABL"},
-      {"pos": 3, "text": "сэрэннэххэ", "type": "lowercase", "fst": "ymv", "root": "сэрэн+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 4, "text": "сатаныа", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+PART_FUT"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ону", "type": "title", "fst": "voc", "root": "ол+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "эрдэттэн", "type": "lowercase", "fst": "voc", "root": "эрдэ+N", "affixes": "+ABL"},
+      {"pos": 3, "text": "сэрэннэххэ", "type": "lowercase", "fst": "voc", "root": "сэрэн+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 4, "text": "сатаныа", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+PART_FUT"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -161,10 +161,10 @@
     "ru": "Нужно было сказать.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Эттэххэ", "type": "title", "fst": "ymv", "root": "эт+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 2, "text": "табыллар", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
-      {"pos": 3, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эттэххэ", "type": "title", "fst": "voc", "root": "эт+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 2, "text": "табыллар", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 3, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -179,13 +179,13 @@
     "ru": "Нужно стало обязательно сообщить в город.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Куоракка", "type": "title", "fst": "ymv", "root": "куорат+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "хайаан", "type": "lowercase", "fst": "ymv", "root": "хайаа+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 4, "text": "биллэрдэххэ", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+CAUS+CONV_COND#2+DAT"},
-      {"pos": 5, "text": "табыллар", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
-      {"pos": 6, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Куоракка", "type": "title", "fst": "voc", "root": "куорат+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "хайаан", "type": "lowercase", "fst": "voc", "root": "хайаа+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 4, "text": "биллэрдэххэ", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+CAUS+CONV_COND#2+DAT"},
+      {"pos": 5, "text": "табыллар", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 6, "text": "буолла", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -200,9 +200,9 @@
     "ru": "Нельзя не сказать.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Эппэтэххэ", "type": "title", "fst": "ymv", "root": "эт+V", "affixes": "+NEG+CONV_COND#2+DAT"},
-      {"pos": 2, "text": "табыллыбат", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эппэтэххэ", "type": "title", "fst": "voc", "root": "эт+V", "affixes": "+NEG+CONV_COND#2+DAT"},
+      {"pos": 2, "text": "табыллыбат", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -217,17 +217,17 @@
     "ru": "Нельзя не созвониться с разными районами, городами, поселками.",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Араас", "type": "title", "fst": "ymv", "root": "араас+Adj"},
-      {"pos": 2, "text": "оройуоннары", "type": "lowercase", "fst": "ymv", "root": "оройуон+N", "affixes": "+PL+ACC"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "куораттары", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+PL+ACC"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "бөһүөлэктэри", "type": "lowercase", "fst": "ymv", "root": "бөһүөлэк+N", "affixes": "+PL+ACC"},
-      {"pos": 7, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
-      {"pos": 8, "text": "телефоннаспатахха", "type": "lowercase", "fst": "yma", "root": "телефон+N", "affixes": "+VRBLZ#1+RECP+NEG+DAT"},
-      {"pos": 9, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ+Adv"},
-      {"pos": 10, "text": "табыллыбат", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
-      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Араас", "type": "title", "fst": "voc", "root": "араас+Adj"},
+      {"pos": 2, "text": "оройуоннары", "type": "lowercase", "fst": "voc", "root": "оройуон+N", "affixes": "+PL+ACC"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "куораттары", "type": "lowercase", "fst": "voc", "root": "куорат+N", "affixes": "+PL+ACC"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "бөһүөлэктэри", "type": "lowercase", "fst": "voc", "root": "бөһүөлэк+N", "affixes": "+PL+ACC"},
+      {"pos": 7, "text": "кытта", "type": "lowercase", "fst": "voc", "root": "кытын+V", "affixes": "+CONV#2"},
+      {"pos": 8, "text": "телефоннаспатахха", "type": "lowercase", "fst": "aff", "root": "телефон+N", "affixes": "+VRBLZ#1+RECP+NEG+DAT"},
+      {"pos": 9, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"},
+      {"pos": 10, "text": "табыллыбат", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -242,9 +242,9 @@
     "ru": "Нельзя сказать.",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "Эттэххэ", "type": "title", "fst": "ymv", "root": "эт+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 2, "text": "табыллыбат", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эттэххэ", "type": "title", "fst": "voc", "root": "эт+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 2, "text": "табыллыбат", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -259,9 +259,9 @@
     "ru": "Невозможно обойтись без огня.",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "Уоттамматахха", "type": "title", "fst": "ymv", "root": "уот+N", "affixes": "+VRBLZ#1+REFL/PASS+NEG+CONV_COND#2+DAT"},
-      {"pos": 2, "text": "табыллыбат", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уоттамматахха", "type": "title", "fst": "voc", "root": "уот+N", "affixes": "+VRBLZ#1+REFL/PASS+NEG+CONV_COND#2+DAT"},
+      {"pos": 2, "text": "табыллыбат", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+NEG+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

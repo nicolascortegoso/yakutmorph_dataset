@@ -10,8 +10,8 @@
     "ru": "такой уж человек",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "диэтэх", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV_COND#2"},
-      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"}
+      {"pos": 1, "text": "диэтэх", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV_COND#2"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "такой уж люди",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "диэтэх", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV_COND#2"},
-      {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"}
+      {"pos": 1, "text": "диэтэх", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV_COND#2"},
+      {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "voc", "root": "дьон+N"}
     ]
   },
   {
@@ -40,10 +40,10 @@
     "ru": "Такого, значит, окончание нашей работы (так, значит, мы кончили работать).",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Үлэлээн", "type": "title", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#1"},
-      {"pos": 2, "text": "бүттэхпит", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CONV_COND#2+POSS.1PL"},
-      {"pos": 3, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үлэлээн", "type": "title", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#1"},
+      {"pos": 2, "text": "бүттэхпит", "type": "lowercase", "fst": "voc", "root": "бүт+V", "affixes": "+CONV_COND#2+POSS.1PL"},
+      {"pos": 3, "text": "ити", "type": "lowercase", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -57,14 +57,14 @@
     "ru": "Вот и растаял ведь мой 67-й снег.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Алта", "type": "title", "fst": "ymv", "root": "алта+Num"},
-      {"pos": 2, "text": "уон", "type": "lowercase", "fst": "ymv", "root": "уон+Num"},
-      {"pos": 3, "text": "сэттис", "type": "lowercase", "fst": "ymv", "root": "сэттэ+Num", "affixes": "+ORD"},
-      {"pos": 4, "text": "хаарым", "type": "lowercase", "fst": "ymv", "root": "хаар+N", "affixes": "+POSS.1SG"},
-      {"pos": 5, "text": "уулуннаҕа", "type": "lowercase", "fst": "ymv", "root": "уулун+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 6, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 7, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии+Part"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Алта", "type": "title", "fst": "voc", "root": "алта+Num"},
+      {"pos": 2, "text": "уон", "type": "lowercase", "fst": "voc", "root": "уон+Num"},
+      {"pos": 3, "text": "сэттис", "type": "lowercase", "fst": "voc", "root": "сэттэ+Num", "affixes": "+ORD"},
+      {"pos": 4, "text": "хаарым", "type": "lowercase", "fst": "voc", "root": "хаар+N", "affixes": "+POSS.1SG"},
+      {"pos": 5, "text": "уулуннаҕа", "type": "lowercase", "fst": "voc", "root": "уулун+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 6, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 7, "text": "дии", "type": "lowercase", "fst": "voc", "root": "дии+Part"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -78,10 +78,10 @@
     "ru": "Как внезапна смерть бедняги! (как быстро (неожиданно) скончался бедняга!)",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Эрэйдээх", "type": "title", "fst": "ymv", "root": "эрэй+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "бардаҕа", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 3, "text": "эмискэччитин", "type": "lowercase", "fst": "ymv", "root": "эмискэ+Adv", "affixes": "+AUG#2+POSS.3SG.ACC"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Эрэйдээх", "type": "title", "fst": "voc", "root": "эрэй+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "бардаҕа", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 3, "text": "эмискэччитин", "type": "lowercase", "fst": "voc", "root": "эмискэ+Adv", "affixes": "+AUG#2+POSS.3SG.ACC"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -95,10 +95,10 @@
     "ru": "Человек же ведь он.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Киһи", "type": "title", "fst": "ymv", "root": "киһи+N"},
-      {"pos": 2, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 3, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии+Part"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Киһи", "type": "title", "fst": "voc", "root": "киһи+N"},
+      {"pos": 2, "text": "буоллаҕа", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 3, "text": "дии", "type": "lowercase", "fst": "voc", "root": "дии+Part"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -112,11 +112,11 @@
     "ru": "Пускай и он тоже досадует.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "кыһыйдын", "type": "lowercase", "fst": "ymv", "root": "кыһый+V", "affixes": "+IMP#1.3SG"},
-      {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "кыһыйдын", "type": "lowercase", "fst": "voc", "root": "кыһый+V", "affixes": "+IMP#1.3SG"},
+      {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -130,11 +130,11 @@
     "ru": "И я, значим, пойду.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "барыам", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT+POSS.1SG"},
-      {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "барыам", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+POSS.1SG"},
+      {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

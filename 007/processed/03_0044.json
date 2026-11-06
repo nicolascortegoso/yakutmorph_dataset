@@ -10,13 +10,13 @@
     "ru": "Что за хорошая погода стоит!",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Туохтаах", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "үчүгэй", "type": "lowercase", "fst": "fst", "root": "үчүгэй+Adj"},
-      {"pos": 3, "text": "күн", "type": "lowercase", "fst": "fst", "root": "күн+N"},
-      {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 5, "text": "дьыл", "type": "lowercase", "fst": "fst", "root": "дьыл+N"},
-      {"pos": 6, "text": "турарый", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+PART_PRES+INT"},
-      {"pos": 7, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Туохтаах", "type": "title", "fst": "voc", "root": "туох+Pron", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "үчүгэй", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj"},
+      {"pos": 3, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 4, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 5, "text": "дьыл", "type": "lowercase", "fst": "voc", "root": "дьыл+N"},
+      {"pos": 6, "text": "турарый", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES+INT"},
+      {"pos": 7, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -30,10 +30,10 @@
     "ru": "Что за могучая сила!",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Туохтаах", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "модун", "type": "lowercase", "fst": "fst", "root": "модун+Adj"},
-      {"pos": 3, "text": "күүһүй", "type": "lowercase", "fst": "fst", "root": "күүс+N", "affixes": "+INT"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Туохтаах", "type": "title", "fst": "voc", "root": "туох+Pron", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "модун", "type": "lowercase", "fst": "voc", "root": "модун+Adj"},
+      {"pos": 3, "text": "күүһүй", "type": "lowercase", "fst": "voc", "root": "күүс+N", "affixes": "+INT"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -47,11 +47,11 @@
     "ru": "Что за ленивый мальчик!",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Туохтаах", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "сүрэҕэ", "type": "lowercase", "fst": "fst", "root": "сүрэх+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох+N"},
-      {"pos": 4, "text": "уолуй", "type": "lowercase", "fst": "fst", "root": "уол+N", "affixes": "+INT"},
-      {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Туохтаах", "type": "title", "fst": "voc", "root": "туох+Pron", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "сүрэҕэ", "type": "lowercase", "fst": "voc", "root": "сүрэх+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "суох", "type": "lowercase", "fst": "voc", "root": "суох+N"},
+      {"pos": 4, "text": "уолуй", "type": "lowercase", "fst": "voc", "root": "уол+N", "affixes": "+INT"},
+      {"pos": 5, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

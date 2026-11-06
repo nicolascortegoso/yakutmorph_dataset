@@ -10,8 +10,8 @@
     "ru": "много народу",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "элбэх", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+ADJZ#16"},
-      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"}
+      {"pos": 1, "text": "элбэх", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "нас много",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "элбэхпит", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+ADJZ#16+1PL"}
+      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "элбэхпит", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16+1PL"}
     ]
   },
   {
@@ -40,9 +40,9 @@
     "ru": "несколько коров",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "хас", "type": "lowercase", "fst": "ymv", "root": "хас+Pron"},
-      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"},
-      {"pos": 3, "text": "ынах", "type": "lowercase", "fst": "ymv", "root": "ынах+N"}
+      {"pos": 1, "text": "хас", "type": "lowercase", "fst": "voc", "root": "хас+Pron"},
+      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"},
+      {"pos": 3, "text": "ынах", "type": "lowercase", "fst": "voc", "root": "ынах+N"}
     ]
   },
   {
@@ -56,9 +56,9 @@
     "ru": "коров несколько",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "ынахтар", "type": "lowercase", "fst": "ymv", "root": "ынах+N", "affixes": "+PL"},
-      {"pos": 2, "text": "хастар", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+PL"},
-      {"pos": 3, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"}
+      {"pos": 1, "text": "ынахтар", "type": "lowercase", "fst": "voc", "root": "ынах+N", "affixes": "+PL"},
+      {"pos": 2, "text": "хастар", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+PL"},
+      {"pos": 3, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"}
     ]
   },
   {
@@ -72,11 +72,11 @@
     "ru": "Прошло много пеших людей.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Үгүс", "type": "title", "fst": "ymv", "root": "үгүс+Adj"},
-      {"pos": 2, "text": "сатыы", "type": "lowercase", "fst": "ymv", "root": "сатыы+Adv"},
-      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
-      {"pos": 4, "text": "ааста", "type": "lowercase", "fst": "ymv", "root": "аас+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үгүс", "type": "title", "fst": "voc", "root": "үгүс+Adj"},
+      {"pos": 2, "text": "сатыы", "type": "lowercase", "fst": "voc", "root": "сатыы+Adv"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 4, "text": "ааста", "type": "lowercase", "fst": "voc", "root": "аас+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -90,10 +90,10 @@
     "ru": "Работающих людей много.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Үлэлиир", "type": "title", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
-      {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"},
-      {"pos": 3, "text": "үгүстэр", "type": "lowercase", "fst": "ymv", "root": "үгүс+Adj", "affixes": "+PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үлэлиир", "type": "title", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 2, "text": "дьон", "type": "lowercase", "fst": "voc", "root": "дьон+N"},
+      {"pos": 3, "text": "үгүстэр", "type": "lowercase", "fst": "voc", "root": "үгүс+Adj", "affixes": "+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -107,7 +107,7 @@
     "ru": "немного раз",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "аҕыйахта", "type": "lowercase", "fst": "ymv", "root": "аҕыйаа+V", "affixes": "+ADJZ#16+ADVZ#8"}
+      {"pos": 1, "text": "аҕыйахта", "type": "lowercase", "fst": "voc", "root": "аҕыйаа+V", "affixes": "+ADJZ#16+ADVZ#8"}
     ]
   },
   {
@@ -121,7 +121,7 @@
     "ru": "много раз",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "үгүстэ", "type": "lowercase", "fst": "ymv", "root": "үгүс+Adj", "affixes": "+ADVZ#8"}
+      {"pos": 1, "text": "үгүстэ", "type": "lowercase", "fst": "voc", "root": "үгүс+Adj", "affixes": "+ADVZ#8"}
     ]
   },
   {
@@ -135,7 +135,7 @@
     "ru": "много раз, часто",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "элбэхтэ", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+ADJZ#16+ADVZ#8"}
+      {"pos": 1, "text": "элбэхтэ", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16+ADVZ#8"}
     ]
   },
   {
@@ -149,7 +149,7 @@
     "ru": "немного, мало",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "аҕыйахтык", "type": "lowercase", "fst": "ymv", "root": "аҕыйаа+V", "affixes": "+ADJZ#16+ADVZ#5"}
+      {"pos": 1, "text": "аҕыйахтык", "type": "lowercase", "fst": "voc", "root": "аҕыйаа+V", "affixes": "+ADJZ#16+ADVZ#5"}
     ]
   },
   {
@@ -163,7 +163,7 @@
     "ru": "много, часто",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "үгүстүк", "type": "lowercase", "fst": "ymv", "root": "үгүс+Adj", "affixes": "+ADVZ#5"}
+      {"pos": 1, "text": "үгүстүк", "type": "lowercase", "fst": "voc", "root": "үгүс+Adj", "affixes": "+ADVZ#5"}
     ]
   },
   {
@@ -177,7 +177,7 @@
     "ru": "много, обильно",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "элбэхтик", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+ADJZ#16+ADVZ#5"}
+      {"pos": 1, "text": "элбэхтик", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16+ADVZ#5"}
     ]
   },
   {
@@ -191,7 +191,7 @@
     "ru": "в одиночку (аффиксы, приманяемые к существительным)",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "соҕотохтуу", "type": "lowercase", "fst": "ymv", "root": "соҕотох+Adj", "affixes": "+ADVZ#6"}
+      {"pos": 1, "text": "соҕотохтуу", "type": "lowercase", "fst": "voc", "root": "соҕотох+Adj", "affixes": "+ADVZ#6"}
     ]
   },
   {
@@ -205,7 +205,7 @@
     "ru": "только один раз, сразу (аффиксы числительных)",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "соҕотохто", "type": "lowercase", "fst": "ymv", "root": "соҕотох+Adj", "affixes": "+ADVZ#8"}
+      {"pos": 1, "text": "соҕотохто", "type": "lowercase", "fst": "voc", "root": "соҕотох+Adj", "affixes": "+ADVZ#8"}
     ]
   },
   {
@@ -219,7 +219,7 @@
     "ru": "наедине (аффиксы прилагательного)",
     "id": 16,
     "parses": [
-      {"pos": 1, "text": "соҕотохтук", "type": "lowercase", "fst": "ymv", "root": "соҕотох+Adj", "affixes": "+ADVZ#5"}
+      {"pos": 1, "text": "соҕотохтук", "type": "lowercase", "fst": "voc", "root": "соҕотох+Adj", "affixes": "+ADVZ#5"}
     ]
   }
 ]

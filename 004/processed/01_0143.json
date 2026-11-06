@@ -10,10 +10,10 @@
     "ru": "Вы выпишете себе газету.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Эһиги", "type": "title", "fst": "fst", "root": "эһиги+Pron"},
-      {"pos": 2, "text": "хаһыатта", "type": "lowercase", "fst": "fst", "root": "хаһыат+N", "affixes": "+PRTV"},
-      {"pos": 3, "text": "сурунуҥ", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+REFL/PASS+IMP#1.2PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Эһиги", "type": "title", "fst": "voc", "root": "эһиги+Pron"},
+      {"pos": 2, "text": "хаһыатта", "type": "lowercase", "fst": "voc", "root": "хаһыат+N", "affixes": "+PRTV"},
+      {"pos": 3, "text": "сурунуҥ", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+REFL/PASS+IMP#1.2PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -27,11 +27,11 @@
     "ru": "Он заготовил себе много сена.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини+Pron"},
-      {"pos": 2, "text": "элбэх", "type": "lowercase", "fst": "fst", "root": "элбээ+V", "affixes": "+ADJZ#16"},
-      {"pos": 3, "text": "оту", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "оттоммут", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_PAST"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "элбэх", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16"},
+      {"pos": 3, "text": "оту", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "оттоммут", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_PAST"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -45,9 +45,9 @@
     "ru": "(Ты) вози (себе, сам) свое сено.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Оккун", "type": "title", "fst": "fst", "root": "от+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "тиэн", "type": "lowercase", "fst": "fst", "root": "тиэй+V", "affixes": "+REFL/PASS"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Оккун", "type": "title", "fst": "voc", "root": "от+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "тиэн", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+REFL/PASS"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -61,9 +61,9 @@
     "ru": "(Он) возит (себе, сам) свое сено.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Отун", "type": "title", "fst": "fst", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 2, "text": "тиэнэр", "type": "lowercase", "fst": "fst", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Отун", "type": "title", "fst": "voc", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "тиэнэр", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -77,10 +77,10 @@
     "ru": "Свое сено (он) возит себе сам.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Отун", "type": "title", "fst": "ymv", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 2, "text": "бэйэтэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Отун", "type": "title", "fst": "voc", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "бэйэтэ", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

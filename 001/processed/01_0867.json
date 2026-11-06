@@ -10,13 +10,13 @@
     "ru": "До десяти лет Костя воспитывался в семье родного дяди.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Костя", "type": "title", "fst": "yma", "root": "костя+PN"},
-      {"pos": 2, "text": "уончатыгар", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1+POSS.3SG.DAT"},
-      {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"},
-      {"pos": 4, "text": "таайын", "type": "lowercase", "fst": "ymv", "root": "таай+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 5, "text": "аахха", "type": "lowercase", "fst": "ymv", "root": "аах+Adj", "affixes": "+DAT"},
-      {"pos": 6, "text": "иитиллибит", "type": "lowercase", "fst": "ymv", "root": "иит+V", "affixes": "+PASS+PART_PAST"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Костя", "type": "title", "fst": "aff", "root": "костя+PN"},
+      {"pos": 2, "text": "уончатыгар", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1+POSS.3SG.DAT"},
+      {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "voc", "root": "диэри+POST"},
+      {"pos": 4, "text": "таайын", "type": "lowercase", "fst": "voc", "root": "таай+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 5, "text": "аахха", "type": "lowercase", "fst": "voc", "root": "аах+Adj", "affixes": "+DAT"},
+      {"pos": 6, "text": "иитиллибит", "type": "lowercase", "fst": "voc", "root": "иит+V", "affixes": "+PASS+PART_PAST"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,13 +30,13 @@
     "ru": "Вещички его все тут же рассыпались на пол.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Малын", "type": "title", "fst": "ymv", "root": "мал+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 2, "text": "дуомнара", "type": "lowercase", "fst": "ymv", "root": "дуом+N", "affixes": "+PL+POSS.3SG"},
-      {"pos": 3, "text": "барыта", "type": "lowercase", "fst": "ymv", "root": "бары+Pron", "affixes": "+POSS.3SG"},
-      {"pos": 4, "text": "муостаҕа", "type": "lowercase", "fst": "ymv", "root": "муоста+N", "affixes": "+DAT"},
-      {"pos": 5, "text": "ыһылла", "type": "lowercase", "fst": "ymv", "root": "ыс+V", "affixes": "+PASS+CONV#2"},
-      {"pos": 6, "text": "түстүлэр", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PST.3PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Малын", "type": "title", "fst": "voc", "root": "мал+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "дуомнара", "type": "lowercase", "fst": "voc", "root": "дуом+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 3, "text": "барыта", "type": "lowercase", "fst": "voc", "root": "бары+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "муостаҕа", "type": "lowercase", "fst": "voc", "root": "муоста+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "ыһылла", "type": "lowercase", "fst": "voc", "root": "ыс+V", "affixes": "+PASS+CONV#2"},
+      {"pos": 6, "text": "түстүлэр", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PST.3PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -50,17 +50,17 @@
     "ru": "Где твои красиво-нежные рученьки, подай-ка их сюда.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Уран", "type": "title", "fst": "ymv", "root": "уран+Adj"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "намчы", "type": "lowercase", "fst": "ymv", "root": "намчы+Adj"},
-      {"pos": 4, "text": "илииҥ", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.2SG"},
-      {"pos": 5, "text": "сыысчаана", "type": "lowercase", "fst": "ymv", "root": "сыыс+N", "affixes": "+DIM#2+POSS.3SG"},
-      {"pos": 6, "text": "ханнаный", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron", "affixes": "+INT"},
-      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 8, "text": "аҕал", "type": "lowercase", "fst": "ymv", "root": "аҕал+V"},
-      {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
-      {"pos": 10, "text": "бэттэх", "type": "lowercase", "fst": "ymv", "root": "бэттэх+Pron"},
-      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уран", "type": "title", "fst": "voc", "root": "уран+Adj"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "намчы", "type": "lowercase", "fst": "voc", "root": "намчы+Adj"},
+      {"pos": 4, "text": "илииҥ", "type": "lowercase", "fst": "voc", "root": "илии+N", "affixes": "+POSS.2SG"},
+      {"pos": 5, "text": "сыысчаана", "type": "lowercase", "fst": "voc", "root": "сыыс+N", "affixes": "+DIM#2+POSS.3SG"},
+      {"pos": 6, "text": "ханнаный", "type": "lowercase", "fst": "voc", "root": "ханна+Pron", "affixes": "+INT"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 8, "text": "аҕал", "type": "lowercase", "fst": "voc", "root": "аҕал+V"},
+      {"pos": 9, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 10, "text": "бэттэх", "type": "lowercase", "fst": "voc", "root": "бэттэх+Pron"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

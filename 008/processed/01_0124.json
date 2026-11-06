@@ -10,11 +10,11 @@
     "ru": "Школьники участвуют в работе колхоза.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Оскуола", "type": "title", "fst": "fst", "root": "оскуола+N"},
-      {"pos": 2, "text": "оҕолоро", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+PL+POSS.3SG"},
-      {"pos": 3, "text": "колхозка", "type": "lowercase", "fst": "fst", "root": "колхоз+N", "affixes": "+DAT"},
-      {"pos": 4, "text": "үлэлэһэллэр", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+RECP+PART_PRES+PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Оскуола", "type": "title", "fst": "voc", "root": "оскуола+N"},
+      {"pos": 2, "text": "оҕолоро", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 3, "text": "колхозка", "type": "lowercase", "fst": "voc", "root": "колхоз+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "үлэлэһэллэр", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+RECP+PART_PRES+PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,12 +28,12 @@
     "ru": "Выйди и вместе со своим отцом сгребай снег.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Тахсан", "type": "title", "fst": "ymv", "root": "таҕыс+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "хаарда", "type": "lowercase", "fst": "ymv", "root": "хаар+N", "affixes": "+PRTV"},
-      {"pos": 5, "text": "күрдьүс", "type": "lowercase", "fst": "ymv", "root": "күрт+V", "affixes": "+RECP"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Тахсан", "type": "title", "fst": "voc", "root": "таҕыс+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "аҕаҕын", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "voc", "root": "кытын+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "хаарда", "type": "lowercase", "fst": "voc", "root": "хаар+N", "affixes": "+PRTV"},
+      {"pos": 5, "text": "күрдьүс", "type": "lowercase", "fst": "voc", "root": "күрт+V", "affixes": "+RECP"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,11 +47,11 @@
     "ru": "Завтра со мною пилите дрова.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Сарсын", "type": "title", "fst": "fst", "root": "сарсын+Adv"},
-      {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "fst", "root": "мин+Pron", "affixes": "+DAT"},
-      {"pos": 3, "text": "маста", "type": "lowercase", "fst": "fst", "root": "мас+N", "affixes": "+PRTV"},
-      {"pos": 4, "text": "эрбэһиҥ", "type": "lowercase", "fst": "fst", "root": "эрбээ+V", "affixes": "+RECP+IMP#1.2PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Сарсын", "type": "title", "fst": "voc", "root": "сарсын+Adv"},
+      {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "voc", "root": "мин+Pron", "affixes": "+DAT"},
+      {"pos": 3, "text": "маста", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+PRTV"},
+      {"pos": 4, "text": "эрбэһиҥ", "type": "lowercase", "fst": "voc", "root": "эрбээ+V", "affixes": "+RECP+IMP#1.2PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -65,10 +65,10 @@
     "ru": "Дети кидаются (друг в друга) снегом.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Оҕолор", "type": "title", "fst": "fst", "root": "оҕо+N", "affixes": "+PL"},
-      {"pos": 2, "text": "хаарынан", "type": "lowercase", "fst": "fst", "root": "хаар+N", "affixes": "+INST"},
-      {"pos": 3, "text": "бырахсаллар", "type": "lowercase", "fst": "fst", "root": "бырах+V", "affixes": "+RECP+PART_PRES+PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Оҕолор", "type": "title", "fst": "voc", "root": "оҕо+N", "affixes": "+PL"},
+      {"pos": 2, "text": "хаарынан", "type": "lowercase", "fst": "voc", "root": "хаар+N", "affixes": "+INST"},
+      {"pos": 3, "text": "бырахсаллар", "type": "lowercase", "fst": "voc", "root": "бырах+V", "affixes": "+RECP+PART_PRES+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -82,11 +82,11 @@
     "ru": "Они схватили друг друга за руки.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Илии", "type": "title", "fst": "fst", "root": "илии+N"},
-      {"pos": 2, "text": "—", "type": "dash", "fst": "fst"},
-      {"pos": 3, "text": "илиилэриттэн", "type": "lowercase", "fst": "fst", "root": "илии+N", "affixes": "+POSS.3PL.ABL"},
-      {"pos": 4, "text": "хапсыстылар", "type": "lowercase", "fst": "fst", "root": "хап+V", "affixes": "+RECP+RECP+PST.3PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Илии", "type": "title", "fst": "voc", "root": "илии+N"},
+      {"pos": 2, "text": "—", "type": "dash", "fst": "voc"},
+      {"pos": 3, "text": "илиилэриттэн", "type": "lowercase", "fst": "voc", "root": "илии+N", "affixes": "+POSS.3PL.ABL"},
+      {"pos": 4, "text": "хапсыстылар", "type": "lowercase", "fst": "voc", "root": "хап+V", "affixes": "+RECP+RECP+PST.3PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -100,11 +100,11 @@
     "ru": "С ним мы знакомы давно.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини+Pron"},
-      {"pos": 2, "text": "биһикки", "type": "lowercase", "fst": "fst", "root": "биһикки+Pron"},
-      {"pos": 3, "text": "уруккуттан", "type": "lowercase", "fst": "fst", "root": "урут+Adv", "affixes": "+ADJZ#4+ABL"},
-      {"pos": 4, "text": "билсиһэбит", "type": "lowercase", "fst": "fst", "root": "бил+V", "affixes": "+RECP+RECP+PART_PRES+1PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "биһикки", "type": "lowercase", "fst": "voc", "root": "биһикки+Pron"},
+      {"pos": 3, "text": "уруккуттан", "type": "lowercase", "fst": "voc", "root": "урут+Adv", "affixes": "+ADJZ#4+ABL"},
+      {"pos": 4, "text": "билсиһэбит", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+RECP+RECP+PART_PRES+1PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -118,13 +118,13 @@
     "ru": "Они стали враждовать друг с другом.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Бэйэ", "type": "title", "fst": "ymv", "root": "бэйэ+Pron"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3PL.ACC"},
-      {"pos": 4, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "өстүһэр", "type": "lowercase", "fst": "ymv", "root": "өс+N", "affixes": "+VRBLZ#5+RECP+PART_PRES"},
-      {"pos": 6, "text": "буоллулар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бэйэ", "type": "title", "fst": "voc", "root": "бэйэ+Pron"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.3PL.ACC"},
+      {"pos": 4, "text": "кытта", "type": "lowercase", "fst": "voc", "root": "кытын+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "өстүһэр", "type": "lowercase", "fst": "voc", "root": "өс+N", "affixes": "+VRBLZ#5+RECP+PART_PRES"},
+      {"pos": 6, "text": "буоллулар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.3PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

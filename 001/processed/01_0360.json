@@ -10,11 +10,11 @@
     "ru": "Заведите его, кто бы он ни был (кого угодно заведите).",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ким", "type": "title", "fst": "ymv", "root": "ким+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "буоллар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#1"},
-      {"pos": 4, "text": "киллэриҥ", "type": "lowercase", "fst": "ymv", "root": "киллэр+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ким", "type": "title", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "буоллар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#1"},
+      {"pos": 4, "text": "киллэриҥ", "type": "lowercase", "fst": "voc", "root": "киллэр+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,12 +28,12 @@
     "ru": "Кто работает, тот есть.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ким", "type": "title", "fst": "ymv", "root": "ким+Pron"},
-      {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 5, "text": "аһыыр", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#3+PART_PRES"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ким", "type": "title", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "ол", "type": "lowercase", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 5, "text": "аһыыр", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+PART_PRES"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,11 +47,11 @@
     "ru": "От водки и медведь пьянеет.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Арыгыттан", "type": "title", "fst": "ymv", "root": "арыгы+N", "affixes": "+ABL"},
-      {"pos": 2, "text": "эһэ", "type": "lowercase", "fst": "ymv", "root": "эһэ+N"},
-      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 4, "text": "итирэр", "type": "lowercase", "fst": "ymv", "root": "итир+V", "affixes": "+PART_PRES"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Арыгыттан", "type": "title", "fst": "voc", "root": "арыгы+N", "affixes": "+ABL"},
+      {"pos": 2, "text": "эһэ", "type": "lowercase", "fst": "voc", "root": "эһэ+N"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 4, "text": "итирэр", "type": "lowercase", "fst": "voc", "root": "итир+V", "affixes": "+PART_PRES"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

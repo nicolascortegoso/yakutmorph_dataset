@@ -10,9 +10,9 @@
     "ru": "Мария поет песню.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Мария", "type": "title", "fst": "yma", "root": "мария+PN"},
-      {"pos": 2, "text": "ырыа", "type": "lowercase", "fst": "ymv", "root": "ырыа+N"},
-      {"pos": 3, "text": "ыллыыр", "type": "lowercase", "fst": "ymv", "root": "ыллаа+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "Мария", "type": "title", "fst": "aff", "root": "мария+PN"},
+      {"pos": 2, "text": "ырыа", "type": "lowercase", "fst": "voc", "root": "ырыа+N"},
+      {"pos": 3, "text": "ыллыыр", "type": "lowercase", "fst": "voc", "root": "ыллаа+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -26,11 +26,11 @@
     "ru": "Кошун взмыл в небо.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Элиэ", "type": "title", "fst": "fst", "root": "элиэ+N"},
-      {"pos": 2, "text": "өрө", "type": "lowercase", "fst": "fst", "root": "өрө+Adv"},
-      {"pos": 3, "text": "көтөн", "type": "lowercase", "fst": "fst", "root": "көт+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "таҕыста", "type": "lowercase", "fst": "fst", "root": "таҕыс+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Элиэ", "type": "title", "fst": "voc", "root": "элиэ+N"},
+      {"pos": 2, "text": "өрө", "type": "lowercase", "fst": "voc", "root": "өрө+Adv"},
+      {"pos": 3, "text": "көтөн", "type": "lowercase", "fst": "voc", "root": "көт+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "таҕыста", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -44,12 +44,12 @@
     "ru": "Они впервые в своей жизни нырнули в воду.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "саастарыгар", "type": "lowercase", "fst": "ymv", "root": "саас+N", "affixes": "+PL+POSS.3SG.DAT"},
-      {"pos": 3, "text": "аан", "type": "lowercase", "fst": "ymv", "root": "аан+N"},
-      {"pos": 4, "text": "маҥнай", "type": "lowercase", "fst": "ymv", "root": "маҥнай+Adv"},
-      {"pos": 5, "text": "умустулар", "type": "lowercase", "fst": "ymv", "root": "умус+V", "affixes": "+PST.3PL"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "саастарыгар", "type": "lowercase", "fst": "voc", "root": "саас+N", "affixes": "+PL+POSS.3SG.DAT"},
+      {"pos": 3, "text": "аан", "type": "lowercase", "fst": "voc", "root": "аан+N"},
+      {"pos": 4, "text": "маҥнай", "type": "lowercase", "fst": "voc", "root": "маҥнай+Adv"},
+      {"pos": 5, "text": "умустулар", "type": "lowercase", "fst": "voc", "root": "умус+V", "affixes": "+PST.3PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

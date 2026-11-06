@@ -10,12 +10,12 @@
     "ru": "Иду, не видя никакого огня.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Туох", "type": "title", "fst": "fst", "root": "туох+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "fst", "root": "да+Part"},
-      {"pos": 3, "text": "уотун", "type": "lowercase", "fst": "fst", "root": "уот+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 4, "text": "көрүмнэ", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+NEG+CONV#3a"},
-      {"pos": 5, "text": "иһэбин", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Туох", "type": "title", "fst": "voc", "root": "туох+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "уотун", "type": "lowercase", "fst": "voc", "root": "уот+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "көрүмнэ", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+NEG+CONV#3a"},
+      {"pos": 5, "text": "иһэбин", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,12 +29,12 @@
     "ru": "Попробуй-ка полежать, не делая работу!",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Үлэҕин", "type": "title", "fst": "fst", "root": "үлэ+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "үлэлээмнэ", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+CONV#3a"},
-      {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ+Adv"},
-      {"pos": 4, "text": "сытаар", "type": "lowercase", "fst": "fst", "root": "сыт+V", "affixes": "+IMP#2.2SG"},
-      {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ+Part"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Үлэҕин", "type": "title", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "үлэлээмнэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+CONV#3a"},
+      {"pos": 3, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"},
+      {"pos": 4, "text": "сытаар", "type": "lowercase", "fst": "voc", "root": "сыт+V", "affixes": "+IMP#2.2SG"},
+      {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

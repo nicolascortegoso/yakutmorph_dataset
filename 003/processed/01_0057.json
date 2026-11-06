@@ -10,13 +10,13 @@
     "ru": "В одно утро почтальон зашел, прямо глядя на него.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Биир", "type": "title", "fst": "fst", "root": "биир+Num"},
-      {"pos": 2, "text": "сарсыарда", "type": "lowercase", "fst": "fst", "root": "сарсыарда+Adv"},
-      {"pos": 3, "text": "почтальон", "type": "lowercase", "fst": "fst", "root": "почтальон+N"},
-      {"pos": 4, "text": "кинини", "type": "lowercase", "fst": "fst", "root": "кини+Pron", "affixes": "+ACC"},
-      {"pos": 5, "text": "көрбүтүнэн", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PART_PAST+POSS.3SG.INST"},
-      {"pos": 6, "text": "киирдэ", "type": "lowercase", "fst": "fst", "root": "киир+V", "affixes": "+PST.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Биир", "type": "title", "fst": "voc", "root": "биир+Num"},
+      {"pos": 2, "text": "сарсыарда", "type": "lowercase", "fst": "voc", "root": "сарсыарда+Adv"},
+      {"pos": 3, "text": "почтальон", "type": "lowercase", "fst": "voc", "root": "почтальон+N"},
+      {"pos": 4, "text": "кинини", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+ACC"},
+      {"pos": 5, "text": "көрбүтүнэн", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PART_PAST+POSS.3SG.INST"},
+      {"pos": 6, "text": "киирдэ", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,15 +30,15 @@
     "ru": "Иван Кириллович, смеясь-веселясь, продолжал рассказывать.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
-      {"pos": 2, "text": "Кириллович", "type": "title", "fst": "yma", "root": "кириллович+PN"},
-      {"pos": 3, "text": "күлбүтүнэн", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+PART_PAST+INST"},
-      {"pos": 4, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 5, "text": "салбытынан", "type": "lowercase", "fst": "ymv", "root": "сал+V", "affixes": "+PART_PAST+INST"},
-      {"pos": 6, "text": "кэпсээнин", "type": "lowercase", "fst": "ymv", "root": "кэпсээн+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 7, "text": "салгыы", "type": "lowercase", "fst": "ymv", "root": "салгыы+Adv"},
-      {"pos": 8, "text": "олордо", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PST.3SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Иван", "type": "title", "fst": "aff", "root": "иван+PN"},
+      {"pos": 2, "text": "Кириллович", "type": "title", "fst": "aff", "root": "кириллович+PN"},
+      {"pos": 3, "text": "күлбүтүнэн", "type": "lowercase", "fst": "voc", "root": "күл+V", "affixes": "+PART_PAST+INST"},
+      {"pos": 4, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 5, "text": "салбытынан", "type": "lowercase", "fst": "voc", "root": "сал+V", "affixes": "+PART_PAST+INST"},
+      {"pos": 6, "text": "кэпсээнин", "type": "lowercase", "fst": "voc", "root": "кэпсээн+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 7, "text": "салгыы", "type": "lowercase", "fst": "voc", "root": "салгыы+Adv"},
+      {"pos": 8, "text": "олордо", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PST.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -52,14 +52,14 @@
     "ru": "Она потрясла Губина, спящего, наклонив голову вниз.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
-      {"pos": 2, "text": "Умса", "type": "title", "fst": "ymv", "root": "умус+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "туспүтүнэн", "type": "lowercase", "fst": "yma", "root": "туспүтүнэн+N"},
-      {"pos": 4, "text": "утуйа", "type": "lowercase", "fst": "ymv", "root": "утуй+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+PART_PRES"},
-      {"pos": 6, "text": "Губины", "type": "title", "fst": "yma", "root": "губины+PN"},
-      {"pos": 7, "text": "тардыаласта", "type": "lowercase", "fst": "ymv", "root": "тарт+V", "affixes": "+FREC#1+RECP+PST.3SG"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "voc"},
+      {"pos": 2, "text": "Умса", "type": "title", "fst": "voc", "root": "умус+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "туспүтүнэн", "type": "lowercase", "fst": "aff", "root": "туспүтүнэн+N"},
+      {"pos": 4, "text": "утуйа", "type": "lowercase", "fst": "voc", "root": "утуй+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "сытар", "type": "lowercase", "fst": "voc", "root": "сыт+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": "Губины", "type": "title", "fst": "aff", "root": "губины+PN"},
+      {"pos": 7, "text": "тардыаласта", "type": "lowercase", "fst": "voc", "root": "тарт+V", "affixes": "+FREC#1+RECP+PST.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

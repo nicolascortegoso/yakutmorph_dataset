@@ -10,11 +10,11 @@
     "ru": "Кто это такие (наши) побывали у нас?",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити+Pron"},
-      {"pos": 2, "text": "кимнээхтэрбит", "type": "lowercase", "fst": "ymv", "root": "ким+Pron", "affixes": "+PL+PL+POSS.1PL"},
-      {"pos": 3, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "бардылар", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.3PL"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Ити", "type": "title", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 2, "text": "кимнээхтэрбит", "type": "lowercase", "fst": "voc", "root": "ким+Pron", "affixes": "+PL+PL+POSS.1PL"},
+      {"pos": 3, "text": "кэлэн", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "бардылар", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.3PL"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -28,13 +28,13 @@
     "ru": "Бойкий голос молодой женщины спросил: кто вы есть такие?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Эдэр", "type": "title", "fst": "ymv", "root": "эдэр+Adj"},
-      {"pos": 2, "text": "дьахтар", "type": "lowercase", "fst": "ymv", "root": "дьахтар+N"},
-      {"pos": 3, "text": "саҥата", "type": "lowercase", "fst": "ymv", "root": "саҥа+N", "affixes": "+POSS.3SG"},
-      {"pos": 4, "text": "ыйытта", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ":", "type": "colon", "fst": "ymv"},
-      {"pos": 6, "text": "кимнээхтэргитий", "type": "lowercase", "fst": "ymv", "root": "ким+Pron", "affixes": "+PL+PL+POSS.2PL+INT"},
-      {"pos": 7, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Эдэр", "type": "title", "fst": "voc", "root": "эдэр+Adj"},
+      {"pos": 2, "text": "дьахтар", "type": "lowercase", "fst": "voc", "root": "дьахтар+N"},
+      {"pos": 3, "text": "саҥата", "type": "lowercase", "fst": "voc", "root": "саҥа+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "ыйытта", "type": "lowercase", "fst": "voc", "root": "ыйыт+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ":", "type": "colon", "fst": "voc"},
+      {"pos": 6, "text": "кимнээхтэргитий", "type": "lowercase", "fst": "voc", "root": "ким+Pron", "affixes": "+PL+PL+POSS.2PL+INT"},
+      {"pos": 7, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -48,8 +48,8 @@
     "ru": "",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "туоҕу", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+ACC"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "туоҕу", "type": "lowercase", "fst": "voc", "root": "туох+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -63,8 +63,8 @@
     "ru": "",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "тугу", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+ACC"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "тугу", "type": "lowercase", "fst": "voc", "root": "туох+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -78,8 +78,8 @@
     "ru": "",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "туоҕунан", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+INST"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "туоҕунан", "type": "lowercase", "fst": "voc", "root": "туох+Pron", "affixes": "+INST"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -93,8 +93,8 @@
     "ru": "",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "тугунан", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+INST"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "тугунан", "type": "lowercase", "fst": "voc", "root": "туох+Pron", "affixes": "+INST"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   }
 ]

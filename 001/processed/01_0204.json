@@ -10,11 +10,11 @@
     "ru": "Возле окна стоит стол.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Түннүк", "type": "title", "fst": "ymv", "root": "түннүк+N"},
-      {"pos": 2, "text": "аттыгар", "type": "lowercase", "fst": "ymv", "root": "атта+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "остуол", "type": "lowercase", "fst": "ymv", "root": "остуол+N"},
-      {"pos": 4, "text": "турар", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Түннүк", "type": "title", "fst": "voc", "root": "түннүк+N"},
+      {"pos": 2, "text": "аттыгар", "type": "lowercase", "fst": "voc", "root": "атта+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "остуол", "type": "lowercase", "fst": "voc", "root": "остуол+N"},
+      {"pos": 4, "text": "турар", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,10 +28,10 @@
     "ru": "На столе лежит книга.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Остуолга", "type": "title", "fst": "ymv", "root": "остуол+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N"},
-      {"pos": 3, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Остуолга", "type": "title", "fst": "voc", "root": "остуол+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "voc", "root": "кинигэ+N"},
+      {"pos": 3, "text": "сытар", "type": "lowercase", "fst": "voc", "root": "сыт+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -45,16 +45,16 @@
     "ru": "В этом озере рыба не водится, зато часто садится турпан.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "күөлгэ", "type": "lowercase", "fst": "ymv", "root": "күөл+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "балык", "type": "lowercase", "fst": "ymv", "root": "балык+N"},
-      {"pos": 4, "text": "үөскээбэт", "type": "lowercase", "fst": "ymv", "root": "үөскээ+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "хата", "type": "lowercase", "fst": "ymv", "root": "хата+MOD"},
-      {"pos": 7, "text": "анды", "type": "lowercase", "fst": "ymv", "root": "анды+N"},
-      {"pos": 8, "text": "бэркэ", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj", "affixes": "+DAT"},
-      {"pos": 9, "text": "түһэр", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PRES"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "күөлгэ", "type": "lowercase", "fst": "voc", "root": "күөл+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "балык", "type": "lowercase", "fst": "voc", "root": "балык+N"},
+      {"pos": 4, "text": "үөскээбэт", "type": "lowercase", "fst": "voc", "root": "үөскээ+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "хата", "type": "lowercase", "fst": "voc", "root": "хата+MOD"},
+      {"pos": 7, "text": "анды", "type": "lowercase", "fst": "voc", "root": "анды+N"},
+      {"pos": 8, "text": "бэркэ", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj", "affixes": "+DAT"},
+      {"pos": 9, "text": "түһэр", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PART_PRES"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -68,17 +68,17 @@
     "ru": "Сейчас не селе тракторов очень много, немало и комбайное.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Билигин", "type": "title", "fst": "ymv", "root": "билигин+Adv"},
-      {"pos": 2, "text": "тыа", "type": "lowercase", "fst": "ymv", "root": "тыа+N"},
-      {"pos": 3, "text": "сиригэр", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 4, "text": "трактор", "type": "lowercase", "fst": "ymv", "root": "трактор+N"},
-      {"pos": 5, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
-      {"pos": 6, "text": "элбэх", "type": "lowercase", "fst": "ymv", "root": "элбээ+V", "affixes": "+ADJZ#16"},
-      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 8, "text": "комбайн", "type": "lowercase", "fst": "ymv", "root": "комбайн+N"},
-      {"pos": 9, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 10, "text": "үгүс", "type": "lowercase", "fst": "ymv", "root": "үгүс+Adj"},
-      {"pos": 11, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Билигин", "type": "title", "fst": "voc", "root": "билигин+Adv"},
+      {"pos": 2, "text": "тыа", "type": "lowercase", "fst": "voc", "root": "тыа+N"},
+      {"pos": 3, "text": "сиригэр", "type": "lowercase", "fst": "voc", "root": "сир+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 4, "text": "трактор", "type": "lowercase", "fst": "voc", "root": "трактор+N"},
+      {"pos": 5, "text": "бэрт", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj"},
+      {"pos": 6, "text": "элбэх", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 8, "text": "комбайн", "type": "lowercase", "fst": "voc", "root": "комбайн+N"},
+      {"pos": 9, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 10, "text": "үгүс", "type": "lowercase", "fst": "voc", "root": "үгүс+Adj"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

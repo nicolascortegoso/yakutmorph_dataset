@@ -10,13 +10,13 @@
     "ru": "Он заставил зарезать свыше трех сотен голов скота.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини+Pron"},
-      {"pos": 2, "text": "үс", "type": "lowercase", "fst": "fst", "root": "үс+Num"},
-      {"pos": 3, "text": "сүүстэн", "type": "lowercase", "fst": "fst", "root": "сүүс+Num", "affixes": "+ABL"},
-      {"pos": 4, "text": "тахса", "type": "lowercase", "fst": "fst", "root": "таҕыс+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "сүөһүнү", "type": "lowercase", "fst": "fst", "root": "сүөһү+N", "affixes": "+ACC"},
-      {"pos": 6, "text": "өлөртөрбүтэ", "type": "lowercase", "fst": "fst", "root": "өл+V", "affixes": "+CSTV+CAUS+PART_PAST+POSS.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "үс", "type": "lowercase", "fst": "voc", "root": "үс+Num"},
+      {"pos": 3, "text": "сүүстэн", "type": "lowercase", "fst": "voc", "root": "сүүс+Num", "affixes": "+ABL"},
+      {"pos": 4, "text": "тахса", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "сүөһүнү", "type": "lowercase", "fst": "voc", "root": "сүөһү+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "өлөртөрбүтэ", "type": "lowercase", "fst": "voc", "root": "өл+V", "affixes": "+CSTV+CAUS+PART_PAST+POSS.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,13 +30,13 @@
     "ru": "Иди-ка, выйди в кухню и вели вскипятить самовар.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Куукунаҕа", "type": "title", "fst": "fst", "root": "куукуна+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "тахсан", "type": "lowercase", "fst": "fst", "root": "таҕыс+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "сылабаары", "type": "lowercase", "fst": "fst", "root": "сылабаар+N", "affixes": "+ACC"},
-      {"pos": 5, "text": "оргуттар", "type": "lowercase", "fst": "fst", "root": "оргуй+V", "affixes": "+CSTV+CAUS"},
-      {"pos": 6, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ+Part"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Куукунаҕа", "type": "title", "fst": "voc", "root": "куукуна+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "тахсан", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "сылабаары", "type": "lowercase", "fst": "voc", "root": "сылабаар+N", "affixes": "+ACC"},
+      {"pos": 5, "text": "оргуттар", "type": "lowercase", "fst": "voc", "root": "оргуй+V", "affixes": "+CSTV+CAUS"},
+      {"pos": 6, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -50,13 +50,13 @@
     "ru": "Ту усадьбу сам Богучев велел спалить.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Били", "type": "title", "fst": "ymv", "root": "били+Pron"},
-      {"pos": 2, "text": "өтөҕү", "type": "lowercase", "fst": "ymv", "root": "өтөх+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "Богуучуоп", "type": "title", "fst": "yma", "root": "богуучуоп+PN"},
-      {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG"},
-      {"pos": 5, "text": "уматтарбыт", "type": "lowercase", "fst": "ymv", "root": "умай+V", "affixes": "+CSTV+CAUS+PART_PAST"},
-      {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "эбит+Part"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Били", "type": "title", "fst": "voc", "root": "били+Pron"},
+      {"pos": 2, "text": "өтөҕү", "type": "lowercase", "fst": "voc", "root": "өтөх+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "Богуучуоп", "type": "title", "fst": "aff", "root": "богуучуоп+PN"},
+      {"pos": 4, "text": "бэйэтэ", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": "уматтарбыт", "type": "lowercase", "fst": "voc", "root": "умай+V", "affixes": "+CSTV+CAUS+PART_PAST"},
+      {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "voc", "root": "эбит+Part"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -70,11 +70,11 @@
     "ru": "Она не позволила заменить поленья, брошенные в огонь.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Уокка", "type": "title", "fst": "fst", "root": "уот+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "оттуллубут", "type": "lowercase", "fst": "fst", "root": "отун+V", "affixes": "+PASS+PART_PAST"},
-      {"pos": 3, "text": "маһы", "type": "lowercase", "fst": "fst", "root": "мас+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "уларыттарбата", "type": "lowercase", "fst": "fst", "root": "уларый+V", "affixes": "+CSTV+CAUS+NEG+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Уокка", "type": "title", "fst": "voc", "root": "уот+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "оттуллубут", "type": "lowercase", "fst": "voc", "root": "отун+V", "affixes": "+PASS+PART_PAST"},
+      {"pos": 3, "text": "маһы", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "уларыттарбата", "type": "lowercase", "fst": "voc", "root": "уларый+V", "affixes": "+CSTV+CAUS+NEG+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

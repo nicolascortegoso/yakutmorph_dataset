@@ -10,11 +10,11 @@
     "ru": "Коня его привяжи здесь.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Аккын", "type": "title", "fst": "fst", "root": "ат+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 3, "text": "аҕалан", "type": "lowercase", "fst": "fst", "root": "аҕал+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "баай", "type": "lowercase", "fst": "fst", "root": "баай+V"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Аккын", "type": "title", "fst": "voc", "root": "ат+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "манна", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 3, "text": "аҕалан", "type": "lowercase", "fst": "voc", "root": "аҕал+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "баай", "type": "lowercase", "fst": "voc", "root": "баай+V"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,10 +28,10 @@
     "ru": "Трактор сегодня не работает.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Трактор", "type": "title", "fst": "fst", "root": "трактор+N"},
-      {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "fst", "root": "бүгүн+Adv"},
-      {"pos": 3, "text": "үлэлээбэт", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Трактор", "type": "title", "fst": "voc", "root": "трактор+N"},
+      {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүгүн+Adv"},
+      {"pos": 3, "text": "үлэлээбэт", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -45,11 +45,11 @@
     "ru": "Я письмо своё отправил почтой.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "сурукпун", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NMLZ#5+POSS.1SG.ACC"},
-      {"pos": 3, "text": "почтанан", "type": "lowercase", "fst": "fst", "root": "почта+N", "affixes": "+INST"},
-      {"pos": 4, "text": "ыыттым", "type": "lowercase", "fst": "fst", "root": "ыыт+V", "affixes": "+PST.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "сурукпун", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+NMLZ#5+POSS.1SG.ACC"},
+      {"pos": 3, "text": "почтанан", "type": "lowercase", "fst": "voc", "root": "почта+N", "affixes": "+INST"},
+      {"pos": 4, "text": "ыыттым", "type": "lowercase", "fst": "voc", "root": "ыыт+V", "affixes": "+PST.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -63,11 +63,11 @@
     "ru": "Самолет по пути останавливаться не будет.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Самолет", "type": "title", "fst": "fst", "root": "самолет+N"},
-      {"pos": 2, "text": "аара", "type": "lowercase", "fst": "fst", "root": "аара+Adv"},
-      {"pos": 3, "text": "тохтуо", "type": "lowercase", "fst": "fst", "root": "тохтоо+V", "affixes": "+PART_FUT"},
-      {"pos": 4, "text": "суоҕа", "type": "lowercase", "fst": "fst", "root": "суох+N", "affixes": "+POSS.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Самолет", "type": "title", "fst": "voc", "root": "самолет+N"},
+      {"pos": 2, "text": "аара", "type": "lowercase", "fst": "voc", "root": "аара+Adv"},
+      {"pos": 3, "text": "тохтуо", "type": "lowercase", "fst": "voc", "root": "тохтоо+V", "affixes": "+PART_FUT"},
+      {"pos": 4, "text": "суоҕа", "type": "lowercase", "fst": "voc", "root": "суох+N", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

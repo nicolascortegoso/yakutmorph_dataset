@@ -10,8 +10,8 @@
     "ru": "пойду или пойдем туда (пойдется туда)",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "онно", "type": "lowercase", "fst": "fst", "root": "ол+Pron", "affixes": "+LOC"},
-      {"pos": 2, "text": "барыллыа", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PASS+PART_FUT"}
+      {"pos": 1, "text": "онно", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+LOC"},
+      {"pos": 2, "text": "барыллыа", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PASS+PART_FUT"}
     ]
   },
   {
@@ -25,9 +25,9 @@
     "ru": "это не столь страшно (от того не столь внушается страх)",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "онтон", "type": "lowercase", "fst": "fst", "root": "ол+Pron", "affixes": "+ABL"},
-      {"pos": 2, "text": "соччо", "type": "lowercase", "fst": "fst", "root": "сол+Pron", "affixes": "+DEF#2"},
-      {"pos": 3, "text": "куттаныллыбат", "type": "lowercase", "fst": "fst", "root": "куттаа+V", "affixes": "+REFL/PASS+PASS+NEG+PART_PRES"}
+      {"pos": 1, "text": "онтон", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "соччо", "type": "lowercase", "fst": "voc", "root": "сол+Pron", "affixes": "+DEF#2"},
+      {"pos": 3, "text": "куттаныллыбат", "type": "lowercase", "fst": "voc", "root": "куттаа+V", "affixes": "+REFL/PASS+PASS+NEG+PART_PRES"}
     ]
   },
   {
@@ -41,9 +41,9 @@
     "ru": "на этой кровати не лежат",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити+Pron"},
-      {"pos": 2, "text": "ороҥҥо", "type": "lowercase", "fst": "fst", "root": "орон+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "сытыллыбат", "type": "lowercase", "fst": "fst", "root": "сыт+V", "affixes": "+PASS+NEG+PART_PRES"}
+      {"pos": 1, "text": "ити", "type": "lowercase", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 2, "text": "ороҥҥо", "type": "lowercase", "fst": "voc", "root": "орон+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "сытыллыбат", "type": "lowercase", "fst": "voc", "root": "сыт+V", "affixes": "+PASS+NEG+PART_PRES"}
     ]
   }
 ]

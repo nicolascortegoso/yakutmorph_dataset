@@ -10,12 +10,12 @@
     "ru": "С тех пор лето стало короче, говорят.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Онтон", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+ABL"},
-      {"pos": 2, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "сайын", "type": "lowercase", "fst": "ymv", "root": "сайын+N"},
-      {"pos": 4, "text": "кылгаабыта", "type": "lowercase", "fst": "ymv", "root": "кылгаа+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 5, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үһү+Part"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Онтон", "type": "title", "fst": "voc", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "ыла", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "сайын", "type": "lowercase", "fst": "voc", "root": "сайын+N"},
+      {"pos": 4, "text": "кылгаабыта", "type": "lowercase", "fst": "voc", "root": "кылгаа+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 5, "text": "үһү", "type": "lowercase", "fst": "voc", "root": "үһү+Part"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,13 +29,13 @@
     "ru": "Маратик там жалуется, шумит, говорят.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Маратик", "type": "title", "fst": "yma", "root": "маратик+PN"},
-      {"pos": 2, "text": "онно", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+LOC"},
-      {"pos": 3, "text": "үҥсэр", "type": "lowercase", "fst": "ymv", "root": "үҥүс+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "айдаарар", "type": "lowercase", "fst": "ymv", "root": "айдаар+V", "affixes": "+PART_PRES"},
-      {"pos": 6, "text": "сурахтаах", "type": "lowercase", "fst": "ymv", "root": "сураа+V", "affixes": "+NMLZ#6+ADJZ#1"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Маратик", "type": "title", "fst": "aff", "root": "маратик+PN"},
+      {"pos": 2, "text": "онно", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+LOC"},
+      {"pos": 3, "text": "үҥсэр", "type": "lowercase", "fst": "voc", "root": "үҥүс+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "айдаарар", "type": "lowercase", "fst": "voc", "root": "айдаар+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": "сурахтаах", "type": "lowercase", "fst": "voc", "root": "сураа+V", "affixes": "+NMLZ#6+ADJZ#1"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -49,11 +49,11 @@
     "ru": "Скоро Маратика судить, мол, будут.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Маратик", "type": "title", "fst": "yma", "root": "маратик+PN"},
-      {"pos": 2, "text": "сотору", "type": "lowercase", "fst": "ymv", "root": "сотору+Adv"},
-      {"pos": 3, "text": "сууттанар", "type": "lowercase", "fst": "ymv", "root": "суут+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_PRES"},
-      {"pos": 4, "text": "ааттаах", "type": "lowercase", "fst": "ymv", "root": "аат+N", "affixes": "+ADJZ#1"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Маратик", "type": "title", "fst": "aff", "root": "маратик+PN"},
+      {"pos": 2, "text": "сотору", "type": "lowercase", "fst": "voc", "root": "сотору+Adv"},
+      {"pos": 3, "text": "сууттанар", "type": "lowercase", "fst": "voc", "root": "суут+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_PRES"},
+      {"pos": 4, "text": "ааттаах", "type": "lowercase", "fst": "voc", "root": "аат+N", "affixes": "+ADJZ#1"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

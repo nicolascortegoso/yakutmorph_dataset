@@ -11,13 +11,13 @@
     "ru": "Вечером вместе с Семеном пришел молодой врач Тюленев.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Киэһэ", "type": "title", "fst": "ymv", "root": "киэһэ+N"},
-      {"pos": 2, "text": "Сэмэнниин", "type": "title", "fst": "ymv", "root": "сэмэн+PN", "affixes": "+COMIT"},
-      {"pos": 3, "text": "эдэр", "type": "lowercase", "fst": "ymv", "root": "эдэр+Adj"},
-      {"pos": 4, "text": "врач", "type": "lowercase", "fst": "ymv", "root": "врач+N"},
-      {"pos": 5, "text": "Тюленев", "type": "title", "fst": "yma", "root": "тюленев+PN"},
-      {"pos": 6, "text": "кэлистэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+RECP+PST.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Киэһэ", "type": "title", "fst": "voc", "root": "киэһэ+N"},
+      {"pos": 2, "text": "Сэмэнниин", "type": "title", "fst": "voc", "root": "сэмэн+PN", "affixes": "+COMIT"},
+      {"pos": 3, "text": "эдэр", "type": "lowercase", "fst": "voc", "root": "эдэр+Adj"},
+      {"pos": 4, "text": "врач", "type": "lowercase", "fst": "voc", "root": "врач+N"},
+      {"pos": 5, "text": "Тюленев", "type": "title", "fst": "aff", "root": "тюленев+PN"},
+      {"pos": 6, "text": "кэлистэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+RECP+PST.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -32,18 +32,18 @@
     "ru": "После этого спустя пять дней приехал из Кыллаха купец Оготоев с парнем Семеняи.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ити", "type": "title", "fst": "ymv", "root": "ити+Pron"},
-      {"pos": 2, "text": "кэнниттэн", "type": "lowercase", "fst": "ymv", "root": "кэлин+N", "affixes": "+POSS.3SG.ABL"},
-      {"pos": 3, "text": "биэс", "type": "lowercase", "fst": "ymv", "root": "биэс+Num"},
-      {"pos": 4, "text": "хонон", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
-      {"pos": 6, "text": "Кыыллаахтан", "type": "title", "fst": "ymv", "root": "кыыл+PN", "affixes": "+ADJZ#1+ABL"},
-      {"pos": 7, "text": "Оҕотоойоп", "type": "title", "fst": "yma", "root": "оҕотоойоп+PN"},
-      {"pos": 8, "text": "атыыһыт", "type": "lowercase", "fst": "ymv", "root": "атыы+N", "affixes": "+NMLZ#1"},
-      {"pos": 9, "text": "Сэмэннээйи", "type": "title", "fst": "yma", "root": "сэмэннээйи+PN"},
-      {"pos": 10, "text": "уоллуун", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+COMIT"},
-      {"pos": 11, "text": "тиийдэ", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+PST.3SG"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ити", "type": "title", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 2, "text": "кэнниттэн", "type": "lowercase", "fst": "voc", "root": "кэлин+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 3, "text": "биэс", "type": "lowercase", "fst": "voc", "root": "биэс+Num"},
+      {"pos": 4, "text": "хонон", "type": "lowercase", "fst": "voc", "root": "хон+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "баран", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "Кыыллаахтан", "type": "title", "fst": "voc", "root": "кыыл+PN", "affixes": "+ADJZ#1+ABL"},
+      {"pos": 7, "text": "Оҕотоойоп", "type": "title", "fst": "aff", "root": "оҕотоойоп+PN"},
+      {"pos": 8, "text": "атыыһыт", "type": "lowercase", "fst": "voc", "root": "атыы+N", "affixes": "+NMLZ#1"},
+      {"pos": 9, "text": "Сэмэннээйи", "type": "title", "fst": "aff", "root": "сэмэннээйи+PN"},
+      {"pos": 10, "text": "уоллуун", "type": "lowercase", "fst": "voc", "root": "уол+N", "affixes": "+COMIT"},
+      {"pos": 11, "text": "тиийдэ", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+PST.3SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -58,15 +58,15 @@
     "ru": "По сравнению с его верховыми оленями (эти) оказались намного крупнее, жирнее.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "уучахтарынааҕар", "type": "lowercase", "fst": "ymv", "root": "уучах+N", "affixes": "+PL+POSS.3SG.COMP"},
-      {"pos": 3, "text": "быдан", "type": "lowercase", "fst": "ymv", "root": "быдан+Adv"},
-      {"pos": 4, "text": "бөдөҥ", "type": "lowercase", "fst": "ymv", "root": "бөдөҥ+Adj"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adj"},
-      {"pos": 7, "text": "эмис", "type": "lowercase", "fst": "ymv", "root": "эмис+Adj"},
-      {"pos": 8, "text": "эбиттэр", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+PL"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "уучахтарынааҕар", "type": "lowercase", "fst": "voc", "root": "уучах+N", "affixes": "+PL+POSS.3SG.COMP"},
+      {"pos": 3, "text": "быдан", "type": "lowercase", "fst": "voc", "root": "быдан+Adv"},
+      {"pos": 4, "text": "бөдөҥ", "type": "lowercase", "fst": "voc", "root": "бөдөҥ+Adj"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "олус", "type": "lowercase", "fst": "voc", "root": "олус+Adj"},
+      {"pos": 7, "text": "эмис", "type": "lowercase", "fst": "voc", "root": "эмис+Adj"},
+      {"pos": 8, "text": "эбиттэр", "type": "lowercase", "fst": "voc", "root": "эбит+Part", "affixes": "+PL"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

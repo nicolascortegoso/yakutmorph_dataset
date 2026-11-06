@@ -10,11 +10,11 @@
     "ru": "Мерно подбрасывая свое плотное и большое тело, прибежал Давид.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Дабыыт", "type": "title", "fst": "yma", "root": "дабыыт+PN"},
-      {"pos": 2, "text": "сүүрэн", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "дадардаан", "type": "lowercase", "fst": "ymv", "root": "дадай+V", "affixes": "+ITER#5+CONV#1"},
-      {"pos": 4, "text": "кэллэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Дабыыт", "type": "title", "fst": "aff", "root": "дабыыт+PN"},
+      {"pos": 2, "text": "сүүрэн", "type": "lowercase", "fst": "voc", "root": "сүүр+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "дадардаан", "type": "lowercase", "fst": "voc", "root": "дадай+V", "affixes": "+ITER#5+CONV#1"},
+      {"pos": 4, "text": "кэллэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,11 +28,11 @@
     "ru": "Он подошел к двери, тяжело хромая на одну ногу.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "ааҥҥа", "type": "lowercase", "fst": "ymv", "root": "аан+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "кэлтэрдээн", "type": "lowercase", "fst": "ymv", "root": "кэлтэй+V", "affixes": "+ITER#5+CONV#1"},
-      {"pos": 4, "text": "кэллэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "ааҥҥа", "type": "lowercase", "fst": "voc", "root": "аан+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "кэлтэрдээн", "type": "lowercase", "fst": "voc", "root": "кэлтэй+V", "affixes": "+ITER#5+CONV#1"},
+      {"pos": 4, "text": "кэллэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -46,9 +46,9 @@
     "ru": "Она ступает медленной походкой (о походке очень полной женщины).",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Мөлбөрдөөбүт", "type": "title", "fst": "ymv", "root": "мөлбөй+V", "affixes": "+ITER#5+PART_PAST"},
-      {"pos": 2, "text": "быһыылаах", "type": "lowercase", "fst": "ymv", "root": "быһыы+N", "affixes": "+ADJZ#1"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мөлбөрдөөбүт", "type": "title", "fst": "voc", "root": "мөлбөй+V", "affixes": "+ITER#5+PART_PAST"},
+      {"pos": 2, "text": "быһыылаах", "type": "lowercase", "fst": "voc", "root": "быһыы+N", "affixes": "+ADJZ#1"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -62,14 +62,14 @@
     "ru": "После этого старуха поднялась и грузно зашагала в сторону своего амбара.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Онтон", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+ABL"},
-      {"pos": 2, "text": "эмээхсин", "type": "lowercase", "fst": "ymv", "root": "эмээхсин+N"},
-      {"pos": 3, "text": "туран", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "ампаарын", "type": "lowercase", "fst": "ymv", "root": "ампаар+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 5, "text": "диэки", "type": "lowercase", "fst": "ymv", "root": "диэки+POST"},
-      {"pos": 6, "text": "хааман", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+CONV#1"},
-      {"pos": 7, "text": "ыадардаата", "type": "lowercase", "fst": "ymv", "root": "ыадай+V", "affixes": "+ITER#5+PST.3SG"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Онтон", "type": "title", "fst": "voc", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "эмээхсин", "type": "lowercase", "fst": "voc", "root": "эмээхсин+N"},
+      {"pos": 3, "text": "туран", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "ампаарын", "type": "lowercase", "fst": "voc", "root": "ампаар+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 5, "text": "диэки", "type": "lowercase", "fst": "voc", "root": "диэки+POST"},
+      {"pos": 6, "text": "хааман", "type": "lowercase", "fst": "voc", "root": "хаамп+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": "ыадардаата", "type": "lowercase", "fst": "voc", "root": "ыадай+V", "affixes": "+ITER#5+PST.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

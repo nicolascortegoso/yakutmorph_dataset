@@ -10,12 +10,12 @@
     "ru": "На том собрании я имел возможность (случай) выступить.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "ол", "type": "lowercase", "fst": "fst", "root": "ол+Pron"},
-      {"pos": 3, "text": "мунньахха", "type": "lowercase", "fst": "fst", "root": "мус+V", "affixes": "+NMLZ#6+DAT"},
-      {"pos": 4, "text": "тыл", "type": "lowercase", "fst": "fst", "root": "тыл+N"},
-      {"pos": 5, "text": "эппиттээхпин", "type": "lowercase", "fst": "fst", "root": "эт+V", "affixes": "+PART_PAST+DEB+1SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "ол", "type": "lowercase", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 3, "text": "мунньахха", "type": "lowercase", "fst": "voc", "root": "мус+V", "affixes": "+NMLZ#6+DAT"},
+      {"pos": 4, "text": "тыл", "type": "lowercase", "fst": "voc", "root": "тыл+N"},
+      {"pos": 5, "text": "эппиттээхпин", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PART_PAST+DEB+1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,15 +29,15 @@
     "ru": "Действительно, будучи зван, я по болезни имел случай не пойти (туда).",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кырдьык", "type": "title", "fst": "fst", "root": "кырдьык+N"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 4, "text": "ыҥырыллан", "type": "lowercase", "fst": "fst", "root": "ыҥыр+V", "affixes": "+PASS+CONV#1"},
-      {"pos": 5, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+CONV#1"},
-      {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 7, "text": "ыалдьан", "type": "lowercase", "fst": "fst", "root": "ыарый+V", "affixes": "+CONV#1"},
-      {"pos": 8, "text": "барбатахтаахпын", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+NEG+PART_PAST+DEB+1SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кырдьык", "type": "title", "fst": "voc", "root": "кырдьык+N"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 4, "text": "ыҥырыллан", "type": "lowercase", "fst": "voc", "root": "ыҥыр+V", "affixes": "+PASS+CONV#1"},
+      {"pos": 5, "text": "баран", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 7, "text": "ыалдьан", "type": "lowercase", "fst": "voc", "root": "ыарый+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "барбатахтаахпын", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+NEG+PART_PAST+DEB+1SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -51,17 +51,17 @@
     "ru": "Я на ысыахе только тогда и был, больше никогда не ходил.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "ыһыахха", "type": "lowercase", "fst": "fst", "root": "ыһыах+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "онно", "type": "lowercase", "fst": "fst", "root": "ол+Pron", "affixes": "+LOC"},
-      {"pos": 4, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ+Part"},
-      {"pos": 5, "text": "сылдьыбытым", "type": "lowercase", "fst": "fst", "root": "сырыт+V", "affixes": "+PART_PAST+POSS.1SG"},
-      {"pos": 6, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар+V"},
-      {"pos": 7, "text": "уонна", "type": "lowercase", "fst": "fst", "root": "уонна+CONJ"},
-      {"pos": 8, "text": "хаһан", "type": "lowercase", "fst": "fst", "root": "хаһан+Pron"},
-      {"pos": 9, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны+Part"},
-      {"pos": 10, "text": "сылдьыбатаҕым", "type": "lowercase", "fst": "fst", "root": "сырыт+V", "affixes": "+NEG+PART_PAST+POSS.1SG"},
-      {"pos": 11, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "ыһыахха", "type": "lowercase", "fst": "voc", "root": "ыһыах+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "онно", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+LOC"},
+      {"pos": 4, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 5, "text": "сылдьыбытым", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 6, "text": "баар", "type": "lowercase", "fst": "voc", "root": "баар+V"},
+      {"pos": 7, "text": "уонна", "type": "lowercase", "fst": "voc", "root": "уонна+CONJ"},
+      {"pos": 8, "text": "хаһан", "type": "lowercase", "fst": "voc", "root": "хаһан+Pron"},
+      {"pos": 9, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"},
+      {"pos": 10, "text": "сылдьыбатаҕым", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+NEG+PART_PAST+POSS.1SG"},
+      {"pos": 11, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -75,16 +75,16 @@
     "ru": "Еще не было случая, чтобы кто-нибудь сходил и увидел наличие или отсутствие бога.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Таҥара", "type": "title", "fst": "fst", "root": "таҥара+N"},
-      {"pos": 2, "text": "баарын", "type": "lowercase", "fst": "fst", "root": "баар+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 4, "text": "суоҕун", "type": "lowercase", "fst": "fst", "root": "суох+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 5, "text": "ким", "type": "lowercase", "fst": "fst", "root": "ким+Pron"},
-      {"pos": 6, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны+Part"},
-      {"pos": 7, "text": "көрөн", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+CONV#1"},
-      {"pos": 8, "text": "кэлбитэ", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 9, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох+N"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Таҥара", "type": "title", "fst": "voc", "root": "таҥара+N"},
+      {"pos": 2, "text": "баарын", "type": "lowercase", "fst": "voc", "root": "баар+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 4, "text": "суоҕун", "type": "lowercase", "fst": "voc", "root": "суох+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 5, "text": "ким", "type": "lowercase", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 6, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"},
+      {"pos": 7, "text": "көрөн", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "кэлбитэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 9, "text": "суох", "type": "lowercase", "fst": "voc", "root": "суох+N"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

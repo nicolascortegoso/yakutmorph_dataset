@@ -10,8 +10,8 @@
     "ru": "покажись доктору",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "докторга", "type": "lowercase", "fst": "yma", "root": "доктор+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "көрдөрүн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CAUS+REFL"}
+      {"pos": 1, "text": "докторга", "type": "lowercase", "fst": "aff", "root": "доктор+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "көрдөрүн", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CAUS+REFL"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "закажи себе хлеба",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "килиэптэ", "type": "lowercase", "fst": "fst", "root": "килиэп+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "ылларын", "type": "lowercase", "fst": "fst", "root": "ыл+V", "affixes": "+CAUS+REFL"}
+      {"pos": 1, "text": "килиэптэ", "type": "lowercase", "fst": "voc", "root": "килиэп+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "ылларын", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+CAUS+REFL"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "заставь постричь свои волосы",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "баттаххын", "type": "lowercase", "fst": "fst", "root": "баттах+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "кыртарын", "type": "lowercase", "fst": "fst", "root": "кырт+V", "affixes": "+CAUS+REFL"}
+      {"pos": 1, "text": "баттаххын", "type": "lowercase", "fst": "voc", "root": "баттах+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "кыртарын", "type": "lowercase", "fst": "voc", "root": "кырт+V", "affixes": "+CAUS+REFL"}
     ]
   }
 ]

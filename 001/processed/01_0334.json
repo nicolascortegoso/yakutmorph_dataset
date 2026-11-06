@@ -10,10 +10,10 @@
     "ru": "Сколько собралось человек?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Төһө", "type": "title", "fst": "ymv", "root": "төһө+Pron"},
-      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
-      {"pos": 3, "text": "муһунна", "type": "lowercase", "fst": "ymv", "root": "муһун+V", "affixes": "+PST.3SG"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Төһө", "type": "title", "fst": "voc", "root": "төһө+Pron"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 3, "text": "муһунна", "type": "lowercase", "fst": "voc", "root": "муһун+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -27,10 +27,10 @@
     "ru": "Во сколько (когда) закончилось собрание?",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Мунньах", "type": "title", "fst": "ymv", "root": "мус+V", "affixes": "+NMLZ#6"},
-      {"pos": 2, "text": "хаска", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+DAT"},
-      {"pos": 3, "text": "бүппүтэй", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+PART_PAST+POSS.3SG+INT"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Мунньах", "type": "title", "fst": "voc", "root": "мус+V", "affixes": "+NMLZ#6"},
+      {"pos": 2, "text": "хаска", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+DAT"},
+      {"pos": 3, "text": "бүппүтэй", "type": "lowercase", "fst": "voc", "root": "бүт+V", "affixes": "+PART_PAST+POSS.3SG+INT"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -44,10 +44,10 @@
     "ru": "С каких пор вы здесь живете?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Төһөттөн", "type": "title", "fst": "ymv", "root": "төһө+Pron", "affixes": "+ABL"},
-      {"pos": 2, "text": "манна", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 3, "text": "олороҕут", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PRES+2PL"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Төһөттөн", "type": "title", "fst": "voc", "root": "төһө+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "манна", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 3, "text": "олороҕут", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PRES+2PL"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -61,10 +61,10 @@
     "ru": "В каком возрасте он поступил в школу?",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Хаһыгар", "type": "title", "fst": "ymv", "root": "хас+Pron", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "ymv", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "киирбитэй", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PART_PAST+POSS.3SG+INT"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Хаһыгар", "type": "title", "fst": "voc", "root": "хас+Pron", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "киирбитэй", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PART_PAST+POSS.3SG+INT"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -78,13 +78,13 @@
     "ru": "Они и не представляют, какова (как велика) будет плата.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Төһөлөөх", "type": "title", "fst": "ymv", "root": "төһө+Pron", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "төлөбүр", "type": "lowercase", "fst": "ymv", "root": "төлөө+V", "affixes": "+NMLZ#4"},
-      {"pos": 3, "text": "буоларын", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
-      {"pos": 4, "text": "сатаан", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 6, "text": "санаабаттар", "type": "lowercase", "fst": "ymv", "root": "санаа+V", "affixes": "+NEG+PART_PRES+PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Төһөлөөх", "type": "title", "fst": "voc", "root": "төһө+Pron", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "төлөбүр", "type": "lowercase", "fst": "voc", "root": "төлөө+V", "affixes": "+NMLZ#4"},
+      {"pos": 3, "text": "буоларын", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 4, "text": "сатаан", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 6, "text": "санаабаттар", "type": "lowercase", "fst": "voc", "root": "санаа+V", "affixes": "+NEG+PART_PRES+PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -98,9 +98,9 @@
     "ru": "Наколько выполнили свою работу?",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Үлэҕитин", "type": "title", "fst": "ymv", "root": "үлэ+N", "affixes": "+POSS.2PL.ACC"},
-      {"pos": 2, "text": "төһөлөөтүгүт", "type": "lowercase", "fst": "ymv", "root": "төһө+Pron", "affixes": "+VRBLZ#1+PST.2PL"},
-      {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Үлэҕитин", "type": "title", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.2PL.ACC"},
+      {"pos": 2, "text": "төһөлөөтүгүт", "type": "lowercase", "fst": "voc", "root": "төһө+Pron", "affixes": "+VRBLZ#1+PST.2PL"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "voc"}
     ]
   }
 ]

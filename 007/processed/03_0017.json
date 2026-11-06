@@ -10,11 +10,11 @@
     "ru": "Ладно, я согласен.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Сөп", "type": "title", "fst": "ymv", "root": "сөп+Adj"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 4, "text": "сөбүлүүбүн", "type": "lowercase", "fst": "ymv", "root": "сөбүлээ+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сөп", "type": "title", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 4, "text": "сөбүлүүбүн", "type": "lowercase", "fst": "voc", "root": "сөбүлээ+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,11 +28,11 @@
     "ru": "Хорошо, вот пошел.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Сөп", "type": "title", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 4, "text": "бардым", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PST.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Сөп", "type": "title", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 4, "text": "бардым", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -46,11 +46,11 @@
     "ru": "Ладно, я провожу.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Сөп", "type": "title", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "чэ", "type": "lowercase", "fst": "fst", "root": "чэ+MOD"},
-      {"pos": 4, "text": "сирдиибин", "type": "lowercase", "fst": "fst", "root": "сир+N", "affixes": "+VRBLZ#1+PART_PRES+1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Сөп", "type": "title", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "чэ", "type": "lowercase", "fst": "voc", "root": "чэ+MOD"},
+      {"pos": 4, "text": "сирдиибин", "type": "lowercase", "fst": "voc", "root": "сир+N", "affixes": "+VRBLZ#1+PART_PRES+1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -64,13 +64,13 @@
     "ru": "Ладно, ладно, весной поедем.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Сөп", "type": "title", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "саас", "type": "lowercase", "fst": "fst", "root": "саас+Adv"},
-      {"pos": 6, "text": "барыахпыт", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PART_FUT+POSS.1PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Сөп", "type": "title", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "саас", "type": "lowercase", "fst": "voc", "root": "саас+Adv"},
+      {"pos": 6, "text": "барыахпыт", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+POSS.1PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -84,10 +84,10 @@
     "ru": "Ладно, ладно!",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Сөп", "type": "title", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Сөп", "type": "title", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -101,12 +101,12 @@
     "ru": "Конечно, постоянно обере гаясь, я дожил до сего времени! (оттенок раздражения).",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Сэрэнэн", "type": "title", "fst": "fst", "root": "сэрэн+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 3, "text": "сэрэнэн", "type": "lowercase", "fst": "fst", "root": "сэрэн+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "баччаҕа", "type": "lowercase", "fst": "fst", "root": "бу+Pron", "affixes": "+DEF#2+DAT"},
-      {"pos": 5, "text": "тиийдэҕим", "type": "lowercase", "fst": "fst", "root": "тиий+V", "affixes": "+CONV_COND#2+POSS.1SG"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Сэрэнэн", "type": "title", "fst": "voc", "root": "сэрэн+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "сэрэнэн", "type": "lowercase", "fst": "voc", "root": "сэрэн+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "баччаҕа", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+DEF#2+DAT"},
+      {"pos": 5, "text": "тиийдэҕим", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+CONV_COND#2+POSS.1SG"},
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -120,9 +120,9 @@
     "ru": "ладно?",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 2, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо+Part"},
-      {"pos": 3, "text": "?", "type": "question", "fst": "fst"}
+      {"pos": 1, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 2, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -136,8 +136,8 @@
     "ru": "ну ладно (с оттенком некоторой запинки, оценки обстоятельства)",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "чэ", "type": "lowercase", "fst": "fst", "root": "чэ+MOD"},
-      {"pos": 2, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"}
+      {"pos": 1, "text": "чэ", "type": "lowercase", "fst": "voc", "root": "чэ+MOD"},
+      {"pos": 2, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"}
     ]
   },
   {
@@ -151,8 +151,8 @@
     "ru": "да ладно (после некоторого раздумья, размышления)",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "дьэ", "type": "lowercase", "fst": "fst", "root": "дьэ+MOD"},
-      {"pos": 2, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"}
+      {"pos": 1, "text": "дьэ", "type": "lowercase", "fst": "voc", "root": "дьэ+MOD"},
+      {"pos": 2, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"}
     ]
   },
   {
@@ -166,9 +166,9 @@
     "ru": "ладно-ладно",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"}
+      {"pos": 1, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"}
     ]
   },
   {
@@ -182,11 +182,11 @@
     "ru": "Если ты вынес, ладно.",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "Таһаарбыт", "type": "title", "fst": "fst", "root": "таһаар+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "буоллаххына", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.2SG.PRTV"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Таһаарбыт", "type": "title", "fst": "voc", "root": "таһаар+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "буоллаххына", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.2SG.PRTV"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

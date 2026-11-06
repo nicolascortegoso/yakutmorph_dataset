@@ -10,13 +10,13 @@
       "ru": "Сегодня в клубе будет кино, танцы.",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "ymv", "root": "бүгүн+Adv"},
-         {"pos": 2, "text": "кулуупка", "type": "lowercase", "fst": "ymv", "root": "кулууп+N", "affixes": "+DAT"},
-         {"pos": 3, "text": "кино", "type": "lowercase", "fst": "ymv", "root": "кино+N"},
-         {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-         {"pos": 5, "text": "үҥкүү", "type": "lowercase", "fst": "ymv", "root": "үҥкүү+N"},
-         {"pos": 6, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "voc", "root": "бүгүн+Adv"},
+         {"pos": 2, "text": "кулуупка", "type": "lowercase", "fst": "voc", "root": "кулууп+N", "affixes": "+DAT"},
+         {"pos": 3, "text": "кино", "type": "lowercase", "fst": "voc", "root": "кино+N"},
+         {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+         {"pos": 5, "text": "үҥкүү", "type": "lowercase", "fst": "voc", "root": "үҥкүү+N"},
+         {"pos": 6, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
       ]
   },
   {
@@ -30,10 +30,10 @@
     "ru": "Ты иди же (Чего тебе не идти, тебе необходимо идти).",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Оттон", "type": "title", "fst": "ymv", "root": "оттон+CONJ"},
-      {"pos": 2, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 3, "text": "барыаххыный", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT+2SG+INT"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оттон", "type": "title", "fst": "voc", "root": "оттон+CONJ"},
+      {"pos": 2, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 3, "text": "барыаххыный", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+2SG+INT"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

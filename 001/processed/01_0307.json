@@ -10,9 +10,9 @@
     "ru": "Нас шестеро.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "алтыабыт", "type": "lowercase", "fst": "ymv", "root": "алта+Num", "affixes": "+COLL+1PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "алтыабыт", "type": "lowercase", "fst": "voc", "root": "алта+Num", "affixes": "+COLL+1PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -26,9 +26,9 @@
     "ru": "Вас пятеро.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Эһиги", "type": "title", "fst": "ymv", "root": "эһиги+Pron"},
-      {"pos": 2, "text": "бэһиэҕит", "type": "lowercase", "fst": "ymv", "root": "биэс+Num", "affixes": "+COLL+2PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эһиги", "type": "title", "fst": "voc", "root": "эһиги+Pron"},
+      {"pos": 2, "text": "бэһиэҕит", "type": "lowercase", "fst": "voc", "root": "биэс+Num", "affixes": "+COLL+2PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -42,9 +42,9 @@
     "ru": "Их десятеро (от оную).",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "онуолар", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+COLL+PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "онуолар", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+COLL+PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -58,8 +58,8 @@
     "ru": "сколько нас?",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "хаһыабытый", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+COLL+1PL+INT"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "хаһыабытый", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+COLL+1PL+INT"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -73,8 +73,8 @@
     "ru": "сколько вас?",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "хаһыаҕытый", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+COLL+2PL+INT"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "хаһыаҕытый", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+COLL+2PL+INT"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -88,8 +88,8 @@
     "ru": "сколько их?",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "хаһыаларый", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+COLL+PL+INT"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "хаһыаларый", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+COLL+PL+INT"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -103,9 +103,9 @@
     "ru": "Мы придем впятером, пятеро.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Бэһиэ", "type": "title", "fst": "ymv", "root": "биэс+Num", "affixes": "+COLL"},
-      {"pos": 2, "text": "кэлиэхпит", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT+POSS.1PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бэһиэ", "type": "title", "fst": "voc", "root": "биэс+Num", "affixes": "+COLL"},
+      {"pos": 2, "text": "кэлиэхпит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_FUT+POSS.1PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -119,10 +119,10 @@
     "ru": "Мы придем впятером, пятеро.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Бэһиэ", "type": "title", "fst": "ymv", "root": "биэс+Num", "affixes": "+COLL"},
-      {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "кэлиэхпит", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT+POSS.1PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бэһиэ", "type": "title", "fst": "voc", "root": "биэс+Num", "affixes": "+COLL"},
+      {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "кэлиэхпит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_FUT+POSS.1PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -136,10 +136,10 @@
     "ru": "Вы будете работать вдесятером.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Тохсуо", "type": "title", "fst": "ymv", "root": "тоҕус+Num", "affixes": "+COLL"},
-      {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "үлэлиэххит", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_FUT+POSS.2PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Тохсуо", "type": "title", "fst": "voc", "root": "тоҕус+Num", "affixes": "+COLL"},
+      {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "үлэлиэххит", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_FUT+POSS.2PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -153,10 +153,10 @@
     "ru": "Наши дети все трое учатся.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Оҕолорбут", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL+POSS.1PL"},
-      {"pos": 2, "text": "үһүө", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+COLL"},
-      {"pos": 3, "text": "үөрэнэллэр", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оҕолорбут", "type": "title", "fst": "voc", "root": "оҕо+N", "affixes": "+PL+POSS.1PL"},
+      {"pos": 2, "text": "үһүө", "type": "lowercase", "fst": "voc", "root": "үс+Num", "affixes": "+COLL"},
+      {"pos": 3, "text": "үөрэнэллэр", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -170,11 +170,11 @@
     "ru": "Мы придем в количестве двенадцати человек.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Уон", "type": "title", "fst": "ymv", "root": "уон+Num"},
-      {"pos": 2, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
-      {"pos": 3, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "кэлиэхпит", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT+POSS.1PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уон", "type": "title", "fst": "voc", "root": "уон+Num"},
+      {"pos": 2, "text": "икки", "type": "lowercase", "fst": "voc", "root": "икки+Num"},
+      {"pos": 3, "text": "буолан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "кэлиэхпит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_FUT+POSS.1PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -188,10 +188,10 @@
     "ru": "Они работали в количестве тридцати человек.",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Отут", "type": "title", "fst": "ymv", "root": "отут+Num"},
-      {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "үлэлээтилэр", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PST.3PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Отут", "type": "title", "fst": "voc", "root": "отут+Num"},
+      {"pos": 2, "text": "буолан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "үлэлээтилэр", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PST.3PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

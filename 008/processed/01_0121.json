@@ -10,11 +10,11 @@
     "ru": "Моя бабушка своё письмо велит читать мне.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Эбэм", "type": "title", "fst": "fst", "root": "эбэ+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "суругун", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NMLZ#5+POSS.3SG.ACC"},
-      {"pos": 3, "text": "миэхэ", "type": "lowercase", "fst": "fst", "root": "мин+Pron", "affixes": "+DAT"},
-      {"pos": 4, "text": "аахтарар", "type": "lowercase", "fst": "fst", "root": "аах+V", "affixes": "+CAUS+PART_PRES"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Эбэм", "type": "title", "fst": "voc", "root": "эбэ+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "суругун", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+NMLZ#5+POSS.3SG.ACC"},
+      {"pos": 3, "text": "миэхэ", "type": "lowercase", "fst": "voc", "root": "мин+Pron", "affixes": "+DAT"},
+      {"pos": 4, "text": "аахтарар", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+CAUS+PART_PRES"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,10 +28,10 @@
     "ru": "Мою ногу придавило дерево (буквально: ногу мою дереву я дал придавить).",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Атахпын", "type": "title", "fst": "fst", "root": "атах+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 2, "text": "маска", "type": "lowercase", "fst": "fst", "root": "мас+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "баттаттым", "type": "lowercase", "fst": "fst", "root": "баттаа+V", "affixes": "+CAUS+PST.1SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Атахпын", "type": "title", "fst": "voc", "root": "атах+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 2, "text": "маска", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "баттаттым", "type": "lowercase", "fst": "voc", "root": "баттаа+V", "affixes": "+CAUS+PST.1SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -45,12 +45,12 @@
     "ru": "Этот Колхоз много картошки садит.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "колхоз", "type": "lowercase", "fst": "fst", "root": "колхоз+N"},
-      {"pos": 3, "text": "элбэх", "type": "lowercase", "fst": "fst", "root": "элбээ+V", "affixes": "+ADJZ#16"},
-      {"pos": 4, "text": "хортуоппуйу", "type": "lowercase", "fst": "fst", "root": "хортуоппуй+N", "affixes": "+ACC"},
-      {"pos": 5, "text": "олордор", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+CSTV+PART_PRES"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 3, "text": "элбэх", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16"},
+      {"pos": 4, "text": "хортуоппуйу", "type": "lowercase", "fst": "voc", "root": "хортуоппуй+N", "affixes": "+ACC"},
+      {"pos": 5, "text": "олордор", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+CSTV+PART_PRES"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -64,9 +64,9 @@
     "ru": "Скипятите чаю.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Чэйдэ", "type": "title", "fst": "fst", "root": "чэй+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "оргутуҥ", "type": "lowercase", "fst": "fst", "root": "оргуй+V", "affixes": "+CSTV+IMP#1.2PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Чэйдэ", "type": "title", "fst": "voc", "root": "чэй+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "оргутуҥ", "type": "lowercase", "fst": "voc", "root": "оргуй+V", "affixes": "+CSTV+IMP#1.2PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -80,11 +80,11 @@
     "ru": "На этой верёвке сушат бельё.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "быаҕа", "type": "lowercase", "fst": "fst", "root": "быа+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "таҥас", "type": "lowercase", "fst": "fst", "root": "таҥас+N"},
-      {"pos": 4, "text": "куурдаллар", "type": "lowercase", "fst": "fst", "root": "куур+V", "affixes": "+CSTV+PART_PRES+PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "быаҕа", "type": "lowercase", "fst": "voc", "root": "быа+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "таҥас", "type": "lowercase", "fst": "voc", "root": "таҥас+N"},
+      {"pos": 4, "text": "куурдаллар", "type": "lowercase", "fst": "voc", "root": "куур+V", "affixes": "+CSTV+PART_PRES+PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -98,8 +98,8 @@
     "ru": "читать монотонно и быстро",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "ааҕан", "type": "lowercase", "fst": "fst", "root": "аах+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "дабдыгырат", "type": "lowercase", "fst": "fst", "root": "дабды+IMIT", "affixes": "+VRBLZ#12+CAUS"}
+      {"pos": 1, "text": "ааҕан", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "дабдыгырат", "type": "lowercase", "fst": "voc", "root": "дабды+IMIT", "affixes": "+VRBLZ#12+CAUS"}
     ]
   },
   {
@@ -113,8 +113,8 @@
     "ru": "петь густым голосом",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "ыллаан", "type": "lowercase", "fst": "fst", "root": "ыллаа+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "көөҕүнэт", "type": "lowercase", "fst": "fst", "root": "көөҕүнээ+V", "affixes": "+CSTV"}
+      {"pos": 1, "text": "ыллаан", "type": "lowercase", "fst": "voc", "root": "ыллаа+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "көөҕүнэт", "type": "lowercase", "fst": "voc", "root": "көөҕүнээ+V", "affixes": "+CSTV"}
     ]
   },
   {
@@ -128,8 +128,8 @@
     "ru": "жевать быстро с закрытыми губами",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "ыстаан", "type": "lowercase", "fst": "fst", "root": "ыстаа+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "хомугулдьут", "type": "lowercase", "fst": "fst", "root": "хомуй+V", "affixes": "+ITER#6+CSTV"}
+      {"pos": 1, "text": "ыстаан", "type": "lowercase", "fst": "voc", "root": "ыстаа+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "хомугулдьут", "type": "lowercase", "fst": "voc", "root": "хомуй+V", "affixes": "+ITER#6+CSTV"}
     ]
   },
   {
@@ -143,8 +143,8 @@
     "ru": "смотреть бегающими (мелькающими) глазами",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "көрөн", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "дьиригилдьит", "type": "lowercase", "fst": "fst", "root": "дьирий+V", "affixes": "+ITER#6+CSTV"}
+      {"pos": 1, "text": "көрөн", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "дьиригилдьит", "type": "lowercase", "fst": "voc", "root": "дьирий+V", "affixes": "+ITER#6+CSTV"}
     ]
   },
   {
@@ -158,10 +158,10 @@
     "ru": "Тетрадь свою сам исправь.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Тэтэрээккин", "type": "title", "fst": "ymv", "root": "тэтэрээт+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "бэйэҥ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.2SG"},
-      {"pos": 3, "text": "көннөр", "type": "lowercase", "fst": "ymv", "root": "көн+V", "affixes": "+CSTV"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Тэтэрээккин", "type": "title", "fst": "voc", "root": "тэтэрээт+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "бэйэҥ", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.2SG"},
+      {"pos": 3, "text": "көннөр", "type": "lowercase", "fst": "voc", "root": "көн+V", "affixes": "+CSTV"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -175,10 +175,10 @@
     "ru": "Тетрадь свою учителю дай исправить.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Тэтэрээккин", "type": "title", "fst": "fst", "root": "тэтэрээт+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "учууталга", "type": "lowercase", "fst": "fst", "root": "учуутал+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "көннөртөр", "type": "lowercase", "fst": "fst", "root": "көн+V", "affixes": "+CSTV+CAUS"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Тэтэрээккин", "type": "title", "fst": "voc", "root": "тэтэрээт+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "учууталга", "type": "lowercase", "fst": "voc", "root": "учуутал+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "көннөртөр", "type": "lowercase", "fst": "voc", "root": "көн+V", "affixes": "+CSTV+CAUS"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -192,9 +192,9 @@
     "ru": "Заставь вскипятить чаю (ср. оргуй и оргут).",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Чэйдэ", "type": "title", "fst": "fst", "root": "чэй+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "оргуттар", "type": "lowercase", "fst": "fst", "root": "оргуй+V", "affixes": "+CSTV+CAUS"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Чэйдэ", "type": "title", "fst": "voc", "root": "чэй+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "оргуттар", "type": "lowercase", "fst": "voc", "root": "оргуй+V", "affixes": "+CSTV+CAUS"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -208,8 +208,8 @@
     "ru": "меня укусила собака (дословно: собаке я дал укусить сябя)",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "ыкка", "type": "lowercase", "fst": "fst", "root": "ыт+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "ытыртардым", "type": "lowercase", "fst": "fst", "root": "ытыр+V", "affixes": "+CAUS+PST.1SG"}
+      {"pos": 1, "text": "ыкка", "type": "lowercase", "fst": "voc", "root": "ыт+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "ытыртардым", "type": "lowercase", "fst": "voc", "root": "ытыр+V", "affixes": "+CAUS+PST.1SG"}
     ]
   },
   {
@@ -223,8 +223,8 @@
     "ru": "у меня украли часы (дословно: часы свои я допустил украсть у меня)",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "чаһыбын", "type": "lowercase", "fst": "fst", "root": "чаһы+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 2, "text": "уордардым", "type": "lowercase", "fst": "fst", "root": "уор+V", "affixes": "+CAUS+PST.1SG"}
+      {"pos": 1, "text": "чаһыбын", "type": "lowercase", "fst": "voc", "root": "чаһы+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 2, "text": "уордардым", "type": "lowercase", "fst": "voc", "root": "уор+V", "affixes": "+CAUS+PST.1SG"}
     ]
   }
 ]

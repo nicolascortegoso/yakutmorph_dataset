@@ -10,8 +10,8 @@
     "ru": "трактор (или тракторы) совхозов",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "совхозтар", "type": "lowercase", "fst": "yma", "root": "совхоз+N", "affixes": "+PL"},
-      {"pos": 2, "text": "трактордара", "type": "lowercase", "fst": "ymv", "root": "трактор+N", "affixes": "+PL+POSS.3SG"}
+      {"pos": 1, "text": "совхозтар", "type": "lowercase", "fst": "aff", "root": "совхоз+N", "affixes": "+PL"},
+      {"pos": 2, "text": "трактордара", "type": "lowercase", "fst": "voc", "root": "трактор+N", "affixes": "+PL+POSS.3SG"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "мой конь",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "атым", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.1SG"}
+      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "атым", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+POSS.1SG"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "ваш конь",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "эһиги", "type": "lowercase", "fst": "ymv", "root": "эһиги+Pron"},
-      {"pos": 2, "text": "аккыт", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.2PL"}
+      {"pos": 1, "text": "эһиги", "type": "lowercase", "fst": "voc", "root": "эһиги+Pron"},
+      {"pos": 2, "text": "аккыт", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+POSS.2PL"}
     ]
   },
   {
@@ -55,9 +55,9 @@
     "ru": "Мой отец старый.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Аҕам", "type": "title", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "кырдьаҕас", "type": "lowercase", "fst": "ymv", "root": "кырый+V", "affixes": "+ADJZ#6"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Аҕам", "type": "title", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "кырдьаҕас", "type": "lowercase", "fst": "voc", "root": "кырый+V", "affixes": "+ADJZ#6"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -71,9 +71,9 @@
     "ru": "Наш дом теплый.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Дьиэбит", "type": "title", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.1PL"},
-      {"pos": 2, "text": "ичигэс", "type": "lowercase", "fst": "ymv", "root": "ичигэс+Adj"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Дьиэбит", "type": "title", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.1PL"},
+      {"pos": 2, "text": "ичигэс", "type": "lowercase", "fst": "voc", "root": "ичигэс+Adj"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -87,7 +87,7 @@
     "ru": "мой старший брат",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "ymv", "root": "убай+N", "affixes": "+POSS.1SG"}
+      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "voc", "root": "убай+N", "affixes": "+POSS.1SG"}
     ]
   },
   {
@@ -101,7 +101,7 @@
     "ru": "мой топор",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "сүгэм", "type": "lowercase", "fst": "ymv", "root": "сүгэ+N", "affixes": "+POSS.1SG"}
+      {"pos": 1, "text": "сүгэм", "type": "lowercase", "fst": "voc", "root": "сүгэ+N", "affixes": "+POSS.1SG"}
     ]
   },
   {
@@ -115,8 +115,8 @@
     "ru": "работа колхоза",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "ymv", "root": "колхоз+N"},
-      {"pos": 2, "text": "үлэтэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 2, "text": "үлэтэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.3SG"}
     ]
   }
 ]

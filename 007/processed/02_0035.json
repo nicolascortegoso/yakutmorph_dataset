@@ -10,13 +10,13 @@
     "ru": "Так тебе и надо, больше так делать не будешь!",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Саатта", "type": "title", "fst": "ymv", "root": "саатта+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "аны", "type": "lowercase", "fst": "ymv", "root": "аны+Adv"},
-      {"pos": 4, "text": "оннук", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+DEF"},
-      {"pos": 5, "text": "буолбат", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 6, "text": "буол", "type": "lowercase", "fst": "ymv", "root": "буол+V"},
-      {"pos": 7, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Саатта", "type": "title", "fst": "voc", "root": "саатта+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "аны", "type": "lowercase", "fst": "voc", "root": "аны+Adv"},
+      {"pos": 4, "text": "оннук", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+DEF"},
+      {"pos": 5, "text": "буолбат", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 6, "text": "буол", "type": "lowercase", "fst": "voc", "root": "буол+V"},
+      {"pos": 7, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -30,12 +30,12 @@
     "ru": "Поделом ему, он всегда радовался плохому.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Саатта", "type": "title", "fst": "fst", "root": "саатта+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "куһаҕантан", "type": "lowercase", "fst": "fst", "root": "куһаҕан+Adj", "affixes": "+ABL"},
-      {"pos": 4, "text": "үөрэрэ", "type": "lowercase", "fst": "fst", "root": "үөр+V", "affixes": "+PART_PRES+POSS.3SG"},
-      {"pos": 5, "text": "бэрдэ", "type": "lowercase", "fst": "fst", "root": "бэрт+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Саатта", "type": "title", "fst": "voc", "root": "саатта+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "куһаҕантан", "type": "lowercase", "fst": "voc", "root": "куһаҕан+Adj", "affixes": "+ABL"},
+      {"pos": 4, "text": "үөрэрэ", "type": "lowercase", "fst": "voc", "root": "үөр+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 5, "text": "бэрдэ", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -49,8 +49,8 @@
     "ru": "Так ему и надо!",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Саатта", "type": "title", "fst": "fst", "root": "саатта+MOD"},
-      {"pos": 2, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Саатта", "type": "title", "fst": "voc", "root": "саатта+MOD"},
+      {"pos": 2, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -64,9 +64,9 @@
     "ru": "Как хорошо!",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Үчүгэй", "type": "title", "fst": "fst", "root": "үчүгэй+Adj"},
-      {"pos": 2, "text": "доҕор", "type": "lowercase", "fst": "fst", "root": "доҕор+N"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Үчүгэй", "type": "title", "fst": "voc", "root": "үчүгэй+Adj"},
+      {"pos": 2, "text": "доҕор", "type": "lowercase", "fst": "voc", "root": "доҕор+N"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -80,9 +80,9 @@
     "ru": "Вот поделом ему!",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Саатта", "type": "title", "fst": "fst", "root": "саатта+MOD"},
-      {"pos": 2, "text": "хор", "type": "lowercase", "fst": "fst", "root": "хор+MOD"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Саатта", "type": "title", "fst": "voc", "root": "саатта+MOD"},
+      {"pos": 2, "text": "хор", "type": "lowercase", "fst": "voc", "root": "хор+MOD"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -96,12 +96,12 @@
     "ru": "Пусть подохнут хоть все его олени...",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Табалара", "type": "title", "fst": "fst", "root": "таба+N", "affixes": "+PL+POSS.3SG"},
-      {"pos": 2, "text": "бары", "type": "lowercase", "fst": "fst", "root": "бары+Pron"},
-      {"pos": 3, "text": "да", "type": "lowercase", "fst": "fst", "root": "да+Part"},
-      {"pos": 4, "text": "умса", "type": "lowercase", "fst": "fst", "root": "умус+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "түстүннэр", "type": "lowercase", "fst": "fst", "root": "түс+V", "affixes": "+IMP#1.3PL"},
-      {"pos": 6, "text": "...", "type": "ellipsis", "fst": "fst"}
+      {"pos": 1, "text": "Табалара", "type": "title", "fst": "voc", "root": "таба+N", "affixes": "+PL+POSS.3SG"},
+      {"pos": 2, "text": "бары", "type": "lowercase", "fst": "voc", "root": "бары+Pron"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 4, "text": "умса", "type": "lowercase", "fst": "voc", "root": "умус+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "түстүннэр", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+IMP#1.3PL"},
+      {"pos": 6, "text": "...", "type": "ellipsis", "fst": "voc"}
     ]
   }
 ]

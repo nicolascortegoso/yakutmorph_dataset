@@ -10,11 +10,11 @@
     "ru": "Они, не сдавшись по-доброму, бились.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "fst", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "үтүөнэн", "type": "lowercase", "fst": "fst", "root": "үтүө+Adj", "affixes": "+INST"},
-      {"pos": 3, "text": "бэринимнэ", "type": "lowercase", "fst": "fst", "root": "биэр+V", "affixes": "+REFL+NEG+CONV#3a"},
-      {"pos": 4, "text": "өлөрсүбүттэрэ", "type": "lowercase", "fst": "fst", "root": "өлөр+V", "affixes": "+RECP+PART_PAST+PL+POSS.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "үтүөнэн", "type": "lowercase", "fst": "voc", "root": "үтүө+Adj", "affixes": "+INST"},
+      {"pos": 3, "text": "бэринимнэ", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+REFL+NEG+CONV#3a"},
+      {"pos": 4, "text": "өлөрсүбүттэрэ", "type": "lowercase", "fst": "voc", "root": "өлөр+V", "affixes": "+RECP+PART_PAST+PL+POSS.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,9 +28,9 @@
     "ru": "Не спустившись с лошади.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Атыттан", "type": "title", "fst": "fst", "root": "ат+N", "affixes": "+POSS.3SG.ABL"},
-      {"pos": 2, "text": "түһүмүнэ", "type": "lowercase", "fst": "fst", "root": "түс+V", "affixes": "+NEG+CONV#3"},
-      {"pos": 3, "text": "...", "type": "ellipsis", "fst": "fst"}
+      {"pos": 1, "text": "Атыттан", "type": "title", "fst": "voc", "root": "ат+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 2, "text": "түһүмүнэ", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+NEG+CONV#3"},
+      {"pos": 3, "text": "...", "type": "ellipsis", "fst": "voc"}
     ]
   },
   {
@@ -44,14 +44,14 @@
     "ru": "... ты поезжай не задерживаясь, езжай прямо на юг",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
-      {"pos": 2, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 3, "text": "тутулуйумуна", "type": "lowercase", "fst": "ymv", "root": "тутул+N", "affixes": "+VRBLZ#2+NEG+CONV#3"},
-      {"pos": 4, "text": "аттан", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+VRBLZ#1+REFL/PASS"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "бар", "type": "lowercase", "fst": "ymv", "root": "бар+V"},
-      {"pos": 7, "text": "чыҥха", "type": "lowercase", "fst": "ymv", "root": "чыҥха+Adv"},
-      {"pos": 8, "text": "соҕуру", "type": "lowercase", "fst": "ymv", "root": "сой+V", "affixes": "+NMLZ#6+VRBLZ#4+ADVZ#1"}
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "voc"},
+      {"pos": 2, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 3, "text": "тутулуйумуна", "type": "lowercase", "fst": "voc", "root": "тутул+N", "affixes": "+VRBLZ#2+NEG+CONV#3"},
+      {"pos": 4, "text": "аттан", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+VRBLZ#1+REFL/PASS"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "бар", "type": "lowercase", "fst": "voc", "root": "бар+V"},
+      {"pos": 7, "text": "чыҥха", "type": "lowercase", "fst": "voc", "root": "чыҥха+Adv"},
+      {"pos": 8, "text": "соҕуру", "type": "lowercase", "fst": "voc", "root": "сой+V", "affixes": "+NMLZ#6+VRBLZ#4+ADVZ#1"}
     ]
   },
   {
@@ -65,13 +65,13 @@
     "ru": "Ветер дует так, что не дает человеку стоять на ногах.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Тыал", "type": "title", "fst": "fst", "root": "тыал+N"},
-      {"pos": 2, "text": "киһини", "type": "lowercase", "fst": "fst", "root": "киһи+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "атаҕар", "type": "lowercase", "fst": "fst", "root": "атах+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 4, "text": "туруорбат", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+CSTV+NEG+PART_PRES"},
-      {"pos": 5, "text": "гына", "type": "lowercase", "fst": "fst", "root": "гын+V", "affixes": "+CONV#2"},
-      {"pos": 6, "text": "тыалырар", "type": "lowercase", "fst": "fst", "root": "тыал+N", "affixes": "+VRBLZ#4+PART_PRES"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Тыал", "type": "title", "fst": "voc", "root": "тыал+N"},
+      {"pos": 2, "text": "киһини", "type": "lowercase", "fst": "voc", "root": "киһи+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "атаҕар", "type": "lowercase", "fst": "voc", "root": "атах+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 4, "text": "туруорбат", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CSTV+NEG+PART_PRES"},
+      {"pos": 5, "text": "гына", "type": "lowercase", "fst": "voc", "root": "гын+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "тыалырар", "type": "lowercase", "fst": "voc", "root": "тыал+N", "affixes": "+VRBLZ#4+PART_PRES"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -85,11 +85,11 @@
     "ru": "Мы устали так, что не могли двигаться.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "fst", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "хамнаабат", "type": "lowercase", "fst": "fst", "root": "хамнаа+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 3, "text": "буола", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "сылайбыппыт", "type": "lowercase", "fst": "fst", "root": "сылай+V", "affixes": "+PART_PAST+1PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "хамнаабат", "type": "lowercase", "fst": "voc", "root": "хамнаа+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 3, "text": "буола", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "сылайбыппыт", "type": "lowercase", "fst": "voc", "root": "сылай+V", "affixes": "+PART_PAST+1PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

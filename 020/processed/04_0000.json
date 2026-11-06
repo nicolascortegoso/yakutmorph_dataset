@@ -11,9 +11,9 @@
     "ru": "Старик ты, что ли?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Оҕонньоргун", "type": "title", "fst": "ymv", "root": "оҕонньор+N", "affixes": "+2SG"},
-      {"pos": 2, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
-      {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Оҕонньоргун", "type": "title", "fst": "voc", "root": "оҕонньор+N", "affixes": "+2SG"},
+      {"pos": 2, "text": "дуу", "type": "lowercase", "fst": "voc", "root": "дуу+Part"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -28,9 +28,9 @@
     "ru": "Кто же ты?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "кимҥиний", "type": "lowercase", "fst": "ymv", "root": "ким+Pron", "affixes": "+ADJZ#4+INT"},
-      {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Эн", "type": "title", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "кимҥиний", "type": "lowercase", "fst": "voc", "root": "ким+Pron", "affixes": "+ADJZ#4+INT"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -45,15 +45,15 @@
     "ru": "Максим улыбнулся: «Я Максим».",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Максим", "type": "title", "fst": "yma", "root": "максим+PN"},
-      {"pos": 2, "text": "мичик", "type": "lowercase", "fst": "ymv", "root": "мичий+V", "affixes": "+ADJZ#16"},
-      {"pos": 3, "text": "гынна", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+PST.3SG"},
-      {"pos": 4, "text": ":", "type": "colon", "fst": "ymv"},
-      {"pos": 5, "text": "«", "type": "quotation", "fst": "ymv"},
-      {"pos": 6, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 7, "text": "Максиммын", "type": "title", "fst": "yma", "root": "максим+PN", "affixes": "+1SG"},
-      {"pos": 8, "text": "»", "type": "quotation", "fst": "ymv"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Максим", "type": "title", "fst": "aff", "root": "максим+PN"},
+      {"pos": 2, "text": "мичик", "type": "lowercase", "fst": "voc", "root": "мичий+V", "affixes": "+ADJZ#16"},
+      {"pos": 3, "text": "гынна", "type": "lowercase", "fst": "voc", "root": "гын+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": ":", "type": "colon", "fst": "voc"},
+      {"pos": 5, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 6, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 7, "text": "Максиммын", "type": "title", "fst": "aff", "root": "максим+PN", "affixes": "+1SG"},
+      {"pos": 8, "text": "»", "type": "quotation", "fst": "voc"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -68,17 +68,17 @@
     "ru": "«Белов я, - затем добавил: я хороший...»",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
-      {"pos": 2, "text": "Беловпун", "type": "title", "fst": "yma", "root": "белов+N", "affixes": "+1SG"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 5, "text": "онтон", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+ABL"},
-      {"pos": 6, "text": "эбэн", "type": "lowercase", "fst": "ymv", "root": "эп+V", "affixes": "+CONV#1"},
-      {"pos": 7, "text": "эттэ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+PST.3SG"},
-      {"pos": 8, "text": ":", "type": "colon", "fst": "ymv"},
-      {"pos": 9, "text": "үчүгэйбин", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj", "affixes": "+1SG"},
-      {"pos": 10, "text": "...", "type": "ellipsis", "fst": "ymv"},
-      {"pos": 11, "text": "»", "type": "quotation", "fst": "ymv"}
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 2, "text": "Беловпун", "type": "title", "fst": "aff", "root": "белов+N", "affixes": "+1SG"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 5, "text": "онтон", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 6, "text": "эбэн", "type": "lowercase", "fst": "voc", "root": "эп+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": "эттэ", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PST.3SG"},
+      {"pos": 8, "text": ":", "type": "colon", "fst": "voc"},
+      {"pos": 9, "text": "үчүгэйбин", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj", "affixes": "+1SG"},
+      {"pos": 10, "text": "...", "type": "ellipsis", "fst": "voc"},
+      {"pos": 11, "text": "»", "type": "quotation", "fst": "voc"}
     ]
   },
   {
@@ -93,11 +93,11 @@
     "ru": "«Я хороший человек!»",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
-      {"pos": 2, "text": "Үчүгэй", "type": "title", "fst": "ymv", "root": "үчүгэй+Adj"},
-      {"pos": 3, "text": "киһибин", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+1SG"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"},
-      {"pos": 5, "text": "»", "type": "quotation", "fst": "ymv"}
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 2, "text": "Үчүгэй", "type": "title", "fst": "voc", "root": "үчүгэй+Adj"},
+      {"pos": 3, "text": "киһибин", "type": "lowercase", "fst": "voc", "root": "киһи+N", "affixes": "+1SG"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"},
+      {"pos": 5, "text": "»", "type": "quotation", "fst": "voc"}
     ]
   },
   {
@@ -112,11 +112,11 @@
     "ru": "Значит, дочь Ивана Ивановича.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
-      {"pos": 2, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+PN"},
-      {"pos": 3, "text": "кыыһа", "type": "lowercase", "fst": "ymv", "root": "кыыс+N", "affixes": "+POSS.3SG"},
-      {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Иван", "type": "title", "fst": "aff", "root": "иван+PN"},
+      {"pos": 2, "text": "Иванович", "type": "title", "fst": "aff", "root": "иванович+PN"},
+      {"pos": 3, "text": "кыыһа", "type": "lowercase", "fst": "voc", "root": "кыыс+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "буоллаҕа", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

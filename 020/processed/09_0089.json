@@ -11,9 +11,9 @@
     "ru": "дом из крупного дерева",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "модун", "type": "lowercase", "fst": "ymv", "root": "модун+Adj"},
-      {"pos": 2, "text": "мас", "type": "lowercase", "fst": "ymv", "root": "мас+N"},
-      {"pos": 3, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"}
+      {"pos": 1, "text": "модун", "type": "lowercase", "fst": "voc", "root": "модун+Adj"},
+      {"pos": 2, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"},
+      {"pos": 3, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"}
     ]
   },
   {
@@ -28,9 +28,9 @@
     "ru": "рубашка, платье из белого шелка",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "үрүҥ", "type": "lowercase", "fst": "ymv", "root": "үрүҥ+Adj"},
-      {"pos": 2, "text": "солко", "type": "lowercase", "fst": "ymv", "root": "солко+N"},
-      {"pos": 3, "text": "ырбаахы", "type": "lowercase", "fst": "ymv", "root": "ырбаахы+N"}
+      {"pos": 1, "text": "үрүҥ", "type": "lowercase", "fst": "voc", "root": "үрүҥ+Adj"},
+      {"pos": 2, "text": "солко", "type": "lowercase", "fst": "voc", "root": "солко+N"},
+      {"pos": 3, "text": "ырбаахы", "type": "lowercase", "fst": "voc", "root": "ырбаахы+N"}
     ]
   },
   {
@@ -45,10 +45,10 @@
     "ru": "волнующе колышащаяся лесистая гора",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "унаара", "type": "lowercase", "fst": "ymv", "root": "унаар+N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": "долгуйар", "type": "lowercase", "fst": "ymv", "root": "долгуй+V", "affixes": "+PART_PRES"},
-      {"pos": 3, "text": "мас", "type": "lowercase", "fst": "ymv", "root": "мас+N"},
-      {"pos": 4, "text": "хайа", "type": "lowercase", "fst": "ymv", "root": "хайа+N"}
+      {"pos": 1, "text": "унаара", "type": "lowercase", "fst": "voc", "root": "унаар+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "долгуйар", "type": "lowercase", "fst": "voc", "root": "долгуй+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"},
+      {"pos": 4, "text": "хайа", "type": "lowercase", "fst": "voc", "root": "хайа+N"}
     ]
   },
   {
@@ -63,11 +63,11 @@
     "ru": "лесистая речка впадала в Амгу",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "мас", "type": "lowercase", "fst": "ymv", "root": "мас+N"},
-      {"pos": 2, "text": "үрэх", "type": "lowercase", "fst": "ymv", "root": "үрэх+N"},
-      {"pos": 3, "text": "Аммаҕа", "type": "title", "fst": "ymv", "root": "амма+PN", "affixes": "+DAT"},
-      {"pos": 4, "text": "кутара", "type": "lowercase", "fst": "ymv", "root": "кут+V", "affixes": "+PART_PRES+POSS.3SG"},
-      {"pos": 5, "text": "...", "type": "ellipsis", "fst": "ymv"}
+      {"pos": 1, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"},
+      {"pos": 2, "text": "үрэх", "type": "lowercase", "fst": "voc", "root": "үрэх+N"},
+      {"pos": 3, "text": "Аммаҕа", "type": "title", "fst": "voc", "root": "амма+PN", "affixes": "+DAT"},
+      {"pos": 4, "text": "кутара", "type": "lowercase", "fst": "voc", "root": "кут+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 5, "text": "...", "type": "ellipsis", "fst": "voc"}
     ]
   }
 ]

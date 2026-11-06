@@ -10,9 +10,9 @@
       "ru": "пречерный",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "хап", "type": "lowercase", "fst": "ymv", "root": "хап+INTENS"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-         {"pos": 3, "text": "хара", "type": "lowercase", "fst": "ymv", "root": "хара+Adj"}
+         {"pos": 1, "text": "хап", "type": "lowercase", "fst": "voc", "root": "хап+INTENS"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 3, "text": "хара", "type": "lowercase", "fst": "voc", "root": "хара+Adj"}
       ]
    },
    {
@@ -26,9 +26,9 @@
       "ru": "пресиний",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "күп", "type": "lowercase", "fst": "ymv", "root": "күп+INTENS"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-         {"pos": 3, "text": "күөх", "type": "lowercase", "fst": "ymv", "root": "күөх+Adj"}
+         {"pos": 1, "text": "күп", "type": "lowercase", "fst": "voc", "root": "күп+INTENS"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 3, "text": "күөх", "type": "lowercase", "fst": "voc", "root": "күөх+Adj"}
       ]
    },
    {
@@ -42,8 +42,8 @@
     "ru": "высокий урожай",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "үрдүк", "type": "lowercase", "fst": "ymv", "root": "үрдүк+Adj"},
-      {"pos": 2, "text": "үүнүү", "type": "lowercase", "fst": "ymv", "root": "үүн+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "үрдүк", "type": "lowercase", "fst": "voc", "root": "үрдүк+Adj"},
+      {"pos": 2, "text": "үүнүү", "type": "lowercase", "fst": "voc", "root": "үүн+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -57,8 +57,8 @@
     "ru": "урожай высок",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "үүнүү", "type": "lowercase", "fst": "ymv", "root": "үүн+V", "affixes": "+NMLZ#2"},
-      {"pos": 2, "text": "үрдүк", "type": "lowercase", "fst": "ymv", "root": "үрдүк+Adj"}
+      {"pos": 1, "text": "үүнүү", "type": "lowercase", "fst": "voc", "root": "үүн+V", "affixes": "+NMLZ#2"},
+      {"pos": 2, "text": "үрдүк", "type": "lowercase", "fst": "voc", "root": "үрдүк+Adj"}
     ]
   },
   {
@@ -72,9 +72,9 @@
     "ru": "пятилетний план",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "биэс", "type": "lowercase", "fst": "ymv", "root": "биэс+Num"},
-      {"pos": 2, "text": "сыллаах", "type": "lowercase", "fst": "ymv", "root": "сыл+N", "affixes": "+ADJZ#1"},
-      {"pos": 3, "text": "былаан", "type": "lowercase", "fst": "ymv", "root": "былаан+N"}
+      {"pos": 1, "text": "биэс", "type": "lowercase", "fst": "voc", "root": "биэс+Num"},
+      {"pos": 2, "text": "сыллаах", "type": "lowercase", "fst": "voc", "root": "сыл+N", "affixes": "+ADJZ#1"},
+      {"pos": 3, "text": "былаан", "type": "lowercase", "fst": "voc", "root": "былаан+N"}
     ]
   },
   {
@@ -88,8 +88,8 @@
     "ru": "пять лет",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "биэс", "type": "lowercase", "fst": "ymv", "root": "биэс+Num"},
-      {"pos": 2, "text": "сыл", "type": "lowercase", "fst": "ymv", "root": "сыл+N"}
+      {"pos": 1, "text": "биэс", "type": "lowercase", "fst": "voc", "root": "биэс+Num"},
+      {"pos": 2, "text": "сыл", "type": "lowercase", "fst": "voc", "root": "сыл+N"}
     ]
   },
   {
@@ -103,9 +103,9 @@
     "ru": "трехпроцентный заем",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "үс", "type": "lowercase", "fst": "ymv", "root": "үс+Num"},
-      {"pos": 2, "text": "бырыһыаннаах", "type": "lowercase", "fst": "ymv", "root": "бырыһыан+N", "affixes": "+ADJZ#1"},
-      {"pos": 3, "text": "заем", "type": "lowercase", "fst": "ymv", "root": "заем+N"}
+      {"pos": 1, "text": "үс", "type": "lowercase", "fst": "voc", "root": "үс+Num"},
+      {"pos": 2, "text": "бырыһыаннаах", "type": "lowercase", "fst": "voc", "root": "бырыһыан+N", "affixes": "+ADJZ#1"},
+      {"pos": 3, "text": "заем", "type": "lowercase", "fst": "voc", "root": "заем+N"}
     ]
   },
   {
@@ -119,8 +119,8 @@
     "ru": "три процента",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "үс", "type": "lowercase", "fst": "ymv", "root": "үс+Num"},
-      {"pos": 2, "text": "бырыһыан", "type": "lowercase", "fst": "ymv", "root": "бырыһыан+N"}
+      {"pos": 1, "text": "үс", "type": "lowercase", "fst": "voc", "root": "үс+Num"},
+      {"pos": 2, "text": "бырыһыан", "type": "lowercase", "fst": "voc", "root": "бырыһыан+N"}
     ]
   },
   {
@@ -134,8 +134,8 @@
     "ru": "слишком большой",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adv"},
-      {"pos": 2, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj"}
+      {"pos": 1, "text": "олус", "type": "lowercase", "fst": "voc", "root": "олус+Adv"},
+      {"pos": 2, "text": "улахан", "type": "lowercase", "fst": "voc", "root": "улахан+Adj"}
     ]
   },
   {
@@ -149,8 +149,8 @@
     "ru": "очень плохой",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "наһаа", "type": "lowercase", "fst": "ymv", "root": "наһаа+Adv"},
-      {"pos": 2, "text": "куһаҕан", "type": "lowercase", "fst": "ymv", "root": "куһаҕан+Adj"}
+      {"pos": 1, "text": "наһаа", "type": "lowercase", "fst": "voc", "root": "наһаа+Adv"},
+      {"pos": 2, "text": "куһаҕан", "type": "lowercase", "fst": "voc", "root": "куһаҕан+Adj"}
     ]
   },
   {
@@ -164,8 +164,8 @@
     "ru": "чуть меньше",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "арыычча", "type": "lowercase", "fst": "ymv", "root": "арыычча+Adv"},
-      {"pos": 2, "text": "кыра", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj"}
+      {"pos": 1, "text": "арыычча", "type": "lowercase", "fst": "voc", "root": "арыычча+Adv"},
+      {"pos": 2, "text": "кыра", "type": "lowercase", "fst": "voc", "root": "кыра+Adj"}
     ]
   },
   {
@@ -179,8 +179,8 @@
     "ru": "совершенно славый",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "адьас", "type": "lowercase", "fst": "ymv", "root": "адьас+Adv"},
-      {"pos": 2, "text": "мөлтөх", "type": "lowercase", "fst": "ymv", "root": "мөлтөө+V", "affixes": "+ADJZ#16"}
+      {"pos": 1, "text": "адьас", "type": "lowercase", "fst": "voc", "root": "адьас+Adv"},
+      {"pos": 2, "text": "мөлтөх", "type": "lowercase", "fst": "voc", "root": "мөлтөө+V", "affixes": "+ADJZ#16"}
     ]
   },
   {
@@ -194,8 +194,8 @@
     "ru": "деревянный дом",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "мас", "type": "lowercase", "fst": "ymv", "root": "мас+N"},
-      {"pos": 2, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"}
+      {"pos": 1, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"},
+      {"pos": 2, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"}
     ]
   },
   {
@@ -209,8 +209,8 @@
     "ru": "выходной день",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "өрөбүл", "type": "lowercase", "fst": "ymv", "root": "өрөө+V", "affixes": "+NMLZ#4"},
-      {"pos": 2, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"}
+      {"pos": 1, "text": "өрөбүл", "type": "lowercase", "fst": "voc", "root": "өрөө+V", "affixes": "+NMLZ#4"},
+      {"pos": 2, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"}
     ]
   }
 ]

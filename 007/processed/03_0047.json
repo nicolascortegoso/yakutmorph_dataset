@@ -10,10 +10,10 @@
     "ru": "Откуда воскреснет мертвый.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Өлбүт", "type": "title", "fst": "fst", "root": "өл+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "хантан", "type": "lowercase", "fst": "fst", "root": "ханна+Pron", "affixes": "+ABL"},
-      {"pos": 3, "text": "тиллиэй", "type": "lowercase", "fst": "fst", "root": "тилин+V", "affixes": "+PART_FUT+INT"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Өлбүт", "type": "title", "fst": "voc", "root": "өл+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "хантан", "type": "lowercase", "fst": "voc", "root": "ханна+Pron", "affixes": "+ABL"},
+      {"pos": 3, "text": "тиллиэй", "type": "lowercase", "fst": "voc", "root": "тилин+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -27,17 +27,17 @@
     "ru": "Сколько, сколько языков он знает, откуда, кто может сосчитать?!",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Хас", "type": "title", "fst": "fst", "root": "хас+Pron"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "хас", "type": "lowercase", "fst": "fst", "root": "хас+Pron"},
-      {"pos": 4, "text": "тылы", "type": "lowercase", "fst": "fst", "root": "тыл+N", "affixes": "+ACC"},
-      {"pos": 5, "text": "билэрин", "type": "lowercase", "fst": "fst", "root": "бил+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
-      {"pos": 6, "text": "хантан", "type": "lowercase", "fst": "fst", "root": "ханна+Pron", "affixes": "+ABL"},
-      {"pos": 7, "text": "ким", "type": "lowercase", "fst": "fst", "root": "ким+Pron"},
-      {"pos": 8, "text": "ситэн", "type": "lowercase", "fst": "fst", "root": "сит+V", "affixes": "+CONV#1"},
-      {"pos": 9, "text": "ааҕыай", "type": "lowercase", "fst": "fst", "root": "аах+V", "affixes": "+PART_FUT+INT"},
-      {"pos": 10, "text": "?", "type": "question", "fst": "fst"},
-      {"pos": 11, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Хас", "type": "title", "fst": "voc", "root": "хас+Pron"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "хас", "type": "lowercase", "fst": "voc", "root": "хас+Pron"},
+      {"pos": 4, "text": "тылы", "type": "lowercase", "fst": "voc", "root": "тыл+N", "affixes": "+ACC"},
+      {"pos": 5, "text": "билэрин", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
+      {"pos": 6, "text": "хантан", "type": "lowercase", "fst": "voc", "root": "ханна+Pron", "affixes": "+ABL"},
+      {"pos": 7, "text": "ким", "type": "lowercase", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 8, "text": "ситэн", "type": "lowercase", "fst": "voc", "root": "сит+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": "ааҕыай", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 10, "text": "?", "type": "question", "fst": "voc"},
+      {"pos": 11, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -51,14 +51,14 @@
     "ru": "После всего этого это откуда мы победим их.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол+Pron"},
-      {"pos": 2, "text": "кэннэ", "type": "lowercase", "fst": "fst", "root": "кэлин+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 4, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "биһиги+Pron"},
-      {"pos": 5, "text": "хантан", "type": "lowercase", "fst": "fst", "root": "ханна+Pron", "affixes": "+ABL"},
-      {"pos": 6, "text": "кыайар", "type": "lowercase", "fst": "fst", "root": "кыай+V", "affixes": "+PART_PRES"},
-      {"pos": 7, "text": "буолабыт", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+PART_PRES+1PL"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "кэннэ", "type": "lowercase", "fst": "voc", "root": "кэлин+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 4, "text": "биһиги", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 5, "text": "хантан", "type": "lowercase", "fst": "voc", "root": "ханна+Pron", "affixes": "+ABL"},
+      {"pos": 6, "text": "кыайар", "type": "lowercase", "fst": "voc", "root": "кыай+V", "affixes": "+PART_PRES"},
+      {"pos": 7, "text": "буолабыт", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -72,19 +72,19 @@
     "ru": "Хоть как угодно плачь, откуда же слезы превратятся в колбасу?!",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Хайдах", "type": "title", "fst": "ymv", "root": "хайдах+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "ытаабыт", "type": "lowercase", "fst": "ymv", "root": "ытаа+V", "affixes": "+PART_PAST"},
-      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "хантан", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron", "affixes": "+ABL"},
-      {"pos": 7, "text": "кэлэн", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#1"},
-      {"pos": 8, "text": "харах", "type": "lowercase", "fst": "ymv", "root": "харах+N"},
-      {"pos": 9, "text": "уута", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+POSS.3SG"},
-      {"pos": 10, "text": "халбаһыы", "type": "lowercase", "fst": "ymv", "root": "халбаһыы+N"},
-      {"pos": 11, "text": "буолуой", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+INT"},
-      {"pos": 12, "text": "?", "type": "question", "fst": "ymv"},
-      {"pos": 13, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Хайдах", "type": "title", "fst": "voc", "root": "хайдах+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "ытаабыт", "type": "lowercase", "fst": "voc", "root": "ытаа+V", "affixes": "+PART_PAST"},
+      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "voc", "root": "иһин+POST"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "хантан", "type": "lowercase", "fst": "voc", "root": "ханна+Pron", "affixes": "+ABL"},
+      {"pos": 7, "text": "кэлэн", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "харах", "type": "lowercase", "fst": "voc", "root": "харах+N"},
+      {"pos": 9, "text": "уута", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+POSS.3SG"},
+      {"pos": 10, "text": "халбаһыы", "type": "lowercase", "fst": "voc", "root": "халбаһыы+N"},
+      {"pos": 11, "text": "буолуой", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_FUT+INT"},
+      {"pos": 12, "text": "?", "type": "question", "fst": "voc"},
+      {"pos": 13, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

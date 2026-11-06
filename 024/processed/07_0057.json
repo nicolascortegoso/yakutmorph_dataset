@@ -11,10 +11,10 @@
       "tags": "Two kilometer run-pass-past.3",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Икки", "type": "title", "fst": "ymv", "root": "икки+Num"},
-         {"pos": 2, "text": "километр", "type": "lowercase", "fst": "ymv", "root": "километр+N"},
-         {"pos": 3, "text": "сүүрүлүннэ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Икки", "type": "title", "fst": "voc", "root": "икки+Num"},
+         {"pos": 2, "text": "километр", "type": "lowercase", "fst": "voc", "root": "километр+N"},
+         {"pos": 3, "text": "сүүрүлүннэ", "type": "lowercase", "fst": "voc", "root": "сүүр+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -29,10 +29,10 @@
       "tags": "Two kilometer walk-pass-past.3",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Икки", "type": "title", "fst": "ymv", "root": "икки+Num"},
-         {"pos": 2, "text": "километр", "type": "lowercase", "fst": "ymv", "root": "километр+N"},
-         {"pos": 3, "text": "хаамылынна", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Икки", "type": "title", "fst": "voc", "root": "икки+Num"},
+         {"pos": 2, "text": "километр", "type": "lowercase", "fst": "voc", "root": "километр+N"},
+         {"pos": 3, "text": "хаамылынна", "type": "lowercase", "fst": "voc", "root": "хаамп+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -47,10 +47,10 @@
       "tags": "Two kilometer-acc run-pass-past.3",
       "id": 3,
       "parses": [
-         {"pos": 1, "text": "Икки", "type": "title", "fst": "ymv", "root": "икки+Num"},
-         {"pos": 2, "text": "километры", "type": "lowercase", "fst": "yma", "root": "километры+N"},
-         {"pos": 3, "text": "сүүрүлүннэ", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Икки", "type": "title", "fst": "voc", "root": "икки+Num"},
+         {"pos": 2, "text": "километры", "type": "lowercase", "fst": "aff", "root": "километры+N"},
+         {"pos": 3, "text": "сүүрүлүннэ", "type": "lowercase", "fst": "voc", "root": "сүүр+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -65,10 +65,10 @@
       "tags": "Two kilometer-acc walk-pass-past.3",
       "id": 4,
       "parses": [
-         {"pos": 1, "text": "Икки", "type": "title", "fst": "ymv", "root": "икки+Num"},
-         {"pos": 2, "text": "километры", "type": "lowercase", "fst": "yma", "root": "километры+N"},
-         {"pos": 3, "text": "хаамылынна", "type": "lowercase", "fst": "ymv", "root": "хаамп+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Икки", "type": "title", "fst": "voc", "root": "икки+Num"},
+         {"pos": 2, "text": "километры", "type": "lowercase", "fst": "aff", "root": "километры+N"},
+         {"pos": 3, "text": "хаамылынна", "type": "lowercase", "fst": "voc", "root": "хаамп+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -83,9 +83,9 @@
       "tags": "Masha laugh-pass-past.3",
       "id": 5,
       "parses": [
-         {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+PN"},
-         {"pos": 2, "text": "күлүлүннэ", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Маша", "type": "title", "fst": "aff", "root": "маша+PN"},
+         {"pos": 2, "text": "күлүлүннэ", "type": "lowercase", "fst": "voc", "root": "күл+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
       ]
    },    
    {
@@ -100,9 +100,9 @@
       "tags": "Masha-acc laugh-pass-past.3",
       "id": 6,
       "parses": [
-         {"pos": 1, "text": "Машаны", "type": "title", "fst": "yma", "root": "маша+PN", "affixes": "+ACC"},
-         {"pos": 2, "text": "күлүлүннэ", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Машаны", "type": "title", "fst": "aff", "root": "маша+PN", "affixes": "+ACC"},
+         {"pos": 2, "text": "күлүлүннэ", "type": "lowercase", "fst": "voc", "root": "күл+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -117,9 +117,9 @@
       "tags": "Song whistle-pass-past.3",
       "id": 7,
       "parses": [
-         {"pos": 1, "text": "Ырыа", "type": "title", "fst": "ymv", "root": "ырыа+N"},
-         {"pos": 2, "text": "иһиирилиннэ", "type": "lowercase", "fst": "ymv", "root": "иһиир+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Ырыа", "type": "title", "fst": "voc", "root": "ырыа+N"},
+         {"pos": 2, "text": "иһиирилиннэ", "type": "lowercase", "fst": "voc", "root": "иһиир+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -134,9 +134,9 @@
       "tags": "Song-acc whistle-pass-past.3",
       "id": 8,
       "parses": [
-         {"pos": 1, "text": "Ырыаны", "type": "title", "fst": "ymv", "root": "ырыа+N", "affixes": "+ACC"},
-         {"pos": 2, "text": "иһиирилиннэ", "type": "lowercase", "fst": "ymv", "root": "иһиир+V", "affixes": "+PASS+PST.3SG"},
-         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Ырыаны", "type": "title", "fst": "voc", "root": "ырыа+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "иһиирилиннэ", "type": "lowercase", "fst": "voc", "root": "иһиир+V", "affixes": "+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
       ]
    }
 ]

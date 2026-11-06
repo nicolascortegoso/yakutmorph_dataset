@@ -10,13 +10,13 @@
     "ru": "Ну, наберите из этих дров сколько сможете поднять.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Чэ", "type": "title", "fst": "ymv", "root": "чэ+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
-      {"pos": 4, "text": "мастан", "type": "lowercase", "fst": "ymv", "root": "мас+N", "affixes": "+ABL"},
-      {"pos": 5, "text": "кыайыаххытынан", "type": "lowercase", "fst": "ymv", "root": "кыай+V", "affixes": "+PART_FUT+POSS.2PL.INST"},
-      {"pos": 6, "text": "көтөҕүҥ", "type": "lowercase", "fst": "ymv", "root": "көтөх+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Чэ", "type": "title", "fst": "voc", "root": "чэ+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "ити", "type": "lowercase", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 4, "text": "мастан", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+ABL"},
+      {"pos": 5, "text": "кыайыаххытынан", "type": "lowercase", "fst": "voc", "root": "кыай+V", "affixes": "+PART_FUT+POSS.2PL.INST"},
+      {"pos": 6, "text": "көтөҕүҥ", "type": "lowercase", "fst": "voc", "root": "көтөх+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,18 +30,18 @@
     "ru": "Юрка всегда, бывает, скидывает с себя одеяло и лежит, скорчившись от холода как только можем.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Юрка", "type": "title", "fst": "yma", "root": "юрка+PN"},
-      {"pos": 2, "text": "мэлдьи", "type": "lowercase", "fst": "ymv", "root": "мэлдьи+Adv"},
-      {"pos": 3, "text": "суорҕанын", "type": "lowercase", "fst": "ymv", "root": "суорҕан+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 4, "text": "тэбэн", "type": "lowercase", "fst": "ymv", "root": "тэп+V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": "кэбиһэр", "type": "lowercase", "fst": "ymv", "root": "кэбис+V", "affixes": "+PART_PRES"},
-      {"pos": 6, "text": "уонна", "type": "lowercase", "fst": "ymv", "root": "уонна+CONJ"},
-      {"pos": 7, "text": "тоҥон", "type": "lowercase", "fst": "ymv", "root": "тоҥ+V", "affixes": "+CONV#1"},
-      {"pos": 8, "text": "түүрүллүөҕүнэн", "type": "lowercase", "fst": "ymv", "root": "түүр+V", "affixes": "+PASS+PART_FUT+POSS.3SG.INST"},
-      {"pos": 9, "text": "түүрүллэн", "type": "lowercase", "fst": "ymv", "root": "түүр+V", "affixes": "+PASS+CONV#1"},
-      {"pos": 10, "text": "сытар", "type": "lowercase", "fst": "ymv", "root": "сыт+V", "affixes": "+PART_PRES"},
-      {"pos": 11, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Юрка", "type": "title", "fst": "aff", "root": "юрка+PN"},
+      {"pos": 2, "text": "мэлдьи", "type": "lowercase", "fst": "voc", "root": "мэлдьи+Adv"},
+      {"pos": 3, "text": "суорҕанын", "type": "lowercase", "fst": "voc", "root": "суорҕан+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "тэбэн", "type": "lowercase", "fst": "voc", "root": "тэп+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "кэбиһэр", "type": "lowercase", "fst": "voc", "root": "кэбис+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": "уонна", "type": "lowercase", "fst": "voc", "root": "уонна+CONJ"},
+      {"pos": 7, "text": "тоҥон", "type": "lowercase", "fst": "voc", "root": "тоҥ+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "түүрүллүөҕүнэн", "type": "lowercase", "fst": "voc", "root": "түүр+V", "affixes": "+PASS+PART_FUT+POSS.3SG.INST"},
+      {"pos": 9, "text": "түүрүллэн", "type": "lowercase", "fst": "voc", "root": "түүр+V", "affixes": "+PASS+CONV#1"},
+      {"pos": 10, "text": "сытар", "type": "lowercase", "fst": "voc", "root": "сыт+V", "affixes": "+PART_PRES"},
+      {"pos": 11, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -10,13 +10,13 @@
     "ru": "Трясясь, дойдя (дойдя, бедненький, трясущейся походкой), он попил творожной сыворотки.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Салҕалаан", "type": "title", "fst": "fst", "root": "салҕа+Adj", "affixes": "+VRBLZ#1+CONV#1"},
-      {"pos": 2, "text": "тиийээхтээн", "type": "lowercase", "fst": "fst", "root": "тиий+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "иэдьэгэй", "type": "lowercase", "fst": "fst", "root": "иэдьэгэй+N"},
-      {"pos": 5, "text": "уутун", "type": "lowercase", "fst": "fst", "root": "уу+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 6, "text": "истэ", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PST.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Салҕалаан", "type": "title", "fst": "voc", "root": "салҕа+Adj", "affixes": "+VRBLZ#1+CONV#1"},
+      {"pos": 2, "text": "тиийээхтээн", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+DIM+CONV#1"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "иэдьэгэй", "type": "lowercase", "fst": "voc", "root": "иэдьэгэй+N"},
+      {"pos": 5, "text": "уутун", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "истэ", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,12 +30,12 @@
     "ru": "Ваши бедные глаза, заболев, заплакав кровавыми слезами.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Хараххыт", "type": "title", "fst": "fst", "root": "харах+N", "affixes": "+POSS.2PL"},
-      {"pos": 2, "text": "ыалдьаахтаан", "type": "lowercase", "fst": "fst", "root": "ыарый+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "хаанынан", "type": "title", "fst": "fst", "root": "хаан+N", "affixes": "+INST"},
-      {"pos": 5, "text": "ытаахтаан", "type": "lowercase", "fst": "fst", "root": "ытаа+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Хараххыт", "type": "title", "fst": "voc", "root": "харах+N", "affixes": "+POSS.2PL"},
+      {"pos": 2, "text": "ыалдьаахтаан", "type": "lowercase", "fst": "voc", "root": "ыарый+V", "affixes": "+DIM+CONV#1"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "хаанынан", "type": "title", "fst": "voc", "root": "хаан+N", "affixes": "+INST"},
+      {"pos": 5, "text": "ытаахтаан", "type": "lowercase", "fst": "voc", "root": "ытаа+V", "affixes": "+DIM+CONV#1"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -49,14 +49,14 @@
     "ru": "Победив большевистское племя, обещав всех истребить.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Бассабыык", "type": "title", "fst": "fst", "root": "бассабыык+N"},
-      {"pos": 2, "text": "аймаҕы", "type": "lowercase", "fst": "fst", "root": "аймах+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "кыайаахтаан", "type": "lowercase", "fst": "fst", "root": "кыай+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "Барытын", "type": "title", "fst": "fst", "root": "бары+Pron", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 6, "text": "кыдыйыах", "type": "lowercase", "fst": "fst", "root": "кыдый+V", "affixes": "+PART_FUT"},
-      {"pos": 7, "text": "буолаахтаан", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Бассабыык", "type": "title", "fst": "voc", "root": "бассабыык+N"},
+      {"pos": 2, "text": "аймаҕы", "type": "lowercase", "fst": "voc", "root": "аймах+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "кыайаахтаан", "type": "lowercase", "fst": "voc", "root": "кыай+V", "affixes": "+DIM+CONV#1"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "Барытын", "type": "title", "fst": "voc", "root": "бары+Pron", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "кыдыйыах", "type": "lowercase", "fst": "voc", "root": "кыдый+V", "affixes": "+PART_FUT"},
+      {"pos": 7, "text": "буолаахтаан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+DIM+CONV#1"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

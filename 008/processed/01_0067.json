@@ -10,10 +10,10 @@
     "ru": "этому ребёнку дайте молока",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "оҕоҕо", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "үүттэ", "type": "lowercase", "fst": "fst", "root": "үүт+N", "affixes": "+PRTV"},
-      {"pos": 4, "text": "биэриҥ", "type": "lowercase", "fst": "fst", "root": "биэр+V", "affixes": "+IMP#1.2PL"}
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "оҕоҕо", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "үүттэ", "type": "lowercase", "fst": "voc", "root": "үүт+N", "affixes": "+PRTV"},
+      {"pos": 4, "text": "биэриҥ", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+IMP#1.2PL"}
     ]
   },
   {
@@ -27,9 +27,9 @@
     "ru": "учителю пришло письмо",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "учууталга", "type": "lowercase", "fst": "fst", "root": "учуутал+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "сурук", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NMLZ#5"},
-      {"pos": 3, "text": "кэллэ", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "учууталга", "type": "lowercase", "fst": "voc", "root": "учуутал+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "сурук", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+NMLZ#5"},
+      {"pos": 3, "text": "кэллэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -43,9 +43,9 @@
     "ru": "конь стоит в загоне",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "ат", "type": "lowercase", "fst": "fst", "root": "ат+N"},
-      {"pos": 2, "text": "далга", "type": "lowercase", "fst": "fst", "root": "дал+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "турар", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "ат", "type": "lowercase", "fst": "voc", "root": "ат+N"},
+      {"pos": 2, "text": "далга", "type": "lowercase", "fst": "voc", "root": "дал+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "турар", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -59,9 +59,9 @@
     "ru": "топор в комнате (в доме)",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "сүгэ", "type": "lowercase", "fst": "fst", "root": "сүгэ+N"},
-      {"pos": 2, "text": "дьиэҕэ", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар+V"}
+      {"pos": 1, "text": "сүгэ", "type": "lowercase", "fst": "voc", "root": "сүгэ+N"},
+      {"pos": 2, "text": "дьиэҕэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "баар", "type": "lowercase", "fst": "voc", "root": "баар+V"}
     ]
   },
   {
@@ -75,9 +75,9 @@
     "ru": "мой отец работает в колхозе",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "колхозка", "type": "lowercase", "fst": "fst", "root": "колхоз+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "үлэлиир", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"}
+      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "колхозка", "type": "lowercase", "fst": "voc", "root": "колхоз+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "үлэлиир", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"}
     ]
   },
   {
@@ -91,9 +91,9 @@
     "ru": "тракторы вышли в поле",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "трактордар", "type": "lowercase", "fst": "fst", "root": "трактор+N", "affixes": "+PL"},
-      {"pos": 2, "text": "хонууга", "type": "lowercase", "fst": "fst", "root": "хонуу+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "таҕыстылар", "type": "lowercase", "fst": "fst", "root": "таҕыс+V", "affixes": "+PST.3PL"}
+      {"pos": 1, "text": "трактордар", "type": "lowercase", "fst": "voc", "root": "трактор+N", "affixes": "+PL"},
+      {"pos": 2, "text": "хонууга", "type": "lowercase", "fst": "voc", "root": "хонуу+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "таҕыстылар", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+PST.3PL"}
     ]
   },
   {
@@ -107,9 +107,9 @@
     "ru": "на озеро спустились утки",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "күөлгэ", "type": "lowercase", "fst": "fst", "root": "күөл+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "кустар", "type": "lowercase", "fst": "fst", "root": "кус+N", "affixes": "+PL"},
-      {"pos": 3, "text": "түстүлэр", "type": "lowercase", "fst": "fst", "root": "түс+V", "affixes": "+PST.3PL"}
+      {"pos": 1, "text": "күөлгэ", "type": "lowercase", "fst": "voc", "root": "күөл+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "кустар", "type": "lowercase", "fst": "voc", "root": "кус+N", "affixes": "+PL"},
+      {"pos": 3, "text": "түстүлэр", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PST.3PL"}
     ]
   },
   {
@@ -123,11 +123,11 @@
     "ru": "этот ребёнок в этом году поступает в школу",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "оҕо", "type": "lowercase", "fst": "fst", "root": "оҕо+N"},
-      {"pos": 3, "text": "быйыл", "type": "lowercase", "fst": "fst", "root": "быйыл+Adv"},
-      {"pos": 4, "text": "оскуолаҕа", "type": "lowercase", "fst": "fst", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 5, "text": "киирэр", "type": "lowercase", "fst": "fst", "root": "киир+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "оҕо", "type": "lowercase", "fst": "voc", "root": "оҕо+N"},
+      {"pos": 3, "text": "быйыл", "type": "lowercase", "fst": "voc", "root": "быйыл+Adv"},
+      {"pos": 4, "text": "оскуолаҕа", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "киирэр", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -141,7 +141,7 @@
     "ru": "в день, в течение дня",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "күҥҥэ", "type": "lowercase", "fst": "fst", "root": "күн+N", "affixes": "+DAT"}
+      {"pos": 1, "text": "күҥҥэ", "type": "lowercase", "fst": "voc", "root": "күн+N", "affixes": "+DAT"}
     ]
   },
   {
@@ -155,8 +155,8 @@
     "ru": "в трое суток",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "үс", "type": "lowercase", "fst": "fst", "root": "үс+Num"},
-      {"pos": 2, "text": "хонукка", "type": "lowercase", "fst": "fst", "root": "хон+V", "affixes": "+NMLZ#5+DAT"}
+      {"pos": 1, "text": "үс", "type": "lowercase", "fst": "voc", "root": "үс+Num"},
+      {"pos": 2, "text": "хонукка", "type": "lowercase", "fst": "voc", "root": "хон+V", "affixes": "+NMLZ#5+DAT"}
     ]
   },
   {
@@ -170,7 +170,7 @@
     "ru": "в месяц",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "ыйга", "type": "lowercase", "fst": "fst", "root": "ый+N", "affixes": "+DAT"}
+      {"pos": 1, "text": "ыйга", "type": "lowercase", "fst": "voc", "root": "ый+N", "affixes": "+DAT"}
     ]
   },
   {
@@ -184,8 +184,8 @@
     "ru": "я взял за деньги",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "харчыга", "type": "lowercase", "fst": "fst", "root": "харчы+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "ыллым", "type": "lowercase", "fst": "fst", "root": "ыл+V", "affixes": "+PST.1SG"}
+      {"pos": 1, "text": "харчыга", "type": "lowercase", "fst": "voc", "root": "харчы+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "ыллым", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+PST.1SG"}
     ]
   },
   {
@@ -199,8 +199,8 @@
     "ru": "он пришёл по поручению",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "сорукка", "type": "lowercase", "fst": "fst", "root": "соруй+V", "affixes": "+NMLZ#5+DAT"},
-      {"pos": 2, "text": "кэлбит", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PART_PAST"}
+      {"pos": 1, "text": "сорукка", "type": "lowercase", "fst": "voc", "root": "соруй+V", "affixes": "+NMLZ#5+DAT"},
+      {"pos": 2, "text": "кэлбит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST"}
     ]
   }
 ]

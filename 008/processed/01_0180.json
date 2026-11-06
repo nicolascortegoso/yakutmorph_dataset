@@ -10,8 +10,8 @@
     "ru": "приблизительно то же значение (тупан пользоваться)",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "бар", "type": "lowercase", "fst": "ymv", "root": "бар+V"},
-      {"pos": 2, "text": "туһан", "type": "lowercase", "fst": "ymv", "root": "туһан+V"}
+      {"pos": 1, "text": "бар", "type": "lowercase", "fst": "voc", "root": "бар+V"},
+      {"pos": 2, "text": "туһан", "type": "lowercase", "fst": "voc", "root": "туһан+V"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "выражает досаду, разочарование (көр смотреть)",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "ыл", "type": "lowercase", "fst": "ymv", "root": "ыл+V"},
-      {"pos": 2, "text": "көр", "type": "lowercase", "fst": "ymv", "root": "көр+V"}
+      {"pos": 1, "text": "ыл", "type": "lowercase", "fst": "voc", "root": "ыл+V"},
+      {"pos": 2, "text": "көр", "type": "lowercase", "fst": "voc", "root": "көр+V"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "вот беда, вот несчастье: (винит, п. от алдьархай - беда, несчастье)",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "алдьархайы", "type": "lowercase", "fst": "ymv", "root": "алдьархай+N", "affixes": "+ACC"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "алдьархайы", "type": "lowercase", "fst": "voc", "root": "алдьархай+N", "affixes": "+ACC"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "что за мука, что за несчастье (вопросительно-притяжательная форма 3 л. ед. числа от сор)",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "туох", "type": "lowercase", "fst": "ymv", "root": "туох+Pron"},
-      {"pos": 2, "text": "сорой", "type": "lowercase", "fst": "ymv", "root": "сор+N", "affixes": "+POSS.3SG+INT"}
+      {"pos": 1, "text": "туох", "type": "lowercase", "fst": "voc", "root": "туох+Pron"},
+      {"pos": 2, "text": "сорой", "type": "lowercase", "fst": "voc", "root": "сор+N", "affixes": "+POSS.3SG+INT"}
     ]
   },
   {
@@ -70,12 +70,12 @@
     "ru": "выражает высшую степень удивления (ну и бывает же, оказывается)",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "о", "type": "lowercase", "fst": "ymv", "root": "о+INJ"},
-      {"pos": 2, "text": "дьэ", "type": "lowercase", "fst": "ymv", "root": "дьэ+MOD"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-      {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "ymv", "root": "эбит+Part"}
+      {"pos": 1, "text": "о", "type": "lowercase", "fst": "voc", "root": "о+INJ"},
+      {"pos": 2, "text": "дьэ", "type": "lowercase", "fst": "voc", "root": "дьэ+MOD"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+      {"pos": 5, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 6, "text": "эбит", "type": "lowercase", "fst": "voc", "root": "эбит+Part"}
     ]
   }
 ]

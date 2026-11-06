@@ -10,11 +10,11 @@
     "ru": "Иди, занеси дров.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Бар", "type": "title", "fst": "ymv", "root": "бар+V"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "маста", "type": "lowercase", "fst": "ymv", "root": "мас+N", "affixes": "+PRTV"},
-      {"pos": 4, "text": "киллэр", "type": "lowercase", "fst": "ymv", "root": "киллэр+V"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бар", "type": "title", "fst": "voc", "root": "бар+V"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "маста", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+PRTV"},
+      {"pos": 4, "text": "киллэр", "type": "lowercase", "fst": "voc", "root": "киллэр+V"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,10 +28,10 @@
     "ru": "Не ругай зря человека.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Киһини", "type": "title", "fst": "ymv", "root": "киһи+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "мэнээк", "type": "lowercase", "fst": "ymv", "root": "мэнээк+Adv"},
-      {"pos": 3, "text": "мөҕүмэ", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+NEG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Киһини", "type": "title", "fst": "voc", "root": "киһи+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "мэнээк", "type": "lowercase", "fst": "voc", "root": "мэнээк+Adv"},
+      {"pos": 3, "text": "мөҕүмэ", "type": "lowercase", "fst": "voc", "root": "мөх+V", "affixes": "+NEG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

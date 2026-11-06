@@ -10,12 +10,12 @@
     "ru": "Он стал охотником, известным по всей республике.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Республика", "type": "title", "fst": "ymv", "root": "республика+N"},
-      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"},
-      {"pos": 3, "text": "биллэр", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": "булчут", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+NMLZ#1"},
-      {"pos": 5, "text": "буолбута", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Республика", "type": "title", "fst": "voc", "root": "республика+N"},
+      {"pos": 2, "text": "үрдүнэн", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 3, "text": "биллэр", "type": "lowercase", "fst": "voc", "root": "билин+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": "булчут", "type": "lowercase", "fst": "voc", "root": "булт+N", "affixes": "+NMLZ#1"},
+      {"pos": 5, "text": "буолбута", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,8 +29,8 @@
     "ru": "двор",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"},
-      {"pos": 2, "text": "таһа", "type": "lowercase", "fst": "ymv", "root": "тас+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"},
+      {"pos": 2, "text": "таһа", "type": "lowercase", "fst": "voc", "root": "тас+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -44,8 +44,8 @@
     "ru": "потолок, крышу дома",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"},
-      {"pos": 2, "text": "үрдүн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.ACC"}
+      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"},
+      {"pos": 2, "text": "үрдүн", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.ACC"}
     ]
   },
   {
@@ -59,8 +59,8 @@
     "ru": "изнутри домов",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "дьиэлэр", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+PL"},
-      {"pos": 2, "text": "истэриттэн", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+ADVZ#7+ABL"}
+      {"pos": 1, "text": "дьиэлэр", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+PL"},
+      {"pos": 2, "text": "истэриттэн", "type": "lowercase", "fst": "voc", "root": "ис+N", "affixes": "+ADVZ#7+ABL"}
     ]
   },
   {
@@ -74,9 +74,9 @@
     "ru": "до края поляны",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "сыһыы", "type": "lowercase", "fst": "ymv", "root": "сыһыы+N"},
-      {"pos": 2, "text": "кытыытыгар", "type": "lowercase", "fst": "ymv", "root": "кытыы+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"}
+      {"pos": 1, "text": "сыһыы", "type": "lowercase", "fst": "voc", "root": "сыһыы+N"},
+      {"pos": 2, "text": "кытыытыгар", "type": "lowercase", "fst": "voc", "root": "кытыы+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "диэри", "type": "lowercase", "fst": "voc", "root": "диэри+POST"}
     ]
   },
   {
@@ -90,9 +90,9 @@
     "ru": "лед середины озера",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "күөл", "type": "lowercase", "fst": "ymv", "root": "күөл+N"},
-      {"pos": 2, "text": "ортотун", "type": "lowercase", "fst": "ymv", "root": "орто+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "мууһа", "type": "lowercase", "fst": "ymv", "root": "муус+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "күөл", "type": "lowercase", "fst": "voc", "root": "күөл+N"},
+      {"pos": 2, "text": "ортотун", "type": "lowercase", "fst": "voc", "root": "орто+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "мууһа", "type": "lowercase", "fst": "voc", "root": "муус+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -106,10 +106,10 @@
     "ru": "край льда середины озера",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "күөл", "type": "lowercase", "fst": "ymv", "root": "күөл+N"},
-      {"pos": 2, "text": "ортотун", "type": "lowercase", "fst": "ymv", "root": "орто+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "мууһун", "type": "lowercase", "fst": "ymv", "root": "муус+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 4, "text": "кытыыта", "type": "lowercase", "fst": "ymv", "root": "кытыы+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "күөл", "type": "lowercase", "fst": "voc", "root": "күөл+N"},
+      {"pos": 2, "text": "ортотун", "type": "lowercase", "fst": "voc", "root": "орто+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "мууһун", "type": "lowercase", "fst": "voc", "root": "муус+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "кытыыта", "type": "lowercase", "fst": "voc", "root": "кытыы+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -123,9 +123,9 @@
     "ru": "по самой середине озера",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "күөл", "type": "lowercase", "fst": "ymv", "root": "күөл+N"},
-      {"pos": 2, "text": "саамай", "type": "lowercase", "fst": "ymv", "root": "саамай+Adv"},
-      {"pos": 3, "text": "ортотунан", "type": "lowercase", "fst": "ymv", "root": "орто+N", "affixes": "+POSS.3SG.INST"}
+      {"pos": 1, "text": "күөл", "type": "lowercase", "fst": "voc", "root": "күөл+N"},
+      {"pos": 2, "text": "саамай", "type": "lowercase", "fst": "voc", "root": "саамай+Adv"},
+      {"pos": 3, "text": "ортотунан", "type": "lowercase", "fst": "voc", "root": "орто+N", "affixes": "+POSS.3SG.INST"}
     ]
   },
   {
@@ -139,10 +139,10 @@
     "ru": "на самой середине дома",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"},
-      {"pos": 2, "text": "хабайар", "type": "lowercase", "fst": "ymv", "root": "хабай+V", "affixes": "+PART_PRES"},
-      {"pos": 3, "text": "хаба", "type": "lowercase", "fst": "ymv", "root": "хап+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "ортотугар", "type": "lowercase", "fst": "ymv", "root": "орто+N", "affixes": "+POSS.3SG.DAT"}
+      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"},
+      {"pos": 2, "text": "хабайар", "type": "lowercase", "fst": "voc", "root": "хабай+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "хаба", "type": "lowercase", "fst": "voc", "root": "хап+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "ортотугар", "type": "lowercase", "fst": "voc", "root": "орто+N", "affixes": "+POSS.3SG.DAT"}
     ]
   },
   {
@@ -156,12 +156,12 @@
     "ru": "Гуси над самым домом пролетели.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Хаастар", "type": "title", "fst": "ymv", "root": "хаас+N", "affixes": "+PL"},
-      {"pos": 2, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"},
-      {"pos": 3, "text": "саамай", "type": "lowercase", "fst": "ymv", "root": "саамай+Adv"},
-      {"pos": 4, "text": "үрдүнэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"},
-      {"pos": 5, "text": "аастылар", "type": "lowercase", "fst": "ymv", "root": "аас+V", "affixes": "+PST.3PL"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хаастар", "type": "title", "fst": "voc", "root": "хаас+N", "affixes": "+PL"},
+      {"pos": 2, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"},
+      {"pos": 3, "text": "саамай", "type": "lowercase", "fst": "voc", "root": "саамай+Adv"},
+      {"pos": 4, "text": "үрдүнэн", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 5, "text": "аастылар", "type": "lowercase", "fst": "voc", "root": "аас+V", "affixes": "+PST.3PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -10,7 +10,7 @@
     "ru": "второй раз",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "иккиһин", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+ORD+ADVZ#9"}
+      {"pos": 1, "text": "иккиһин", "type": "lowercase", "fst": "voc", "root": "икки+Num", "affixes": "+ORD+ADVZ#9"}
     ]
   },
   {
@@ -24,7 +24,7 @@
     "ru": "третий раз",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "үсүһүн", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+ORD+ADVZ#9"}
+      {"pos": 1, "text": "үсүһүн", "type": "lowercase", "fst": "voc", "root": "үс+Num", "affixes": "+ORD+ADVZ#9"}
     ]
   },
   {
@@ -38,7 +38,7 @@
     "ru": "четвертый раз",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "төрдүһүн", "type": "lowercase", "fst": "ymv", "root": "түөрт+Num", "affixes": "+ORD+ADVZ#9"}
+      {"pos": 1, "text": "төрдүһүн", "type": "lowercase", "fst": "voc", "root": "түөрт+Num", "affixes": "+ORD+ADVZ#9"}
     ]
   },
   {
@@ -52,9 +52,9 @@
     "ru": "Они пришли вторично.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Иккиһин", "type": "title", "fst": "ymv", "root": "икки+Num", "affixes": "+ORD+ADVZ#9"},
-      {"pos": 2, "text": "кэллилэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.3PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Иккиһин", "type": "title", "fst": "voc", "root": "икки+Num", "affixes": "+ORD+ADVZ#9"},
+      {"pos": 2, "text": "кэллилэр", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PST.3PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -68,10 +68,10 @@
     "ru": "Второй раз заорал он во всю мощь.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Иккиһин", "type": "title", "fst": "ymv", "root": "икки+Num", "affixes": "+ORD+ADVZ#9"},
-      {"pos": 2, "text": "хаһыытаан", "type": "lowercase", "fst": "ymv", "root": "хаһыытаа+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "бытарытта", "type": "lowercase", "fst": "ymv", "root": "бытарый+V", "affixes": "+CSTV+PST.3SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Иккиһин", "type": "title", "fst": "voc", "root": "икки+Num", "affixes": "+ORD+ADVZ#9"},
+      {"pos": 2, "text": "хаһыытаан", "type": "lowercase", "fst": "voc", "root": "хаһыытаа+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "бытарытта", "type": "lowercase", "fst": "voc", "root": "бытарый+V", "affixes": "+CSTV+PST.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -85,10 +85,10 @@
     "ru": "Нам придется идти третий раз.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Үсүһүн", "type": "title", "fst": "ymv", "root": "үс+Num", "affixes": "+ORD+ADVZ#9"},
-      {"pos": 2, "text": "барар", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PRES"},
-      {"pos": 3, "text": "буоллубут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.1PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үсүһүн", "type": "title", "fst": "voc", "root": "үс+Num", "affixes": "+ORD+ADVZ#9"},
+      {"pos": 2, "text": "барар", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "буоллубут", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.1PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -102,7 +102,7 @@
     "ru": "совершать действие вторично",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "иккистээ", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+ORD+VRBLZ#1"}
+      {"pos": 1, "text": "иккистээ", "type": "lowercase", "fst": "voc", "root": "икки+Num", "affixes": "+ORD+VRBLZ#1"}
     ]
   },
   {
@@ -116,7 +116,7 @@
     "ru": "совершать действие третий раз",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "үһүстээ", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+ORD+VRBLZ#1"}
+      {"pos": 1, "text": "үһүстээ", "type": "lowercase", "fst": "voc", "root": "үс+Num", "affixes": "+ORD+VRBLZ#1"}
     ]
   },
   {
@@ -130,8 +130,8 @@
     "ru": "стрелять вторично",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "иккистээн", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+ORD+VRBLZ#1+CONV#1"},
-      {"pos": 2, "text": "ыт", "type": "lowercase", "fst": "ymv", "root": "ыт+V"}
+      {"pos": 1, "text": "иккистээн", "type": "lowercase", "fst": "voc", "root": "икки+Num", "affixes": "+ORD+VRBLZ#1+CONV#1"},
+      {"pos": 2, "text": "ыт", "type": "lowercase", "fst": "voc", "root": "ыт+V"}
     ]
   },
   {
@@ -145,8 +145,8 @@
     "ru": "сказать третий раз",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "үһүстээн", "type": "lowercase", "fst": "ymv", "root": "үс+Num", "affixes": "+ORD+VRBLZ#1+CONV#1"},
-      {"pos": 2, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+V"}
+      {"pos": 1, "text": "үһүстээн", "type": "lowercase", "fst": "voc", "root": "үс+Num", "affixes": "+ORD+VRBLZ#1+CONV#1"},
+      {"pos": 2, "text": "эт", "type": "lowercase", "fst": "voc", "root": "эт+V"}
     ]
   },
   {
@@ -160,7 +160,7 @@
     "ru": "первый",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "пиэрибэй", "type": "lowercase", "fst": "ymv", "root": "пиэрибэй+Adj"}
+      {"pos": 1, "text": "пиэрибэй", "type": "lowercase", "fst": "voc", "root": "пиэрибэй+Adj"}
     ]
   },
   {
@@ -174,7 +174,7 @@
     "ru": "второй",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "торуой", "type": "lowercase", "fst": "ymv", "root": "торуой+Adj"}
+      {"pos": 1, "text": "торуой", "type": "lowercase", "fst": "voc", "root": "торуой+Adj"}
     ]
   },
   {
@@ -188,7 +188,7 @@
     "ru": "третий",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "тириэтэй", "type": "lowercase", "fst": "ymv", "root": "тириэтэй+Adj"}
+      {"pos": 1, "text": "тириэтэй", "type": "lowercase", "fst": "voc", "root": "тириэтэй+Adj"}
     ]
   },
   {
@@ -202,11 +202,11 @@
     "ru": "одна сотая (сотка) спирта, водки",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 2, "text": "суотай", "type": "lowercase", "fst": "ymv", "root": "суотай+Num"},
-      {"pos": 3, "text": "испиир", "type": "lowercase", "fst": "ymv", "root": "испиир+N"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "арыгы", "type": "lowercase", "fst": "ymv", "root": "арыгы+N"}
+      {"pos": 1, "text": "биир", "type": "lowercase", "fst": "voc", "root": "биир+Num"},
+      {"pos": 2, "text": "суотай", "type": "lowercase", "fst": "voc", "root": "суотай+Num"},
+      {"pos": 3, "text": "испиир", "type": "lowercase", "fst": "voc", "root": "испиир+N"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "арыгы", "type": "lowercase", "fst": "voc", "root": "арыгы+N"}
     ]
   },
   {
@@ -220,11 +220,11 @@
     "ru": "Я скосил пятнадцать сотых га.",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "Уон", "type": "title", "fst": "ymv", "root": "уон+Num"},
-      {"pos": 2, "text": "биэс", "type": "lowercase", "fst": "ymv", "root": "биэс+Num"},
-      {"pos": 3, "text": "суотайы", "type": "lowercase", "fst": "ymv", "root": "суотай+Num", "affixes": "+ACC"},
-      {"pos": 4, "text": "оҕустум", "type": "lowercase", "fst": "ymv", "root": "оҕус+V", "affixes": "+PST.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уон", "type": "title", "fst": "voc", "root": "уон+Num"},
+      {"pos": 2, "text": "биэс", "type": "lowercase", "fst": "voc", "root": "биэс+Num"},
+      {"pos": 3, "text": "суотайы", "type": "lowercase", "fst": "voc", "root": "суотай+Num", "affixes": "+ACC"},
+      {"pos": 4, "text": "оҕустум", "type": "lowercase", "fst": "voc", "root": "оҕус+V", "affixes": "+PST.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

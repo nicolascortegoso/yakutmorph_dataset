@@ -10,12 +10,12 @@
     "ru": "Она несколько дней сидела без работы.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Хас", "type": "title", "fst": "ymv", "root": "хас+Pron"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"},
-      {"pos": 4, "text": "үлэлээбэккэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+PART_PRES+DAT"},
-      {"pos": 5, "text": "олордо", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PST.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хас", "type": "title", "fst": "voc", "root": "хас+Pron"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 4, "text": "үлэлээбэккэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+PART_PRES+DAT"},
+      {"pos": 5, "text": "олордо", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PST.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,11 +29,11 @@
     "ru": "Дали ему несколько пузырей.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Хас", "type": "title", "fst": "ymv", "root": "хас+Pron"},
-      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"},
-      {"pos": 3, "text": "хабаҕы", "type": "lowercase", "fst": "ymv", "root": "хабах+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "биэрдилэр", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PST.3PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хас", "type": "title", "fst": "voc", "root": "хас+Pron"},
+      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"},
+      {"pos": 3, "text": "хабаҕы", "type": "lowercase", "fst": "voc", "root": "хабах+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "биэрдилэр", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+PST.3PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,13 +47,13 @@
     "ru": "Несколько раз он приносил им уток.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Хаста", "type": "title", "fst": "ymv", "root": "хас+Pron", "affixes": "+ADVZ#8"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "кинилэргэ", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL+DAT"},
-      {"pos": 4, "text": "кус", "type": "lowercase", "fst": "ymv", "root": "кус+N"},
-      {"pos": 5, "text": "аҕалан", "type": "lowercase", "fst": "ymv", "root": "аҕал+V", "affixes": "+CONV#1"},
-      {"pos": 6, "text": "биэрбитэ", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хаста", "type": "title", "fst": "voc", "root": "хас+Pron", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "кинилэргэ", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+PL+DAT"},
+      {"pos": 4, "text": "кус", "type": "lowercase", "fst": "voc", "root": "кус+N"},
+      {"pos": 5, "text": "аҕалан", "type": "lowercase", "fst": "voc", "root": "аҕал+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "биэрбитэ", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -67,11 +67,11 @@
     "ru": "Они поделили по нескольку зайцев.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Хастыы", "type": "title", "fst": "ymv", "root": "хас+Pron", "affixes": "+DISTR"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "куобаҕы", "type": "lowercase", "fst": "ymv", "root": "куобах+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "үллэһиннилэр", "type": "lowercase", "fst": "ymv", "root": "үллэс+V", "affixes": "+REFL+PST.3PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хастыы", "type": "title", "fst": "voc", "root": "хас+Pron", "affixes": "+DISTR"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "куобаҕы", "type": "lowercase", "fst": "voc", "root": "куобах+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "үллэһиннилэр", "type": "lowercase", "fst": "voc", "root": "үллэс+V", "affixes": "+REFL+PST.3PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -85,11 +85,11 @@
     "ru": "А я еще и не слышал.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Сорох", "type": "title", "fst": "ymv", "root": "сорох+Pron"},
-      {"pos": 2, "text": "истэ", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 4, "text": "илик", "type": "lowercase", "fst": "ymv", "root": "илик+Part"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сорох", "type": "title", "fst": "voc", "root": "сорох+Pron"},
+      {"pos": 2, "text": "истэ", "type": "lowercase", "fst": "voc", "root": "иһит+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 4, "text": "илик", "type": "lowercase", "fst": "voc", "root": "илик+Part"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

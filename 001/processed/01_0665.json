@@ -10,11 +10,11 @@
     "ru": "Москву мы еще не видели.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Москваны", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+ACC"},
-      {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 3, "text": "көрө", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "иликпит", "type": "lowercase", "fst": "ymv", "root": "илик+Part", "affixes": "+1PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Москваны", "type": "title", "fst": "aff", "root": "москва+PN", "affixes": "+ACC"},
+      {"pos": 2, "text": "биһиги", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 3, "text": "көрө", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "иликпит", "type": "lowercase", "fst": "voc", "root": "илик+Part", "affixes": "+1PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,13 +28,13 @@
     "ru": "Ты у меня ни разу не был.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
-      {"pos": 3, "text": "биирдэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+ADVZ#8"},
-      {"pos": 4, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 5, "text": "сылдьа", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+CONV#2"},
-      {"pos": 6, "text": "иликкин", "type": "lowercase", "fst": "ymv", "root": "илик+Part", "affixes": "+2SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эн", "type": "title", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "voc", "root": "мин+Pron", "affixes": "+DAT"},
+      {"pos": 3, "text": "биирдэ", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+ADVZ#8"},
+      {"pos": 4, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 5, "text": "сылдьа", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "иликкин", "type": "lowercase", "fst": "voc", "root": "илик+Part", "affixes": "+2SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -48,11 +48,11 @@
     "ru": "Дети из школы еще не пришли.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Оҕолор", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL"},
-      {"pos": 2, "text": "оскуолаларыттан", "type": "lowercase", "fst": "ymv", "root": "оскуола+N", "affixes": "+POSS.3PL.ABL"},
-      {"pos": 3, "text": "кэлэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "иликтэр", "type": "lowercase", "fst": "ymv", "root": "илик+Part", "affixes": "+PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оҕолор", "type": "title", "fst": "voc", "root": "оҕо+N", "affixes": "+PL"},
+      {"pos": 2, "text": "оскуолаларыттан", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+POSS.3PL.ABL"},
+      {"pos": 3, "text": "кэлэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "иликтэр", "type": "lowercase", "fst": "voc", "root": "илик+Part", "affixes": "+PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -66,13 +66,13 @@
     "ru": "К моему приходу ты, было, еще не встал.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "кэлэрбэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES+POSS.1SG.DAT"},
-      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 4, "text": "тура", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "илик", "type": "lowercase", "fst": "ymv", "root": "илик+Part"},
-      {"pos": 6, "text": "этиҥ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.2SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "кэлэрбэр", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PRES+POSS.1SG.DAT"},
+      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 4, "text": "тура", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "илик", "type": "lowercase", "fst": "voc", "root": "илик+Part"},
+      {"pos": 6, "text": "этиҥ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.2SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -86,13 +86,13 @@
     "ru": "В прошлом году я еще не поступал на работу.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Былырыын", "type": "title", "fst": "ymv", "root": "былырыын+Adv"},
-      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 3, "text": "үлэтэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+POSS.3SG"},
-      {"pos": 4, "text": "киирэ", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "илик", "type": "lowercase", "fst": "ymv", "root": "илик+Part"},
-      {"pos": 6, "text": "этим", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.1SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Былырыын", "type": "title", "fst": "voc", "root": "былырыын+Adv"},
+      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 3, "text": "үлэтэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.3SG"},
+      {"pos": 4, "text": "киирэ", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "илик", "type": "lowercase", "fst": "voc", "root": "илик+Part"},
+      {"pos": 6, "text": "этим", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.1SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

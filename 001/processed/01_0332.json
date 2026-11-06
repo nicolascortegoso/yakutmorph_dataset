@@ -10,10 +10,10 @@
     "ru": "Это какой товарищ?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 2, "text": "ханнык", "type": "lowercase", "fst": "ymv", "root": "ханнык+Pron"},
-      {"pos": 3, "text": "табаарыһый", "type": "lowercase", "fst": "ymv", "root": "табаарыс+N", "affixes": "+INT"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "ханнык", "type": "lowercase", "fst": "voc", "root": "ханнык+Pron"},
+      {"pos": 3, "text": "табаарыһый", "type": "lowercase", "fst": "voc", "root": "табаарыс+N", "affixes": "+INT"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -27,11 +27,11 @@
     "ru": "Ты по какому методу обучаешь?",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "ханнык", "type": "lowercase", "fst": "ymv", "root": "ханнык+Pron"},
-      {"pos": 3, "text": "методынан", "type": "lowercase", "fst": "yma", "root": "метод+N", "affixes": "+INST"},
-      {"pos": 4, "text": "үөрэтэҕин", "type": "lowercase", "fst": "ymv", "root": "үөрэт+V", "affixes": "+PART_PRES+2SG"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Эн", "type": "title", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "ханнык", "type": "lowercase", "fst": "voc", "root": "ханнык+Pron"},
+      {"pos": 3, "text": "методынан", "type": "lowercase", "fst": "aff", "root": "метод+N", "affixes": "+INST"},
+      {"pos": 4, "text": "үөрэтэҕин", "type": "lowercase", "fst": "voc", "root": "үөрэт+V", "affixes": "+PART_PRES+2SG"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -45,11 +45,11 @@
     "ru": "Мама, куда ты пошла?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Ийээ", "type": "title", "fst": "ymv", "root": "ийээ+INJ"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "ханна", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron"},
-      {"pos": 4, "text": "бардыҥ", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.2SG"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Ийээ", "type": "title", "fst": "voc", "root": "ийээ+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "ханна", "type": "lowercase", "fst": "voc", "root": "ханна+Pron"},
+      {"pos": 4, "text": "бардыҥ", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.2SG"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -63,9 +63,9 @@
     "ru": "Где находится Афанас?",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Охоноос", "type": "title", "fst": "yma", "root": "охоноос+PN"},
-      {"pos": 2, "text": "ханнаный", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron", "affixes": "+INT"},
-      {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Охоноос", "type": "title", "fst": "aff", "root": "охоноос+PN"},
+      {"pos": 2, "text": "ханнаный", "type": "lowercase", "fst": "voc", "root": "ханна+Pron", "affixes": "+INT"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -79,11 +79,11 @@
     "ru": "Люди, пришедшие неизвестно откуда.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Хантан", "type": "title", "fst": "ymv", "root": "ханна+Pron", "affixes": "+ABL"},
-      {"pos": 2, "text": "кэлбиттэрэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
-      {"pos": 3, "text": "биллибэт", "type": "lowercase", "fst": "ymv", "root": "билин+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 4, "text": "дьон", "type": "lowercase", "fst": "ymv", "root": "дьон+N"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хантан", "type": "title", "fst": "voc", "root": "ханна+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "кэлбиттэрэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 3, "text": "биллибэт", "type": "lowercase", "fst": "voc", "root": "билин+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 4, "text": "дьон", "type": "lowercase", "fst": "voc", "root": "дьон+N"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -97,9 +97,9 @@
     "ru": "По какому месту они приехали?",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Ханан", "type": "title", "fst": "ymv", "root": "ханна+Pron", "affixes": "+INST"},
-      {"pos": 2, "text": "кэлбиттэрий", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+PL+INT"},
-      {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Ханан", "type": "title", "fst": "voc", "root": "ханна+Pron", "affixes": "+INST"},
+      {"pos": 2, "text": "кэлбиттэрий", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST+PL+INT"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -113,11 +113,11 @@
     "ru": "Да, ну, куда ж это ты направился?",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Нуо", "type": "title", "fst": "ymv", "root": "нуо+INJ"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 4, "text": "ханналаатыҥ", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron", "affixes": "+VRBLZ#1+PST.2SG"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Нуо", "type": "title", "fst": "voc", "root": "нуо+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "ол", "type": "lowercase", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 4, "text": "ханналаатыҥ", "type": "lowercase", "fst": "voc", "root": "ханна+Pron", "affixes": "+VRBLZ#1+PST.2SG"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   }
 ]

@@ -10,14 +10,14 @@
     "ru": "Если бы закончил учебу, поехал бы на родину работать.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Үөрэхпин", "type": "title", "fst": "ymv", "root": "үөрэх+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 2, "text": "бүтэрдэрбин", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CSTV+CONV_COND#1+1SG"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "дойдубар", "type": "lowercase", "fst": "ymv", "root": "дойду+N", "affixes": "+POSS.1SG.DAT"},
-      {"pos": 5, "text": "үлэлии", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#2"},
-      {"pos": 6, "text": "тахсыам", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PART_FUT+POSS.1SG"},
-      {"pos": 7, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үөрэхпин", "type": "title", "fst": "voc", "root": "үөрэх+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 2, "text": "бүтэрдэрбин", "type": "lowercase", "fst": "voc", "root": "бүт+V", "affixes": "+CSTV+CONV_COND#1+1SG"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "дойдубар", "type": "lowercase", "fst": "voc", "root": "дойду+N", "affixes": "+POSS.1SG.DAT"},
+      {"pos": 5, "text": "үлэлии", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+CONV#2"},
+      {"pos": 6, "text": "тахсыам", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+PART_FUT+POSS.1SG"},
+      {"pos": 7, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -31,13 +31,13 @@
     "ru": "Если бы пришла Галя, мы бы пошли в кино.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Галя", "type": "title", "fst": "yma", "root": "галя+PN"},
-      {"pos": 2, "text": "кэллэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV_COND#1"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "киинэҕэ", "type": "lowercase", "fst": "ymv", "root": "киинэ+N", "affixes": "+DAT"},
-      {"pos": 5, "text": "барыах", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT"},
-      {"pos": 6, "text": "этибит", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.1PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Галя", "type": "title", "fst": "aff", "root": "галя+PN"},
+      {"pos": 2, "text": "кэллэр", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV_COND#1"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "киинэҕэ", "type": "lowercase", "fst": "voc", "root": "киинэ+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "барыах", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT"},
+      {"pos": 6, "text": "этибит", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.1PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -51,11 +51,11 @@
     "ru": "Если вознаградим деньгами, авось, он пойдет?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Харчы", "type": "title", "fst": "ymv", "root": "харчы+N"},
-      {"pos": 2, "text": "манньалаатарбыт", "type": "lowercase", "fst": "ymv", "root": "манньа+N", "affixes": "+VRBLZ#1+CONV_COND#1+1PL"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "бараарай", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+POT"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Харчы", "type": "title", "fst": "voc", "root": "харчы+N"},
+      {"pos": 2, "text": "манньалаатарбыт", "type": "lowercase", "fst": "voc", "root": "манньа+N", "affixes": "+VRBLZ#1+CONV_COND#1+1PL"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "бараарай", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+POT"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   }
 ]

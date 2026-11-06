@@ -10,10 +10,10 @@
     "ru": "Сеня убирает снег.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Сеня", "type": "title", "fst": "yma", "root": "сеня+N"},
-      {"pos": 2, "text": "хаар", "type": "lowercase", "fst": "ymv", "root": "хаар+N"},
-      {"pos": 3, "text": "күрдьэр", "type": "lowercase", "fst": "ymv", "root": "күрт+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сеня", "type": "title", "fst": "aff", "root": "сеня+N"},
+      {"pos": 2, "text": "хаар", "type": "lowercase", "fst": "voc", "root": "хаар+N"},
+      {"pos": 3, "text": "күрдьэр", "type": "lowercase", "fst": "voc", "root": "күрт+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -27,11 +27,11 @@
     "ru": "ҥҕөһү Сеня помог брату убрать снег.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Сеня", "type": "title", "fst": "yma", "root": "сеня+N"},
-      {"pos": 2, "text": "убайыгар", "type": "lowercase", "fst": "ymv", "root": "убай+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "хаар", "type": "lowercase", "fst": "ymv", "root": "хаар+N"},
-      {"pos": 4, "text": "күрдьүстэ", "type": "lowercase", "fst": "ymv", "root": "күрт+V", "affixes": "+RECP+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сеня", "type": "title", "fst": "aff", "root": "сеня+N"},
+      {"pos": 2, "text": "убайыгар", "type": "lowercase", "fst": "voc", "root": "убай+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "хаар", "type": "lowercase", "fst": "voc", "root": "хаар+N"},
+      {"pos": 4, "text": "күрдьүстэ", "type": "lowercase", "fst": "voc", "root": "күрт+V", "affixes": "+RECP+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -45,13 +45,13 @@
     "ru": "С хорошим певцом и злой дух состязается в пении.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Үтүө", "type": "title", "fst": "fst", "root": "үтүө+Adj"},
-      {"pos": 2, "text": "ырыаһыты", "type": "lowercase", "fst": "fst", "root": "ырыа+N", "affixes": "+NMLZ#1+ACC"},
-      {"pos": 3, "text": "кытары", "type": "lowercase", "fst": "fst", "root": "кытар+V", "affixes": "+ADVZ#1"},
-      {"pos": 4, "text": "абааһы", "type": "lowercase", "fst": "fst", "root": "абааһы+N"},
-      {"pos": 5, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын+V", "affixes": "+CONV#2"},
-      {"pos": 6, "text": "ыллаһар", "type": "lowercase", "fst": "fst", "root": "ыллаа+V", "affixes": "+RECP+PART_PRES"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Үтүө", "type": "title", "fst": "voc", "root": "үтүө+Adj"},
+      {"pos": 2, "text": "ырыаһыты", "type": "lowercase", "fst": "voc", "root": "ырыа+N", "affixes": "+NMLZ#1+ACC"},
+      {"pos": 3, "text": "кытары", "type": "lowercase", "fst": "voc", "root": "кытар+V", "affixes": "+ADVZ#1"},
+      {"pos": 4, "text": "абааһы", "type": "lowercase", "fst": "voc", "root": "абааһы+N"},
+      {"pos": 5, "text": "кытта", "type": "lowercase", "fst": "voc", "root": "кытын+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "ыллаһар", "type": "lowercase", "fst": "voc", "root": "ыллаа+V", "affixes": "+RECP+PART_PRES"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -65,9 +65,9 @@
     "ru": "",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Абааһы", "type": "title", "fst": "fst", "root": "абааһы+N"},
-      {"pos": 2, "text": "ыллыыр", "type": "lowercase", "fst": "fst", "root": "ыллаа+V", "affixes": "+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Абааһы", "type": "title", "fst": "voc", "root": "абааһы+N"},
+      {"pos": 2, "text": "ыллыыр", "type": "lowercase", "fst": "voc", "root": "ыллаа+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -81,10 +81,10 @@
     "ru": "Микита увидел Алексея.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ+PN"},
-      {"pos": 2, "text": "Өлөксөйү", "type": "title", "fst": "ymv", "root": "өлөксөй+PN", "affixes": "+ACC"},
-      {"pos": 3, "text": "көрдө", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PST.3SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "voc", "root": "микиитэ+PN"},
+      {"pos": 2, "text": "Өлөксөйү", "type": "title", "fst": "voc", "root": "өлөксөй+PN", "affixes": "+ACC"},
+      {"pos": 3, "text": "көрдө", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -98,13 +98,13 @@
     "ru": "Микита с Алексеем так встретились впервые.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "ymv", "root": "микиитэ+PN"},
-      {"pos": 2, "text": "Өлөксөйдүүн", "type": "title", "fst": "ymv", "root": "өлөксөй+PN", "affixes": "+COMIT"},
-      {"pos": 3, "text": "маҥнай", "type": "lowercase", "fst": "ymv", "root": "маҥнай+Adv"},
-      {"pos": 4, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
-      {"pos": 5, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
-      {"pos": 6, "text": "көрүстүлэр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+PST.3PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Микиитэ", "type": "title", "fst": "voc", "root": "микиитэ+PN"},
+      {"pos": 2, "text": "Өлөксөйдүүн", "type": "title", "fst": "voc", "root": "өлөксөй+PN", "affixes": "+COMIT"},
+      {"pos": 3, "text": "маҥнай", "type": "lowercase", "fst": "voc", "root": "маҥнай+Adv"},
+      {"pos": 4, "text": "ити", "type": "lowercase", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 5, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
+      {"pos": 6, "text": "көрүстүлэр", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+RECP+PST.3PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

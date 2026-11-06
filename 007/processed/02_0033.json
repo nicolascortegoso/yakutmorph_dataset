@@ -10,13 +10,13 @@
     "ru": "А впрочем, дашь мне пятьсот рублей.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "fst", "root": "өстүбэһи+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "биэс", "type": "lowercase", "fst": "fst", "root": "биэс+Num"},
-      {"pos": 4, "text": "мөһөөхтө", "type": "lowercase", "fst": "fst", "root": "мөһөөх+N", "affixes": "+PRTV"},
-      {"pos": 5, "text": "биэрээр", "type": "lowercase", "fst": "fst", "root": "биэр+V", "affixes": "+IMP#2.2SG"},
-      {"pos": 6, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ+Part"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "voc", "root": "өстүбэһи+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "биэс", "type": "lowercase", "fst": "voc", "root": "биэс+Num"},
+      {"pos": 4, "text": "мөһөөхтө", "type": "lowercase", "fst": "voc", "root": "мөһөөх+N", "affixes": "+PRTV"},
+      {"pos": 5, "text": "биэрээр", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+IMP#2.2SG"},
+      {"pos": 6, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,16 +30,16 @@
     "ru": "Да, Кытарбытову охотник Платон привез двух живых белок.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "ymv", "root": "өстүбэһи+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Кытарбыытапка", "type": "title", "fst": "yma", "root": "кытарбыытап+PN", "affixes": "+DAT"},
-      {"pos": 4, "text": "булчут", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+NMLZ#1"},
-      {"pos": 5, "text": "Былатыан", "type": "title", "fst": "ymv", "root": "былатыан+PN"},
-      {"pos": 6, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
-      {"pos": 7, "text": "тыыннаах", "type": "lowercase", "fst": "ymv", "root": "тыын+N", "affixes": "+ADJZ#1"},
-      {"pos": 8, "text": "тиини", "type": "lowercase", "fst": "yma", "root": "тиини+N"},
-      {"pos": 9, "text": "киллэрдэ", "type": "lowercase", "fst": "ymv", "root": "киллэр+V", "affixes": "+PST.3SG"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "voc", "root": "өстүбэһи+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "Кытарбыытапка", "type": "title", "fst": "aff", "root": "кытарбыытап+PN", "affixes": "+DAT"},
+      {"pos": 4, "text": "булчут", "type": "lowercase", "fst": "voc", "root": "булт+N", "affixes": "+NMLZ#1"},
+      {"pos": 5, "text": "Былатыан", "type": "title", "fst": "voc", "root": "былатыан+PN"},
+      {"pos": 6, "text": "икки", "type": "lowercase", "fst": "voc", "root": "икки+Num"},
+      {"pos": 7, "text": "тыыннаах", "type": "lowercase", "fst": "voc", "root": "тыын+N", "affixes": "+ADJZ#1"},
+      {"pos": 8, "text": "тиини", "type": "lowercase", "fst": "aff", "root": "тиини+N"},
+      {"pos": 9, "text": "киллэрдэ", "type": "lowercase", "fst": "voc", "root": "киллэр+V", "affixes": "+PST.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -53,14 +53,14 @@
     "ru": "Да кстати, высланные тобою часы хорошо идут.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "fst", "root": "өстүбэһи+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн+Pron"},
-      {"pos": 4, "text": "ыыппыт", "type": "lowercase", "fst": "fst", "root": "ыыт+V", "affixes": "+PART_PAST"},
-      {"pos": 5, "text": "чаһыҥ", "type": "lowercase", "fst": "fst", "root": "чаһы+N", "affixes": "+POSS.2SG"},
-      {"pos": 6, "text": "үчүгэйдик", "type": "lowercase", "fst": "fst", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 7, "text": "барар", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PART_PRES"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "voc", "root": "өстүбэһи+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 4, "text": "ыыппыт", "type": "lowercase", "fst": "voc", "root": "ыыт+V", "affixes": "+PART_PAST"},
+      {"pos": 5, "text": "чаһыҥ", "type": "lowercase", "fst": "voc", "root": "чаһы+N", "affixes": "+POSS.2SG"},
+      {"pos": 6, "text": "үчүгэйдик", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 7, "text": "барар", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -74,15 +74,15 @@
     "ru": "Да, правда, тогда его здесь было.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "fst", "root": "өстүбэһи+MOD"},
-      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "fst", "root": "даҕаны+Part"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини+Pron"},
-      {"pos": 5, "text": "оччоҕо", "type": "lowercase", "fst": "fst", "root": "ол+Pron", "affixes": "+DEF#2+DAT"},
-      {"pos": 6, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 7, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох+N"},
-      {"pos": 8, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "voc", "root": "өстүбэһи+MOD"},
+      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 5, "text": "оччоҕо", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+DEF#2+DAT"},
+      {"pos": 6, "text": "манна", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 7, "text": "суох", "type": "lowercase", "fst": "voc", "root": "суох+N"},
+      {"pos": 8, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -96,8 +96,8 @@
     "ru": "Да...",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "fst", "root": "өстүбэһи+MOD"},
-      {"pos": 2, "text": "...", "type": "ellipsis", "fst": "fst"}
+      {"pos": 1, "text": "Өстүбэһи", "type": "title", "fst": "voc", "root": "өстүбэһи+MOD"},
+      {"pos": 2, "text": "...", "type": "ellipsis", "fst": "voc"}
     ]
   },
   {
@@ -111,11 +111,11 @@
     "ru": "Оказывается, я тоже имею новости.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "fst", "root": "эмиэ+Adv"},
-      {"pos": 3, "text": "сонуннаах", "type": "lowercase", "fst": "fst", "root": "сонун+N", "affixes": "+ADJZ#1"},
-      {"pos": 4, "text": "эбиппин", "type": "lowercase", "fst": "fst", "root": "эбит+Part", "affixes": "+1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"},
+      {"pos": 3, "text": "сонуннаах", "type": "lowercase", "fst": "voc", "root": "сонун+N", "affixes": "+ADJZ#1"},
+      {"pos": 4, "text": "эбиппин", "type": "lowercase", "fst": "voc", "root": "эбит+Part", "affixes": "+1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

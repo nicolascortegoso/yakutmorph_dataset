@@ -10,11 +10,11 @@
     "ru": "Хорошо болезнь (или больгого) заранее показывать доктору",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "ыалдьары", "type": "lowercase", "fst": "ymv", "root": "ыарыы+N", "affixes": "+VRBLZ#2+PART_PRES+ACC"},
-      {"pos": 2, "text": "эрдэтинэ", "type": "lowercase", "fst": "ymv", "root": "эрдэ+N", "affixes": "+POSS.3SG.PRTV"},
-      {"pos": 3, "text": "доктарга", "type": "lowercase", "fst": "yma", "root": "доктар+N", "affixes": "+DAT"},
-      {"pos": 4, "text": "көрдөрөр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CAUS+PART_PRES"},
-      {"pos": 5, "text": "үчүгэй", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj"}
+      {"pos": 1, "text": "ыалдьары", "type": "lowercase", "fst": "voc", "root": "ыарыы+N", "affixes": "+VRBLZ#2+PART_PRES+ACC"},
+      {"pos": 2, "text": "эрдэтинэ", "type": "lowercase", "fst": "voc", "root": "эрдэ+N", "affixes": "+POSS.3SG.PRTV"},
+      {"pos": 3, "text": "доктарга", "type": "lowercase", "fst": "aff", "root": "доктар+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "көрдөрөр", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CAUS+PART_PRES"},
+      {"pos": 5, "text": "үчүгэй", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj"}
     ]
   },
   {
@@ -28,11 +28,11 @@
     "ru": "телёнок обычно пропадает от неправильности ухода",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "торбуйах", "type": "lowercase", "fst": "ymv", "root": "торбуйах+N"},
-      {"pos": 2, "text": "үксүн", "type": "lowercase", "fst": "ymv", "root": "үксүн+Adv"},
-      {"pos": 3, "text": "көрүүтэ", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+NMLZ#2+POSS.3SG"},
-      {"pos": 4, "text": "табыллыбатаҕыттан", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+NEG+PART_PAST+POSS.3SG.ABL"},
-      {"pos": 5, "text": "өлөр", "type": "lowercase", "fst": "ymv", "root": "өл+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "торбуйах", "type": "lowercase", "fst": "voc", "root": "торбуйах+N"},
+      {"pos": 2, "text": "үксүн", "type": "lowercase", "fst": "voc", "root": "үксүн+Adv"},
+      {"pos": 3, "text": "көрүүтэ", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+NMLZ#2+POSS.3SG"},
+      {"pos": 4, "text": "табыллыбатаҕыттан", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+NEG+PART_PAST+POSS.3SG.ABL"},
+      {"pos": 5, "text": "өлөр", "type": "lowercase", "fst": "voc", "root": "өл+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -46,14 +46,14 @@
     "ru": "старший брат мой со времени окончания курсов трактористов постоянно работает на тракторе",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "ymv", "root": "убай+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "трактористар", "type": "lowercase", "fst": "ymv", "root": "тракторист+N", "affixes": "+PL"},
-      {"pos": 3, "text": "курстарын", "type": "lowercase", "fst": "ymv", "root": "курс+N", "affixes": "+PL+POSS.3SG.ACC"},
-      {"pos": 4, "text": "бүтэриэҕиттэн", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CSTV+PART_FUT+POSS.3SG.ABL"},
-      {"pos": 5, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+CONV#2"},
-      {"pos": 6, "text": "мэлдьи", "type": "lowercase", "fst": "ymv", "root": "мэлдьи+Adv"},
-      {"pos": 7, "text": "трактарга", "type": "lowercase", "fst": "ymv", "root": "трактар+N", "affixes": "+DAT"},
-      {"pos": 8, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"}
+      {"pos": 1, "text": "убайым", "type": "lowercase", "fst": "voc", "root": "убай+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "трактористар", "type": "lowercase", "fst": "voc", "root": "тракторист+N", "affixes": "+PL"},
+      {"pos": 3, "text": "курстарын", "type": "lowercase", "fst": "voc", "root": "курс+N", "affixes": "+PL+POSS.3SG.ACC"},
+      {"pos": 4, "text": "бүтэриэҕиттэн", "type": "lowercase", "fst": "voc", "root": "бүт+V", "affixes": "+CSTV+PART_FUT+POSS.3SG.ABL"},
+      {"pos": 5, "text": "ыла", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "мэлдьи", "type": "lowercase", "fst": "voc", "root": "мэлдьи+Adv"},
+      {"pos": 7, "text": "трактарга", "type": "lowercase", "fst": "voc", "root": "трактар+N", "affixes": "+DAT"},
+      {"pos": 8, "text": "үлэлиир", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"}
     ]
   },
   {
@@ -67,11 +67,11 @@
     "ru": "мы стали на английском языке понимать друг друга",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "английскай", "type": "lowercase", "fst": "ymv", "root": "английскай+Adj"},
-      {"pos": 3, "text": "тылынан", "type": "lowercase", "fst": "ymv", "root": "тыл+N", "affixes": "+INST"},
-      {"pos": 4, "text": "өйдөһөр", "type": "lowercase", "fst": "ymv", "root": "өй+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
-      {"pos": 5, "text": "буоллубут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.1PL"}
+      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "английскай", "type": "lowercase", "fst": "voc", "root": "английскай+Adj"},
+      {"pos": 3, "text": "тылынан", "type": "lowercase", "fst": "voc", "root": "тыл+N", "affixes": "+INST"},
+      {"pos": 4, "text": "өйдөһөр", "type": "lowercase", "fst": "voc", "root": "өй+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
+      {"pos": 5, "text": "буоллубут", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.1PL"}
     ]
   }
 ]

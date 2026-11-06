@@ -10,8 +10,8 @@
     "ru": "можно найти",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "булуохха", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+PART_FUT+DAT"},
-      {"pos": 2, "text": "сөп", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj"}
+      {"pos": 1, "text": "булуохха", "type": "lowercase", "fst": "voc", "root": "бул+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 2, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "можно согласиться",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "сөбүлэһиэххэ", "type": "lowercase", "fst": "ymv", "root": "сөбүлээ+V", "affixes": "+RECP+PART_FUT+DAT"},
-      {"pos": 2, "text": "син", "type": "lowercase", "fst": "ymv", "root": "син+Adv"}
+      {"pos": 1, "text": "сөбүлэһиэххэ", "type": "lowercase", "fst": "voc", "root": "сөбүлээ+V", "affixes": "+RECP+PART_FUT+DAT"},
+      {"pos": 2, "text": "син", "type": "lowercase", "fst": "voc", "root": "син+Adv"}
     ]
   },
   {
@@ -40,9 +40,9 @@
     "ru": "Вероятно, он придет.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кэлэр", "type": "title", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PRES"},
-      {"pos": 2, "text": "ини", "type": "lowercase", "fst": "ymv", "root": "ини+Part"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кэлэр", "type": "title", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PRES"},
+      {"pos": 2, "text": "ини", "type": "lowercase", "fst": "voc", "root": "ини+Part"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -56,12 +56,12 @@
     "ru": "Дети уж останутся шибко маленькими.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Оҕолорум", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL+POSS.1SG"},
-      {"pos": 2, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adv"},
-      {"pos": 3, "text": "кыра", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj"},
-      {"pos": 4, "text": "хаалыахтара", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
-      {"pos": 5, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оҕолорум", "type": "title", "fst": "voc", "root": "оҕо+N", "affixes": "+PL+POSS.1SG"},
+      {"pos": 2, "text": "олус", "type": "lowercase", "fst": "voc", "root": "олус+Adv"},
+      {"pos": 3, "text": "кыра", "type": "lowercase", "fst": "voc", "root": "кыра+Adj"},
+      {"pos": 4, "text": "хаалыахтара", "type": "lowercase", "fst": "voc", "root": "хаал+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
+      {"pos": 5, "text": "буоллаҕа", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

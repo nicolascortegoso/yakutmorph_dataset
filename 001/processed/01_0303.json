@@ -10,8 +10,8 @@
     "ru": "по скольку?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "хастыы", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+DISTR"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "хастыы", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+DISTR"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -25,7 +25,7 @@
     "ru": "по шести",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "алталыы", "type": "lowercase", "fst": "ymv", "root": "алта+Num", "affixes": "+DISTR"}
+      {"pos": 1, "text": "алталыы", "type": "lowercase", "fst": "voc", "root": "алта+Num", "affixes": "+DISTR"}
     ]
   },
   {
@@ -39,7 +39,7 @@
     "ru": "по восьми",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "аҕыстыы", "type": "lowercase", "fst": "ymv", "root": "аҕыс+Num", "affixes": "+DISTR"}
+      {"pos": 1, "text": "аҕыстыы", "type": "lowercase", "fst": "voc", "root": "аҕыс+Num", "affixes": "+DISTR"}
     ]
   },
   {
@@ -53,7 +53,7 @@
     "ru": "по одному",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "биирдии", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+DISTR"}
+      {"pos": 1, "text": "биирдии", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+DISTR"}
     ]
   },
   {
@@ -67,7 +67,7 @@
     "ru": "приблизительно по десяти",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "уончалыы", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1+DISTR"}
+      {"pos": 1, "text": "уончалыы", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1+DISTR"}
     ]
   },
   {
@@ -81,7 +81,7 @@
     "ru": "приблизительно по сто",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "сүүсчэлии", "type": "lowercase", "fst": "ymv", "root": "сүүс+Num", "affixes": "+APPR#1+DISTR"}
+      {"pos": 1, "text": "сүүсчэлии", "type": "lowercase", "fst": "voc", "root": "сүүс+Num", "affixes": "+APPR#1+DISTR"}
     ]
   },
   {
@@ -95,9 +95,9 @@
     "ru": "приблизительно по1-2",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "биирдии", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+DISTR"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "иккилии", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+DISTR"}
+      {"pos": 1, "text": "биирдии", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+DISTR"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "иккилии", "type": "lowercase", "fst": "voc", "root": "икки+Num", "affixes": "+DISTR"}
     ]
   },
   {
@@ -111,8 +111,8 @@
     "ru": "приблизительно по пяти-шести",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "биэстии", "type": "lowercase", "fst": "ymv", "root": "биэс+Num", "affixes": "+DISTR"},
-      {"pos": 2, "text": "хастыы", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+DISTR"}
+      {"pos": 1, "text": "биэстии", "type": "lowercase", "fst": "voc", "root": "биэс+Num", "affixes": "+DISTR"},
+      {"pos": 2, "text": "хастыы", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+DISTR"}
     ]
   }
 ]

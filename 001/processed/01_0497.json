@@ -10,10 +10,10 @@
     "ru": "Ты вымой свои руки.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "илиигин", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 3, "text": "суун", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эн", "type": "title", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "илиигин", "type": "lowercase", "fst": "voc", "root": "илии+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 3, "text": "суун", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+REFL/PASS"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -27,10 +27,10 @@
     "ru": "Я буду сушить свою одежду.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "таҥаспын", "type": "lowercase", "fst": "ymv", "root": "таҥас+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 3, "text": "куурдунуом", "type": "lowercase", "fst": "ymv", "root": "куур+V", "affixes": "+CSTV+REFL+PART_FUT+POSS.1SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "таҥаспын", "type": "lowercase", "fst": "voc", "root": "таҥас+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 3, "text": "куурдунуом", "type": "lowercase", "fst": "voc", "root": "куур+V", "affixes": "+CSTV+REFL+PART_FUT+POSS.1SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -44,10 +44,10 @@
     "ru": "Они возят себе сено.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "от", "type": "lowercase", "fst": "ymv", "root": "от+N"},
-      {"pos": 3, "text": "тиэнэллэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES+PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "от", "type": "lowercase", "fst": "voc", "root": "от+N"},
+      {"pos": 3, "text": "тиэнэллэр", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -61,9 +61,9 @@
     "ru": "Я вожу сено.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "От", "type": "title", "fst": "ymv", "root": "от+N"},
-      {"pos": 2, "text": "тиэйэбин", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "От", "type": "title", "fst": "voc", "root": "от+N"},
+      {"pos": 2, "text": "тиэйэбин", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -77,9 +77,9 @@
     "ru": "Я вожу сено себе, для себя.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "От", "type": "title", "fst": "ymv", "root": "от+N"},
-      {"pos": 2, "text": "тиэнэбин", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "От", "type": "title", "fst": "voc", "root": "от+N"},
+      {"pos": 2, "text": "тиэнэбин", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

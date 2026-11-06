@@ -10,9 +10,9 @@
     "ru": "А ну-ка пойдемте!",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "fst", "root": "бар+V", "affixes": "+PART_FUT+IMP#1.1PL"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ+Part"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+IMP#1.1PL"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -26,9 +26,9 @@
     "ru": "Умоляю вас, отпустите меня!",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ыытыҥ", "type": "title", "fst": "fst", "root": "ыыт+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "fst", "root": "даа+Part"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Ыытыҥ", "type": "title", "fst": "voc", "root": "ыыт+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "voc", "root": "даа+Part"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -42,16 +42,16 @@
     "ru": "«Выйдите, выйдите!» — говорю я.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "«", "type": "quotation", "fst": "fst"},
-      {"pos": 2, "text": "Тахсыҥ", "type": "title", "fst": "fst", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "тахсыҥ", "type": "lowercase", "fst": "fst", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"},
-      {"pos": 6, "text": "»", "type": "quotation", "fst": "fst"},
-      {"pos": 7, "text": "—", "type": "dash", "fst": "fst"},
-      {"pos": 8, "text": "диибин", "type": "lowercase", "fst": "fst", "root": "диэ+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 9, "text": "дии", "type": "lowercase", "fst": "fst", "root": "дии+Part"},
-      {"pos": 10, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 2, "text": "Тахсыҥ", "type": "title", "fst": "voc", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "тахсыҥ", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 5, "text": "!", "type": "exclamation", "fst": "voc"},
+      {"pos": 6, "text": "»", "type": "quotation", "fst": "voc"},
+      {"pos": 7, "text": "—", "type": "dash", "fst": "voc"},
+      {"pos": 8, "text": "диибин", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 9, "text": "дии", "type": "lowercase", "fst": "voc", "root": "дии+Part"},
+      {"pos": 10, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

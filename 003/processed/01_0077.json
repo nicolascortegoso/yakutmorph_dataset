@@ -10,11 +10,11 @@
     "ru": "Правильно использовав погоду.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Күнү", "type": "title", "fst": "ymv", "root": "күн+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "дыылы", "type": "lowercase", "fst": "yma", "root": "дыылы+Adv"},
-      {"pos": 3, "text": "таба", "type": "lowercase", "fst": "ymv", "root": "таба+N"},
-      {"pos": 4, "text": "туһанан", "type": "lowercase", "fst": "ymv", "root": "туһан+V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Күнү", "type": "title", "fst": "voc", "root": "күн+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "дыылы", "type": "lowercase", "fst": "aff", "root": "дыылы+Adv"},
+      {"pos": 3, "text": "таба", "type": "lowercase", "fst": "voc", "root": "таба+N"},
+      {"pos": 4, "text": "туһанан", "type": "lowercase", "fst": "voc", "root": "туһан+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,10 +28,10 @@
     "ru": "Равняясь на образец героев.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Геройдар", "type": "title", "fst": "yma", "root": "герой+Adj", "affixes": "+PL"},
-      {"pos": 2, "text": "холобурдарыгар", "type": "lowercase", "fst": "ymv", "root": "холоо+V", "affixes": "+NMLZ#4+PL+POSS.3SG.DAT"},
-      {"pos": 3, "text": "тэҥнэһэн", "type": "lowercase", "fst": "ymv", "root": "тэҥ+Adj", "affixes": "+VRBLZ#1+RECP+CONV#1"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Геройдар", "type": "title", "fst": "aff", "root": "герой+Adj", "affixes": "+PL"},
+      {"pos": 2, "text": "холобурдарыгар", "type": "lowercase", "fst": "voc", "root": "холоо+V", "affixes": "+NMLZ#4+PL+POSS.3SG.DAT"},
+      {"pos": 3, "text": "тэҥнэһэн", "type": "lowercase", "fst": "voc", "root": "тэҥ+Adj", "affixes": "+VRBLZ#1+RECP+CONV#1"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -45,9 +45,9 @@
     "ru": "Поддерживая почин.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Бачыымы", "type": "title", "fst": "yma", "root": "бачыым+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "өйөөн", "type": "lowercase", "fst": "ymv", "root": "өйөө+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бачыымы", "type": "title", "fst": "aff", "root": "бачыым+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "өйөөн", "type": "lowercase", "fst": "voc", "root": "өйөө+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

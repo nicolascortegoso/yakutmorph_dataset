@@ -10,10 +10,10 @@
     "ru": "перережь эти веревки",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "быалары", "type": "lowercase", "fst": "ymv", "root": "быа+N", "affixes": "+PL+ACC"},
-      {"pos": 3, "text": "быһыта", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+CONV#2+ADVZ#8"},
-      {"pos": 4, "text": "баттаа", "type": "lowercase", "fst": "ymv", "root": "баттаа+V"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "быалары", "type": "lowercase", "fst": "voc", "root": "быа+N", "affixes": "+PL+ACC"},
+      {"pos": 3, "text": "быһыта", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 4, "text": "баттаа", "type": "lowercase", "fst": "voc", "root": "баттаа+V"}
     ]
   },
   {
@@ -27,10 +27,10 @@
     "ru": "перережь эту веревку на несколько частей",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "быаны", "type": "lowercase", "fst": "ymv", "root": "быа+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "быһыта", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+CONV#2+ADVZ#8"},
-      {"pos": 4, "text": "баттаа", "type": "lowercase", "fst": "ymv", "root": "баттаа+V"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "быаны", "type": "lowercase", "fst": "voc", "root": "быа+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "быһыта", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 4, "text": "баттаа", "type": "lowercase", "fst": "voc", "root": "баттаа+V"}
     ]
   },
   {
@@ -44,10 +44,10 @@
     "ru": "эту чурку держи вертикально",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "лэкэни", "type": "lowercase", "fst": "ymv", "root": "лэкэ+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "туруору", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CSTV+ADVZ#1"},
-      {"pos": 4, "text": "тут", "type": "lowercase", "fst": "ymv", "root": "тут+V"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "лэкэни", "type": "lowercase", "fst": "voc", "root": "лэкэ+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "туруору", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CSTV+ADVZ#1"},
+      {"pos": 4, "text": "тут", "type": "lowercase", "fst": "voc", "root": "тут+V"}
     ]
   },
   {
@@ -61,8 +61,8 @@
     "ru": "он прыгнул назад",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "төттөрү", "type": "lowercase", "fst": "ymv", "root": "төнүн+V", "affixes": "+CSTV+ADVZ#1"},
-      {"pos": 2, "text": "ойдо", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "төттөрү", "type": "lowercase", "fst": "voc", "root": "төнүн+V", "affixes": "+CSTV+ADVZ#1"},
+      {"pos": 2, "text": "ойдо", "type": "lowercase", "fst": "voc", "root": "ой+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -76,9 +76,9 @@
     "ru": "я про резал кожу",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "тириини", "type": "lowercase", "fst": "ymv", "root": "тирии+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "тэһэ", "type": "lowercase", "fst": "ymv", "root": "тэс+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "быстым", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+PST.1SG"}
+      {"pos": 1, "text": "тириини", "type": "lowercase", "fst": "voc", "root": "тирии+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "тэһэ", "type": "lowercase", "fst": "voc", "root": "тэс+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "быстым", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+PST.1SG"}
     ]
   },
   {
@@ -92,8 +92,8 @@
     "ru": "расколоть ударом (букв. раскалывая ударь)",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "хайа", "type": "lowercase", "fst": "ymv", "root": "хай+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "оҕус", "type": "lowercase", "fst": "ymv", "root": "оҕус+V"}
+      {"pos": 1, "text": "хайа", "type": "lowercase", "fst": "voc", "root": "хай+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "оҕус", "type": "lowercase", "fst": "voc", "root": "оҕус+V"}
     ]
   },
   {
@@ -107,9 +107,9 @@
     "ru": "чурки порасставь вертикально",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "лэкэлэри", "type": "lowercase", "fst": "ymv", "root": "лэкэ+N", "affixes": "+PL+ACC"},
-      {"pos": 2, "text": "туруорута", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CSTV+CONV#2+ADVZ#8"},
-      {"pos": 3, "text": "тут", "type": "lowercase", "fst": "ymv", "root": "тут+V"}
+      {"pos": 1, "text": "лэкэлэри", "type": "lowercase", "fst": "voc", "root": "лэкэ+N", "affixes": "+PL+ACC"},
+      {"pos": 2, "text": "туруорута", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CSTV+CONV#2+ADVZ#8"},
+      {"pos": 3, "text": "тут", "type": "lowercase", "fst": "voc", "root": "тут+V"}
     ]
   },
   {
@@ -123,8 +123,8 @@
     "ru": "он попрыгал назад",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "төттөрүтэ", "type": "lowercase", "fst": "ymv", "root": "төнүн+V", "affixes": "+CSTV+CONV#2+ADVZ#8"},
-      {"pos": 2, "text": "ойдо", "type": "lowercase", "fst": "ymv", "root": "ой+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "төттөрүтэ", "type": "lowercase", "fst": "voc", "root": "төнүн+V", "affixes": "+CSTV+CONV#2+ADVZ#8"},
+      {"pos": 2, "text": "ойдо", "type": "lowercase", "fst": "voc", "root": "ой+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -138,8 +138,8 @@
     "ru": "я прорезал в нескольких местах",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "тэһитэ", "type": "lowercase", "fst": "ymv", "root": "тэс+V", "affixes": "+CONV#2+ADVZ#8"},
-      {"pos": 2, "text": "быстым", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+PST.1SG"}
+      {"pos": 1, "text": "тэһитэ", "type": "lowercase", "fst": "voc", "root": "тэс+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 2, "text": "быстым", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+PST.1SG"}
     ]
   },
   {
@@ -153,8 +153,8 @@
     "ru": "расколоть ударом в нескольких местах или несколь ко предметов",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "хайыта", "type": "lowercase", "fst": "ymv", "root": "хай+V", "affixes": "+CONV#2+ADVZ#8"},
-      {"pos": 2, "text": "оҕус", "type": "lowercase", "fst": "ymv", "root": "оҕус+V"}
+      {"pos": 1, "text": "хайыта", "type": "lowercase", "fst": "voc", "root": "хай+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 2, "text": "оҕус", "type": "lowercase", "fst": "voc", "root": "оҕус+V"}
     ]
   },
   {
@@ -168,8 +168,8 @@
     "ru": "они посмотрели друг на друга",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "утарыта", "type": "lowercase", "fst": "ymv", "root": "утар+V", "affixes": "+CONV#2+ADVZ#8"},
-      {"pos": 2, "text": "көрүстүлэр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+PST.3PL"}
+      {"pos": 1, "text": "утарыта", "type": "lowercase", "fst": "voc", "root": "утар+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 2, "text": "көрүстүлэр", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+RECP+PST.3PL"}
     ]
   },
   {
@@ -183,9 +183,9 @@
     "ru": "они оборвали друг другу пояса",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "курдарын", "type": "lowercase", "fst": "ymv", "root": "кур+N", "affixes": "+POSS.3PL.ACC"},
-      {"pos": 2, "text": "быһыта", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+CONV#2+ADVZ#8"},
-      {"pos": 3, "text": "тардыстылар", "type": "lowercase", "fst": "ymv", "root": "тарт+V", "affixes": "+RECP+PST.3PL"}
+      {"pos": 1, "text": "курдарын", "type": "lowercase", "fst": "voc", "root": "кур+N", "affixes": "+POSS.3PL.ACC"},
+      {"pos": 2, "text": "быһыта", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+CONV#2+ADVZ#8"},
+      {"pos": 3, "text": "тардыстылар", "type": "lowercase", "fst": "voc", "root": "тарт+V", "affixes": "+RECP+PST.3PL"}
     ]
   },
   {
@@ -199,8 +199,8 @@
     "ru": "уронить и разбить вдребезги несколько предметов",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "хампарыта", "type": "lowercase", "fst": "ymv", "root": "хампы+Adv", "affixes": "+ADVZ#8"},
-      {"pos": 2, "text": "түһэр", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "хампарыта", "type": "lowercase", "fst": "voc", "root": "хампы+Adv", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "түһэр", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -214,8 +214,8 @@
     "ru": "переломать",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "булгурута", "type": "lowercase", "fst": "ymv", "root": "булгу+Adv", "affixes": "+ADVZ#8"},
-      {"pos": 2, "text": "тут", "type": "lowercase", "fst": "ymv", "root": "тут+V"}
+      {"pos": 1, "text": "булгурута", "type": "lowercase", "fst": "voc", "root": "булгу+Adv", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "тут", "type": "lowercase", "fst": "voc", "root": "тут+V"}
     ]
   },
   {
@@ -229,8 +229,8 @@
     "ru": "многократно падать, расшибаясь, и опять вставать",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "дэлбэритэ", "type": "lowercase", "fst": "ymv", "root": "дэлби+Adv", "affixes": "+ADVZ#8"},
-      {"pos": 2, "text": "түс", "type": "lowercase", "fst": "ymv", "root": "түс+V"}
+      {"pos": 1, "text": "дэлбэритэ", "type": "lowercase", "fst": "voc", "root": "дэлби+Adv", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "түс", "type": "lowercase", "fst": "voc", "root": "түс+V"}
     ]
   },
   {
@@ -244,8 +244,8 @@
     "ru": "протыкать",
     "id": 16,
     "parses": [
-      {"pos": 1, "text": "суптурута", "type": "lowercase", "fst": "ymv", "root": "супту+Adv", "affixes": "+ADVZ#8"},
-      {"pos": 2, "text": "ас", "type": "lowercase", "fst": "ymv", "root": "ас+V"}
+      {"pos": 1, "text": "суптурута", "type": "lowercase", "fst": "voc", "root": "супту+Adv", "affixes": "+ADVZ#8"},
+      {"pos": 2, "text": "ас", "type": "lowercase", "fst": "voc", "root": "ас+V"}
     ]
   }
 ]

@@ -10,8 +10,8 @@
     "ru": "началось быстрое движение или движение было быстрое (быстро отправление произошло)",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "түргэнник", "type": "lowercase", "fst": "fst", "root": "түргэн+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 2, "text": "барыы", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "түргэнник", "type": "lowercase", "fst": "voc", "root": "түргэн+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "барыы", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "хороший присмотр (хорошо смотрение)",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "үчүгэйдик", "type": "lowercase", "fst": "fst", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 2, "text": "көрүү", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "үчүгэйдик", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "көрүү", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -40,9 +40,9 @@
     "ru": "окончательный заход солнца",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "fst", "root": "күн+N"},
-      {"pos": 2, "text": "лаппа", "type": "lowercase", "fst": "fst", "root": "лаппа+Adv"},
-      {"pos": 3, "text": "киириитэ", "type": "lowercase", "fst": "fst", "root": "киир+V", "affixes": "+NMLZ#2+POSS.3SG"}
+      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 2, "text": "лаппа", "type": "lowercase", "fst": "voc", "root": "лаппа+Adv"},
+      {"pos": 3, "text": "киириитэ", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+NMLZ#2+POSS.3SG"}
     ]
   },
   {
@@ -56,9 +56,9 @@
     "ru": "окончательное исчезновение снега (снега совершенно окончание)",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "хаар", "type": "lowercase", "fst": "fst", "root": "хаар+N"},
-      {"pos": 2, "text": "адьас", "type": "lowercase", "fst": "fst", "root": "адьас+Adv"},
-      {"pos": 3, "text": "бараныыта", "type": "lowercase", "fst": "fst", "root": "бараа+V", "affixes": "+REFL/PASS+NMLZ#2+POSS.3SG"}
+      {"pos": 1, "text": "хаар", "type": "lowercase", "fst": "voc", "root": "хаар+N"},
+      {"pos": 2, "text": "адьас", "type": "lowercase", "fst": "voc", "root": "адьас+Adv"},
+      {"pos": 3, "text": "бараныыта", "type": "lowercase", "fst": "voc", "root": "бараа+V", "affixes": "+REFL/PASS+NMLZ#2+POSS.3SG"}
     ]
   },
   {
@@ -72,8 +72,8 @@
     "ru": "пешее хождение (пешком хождение)",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "сатыы", "type": "lowercase", "fst": "fst", "root": "сатыы+Adv"},
-      {"pos": 2, "text": "сырыы", "type": "lowercase", "fst": "fst", "root": "сырыы+N"}
+      {"pos": 1, "text": "сатыы", "type": "lowercase", "fst": "voc", "root": "сатыы+Adv"},
+      {"pos": 2, "text": "сырыы", "type": "lowercase", "fst": "voc", "root": "сырыы+N"}
     ]
   },
   {
@@ -87,8 +87,8 @@
     "ru": "мертвецкий сон",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "өлбүттүү", "type": "lowercase", "fst": "fst", "root": "өл+V", "affixes": "+PART_PAST+ADVZ#3"},
-      {"pos": 2, "text": "утуйуу", "type": "lowercase", "fst": "fst", "root": "утуй+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "өлбүттүү", "type": "lowercase", "fst": "voc", "root": "өл+V", "affixes": "+PART_PAST+ADVZ#3"},
+      {"pos": 2, "text": "утуйуу", "type": "lowercase", "fst": "voc", "root": "утуй+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -102,8 +102,8 @@
     "ru": "сидение в одиночестве",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "соҕотоҕун", "type": "lowercase", "fst": "fst", "root": "соҕотох+Adj", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 2, "text": "олоруу", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "соҕотоҕун", "type": "lowercase", "fst": "voc", "root": "соҕотох+Adj", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "олоруу", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -117,9 +117,9 @@
     "ru": "к яркому позеленению поля",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "хонуу", "type": "lowercase", "fst": "fst", "root": "хонуу+N"},
-      {"pos": 2, "text": "чэлгиччи", "type": "lowercase", "fst": "fst", "root": "чэлгий+V", "affixes": "+ADVZ#2"},
-      {"pos": 3, "text": "көҕөрүүтүгэр", "type": "lowercase", "fst": "fst", "root": "көҕөр+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"}
+      {"pos": 1, "text": "хонуу", "type": "lowercase", "fst": "voc", "root": "хонуу+N"},
+      {"pos": 2, "text": "чэлгиччи", "type": "lowercase", "fst": "voc", "root": "чэлгий+V", "affixes": "+ADVZ#2"},
+      {"pos": 3, "text": "көҕөрүүтүгэр", "type": "lowercase", "fst": "voc", "root": "көҕөр+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"}
     ]
   },
   {
@@ -133,9 +133,9 @@
     "ru": "к сверкающему взлету солица",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "fst", "root": "күн+N"},
-      {"pos": 2, "text": "кылбаччы", "type": "lowercase", "fst": "fst", "root": "кылбай+V", "affixes": "+ADVZ#2"},
-      {"pos": 3, "text": "ойуутугар", "type": "lowercase", "fst": "fst", "root": "ой+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"}
+      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 2, "text": "кылбаччы", "type": "lowercase", "fst": "voc", "root": "кылбай+V", "affixes": "+ADVZ#2"},
+      {"pos": 3, "text": "ойуутугар", "type": "lowercase", "fst": "voc", "root": "ой+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"}
     ]
   },
   {
@@ -149,12 +149,12 @@
     "ru": "окружность этого озера тридцать километров (кругом хождение его)",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "күөл", "type": "lowercase", "fst": "fst", "root": "күөл+N"},
-      {"pos": 3, "text": "төгүрүччү", "type": "lowercase", "fst": "fst", "root": "төгүрүй+V", "affixes": "+ADVZ#2"},
-      {"pos": 4, "text": "барыыта", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+NMLZ#2+POSS.3SG"},
-      {"pos": 5, "text": "үс", "type": "lowercase", "fst": "fst", "root": "үс+Num"},
-      {"pos": 6, "text": "көс", "type": "lowercase", "fst": "fst", "root": "көс+N"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "күөл", "type": "lowercase", "fst": "voc", "root": "күөл+N"},
+      {"pos": 3, "text": "төгүрүччү", "type": "lowercase", "fst": "voc", "root": "төгүрүй+V", "affixes": "+ADVZ#2"},
+      {"pos": 4, "text": "барыыта", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+NMLZ#2+POSS.3SG"},
+      {"pos": 5, "text": "үс", "type": "lowercase", "fst": "voc", "root": "үс+Num"},
+      {"pos": 6, "text": "көс", "type": "lowercase", "fst": "voc", "root": "көс+N"}
     ]
   },
   {
@@ -168,8 +168,8 @@
     "ru": "раннее вста вание (рано вставание)",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эрдэ+Adv"},
-      {"pos": 2, "text": "туруу", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "эрдэ", "type": "lowercase", "fst": "voc", "root": "эрдэ+Adv"},
+      {"pos": 2, "text": "туруу", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -183,8 +183,8 @@
     "ru": "приход сюда",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 2, "text": "кэлии", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "манна", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 2, "text": "кэлии", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -198,8 +198,8 @@
     "ru": "постоянное хождение (шагание)",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "мэлдьи", "type": "lowercase", "fst": "fst", "root": "мэлдьи+Adv"},
-      {"pos": 2, "text": "хаамыы", "type": "lowercase", "fst": "fst", "root": "хаамп+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "мэлдьи", "type": "lowercase", "fst": "voc", "root": "мэлдьи+Adv"},
+      {"pos": 2, "text": "хаамыы", "type": "lowercase", "fst": "voc", "root": "хаамп+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -213,9 +213,9 @@
     "ru": "подъем солнца (солнца вверх восхождение)",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "fst", "root": "күн+N"},
-      {"pos": 2, "text": "үөһэ", "type": "lowercase", "fst": "fst", "root": "үөһэ+Adv"},
-      {"pos": 3, "text": "тахсыыта", "type": "lowercase", "fst": "fst", "root": "таҕыс+V", "affixes": "+NMLZ#2+POSS.3SG"}
+      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 2, "text": "үөһэ", "type": "lowercase", "fst": "voc", "root": "үөһэ+Adv"},
+      {"pos": 3, "text": "тахсыыта", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+NMLZ#2+POSS.3SG"}
     ]
   },
   {
@@ -229,9 +229,9 @@
     "ru": "раннее окончание работы",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "үлэ", "type": "lowercase", "fst": "fst", "root": "үлэ+N"},
-      {"pos": 2, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эрдэ+Adv"},
-      {"pos": 3, "text": "бүтүүтэ", "type": "lowercase", "fst": "fst", "root": "бүт+V", "affixes": "+NMLZ#2+POSS.3SG"}
+      {"pos": 1, "text": "үлэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N"},
+      {"pos": 2, "text": "эрдэ", "type": "lowercase", "fst": "voc", "root": "эрдэ+Adv"},
+      {"pos": 3, "text": "бүтүүтэ", "type": "lowercase", "fst": "voc", "root": "бүт+V", "affixes": "+NMLZ#2+POSS.3SG"}
     ]
   },
   {
@@ -245,8 +245,8 @@
     "ru": "выход наружу",
     "id": 16,
     "parses": [
-      {"pos": 1, "text": "таһырдьа", "type": "lowercase", "fst": "fst", "root": "таһырдьа+N"},
-      {"pos": 2, "text": "тахсыы", "type": "lowercase", "fst": "fst", "root": "таҕыс+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "таһырдьа", "type": "lowercase", "fst": "voc", "root": "таһырдьа+N"},
+      {"pos": 2, "text": "тахсыы", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -260,8 +260,8 @@
     "ru": "долгое пребывание, задержка",
     "id": 17,
     "parses": [
-      {"pos": 1, "text": "өр", "type": "lowercase", "fst": "fst", "root": "өр+Adv"},
-      {"pos": 2, "text": "буолуу", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "өр", "type": "lowercase", "fst": "voc", "root": "өр+Adv"},
+      {"pos": 2, "text": "буолуу", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -275,8 +275,8 @@
     "ru": "безделье (зря хождение)",
     "id": 18,
     "parses": [
-      {"pos": 1, "text": "мэнээк", "type": "lowercase", "fst": "fst", "root": "мэнээк+Adv"},
-      {"pos": 2, "text": "сылдьыы", "type": "lowercase", "fst": "fst", "root": "сырыт+V", "affixes": "+NMLZ#2"}
+      {"pos": 1, "text": "мэнээк", "type": "lowercase", "fst": "voc", "root": "мэнээк+Adv"},
+      {"pos": 2, "text": "сылдьыы", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+NMLZ#2"}
     ]
   },
   {
@@ -290,10 +290,10 @@
     "ru": "этот конь ест много (много едящий)",
     "id": 19,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "fst", "root": "ат+N"},
-      {"pos": 3, "text": "элбэхтик", "type": "lowercase", "fst": "fst", "root": "элбээ+V", "affixes": "+ADJZ#16+ADVZ#5"},
-      {"pos": 4, "text": "аһааччы", "type": "lowercase", "fst": "fst", "root": "ас+N", "affixes": "+VRBLZ#3+HAB#1"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "voc", "root": "ат+N"},
+      {"pos": 3, "text": "элбэхтик", "type": "lowercase", "fst": "voc", "root": "элбээ+V", "affixes": "+ADJZ#16+ADVZ#5"},
+      {"pos": 4, "text": "аһааччы", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+HAB#1"}
     ]
   },
   {
@@ -307,10 +307,10 @@
     "ru": "кошка хорошо (с удовольствием) ест мышей",
     "id": 20,
     "parses": [
-      {"pos": 1, "text": "куоска", "type": "lowercase", "fst": "fst", "root": "куоска+N"},
-      {"pos": 2, "text": "кутуйаҕы", "type": "lowercase", "fst": "fst", "root": "кутуйах+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "бэркэ", "type": "lowercase", "fst": "fst", "root": "бэрт+Adj", "affixes": "+DAT"},
-      {"pos": 4, "text": "сиэччи", "type": "lowercase", "fst": "fst", "root": "сиэ+V", "affixes": "+HAB#1"}
+      {"pos": 1, "text": "куоска", "type": "lowercase", "fst": "voc", "root": "куоска+N"},
+      {"pos": 2, "text": "кутуйаҕы", "type": "lowercase", "fst": "voc", "root": "кутуйах+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "бэркэ", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj", "affixes": "+DAT"},
+      {"pos": 4, "text": "сиэччи", "type": "lowercase", "fst": "voc", "root": "сиэ+V", "affixes": "+HAB#1"}
     ]
   },
   {
@@ -324,8 +324,8 @@
     "ru": "хорошо работающий",
     "id": 21,
     "parses": [
-      {"pos": 1, "text": "үчүгэйдик", "type": "lowercase", "fst": "fst", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 2, "text": "үлэлээччи", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+HAB#1"}
+      {"pos": 1, "text": "үчүгэйдик", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "үлэлээччи", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+HAB#1"}
     ]
   },
   {
@@ -339,8 +339,8 @@
     "ru": "мало спящий",
     "id": 22,
     "parses": [
-      {"pos": 1, "text": "кыратык", "type": "lowercase", "fst": "fst", "root": "кыра+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 2, "text": "утуйааччы", "type": "lowercase", "fst": "fst", "root": "утуй+V", "affixes": "+HAB#1"}
+      {"pos": 1, "text": "кыратык", "type": "lowercase", "fst": "voc", "root": "кыра+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "утуйааччы", "type": "lowercase", "fst": "voc", "root": "утуй+V", "affixes": "+HAB#1"}
     ]
   },
   {
@@ -354,9 +354,9 @@
     "ru": "на работу свою я хожу пешком (на работу мою пешком ходящий я есть)",
     "id": 23,
     "parses": [
-      {"pos": 1, "text": "үлэбэр", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+POSS.1SG.DAT"},
-      {"pos": 2, "text": "сатыы", "type": "lowercase", "fst": "fst", "root": "сатыы+Adv"},
-      {"pos": 3, "text": "барааччыбын", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+HAB#1+1SG"}
+      {"pos": 1, "text": "үлэбэр", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.1SG.DAT"},
+      {"pos": 2, "text": "сатыы", "type": "lowercase", "fst": "voc", "root": "сатыы+Adv"},
+      {"pos": 3, "text": "барааччыбын", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+HAB#1+1SG"}
     ]
   },
   {
@@ -370,10 +370,10 @@
     "ru": "этот человек по-русски знающий",
     "id": 24,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"},
-      {"pos": 3, "text": "нууччалыы", "type": "lowercase", "fst": "fst", "root": "нуучча+N", "affixes": "+ADVZ#6"},
-      {"pos": 4, "text": "билээччи", "type": "lowercase", "fst": "fst", "root": "бил+V", "affixes": "+HAB#1"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 3, "text": "нууччалыы", "type": "lowercase", "fst": "voc", "root": "нуучча+N", "affixes": "+ADVZ#6"},
+      {"pos": 4, "text": "билээччи", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+HAB#1"}
     ]
   },
   {
@@ -387,8 +387,8 @@
     "ru": "идущий обратно",
     "id": 25,
     "parses": [
-      {"pos": 1, "text": "төттөрү", "type": "lowercase", "fst": "fst", "root": "төнүн+V", "affixes": "+CSTV+ADVZ#1"},
-      {"pos": 2, "text": "барааччы", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+HAB#1"}
+      {"pos": 1, "text": "төттөрү", "type": "lowercase", "fst": "voc", "root": "төнүн+V", "affixes": "+CSTV+ADVZ#1"},
+      {"pos": 2, "text": "барааччы", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+HAB#1"}
     ]
   },
   {
@@ -402,9 +402,9 @@
     "ru": "напротив стоящий дом",
     "id": 26,
     "parses": [
-      {"pos": 1, "text": "утары", "type": "lowercase", "fst": "fst", "root": "утар+V", "affixes": "+ADVZ#1"},
-      {"pos": 2, "text": "турааччы", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+HAB#1"},
-      {"pos": 3, "text": "дьиэ", "type": "lowercase", "fst": "fst", "root": "дьиэ+N"}
+      {"pos": 1, "text": "утары", "type": "lowercase", "fst": "voc", "root": "утар+V", "affixes": "+ADVZ#1"},
+      {"pos": 2, "text": "турааччы", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+HAB#1"},
+      {"pos": 3, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"}
     ]
   },
   {
@@ -418,9 +418,9 @@
     "ru": "вместе идущий человек",
     "id": 27,
     "parses": [
-      {"pos": 1, "text": "бииргэ", "type": "lowercase", "fst": "fst", "root": "биир+Num", "affixes": "+DAT"},
-      {"pos": 2, "text": "барааччы", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+HAB#1"},
-      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"}
+      {"pos": 1, "text": "бииргэ", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+DAT"},
+      {"pos": 2, "text": "барааччы", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+HAB#1"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"}
     ]
   },
   {
@@ -434,9 +434,9 @@
     "ru": "рано встающий человек",
     "id": 28,
     "parses": [
-      {"pos": 1, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эрдэ+Adv"},
-      {"pos": 2, "text": "турааччы", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+HAB#1"},
-      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"}
+      {"pos": 1, "text": "эрдэ", "type": "lowercase", "fst": "voc", "root": "эрдэ+Adv"},
+      {"pos": 2, "text": "турааччы", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+HAB#1"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"}
     ]
   },
   {
@@ -450,9 +450,9 @@
     "ru": "здесь работающая женщина",
     "id": 29,
     "parses": [
-      {"pos": 1, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 2, "text": "үлэлээччи", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+HAB#1"},
-      {"pos": 3, "text": "дьахтар", "type": "lowercase", "fst": "fst", "root": "дьахтар+N"}
+      {"pos": 1, "text": "манна", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 2, "text": "үлэлээччи", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+HAB#1"},
+      {"pos": 3, "text": "дьахтар", "type": "lowercase", "fst": "voc", "root": "дьахтар+N"}
     ]
   },
   {
@@ -466,10 +466,10 @@
     "ru": "этот человек долго спит (спящий)",
     "id": 30,
     "parses": [
-      {"pos": 1, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити+Pron"},
-      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"},
-      {"pos": 3, "text": "өр", "type": "lowercase", "fst": "fst", "root": "өр+Adv"},
-      {"pos": 4, "text": "утуйааччы", "type": "lowercase", "fst": "fst", "root": "утуй+V", "affixes": "+HAB#1"}
+      {"pos": 1, "text": "ити", "type": "lowercase", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 3, "text": "өр", "type": "lowercase", "fst": "voc", "root": "өр+Adv"},
+      {"pos": 4, "text": "утуйааччы", "type": "lowercase", "fst": "voc", "root": "утуй+V", "affixes": "+HAB#1"}
     ]
   },
   {
@@ -483,10 +483,10 @@
     "ru": "я газету постоянно читаю (читающий есть)",
     "id": 31,
     "parses": [
-      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "хаһыаты", "type": "lowercase", "fst": "fst", "root": "хаһыат+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "мэлдьи", "type": "lowercase", "fst": "fst", "root": "мэлдьи+Adv"},
-      {"pos": 4, "text": "ааҕааччыбын", "type": "lowercase", "fst": "fst", "root": "аах+V", "affixes": "+HAB#1+1SG"}
+      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "хаһыаты", "type": "lowercase", "fst": "voc", "root": "хаһыат+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "мэлдьи", "type": "lowercase", "fst": "voc", "root": "мэлдьи+Adv"},
+      {"pos": 4, "text": "ааҕааччыбын", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+HAB#1+1SG"}
     ]
   },
   {
@@ -500,9 +500,9 @@
     "ru": "утки там садятся (там спускающиеся они суть)",
     "id": 32,
     "parses": [
-      {"pos": 1, "text": "кустар", "type": "lowercase", "fst": "fst", "root": "кус+N", "affixes": "+PL"},
-      {"pos": 2, "text": "онно", "type": "lowercase", "fst": "fst", "root": "ол+Pron", "affixes": "+LOC"},
-      {"pos": 3, "text": "түһээччилэр", "type": "lowercase", "fst": "fst", "root": "түс+V", "affixes": "+HAB#1+PL"}
+      {"pos": 1, "text": "кустар", "type": "lowercase", "fst": "voc", "root": "кус+N", "affixes": "+PL"},
+      {"pos": 2, "text": "онно", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+LOC"},
+      {"pos": 3, "text": "түһээччилэр", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+HAB#1+PL"}
     ]
   }
 ]

@@ -10,8 +10,8 @@
     "ru": "кого?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "кимнэ", "type": "lowercase", "fst": "ymv", "root": "ким+Pron", "affixes": "+PRTV"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "кимнэ", "type": "lowercase", "fst": "voc", "root": "ким+Pron", "affixes": "+PRTV"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "чего?",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "туохта", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+PRTV"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "туохта", "type": "lowercase", "fst": "voc", "root": "туох+Pron", "affixes": "+PRTV"},
+      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -40,9 +40,9 @@
     "ru": "Наколи дров.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Маста", "type": "title", "fst": "ymv", "root": "мас+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "хайыт", "type": "lowercase", "fst": "ymv", "root": "хайыт+V"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Маста", "type": "title", "fst": "voc", "root": "мас+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "хайыт", "type": "lowercase", "fst": "voc", "root": "хайыт+V"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -56,9 +56,9 @@
     "ru": "Натаскайте воды.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Уута", "type": "title", "fst": "ymv", "root": "уу+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "баһыҥ", "type": "lowercase", "fst": "ymv", "root": "бас+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уута", "type": "title", "fst": "voc", "root": "уу+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "баһыҥ", "type": "lowercase", "fst": "voc", "root": "бас+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -72,10 +72,10 @@
     "ru": "Найди себе человека в помощь.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Көмөлөһөр", "type": "title", "fst": "ymv", "root": "көмө+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
-      {"pos": 2, "text": "киһитэ", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+PRTV"},
-      {"pos": 3, "text": "булун", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+REFL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Көмөлөһөр", "type": "title", "fst": "voc", "root": "көмө+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
+      {"pos": 2, "text": "киһитэ", "type": "lowercase", "fst": "voc", "root": "киһи+N", "affixes": "+PRTV"},
+      {"pos": 3, "text": "булун", "type": "lowercase", "fst": "voc", "root": "бул+V", "affixes": "+REFL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -89,10 +89,10 @@
     "ru": "Надо затопить печь, развести огня.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Уотта", "type": "title", "fst": "ymv", "root": "уот+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "оттуохха", "type": "lowercase", "fst": "ymv", "root": "оттоо+V", "affixes": "+PART_FUT+DAT"},
-      {"pos": 3, "text": "наада", "type": "lowercase", "fst": "ymv", "root": "наада+N"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уотта", "type": "title", "fst": "voc", "root": "уот+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "оттуохха", "type": "lowercase", "fst": "voc", "root": "оттоо+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 3, "text": "наада", "type": "lowercase", "fst": "voc", "root": "наада+N"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -106,11 +106,11 @@
     "ru": "Надо было привезти немного сена.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Отто", "type": "title", "fst": "ymv", "root": "от+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "аҕала", "type": "lowercase", "fst": "ymv", "root": "аҕал+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "түһүөх", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_FUT"},
-      {"pos": 4, "text": "хаалла", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Отто", "type": "title", "fst": "voc", "root": "от+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "аҕала", "type": "lowercase", "fst": "voc", "root": "аҕал+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "түһүөх", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PART_FUT"},
+      {"pos": 4, "text": "хаалла", "type": "lowercase", "fst": "voc", "root": "хаал+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -124,9 +124,9 @@
     "ru": "Запряги коня (какого-нибудь).",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Атта", "type": "title", "fst": "ymv", "root": "ат+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "көлүй", "type": "lowercase", "fst": "ymv", "root": "көлүй+V"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Атта", "type": "title", "fst": "voc", "root": "ат+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "көлүй", "type": "lowercase", "fst": "voc", "root": "көлүй+V"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -140,10 +140,10 @@
     "ru": "Найдите себе дойную корову.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Ыанар", "type": "title", "fst": "ymv", "root": "ыа+V", "affixes": "+REFL/PASS+PART_PRES"},
-      {"pos": 2, "text": "ынахта", "type": "lowercase", "fst": "ymv", "root": "ынах+N", "affixes": "+PRTV"},
-      {"pos": 3, "text": "булунуҥ", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+REFL+IMP#1.2PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыанар", "type": "title", "fst": "voc", "root": "ыа+V", "affixes": "+REFL/PASS+PART_PRES"},
+      {"pos": 2, "text": "ынахта", "type": "lowercase", "fst": "voc", "root": "ынах+N", "affixes": "+PRTV"},
+      {"pos": 3, "text": "булунуҥ", "type": "lowercase", "fst": "voc", "root": "бул+V", "affixes": "+REFL+IMP#1.2PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -157,11 +157,11 @@
     "ru": "Приготовьте две бочки воды.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Икки", "type": "title", "fst": "ymv", "root": "икки+Num"},
-      {"pos": 2, "text": "буочука", "type": "lowercase", "fst": "ymv", "root": "буочука+N"},
-      {"pos": 3, "text": "уута", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+PRTV"},
-      {"pos": 4, "text": "бэлэмнээриҥ", "type": "lowercase", "fst": "ymv", "root": "бэлэм+Adj", "affixes": "+VRBLZ#1+IMP#2.2PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Икки", "type": "title", "fst": "voc", "root": "икки+Num"},
+      {"pos": 2, "text": "буочука", "type": "lowercase", "fst": "voc", "root": "буочука+N"},
+      {"pos": 3, "text": "уута", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+PRTV"},
+      {"pos": 4, "text": "бэлэмнээриҥ", "type": "lowercase", "fst": "voc", "root": "бэлэм+Adj", "affixes": "+VRBLZ#1+IMP#2.2PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -175,14 +175,14 @@
     "ru": "Попросите еще три трактора, один комбайн.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Үс", "type": "title", "fst": "ymv", "root": "үс+Num"},
-      {"pos": 2, "text": "тракторда", "type": "lowercase", "fst": "ymv", "root": "трактор+N", "affixes": "+PRTV"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 5, "text": "комбайнна", "type": "lowercase", "fst": "ymv", "root": "комбайн+N", "affixes": "+PRTV"},
-      {"pos": 6, "text": "эбии", "type": "lowercase", "fst": "ymv", "root": "эп+V", "affixes": "+NMLZ#2"},
-      {"pos": 7, "text": "көрдөһүҥ", "type": "lowercase", "fst": "ymv", "root": "көрдөө+V", "affixes": "+RECP+IMP#1.2PL"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үс", "type": "title", "fst": "voc", "root": "үс+Num"},
+      {"pos": 2, "text": "тракторда", "type": "lowercase", "fst": "voc", "root": "трактор+N", "affixes": "+PRTV"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "биир", "type": "lowercase", "fst": "voc", "root": "биир+Num"},
+      {"pos": 5, "text": "комбайнна", "type": "lowercase", "fst": "voc", "root": "комбайн+N", "affixes": "+PRTV"},
+      {"pos": 6, "text": "эбии", "type": "lowercase", "fst": "voc", "root": "эп+V", "affixes": "+NMLZ#2"},
+      {"pos": 7, "text": "көрдөһүҥ", "type": "lowercase", "fst": "voc", "root": "көрдөө+V", "affixes": "+RECP+IMP#1.2PL"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

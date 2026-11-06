@@ -11,12 +11,12 @@
     "ru": "У Николаева характер твердый как кремень.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Николаев", "type": "title", "fst": "yma", "root": "николаев+PN"},
-      {"pos": 2, "text": "чокуур", "type": "lowercase", "fst": "ymv", "root": "чокуур+N"},
-      {"pos": 3, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
-      {"pos": 4, "text": "кытаанах", "type": "lowercase", "fst": "ymv", "root": "кытаанах+Adj"},
-      {"pos": 5, "text": "майгылаах", "type": "lowercase", "fst": "ymv", "root": "майгы+N", "affixes": "+ADJZ#1"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Николаев", "type": "title", "fst": "aff", "root": "николаев+PN"},
+      {"pos": 2, "text": "чокуур", "type": "lowercase", "fst": "voc", "root": "чокуур+N"},
+      {"pos": 3, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
+      {"pos": 4, "text": "кытаанах", "type": "lowercase", "fst": "voc", "root": "кытаанах+Adj"},
+      {"pos": 5, "text": "майгылаах", "type": "lowercase", "fst": "voc", "root": "майгы+N", "affixes": "+ADJZ#1"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -31,12 +31,12 @@
     "ru": "Николаев с твердым как кремень характером.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Чокуур", "type": "title", "fst": "ymv", "root": "чокуур+N"},
-      {"pos": 2, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
-      {"pos": 3, "text": "кытаанах", "type": "lowercase", "fst": "ymv", "root": "кытаанах+Adj"},
-      {"pos": 4, "text": "майгылаах", "type": "lowercase", "fst": "ymv", "root": "майгы+N", "affixes": "+ADJZ#1"},
-      {"pos": 5, "text": "Николаев", "type": "title", "fst": "yma", "root": "николаев+PN"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Чокуур", "type": "title", "fst": "voc", "root": "чокуур+N"},
+      {"pos": 2, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
+      {"pos": 3, "text": "кытаанах", "type": "lowercase", "fst": "voc", "root": "кытаанах+Adj"},
+      {"pos": 4, "text": "майгылаах", "type": "lowercase", "fst": "voc", "root": "майгы+N", "affixes": "+ADJZ#1"},
+      {"pos": 5, "text": "Николаев", "type": "title", "fst": "aff", "root": "николаев+PN"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -51,10 +51,10 @@
     "ru": "Владыка эдешних мест.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Чугас", "type": "title", "fst": "ymv", "root": "чугас+Adj"},
-      {"pos": 2, "text": "эргин", "type": "lowercase", "fst": "ymv", "root": "эргин+N"},
-      {"pos": 3, "text": "баһылык", "type": "lowercase", "fst": "ymv", "root": "баһылык+N"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Чугас", "type": "title", "fst": "voc", "root": "чугас+Adj"},
+      {"pos": 2, "text": "эргин", "type": "lowercase", "fst": "voc", "root": "эргин+N"},
+      {"pos": 3, "text": "баһылык", "type": "lowercase", "fst": "voc", "root": "баһылык+N"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -69,9 +69,9 @@
     "ru": "Одноглазый.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "ymv", "root": "аҥар+Num"},
-      {"pos": 2, "text": "Харах", "type": "title", "fst": "ymv", "root": "харах+PN"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "voc", "root": "аҥар+Num"},
+      {"pos": 2, "text": "Харах", "type": "title", "fst": "voc", "root": "харах+PN"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -86,12 +86,12 @@
     "ru": "Одноглазый — владыка здешних мест.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "ymv", "root": "аҥар+Num"},
-      {"pos": 2, "text": "Харах", "type": "title", "fst": "ymv", "root": "харах+PN"},
-      {"pos": 3, "text": "чугас", "type": "lowercase", "fst": "ymv", "root": "чугас+Adj"},
-      {"pos": 4, "text": "эргин", "type": "lowercase", "fst": "ymv", "root": "эргин+N"},
-      {"pos": 5, "text": "баһылык", "type": "lowercase", "fst": "ymv", "root": "баһылык+N"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "voc", "root": "аҥар+Num"},
+      {"pos": 2, "text": "Харах", "type": "title", "fst": "voc", "root": "харах+PN"},
+      {"pos": 3, "text": "чугас", "type": "lowercase", "fst": "voc", "root": "чугас+Adj"},
+      {"pos": 4, "text": "эргин", "type": "lowercase", "fst": "voc", "root": "эргин+N"},
+      {"pos": 5, "text": "баһылык", "type": "lowercase", "fst": "voc", "root": "баһылык+N"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -106,11 +106,11 @@
     "ru": "Одноглазый — князец.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "ymv", "root": "аҥар+Num"},
-      {"pos": 2, "text": "Харах", "type": "title", "fst": "ymv", "root": "харах+PN"},
-      {"pos": 3, "text": "—", "type": "dash", "fst": "ymv"},
-      {"pos": 4, "text": "кинээс", "type": "lowercase", "fst": "ymv", "root": "кинээс+N"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "voc", "root": "аҥар+Num"},
+      {"pos": 2, "text": "Харах", "type": "title", "fst": "voc", "root": "харах+PN"},
+      {"pos": 3, "text": "—", "type": "dash", "fst": "voc"},
+      {"pos": 4, "text": "кинээс", "type": "lowercase", "fst": "voc", "root": "кинээс+N"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -125,10 +125,10 @@
     "ru": "Князец Одноглазый.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Кинээс", "type": "title", "fst": "ymv", "root": "кинээс+N"},
-      {"pos": 2, "text": "Аҥар", "type": "title", "fst": "ymv", "root": "аҥар+Num"},
-      {"pos": 3, "text": "Харах", "type": "title", "fst": "ymv", "root": "харах+PN"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кинээс", "type": "title", "fst": "voc", "root": "кинээс+N"},
+      {"pos": 2, "text": "Аҥар", "type": "title", "fst": "voc", "root": "аҥар+Num"},
+      {"pos": 3, "text": "Харах", "type": "title", "fst": "voc", "root": "харах+PN"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -143,11 +143,11 @@
     "ru": "Одноглазый — князец.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "ymv", "root": "аҥар+Num"},
-      {"pos": 2, "text": "Харах", "type": "title", "fst": "ymv", "root": "харах+PN"},
-      {"pos": 3, "text": "—", "type": "dash", "fst": "ymv"},
-      {"pos": 4, "text": "кинээс", "type": "lowercase", "fst": "ymv", "root": "кинээс+N"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Аҥар", "type": "title", "fst": "voc", "root": "аҥар+Num"},
+      {"pos": 2, "text": "Харах", "type": "title", "fst": "voc", "root": "харах+PN"},
+      {"pos": 3, "text": "—", "type": "dash", "fst": "voc"},
+      {"pos": 4, "text": "кинээс", "type": "lowercase", "fst": "voc", "root": "кинээс+N"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -162,13 +162,13 @@
     "ru": "Сын Толона Ганя был бригадиром полеводов.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Толоон", "type": "title", "fst": "ymv", "root": "толоон+N"},
-      {"pos": 2, "text": "уола", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "Ганя", "type": "title", "fst": "yma", "root": "ганя+PN"},
-      {"pos": 4, "text": "хонуу", "type": "lowercase", "fst": "ymv", "root": "хонуу+N"},
-      {"pos": 5, "text": "биригэдьиирэ", "type": "lowercase", "fst": "ymv", "root": "биригэдьиир+N", "affixes": "+POSS.3SG"},
-      {"pos": 6, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Толоон", "type": "title", "fst": "voc", "root": "толоон+N"},
+      {"pos": 2, "text": "уола", "type": "lowercase", "fst": "voc", "root": "уол+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "Ганя", "type": "title", "fst": "aff", "root": "ганя+PN"},
+      {"pos": 4, "text": "хонуу", "type": "lowercase", "fst": "voc", "root": "хонуу+N"},
+      {"pos": 5, "text": "биригэдьиирэ", "type": "lowercase", "fst": "voc", "root": "биригэдьиир+N", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -183,12 +183,12 @@
     "ru": "Был бригадиром полеводов сын Толона Ганя.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Хонуу", "type": "title", "fst": "ymv", "root": "хонуу+N"},
-      {"pos": 2, "text": "биригэдьиирэ", "type": "lowercase", "fst": "ymv", "root": "биригэдьиир+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 4, "text": "Толоон", "type": "title", "fst": "ymv", "root": "толоон+PN"},
-      {"pos": 5, "text": "уола", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хонуу", "type": "title", "fst": "voc", "root": "хонуу+N"},
+      {"pos": 2, "text": "биригэдьиирэ", "type": "lowercase", "fst": "voc", "root": "биригэдьиир+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 4, "text": "Толоон", "type": "title", "fst": "voc", "root": "толоон+PN"},
+      {"pos": 5, "text": "уола", "type": "lowercase", "fst": "voc", "root": "уол+N", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

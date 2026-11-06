@@ -10,12 +10,12 @@
     "ru": "Мы свой век доживаем под страхом.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Үйэбитин", "type": "title", "fst": "ymv", "root": "үйэ+N", "affixes": "+POSS.1PL.ACC"},
-      {"pos": 2, "text": "куттал", "type": "lowercase", "fst": "ymv", "root": "куттаа+V", "affixes": "+NMLZ#9"},
-      {"pos": 3, "text": "анныгар", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 4, "text": "моҥоон", "type": "lowercase", "fst": "ymv", "root": "моҥоо+V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": "эрэбит", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+PART_PRES+1PL"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үйэбитин", "type": "title", "fst": "voc", "root": "үйэ+N", "affixes": "+POSS.1PL.ACC"},
+      {"pos": 2, "text": "куттал", "type": "lowercase", "fst": "voc", "root": "куттаа+V", "affixes": "+NMLZ#9"},
+      {"pos": 3, "text": "анныгар", "type": "lowercase", "fst": "voc", "root": "алын+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 4, "text": "моҥоон", "type": "lowercase", "fst": "voc", "root": "моҥоо+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "эрэбит", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,14 +29,14 @@
     "ru": "За день ходят сотни поездов под яром с надписью.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Суруктаах", "type": "title", "fst": "ymv", "root": "суруй+V", "affixes": "+NMLZ#5+ADJZ#1"},
-      {"pos": 2, "text": "сыыры", "type": "lowercase", "fst": "ymv", "root": "сыыр+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "аннынан", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG.INST"},
-      {"pos": 4, "text": "күҥҥэ", "type": "lowercase", "fst": "ymv", "root": "күн+N", "affixes": "+DAT"},
-      {"pos": 5, "text": "сүүһүнэн", "type": "lowercase", "fst": "ymv", "root": "сүүс+Num", "affixes": "+INST"},
-      {"pos": 6, "text": "поезтар", "type": "lowercase", "fst": "yma", "root": "поезд+N", "affixes": "+PL"},
-      {"pos": 7, "text": "сылдьаллар", "type": "lowercase", "fst": "ymv", "root": "сырыт+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Суруктаах", "type": "title", "fst": "voc", "root": "суруй+V", "affixes": "+NMLZ#5+ADJZ#1"},
+      {"pos": 2, "text": "сыыры", "type": "lowercase", "fst": "voc", "root": "сыыр+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "аннынан", "type": "lowercase", "fst": "voc", "root": "алын+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 4, "text": "күҥҥэ", "type": "lowercase", "fst": "voc", "root": "күн+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "сүүһүнэн", "type": "lowercase", "fst": "voc", "root": "сүүс+Num", "affixes": "+INST"},
+      {"pos": 6, "text": "поезтар", "type": "lowercase", "fst": "aff", "root": "поезд+N", "affixes": "+PL"},
+      {"pos": 7, "text": "сылдьаллар", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

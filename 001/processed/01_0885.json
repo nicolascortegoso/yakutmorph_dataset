@@ -10,8 +10,8 @@
     "ru": "кто-то",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "ким", "type": "lowercase", "fst": "ymv", "root": "ким+Pron"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"}
+      {"pos": 1, "text": "ким", "type": "lowercase", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "когда-то",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "хаһан", "type": "lowercase", "fst": "ymv", "root": "хаһан+Pron"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"}
+      {"pos": 1, "text": "хаһан", "type": "lowercase", "fst": "voc", "root": "хаһан+Pron"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "одолжи-да",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "уларыс", "type": "lowercase", "fst": "ymv", "root": "уларый+V", "affixes": "+RECP"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"}
+      {"pos": 1, "text": "уларыс", "type": "lowercase", "fst": "voc", "root": "уларый+V", "affixes": "+RECP"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"}
     ]
   },
   {
@@ -55,9 +55,9 @@
     "ru": "попробуй прикнуться незнающим",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "билбэтэҕэ", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+NEG+PART_PAST+POSS.3SG"},
-      {"pos": 2, "text": "буол", "type": "lowercase", "fst": "ymv", "root": "буол+V"},
-      {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"}
+      {"pos": 1, "text": "билбэтэҕэ", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+NEG+PART_PAST+POSS.3SG"},
+      {"pos": 2, "text": "буол", "type": "lowercase", "fst": "voc", "root": "буол+V"},
+      {"pos": 3, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"}
     ]
   },
   {
@@ -71,8 +71,8 @@
     "ru": "расскажи потом, пожалуйста",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "кэпсээр", "type": "lowercase", "fst": "yma", "root": "кэпсэ+N", "affixes": "+VRBLZ#4a"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"}
+      {"pos": 1, "text": "кэпсээр", "type": "lowercase", "fst": "aff", "root": "кэпсэ+N", "affixes": "+VRBLZ#4a"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"}
     ]
   }
 ]

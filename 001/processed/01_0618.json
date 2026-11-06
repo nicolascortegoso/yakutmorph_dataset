@@ -10,19 +10,19 @@
     "ru": "Мы домой прибыли в вечерние сумерки, Петровские же прибыли уже днем.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "дьиэбитигэр", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.1PL.DAT"},
-      {"pos": 3, "text": "им", "type": "lowercase", "fst": "ymv", "root": "им+N"},
-      {"pos": 4, "text": "сүтүүтүгэр", "type": "lowercase", "fst": "ymv", "root": "сүт+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"},
-      {"pos": 5, "text": "тиийбиппит", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+PART_PAST+1PL"},
-      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "оттон", "type": "lowercase", "fst": "ymv", "root": "оттон+CONJ"},
-      {"pos": 8, "text": "Бүөтүрдээх", "type": "title", "fst": "ymv", "root": "бүөтүр+PN", "affixes": "+ADJZ#1"},
-      {"pos": 9, "text": "буоллаҕына", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
-      {"pos": 10, "text": "күнүс", "type": "lowercase", "fst": "ymv", "root": "күнүс+Adv"},
-      {"pos": 11, "text": "тиийбит", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+PART_PAST"},
-      {"pos": 12, "text": "этилэр", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3PL"},
-      {"pos": 13, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "дьиэбитигэр", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.1PL.DAT"},
+      {"pos": 3, "text": "им", "type": "lowercase", "fst": "voc", "root": "им+N"},
+      {"pos": 4, "text": "сүтүүтүгэр", "type": "lowercase", "fst": "voc", "root": "сүт+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"},
+      {"pos": 5, "text": "тиийбиппит", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+PART_PAST+1PL"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 7, "text": "оттон", "type": "lowercase", "fst": "voc", "root": "оттон+CONJ"},
+      {"pos": 8, "text": "Бүөтүрдээх", "type": "title", "fst": "voc", "root": "бүөтүр+PN", "affixes": "+ADJZ#1"},
+      {"pos": 9, "text": "буоллаҕына", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 10, "text": "күнүс", "type": "lowercase", "fst": "voc", "root": "күнүс+Adv"},
+      {"pos": 11, "text": "тиийбит", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+PART_PAST"},
+      {"pos": 12, "text": "этилэр", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3PL"},
+      {"pos": 13, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -36,12 +36,12 @@
     "ru": "На обочине дороги стояла грузовая машина.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Суол", "type": "title", "fst": "ymv", "root": "суол+N"},
-      {"pos": 2, "text": "кытыытыгар", "type": "lowercase", "fst": "ymv", "root": "кытыы+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "грузовой", "type": "lowercase", "fst": "yma", "root": "грузовой+Adj"},
-      {"pos": 4, "text": "машина", "type": "lowercase", "fst": "ymv", "root": "машина+N"},
-      {"pos": 5, "text": "турара", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Суол", "type": "title", "fst": "voc", "root": "суол+N"},
+      {"pos": 2, "text": "кытыытыгар", "type": "lowercase", "fst": "voc", "root": "кытыы+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "грузовой", "type": "lowercase", "fst": "aff", "root": "грузовой+Adj"},
+      {"pos": 4, "text": "машина", "type": "lowercase", "fst": "voc", "root": "машина+N"},
+      {"pos": 5, "text": "турара", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -55,16 +55,16 @@
     "ru": "К моему поступлению в школу он уже окончил четвертый класс.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "ymv", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "киирэрбэр", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PART_PRES+POSS.1SG.DAT"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 6, "text": "төрдүс", "type": "lowercase", "fst": "ymv", "root": "түөрт+Num", "affixes": "+ORD"},
-      {"pos": 7, "text": "кылааһы", "type": "lowercase", "fst": "ymv", "root": "кылаас+N", "affixes": "+ACC"},
-      {"pos": 8, "text": "бүтэрбит", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CSTV+PART_PAST"},
-      {"pos": 9, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "киирэрбэр", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PART_PRES+POSS.1SG.DAT"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 6, "text": "төрдүс", "type": "lowercase", "fst": "voc", "root": "түөрт+Num", "affixes": "+ORD"},
+      {"pos": 7, "text": "кылааһы", "type": "lowercase", "fst": "voc", "root": "кылаас+N", "affixes": "+ACC"},
+      {"pos": 8, "text": "бүтэрбит", "type": "lowercase", "fst": "voc", "root": "бүт+V", "affixes": "+CSTV+PART_PAST"},
+      {"pos": 9, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

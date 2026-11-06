@@ -10,16 +10,16 @@
     "ru": "Колхозники выходят в коридор покурить, там, в коридоре, они засыпают где попало.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Колхозтаахтар", "type": "title", "fst": "yma", "root": "колхоз+N", "affixes": "+ADJZ#1+PL"},
-      {"pos": 2, "text": "көлүдүөргэ", "type": "lowercase", "fst": "ymv", "root": "көлүдүөр+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "табахтыы", "type": "lowercase", "fst": "ymv", "root": "табах+N", "affixes": "+ADVZ#6"},
-      {"pos": 4, "text": "тахсаллар", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "онно", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+LOC"},
-      {"pos": 7, "text": "көлүдүөргэ", "type": "lowercase", "fst": "ymv", "root": "көлүдүөр+N", "affixes": "+DAT"},
-      {"pos": 8, "text": "түбэһээрэй", "type": "lowercase", "fst": "ymv", "root": "түбэс+V", "affixes": "+POT"},
-      {"pos": 9, "text": "утуйаллар", "type": "lowercase", "fst": "ymv", "root": "утуй+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Колхозтаахтар", "type": "title", "fst": "aff", "root": "колхоз+N", "affixes": "+ADJZ#1+PL"},
+      {"pos": 2, "text": "көлүдүөргэ", "type": "lowercase", "fst": "voc", "root": "көлүдүөр+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "табахтыы", "type": "lowercase", "fst": "voc", "root": "табах+N", "affixes": "+ADVZ#6"},
+      {"pos": 4, "text": "тахсаллар", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "онно", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+LOC"},
+      {"pos": 7, "text": "көлүдүөргэ", "type": "lowercase", "fst": "voc", "root": "көлүдүөр+N", "affixes": "+DAT"},
+      {"pos": 8, "text": "түбэһээрэй", "type": "lowercase", "fst": "voc", "root": "түбэс+V", "affixes": "+POT"},
+      {"pos": 9, "text": "утуйаллар", "type": "lowercase", "fst": "voc", "root": "утуй+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -33,12 +33,12 @@
     "ru": "Ты, оказывается, читаешь все подряд, что попадется.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "мээнэ", "type": "lowercase", "fst": "ymv", "root": "мээнэ+Adv"},
-      {"pos": 3, "text": "түбэһээрэй", "type": "lowercase", "fst": "ymv", "root": "түбэс+V", "affixes": "+POT"},
-      {"pos": 4, "text": "ааҕар", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PART_PRES"},
-      {"pos": 5, "text": "эбиккин", "type": "lowercase", "fst": "ymv", "root": "эбит+Part", "affixes": "+2SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эн", "type": "title", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "мээнэ", "type": "lowercase", "fst": "voc", "root": "мээнэ+Adv"},
+      {"pos": 3, "text": "түбэһээрэй", "type": "lowercase", "fst": "voc", "root": "түбэс+V", "affixes": "+POT"},
+      {"pos": 4, "text": "ааҕар", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+PART_PRES"},
+      {"pos": 5, "text": "эбиккин", "type": "lowercase", "fst": "voc", "root": "эбит+Part", "affixes": "+2SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -11,8 +11,8 @@
     "ru": "прекрасный человек",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "үтүө", "type": "lowercase", "fst": "ymv", "root": "үтүө+Adj"},
-      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"}
+      {"pos": 1, "text": "үтүө", "type": "lowercase", "fst": "voc", "root": "үтүө+Adj"},
+      {"pos": 2, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"}
     ]
   },
   {
@@ -27,8 +27,8 @@
     "ru": "человека видит",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "киһини", "type": "lowercase", "fst": "ymv", "root": "киһи+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "көрөр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "киһини", "type": "lowercase", "fst": "voc", "root": "киһи+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "көрөр", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -43,8 +43,8 @@
     "ru": "Ребёнок учится.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "оҕо+N"},
-      {"pos": 2, "text": "үөрэнэр", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "voc", "root": "оҕо+N"},
+      {"pos": 2, "text": "үөрэнэр", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -59,9 +59,9 @@
     "ru": "Не курить!",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Табаҕа", "type": "title", "fst": "ymv", "root": "табах+N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": "тардымаҥ", "type": "lowercase", "fst": "ymv", "root": "тарт+V", "affixes": "+NEG+IMP#1.2PL"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Табаҕа", "type": "title", "fst": "voc", "root": "табах+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "тардымаҥ", "type": "lowercase", "fst": "voc", "root": "тарт+V", "affixes": "+NEG+IMP#1.2PL"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -76,9 +76,9 @@
     "ru": "Ребёнок учится хорошо",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "ymv", "root": "оҕо+N"},
-      {"pos": 2, "text": "үчүгэйдик", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 3, "text": "үөрэнэр", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "Оҕо", "type": "title", "fst": "voc", "root": "оҕо+N"},
+      {"pos": 2, "text": "үчүгэйдик", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 3, "text": "үөрэнэр", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -93,8 +93,8 @@
     "ru": "Я учусь",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "үөрэнэбин", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_PRES+1SG"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "үөрэнэбин", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES+1SG"}
     ]
   },
   {
@@ -109,8 +109,8 @@
     "ru": "Он тоже",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ+Adv"}
+      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"}
     ]
   },
   {
@@ -125,8 +125,8 @@
     "ru": "Иван работает",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+PN"},
-      {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"}
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "voc", "root": "уйбаан+PN"},
+      {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"}
     ]
   },
   {
@@ -141,10 +141,10 @@
     "ru": "работает ли Иван?",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+PN"},
-      {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
-      {"pos": 3, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "voc", "root": "уйбаан+PN"},
+      {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 3, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -159,10 +159,10 @@
     "ru": "Иван, работай!",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "ymv", "root": "уйбаан+PN"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "үлэлээ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Уйбаан", "type": "title", "fst": "voc", "root": "уйбаан+PN"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "үлэлээ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

@@ -10,10 +10,10 @@
     "ru": "эта собака не боится волка",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "ыт", "type": "lowercase", "fst": "fst", "root": "ыт+N"},
-      {"pos": 3, "text": "бөрөттөн", "type": "lowercase", "fst": "fst", "root": "бөрө+N", "affixes": "+ABL"},
-      {"pos": 4, "text": "куттаммат", "type": "lowercase", "fst": "fst", "root": "куттаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "ыт", "type": "lowercase", "fst": "voc", "root": "ыт+N"},
+      {"pos": 3, "text": "бөрөттөн", "type": "lowercase", "fst": "voc", "root": "бөрө+N", "affixes": "+ABL"},
+      {"pos": 4, "text": "куттаммат", "type": "lowercase", "fst": "voc", "root": "куттаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"}
     ]
   },
   {
@@ -27,7 +27,7 @@
     "ru": "из лесу",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "ойууртан", "type": "lowercase", "fst": "fst", "root": "ойуур+N", "affixes": "+ABL"}
+      {"pos": 1, "text": "ойууртан", "type": "lowercase", "fst": "voc", "root": "ойуур+N", "affixes": "+ABL"}
     ]
   },
   {
@@ -41,7 +41,7 @@
     "ru": "из дому",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "дьиэттэн", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+ABL"}
+      {"pos": 1, "text": "дьиэттэн", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+ABL"}
     ]
   },
   {
@@ -55,7 +55,7 @@
     "ru": "с работы",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "үлэттэн", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+ABL"}
+      {"pos": 1, "text": "үлэттэн", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+ABL"}
     ]
   },
   {
@@ -69,8 +69,8 @@
     "ru": "с того дня",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "ол", "type": "lowercase", "fst": "fst", "root": "ол+Pron"},
-      {"pos": 2, "text": "күнтэн", "type": "lowercase", "fst": "fst", "root": "күн+N", "affixes": "+ABL"}
+      {"pos": 1, "text": "ол", "type": "lowercase", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "күнтэн", "type": "lowercase", "fst": "voc", "root": "күн+N", "affixes": "+ABL"}
     ]
   },
   {
@@ -84,7 +84,7 @@
     "ru": "с вечера",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "киэһэттэн", "type": "lowercase", "fst": "fst", "root": "киэһэ+N", "affixes": "+ABL"}
+      {"pos": 1, "text": "киэһэттэн", "type": "lowercase", "fst": "voc", "root": "киэһэ+N", "affixes": "+ABL"}
     ]
   },
   {
@@ -98,8 +98,8 @@
     "ru": "с этой поры",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "кэмтэн", "type": "lowercase", "fst": "fst", "root": "кэм+N", "affixes": "+ABL"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "кэмтэн", "type": "lowercase", "fst": "voc", "root": "кэм+N", "affixes": "+ABL"}
     ]
   },
   {
@@ -113,10 +113,10 @@
     "ru": "в этом году хлеб от дождя улучшился",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "быйыл", "type": "lowercase", "fst": "fst", "root": "быйыл+Adv"},
-      {"pos": 2, "text": "бурдук", "type": "lowercase", "fst": "fst", "root": "бурдук+N"},
-      {"pos": 3, "text": "ардахтан", "type": "lowercase", "fst": "fst", "root": "ардаа+V", "affixes": "+NMLZ#6+ABL"},
-      {"pos": 4, "text": "тубуста", "type": "lowercase", "fst": "fst", "root": "тубус+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "быйыл", "type": "lowercase", "fst": "voc", "root": "быйыл+Adv"},
+      {"pos": 2, "text": "бурдук", "type": "lowercase", "fst": "voc", "root": "бурдук+N"},
+      {"pos": 3, "text": "ардахтан", "type": "lowercase", "fst": "voc", "root": "ардаа+V", "affixes": "+NMLZ#6+ABL"},
+      {"pos": 4, "text": "тубуста", "type": "lowercase", "fst": "voc", "root": "тубус+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -130,10 +130,10 @@
     "ru": "от мороза земля растрескалась",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "тымныыттан", "type": "lowercase", "fst": "fst", "root": "тымныы+N", "affixes": "+ABL"},
-      {"pos": 2, "text": "сир", "type": "lowercase", "fst": "fst", "root": "сир+N"},
-      {"pos": 3, "text": "хайыта", "type": "lowercase", "fst": "fst", "root": "хайыт+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "барбыта", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PART_PAST+POSS.3SG"}
+      {"pos": 1, "text": "тымныыттан", "type": "lowercase", "fst": "voc", "root": "тымныы+N", "affixes": "+ABL"},
+      {"pos": 2, "text": "сир", "type": "lowercase", "fst": "voc", "root": "сир+N"},
+      {"pos": 3, "text": "хайыта", "type": "lowercase", "fst": "voc", "root": "хайыт+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "барбыта", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_PAST+POSS.3SG"}
     ]
   },
   {
@@ -147,7 +147,7 @@
     "ru": "от моего отца",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "аҕабыттан", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.1SG.ABL"}
+      {"pos": 1, "text": "аҕабыттан", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.1SG.ABL"}
     ]
   },
   {
@@ -161,7 +161,7 @@
     "ru": "из тоего дому",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "дьиэҕиттэн", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+POSS.2SG.ABL"}
+      {"pos": 1, "text": "дьиэҕиттэн", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.2SG.ABL"}
     ]
   }
 ]

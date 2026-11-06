@@ -10,8 +10,8 @@
     "ru": "толстоватый",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "суон", "type": "lowercase", "fst": "ymv", "root": "суон+Adj"},
-      {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"}
+      {"pos": 1, "text": "суон", "type": "lowercase", "fst": "voc", "root": "суон+Adj"},
+      {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "voc", "root": "соҕус+Part"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "слабоваты",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "мөлтөх", "type": "lowercase", "fst": "ymv", "root": "мөлтөө+V", "affixes": "+ADJZ#16"},
-      {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"}
+      {"pos": 1, "text": "мөлтөх", "type": "lowercase", "fst": "voc", "root": "мөлтөө+V", "affixes": "+ADJZ#16"},
+      {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "voc", "root": "соҕус+Part"}
     ]
   },
   {
@@ -40,10 +40,10 @@
     "ru": "Собралось множество народу.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Дьон", "type": "title", "fst": "ymv", "root": "дьон+N"},
-      {"pos": 2, "text": "бөҕө", "type": "lowercase", "fst": "ymv", "root": "бөҕө+Part"},
-      {"pos": 3, "text": "мустубут", "type": "lowercase", "fst": "ymv", "root": "мус+V", "affixes": "+REFL+PART_PAST"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Дьон", "type": "title", "fst": "voc", "root": "дьон+N"},
+      {"pos": 2, "text": "бөҕө", "type": "lowercase", "fst": "voc", "root": "бөҕө+Part"},
+      {"pos": 3, "text": "мустубут", "type": "lowercase", "fst": "voc", "root": "мус+V", "affixes": "+REFL+PART_PAST"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -57,13 +57,13 @@
     "ru": "Если есть лишний билет, с удовольствием пойду с вами.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Билиэт", "type": "title", "fst": "ymv", "root": "билиэт+N"},
-      {"pos": 2, "text": "ордор", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+PART_PRES"},
-      {"pos": 3, "text": "буоллаҕына", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "бараан", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
-      {"pos": 6, "text": "бөҕө", "type": "lowercase", "fst": "ymv", "root": "бөҕө+Part"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Билиэт", "type": "title", "fst": "voc", "root": "билиэт+N"},
+      {"pos": 2, "text": "ордор", "type": "lowercase", "fst": "voc", "root": "орт+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": "буоллаҕына", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "бараан", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "бөҕө", "type": "lowercase", "fst": "voc", "root": "бөҕө+Part"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -10,13 +10,13 @@
     "ru": "Никто не доит корову с самого рождения.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ким", "type": "title", "fst": "ymv", "root": "ким+Pron"},
-      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "ymv", "root": "даҕаны+Part"},
-      {"pos": 3, "text": "ынаҕы", "type": "lowercase", "fst": "ymv", "root": "ынах+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "төрүөҕүттэн", "type": "lowercase", "fst": "ymv", "root": "төрөө+V", "affixes": "+PART_FUT+POSS.3SG.ABL"},
-      {"pos": 5, "text": "ыыр", "type": "lowercase", "fst": "ymv", "root": "ыа+V", "affixes": "+PART_PRES"},
-      {"pos": 6, "text": "буолбат", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ким", "type": "title", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 2, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"},
+      {"pos": 3, "text": "ынаҕы", "type": "lowercase", "fst": "voc", "root": "ынах+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "төрүөҕүттэн", "type": "lowercase", "fst": "voc", "root": "төрөө+V", "affixes": "+PART_FUT+POSS.3SG.ABL"},
+      {"pos": 5, "text": "ыыр", "type": "lowercase", "fst": "voc", "root": "ыа+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": "буолбат", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,11 +30,11 @@
     "ru": "Оба опять подкрались как только могли.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Иккиэн", "type": "title", "fst": "ymv", "root": "икки+Num", "affixes": "+COLL+ADVZ#10"},
-      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ+Adv"},
-      {"pos": 3, "text": "сыбдыйыахтарынан", "type": "lowercase", "fst": "ymv", "root": "сыбдый+V", "affixes": "+PART_FUT+PL+POSS.3SG.INST"},
-      {"pos": 4, "text": "сыбдыйдылар", "type": "lowercase", "fst": "ymv", "root": "сыбдый+V", "affixes": "+PST.3PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Иккиэн", "type": "title", "fst": "voc", "root": "икки+Num", "affixes": "+COLL+ADVZ#10"},
+      {"pos": 2, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"},
+      {"pos": 3, "text": "сыбдыйыахтарынан", "type": "lowercase", "fst": "voc", "root": "сыбдый+V", "affixes": "+PART_FUT+PL+POSS.3SG.INST"},
+      {"pos": 4, "text": "сыбдыйдылар", "type": "lowercase", "fst": "voc", "root": "сыбдый+V", "affixes": "+PST.3PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

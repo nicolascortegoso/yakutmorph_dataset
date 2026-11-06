@@ -11,15 +11,15 @@
     "ru": "Думаю, что Михась, значит, тоже помрёт.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 2, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аат+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "Мэхээс", "type": "title", "fst": "yma", "root": "мэхээс+PN"},
-      {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "ymv", "root": "эмиэ+Adv"},
-      {"pos": 5, "text": "өлөр", "type": "lowercase", "fst": "ymv", "root": "өл+V", "affixes": "+PART_PRES"},
-      {"pos": 6, "text": "буоллаҕа", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 7, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии+Part"},
-      {"pos": 8, "text": "саныыбын", "type": "lowercase", "fst": "ymv", "root": "санаа+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "аата", "type": "lowercase", "fst": "voc", "root": "аат+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "Мэхээс", "type": "title", "fst": "aff", "root": "мэхээс+PN"},
+      {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"},
+      {"pos": 5, "text": "өлөр", "type": "lowercase", "fst": "voc", "root": "өл+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": "буоллаҕа", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 7, "text": "дии", "type": "lowercase", "fst": "voc", "root": "дии+Part"},
+      {"pos": 8, "text": "саныыбын", "type": "lowercase", "fst": "voc", "root": "санаа+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -34,11 +34,11 @@
     "ru": "Я слышал, что он стал пьяницей.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Иһээччи", "type": "title", "fst": "ymv", "root": "ис+V", "affixes": "+HAB#1"},
-      {"pos": 2, "text": "буолбут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PAST"},
-      {"pos": 3, "text": "диэни", "type": "lowercase", "fst": "yma", "root": "диэни+N"},
-      {"pos": 4, "text": "истибитим", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PART_PAST+POSS.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Иһээччи", "type": "title", "fst": "voc", "root": "ис+V", "affixes": "+HAB#1"},
+      {"pos": 2, "text": "буолбут", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PAST"},
+      {"pos": 3, "text": "диэни", "type": "lowercase", "fst": "aff", "root": "диэни+N"},
+      {"pos": 4, "text": "истибитим", "type": "lowercase", "fst": "voc", "root": "иһит+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -53,13 +53,13 @@
     "ru": "Адитов предупредил Юрюкчянова, что освободит его от должности завудующего.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Адимов", "type": "title", "fst": "yma", "root": "адимов+N"},
-      {"pos": 2, "text": "Үүрүкчээнэби", "type": "title", "fst": "yma", "root": "үүрүкчээнэп+PN", "affixes": "+ACC"},
-      {"pos": 3, "text": "сэбиэдиссэйиттэн", "type": "lowercase", "fst": "ymv", "root": "сэбиэдиссэй+N", "affixes": "+POSS.3SG.ABL"},
-      {"pos": 4, "text": "ууратыам", "type": "lowercase", "fst": "ymv", "root": "уурай+V", "affixes": "+CSTV+PART_FUT+POSS.1SG"},
-      {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
-      {"pos": 6, "text": "сэрэппитэ", "type": "lowercase", "fst": "ymv", "root": "сэрэт+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Адимов", "type": "title", "fst": "aff", "root": "адимов+N"},
+      {"pos": 2, "text": "Үүрүкчээнэби", "type": "title", "fst": "aff", "root": "үүрүкчээнэп+PN", "affixes": "+ACC"},
+      {"pos": 3, "text": "сэбиэдиссэйиттэн", "type": "lowercase", "fst": "voc", "root": "сэбиэдиссэй+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 4, "text": "ууратыам", "type": "lowercase", "fst": "voc", "root": "уурай+V", "affixes": "+CSTV+PART_FUT+POSS.1SG"},
+      {"pos": 5, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "сэрэппитэ", "type": "lowercase", "fst": "voc", "root": "сэрэт+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -74,10 +74,10 @@
     "ru": "Говорят, что царь арестован.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Ыраахтааҕы", "type": "title", "fst": "ymv", "root": "ыраахтааҕы+N"},
-      {"pos": 2, "text": "хааллыбыт", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PST.1PL"},
-      {"pos": 3, "text": "дииллэр", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыраахтааҕы", "type": "title", "fst": "voc", "root": "ыраахтааҕы+N"},
+      {"pos": 2, "text": "хааллыбыт", "type": "lowercase", "fst": "voc", "root": "хаал+V", "affixes": "+PST.1PL"},
+      {"pos": 3, "text": "дииллэр", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -92,10 +92,10 @@
     "ru": "Говорят, что царь арестован.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Ыраахтааҕы", "type": "title", "fst": "ymv", "root": "ыраахтааҕы+N"},
-      {"pos": 2, "text": "хааллыбыт", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PST.1PL"},
-      {"pos": 3, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үһү+Part"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыраахтааҕы", "type": "title", "fst": "voc", "root": "ыраахтааҕы+N"},
+      {"pos": 2, "text": "хааллыбыт", "type": "lowercase", "fst": "voc", "root": "хаал+V", "affixes": "+PST.1PL"},
+      {"pos": 3, "text": "үһү", "type": "lowercase", "fst": "voc", "root": "үһү+Part"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

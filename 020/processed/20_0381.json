@@ -11,16 +11,16 @@
     "ru": "Я хотел спросить значение слова «ородобуой» [уст. родовое управление — местное управление царской администрации в дореволюционной Якутии], но воздержался.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ородобуой", "type": "title", "fst": "yma", "root": "ородобуой+N"},
-      {"pos": 2, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "тылы", "type": "lowercase", "fst": "ymv", "root": "тыл+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "ыйытаары", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+CONV#5"},
-      {"pos": 5, "text": "гынан", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+CONV#1"},
-      {"pos": 6, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
-      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 8, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 9, "text": "туттуннум", "type": "lowercase", "fst": "ymv", "root": "тутун+V", "affixes": "+REFL+PST.1SG"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ородобуой", "type": "title", "fst": "aff", "root": "ородобуой+N"},
+      {"pos": 2, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "тылы", "type": "lowercase", "fst": "voc", "root": "тыл+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "ыйытаары", "type": "lowercase", "fst": "voc", "root": "ыйыт+V", "affixes": "+CONV#5"},
+      {"pos": 5, "text": "гынан", "type": "lowercase", "fst": "voc", "root": "гын+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "баран", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 8, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 9, "text": "туттуннум", "type": "lowercase", "fst": "voc", "root": "тутун+V", "affixes": "+REFL+PST.1SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -35,15 +35,15 @@
     "ru": "Если спрашивать много, старику может не понравиться.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Үгүстүк", "type": "title", "fst": "ymv", "root": "үгүс+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 2, "text": "ыйыттахха", "type": "lowercase", "fst": "ymv", "root": "ыйыт+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "баҕар", "type": "lowercase", "fst": "ymv", "root": "баҕар+MOD"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "оҕонньор", "type": "lowercase", "fst": "ymv", "root": "оҕонньор+N"},
-      {"pos": 7, "text": "сөбүлүө", "type": "lowercase", "fst": "ymv", "root": "сөбүлээ+V", "affixes": "+PART_FUT"},
-      {"pos": 8, "text": "суоҕа", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+POSS.3SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үгүстүк", "type": "title", "fst": "voc", "root": "үгүс+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "ыйыттахха", "type": "lowercase", "fst": "voc", "root": "ыйыт+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "баҕар", "type": "lowercase", "fst": "voc", "root": "баҕар+MOD"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "оҕонньор", "type": "lowercase", "fst": "voc", "root": "оҕонньор+N"},
+      {"pos": 7, "text": "сөбүлүө", "type": "lowercase", "fst": "voc", "root": "сөбүлээ+V", "affixes": "+PART_FUT"},
+      {"pos": 8, "text": "суоҕа", "type": "lowercase", "fst": "voc", "root": "суох+N", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -58,13 +58,13 @@
     "ru": "Если здесь ничего не найдется, пойду по той реке.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Манна", "type": "title", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 2, "text": "малыйдахха", "type": "lowercase", "fst": "ymv", "root": "мал+N", "affixes": "+VRBLZ#2+CONV_COND#2+DAT"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "оол", "type": "lowercase", "fst": "ymv", "root": "оол+Pron"},
-      {"pos": 5, "text": "үрэҕи", "type": "lowercase", "fst": "ymv", "root": "үрэх+N", "affixes": "+ACC"},
-      {"pos": 6, "text": "сыыйыллыа", "type": "lowercase", "fst": "ymv", "root": "сыый+V", "affixes": "+PASS+PART_FUT"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Манна", "type": "title", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 2, "text": "малыйдахха", "type": "lowercase", "fst": "voc", "root": "мал+N", "affixes": "+VRBLZ#2+CONV_COND#2+DAT"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "оол", "type": "lowercase", "fst": "voc", "root": "оол+Pron"},
+      {"pos": 5, "text": "үрэҕи", "type": "lowercase", "fst": "voc", "root": "үрэх+N", "affixes": "+ACC"},
+      {"pos": 6, "text": "сыыйыллыа", "type": "lowercase", "fst": "voc", "root": "сыый+V", "affixes": "+PASS+PART_FUT"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

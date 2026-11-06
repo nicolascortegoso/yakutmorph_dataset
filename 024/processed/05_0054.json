@@ -11,11 +11,11 @@
       "tags": "Lena Aana-dat she-acc scold-caus-past.3",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Лена", "type": "title", "fst": "yma", "root": "лена+PN"},
-         {"pos": 2, "text": "Аанаҕа", "type": "title", "fst": "yma", "root": "аана+PN", "affixes": "+DAT"},
-         {"pos": 3, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
-         {"pos": 4, "text": "мөхтөрдө", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+CAUS+PST.3SG"},
-         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Лена", "type": "title", "fst": "aff", "root": "лена+PN"},
+         {"pos": 2, "text": "Аанаҕа", "type": "title", "fst": "aff", "root": "аана+PN", "affixes": "+DAT"},
+         {"pos": 3, "text": "кинини", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+ACC"},
+         {"pos": 4, "text": "мөхтөрдө", "type": "lowercase", "fst": "voc", "root": "мөх+V", "affixes": "+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -30,12 +30,12 @@
       "tags": "Erel Lena-instrum Aana-dat she-acc scold-caus-caus-past.3",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Эрил", "type": "title", "fst": "yma", "root": "эрил+N"},
-         {"pos": 2, "text": "Ленанан", "type": "title", "fst": "yma", "root": "лена+PN", "affixes": "+INST"},
-         {"pos": 3, "text": "Аанаҕа", "type": "title", "fst": "yma", "root": "аана+PN", "affixes": "+DAT"},
-         {"pos": 4, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
-         {"pos": 5, "text": "мөхтөртөрдө", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+CAUS+CAUS+PST.3SG"},
-         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Эрил", "type": "title", "fst": "aff", "root": "эрил+N"},
+         {"pos": 2, "text": "Ленанан", "type": "title", "fst": "aff", "root": "лена+PN", "affixes": "+INST"},
+         {"pos": 3, "text": "Аанаҕа", "type": "title", "fst": "aff", "root": "аана+PN", "affixes": "+DAT"},
+         {"pos": 4, "text": "кинини", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+ACC"},
+         {"pos": 5, "text": "мөхтөртөрдө", "type": "lowercase", "fst": "voc", "root": "мөх+V", "affixes": "+CAUS+CAUS+PST.3SG"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
       ]
    }
 ]

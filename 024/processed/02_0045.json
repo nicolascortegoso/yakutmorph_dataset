@@ -11,11 +11,11 @@
       "tags": "Sardaana Lena-dat Erel-acc scold-caus-past.3",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+PN"},
-         {"pos": 2, "text": "Ленаҕа", "type": "title", "fst": "yma", "root": "лена+PN", "affixes": "+DAT"},
-         {"pos": 3, "text": "Эрили", "type": "title", "fst": "yma", "root": "эрил+PN", "affixes": "+ACC"},
-         {"pos": 4, "text": "мөхтөрдө", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+CAUS+PST.3SG"},
-         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "voc", "root": "сардаана+PN"},
+         {"pos": 2, "text": "Ленаҕа", "type": "title", "fst": "aff", "root": "лена+PN", "affixes": "+DAT"},
+         {"pos": 3, "text": "Эрили", "type": "title", "fst": "aff", "root": "эрил+PN", "affixes": "+ACC"},
+         {"pos": 4, "text": "мөхтөрдө", "type": "lowercase", "fst": "voc", "root": "мөх+V", "affixes": "+CAUS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -30,9 +30,9 @@
       "tags": "L.-dat E.-acc scold-caus-nom",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Ленаҕа", "type": "title", "fst": "yma", "root": "лена+PN", "affixes": "+DAT"},
-         {"pos": 2, "text": "Эрили", "type": "title", "fst": "yma", "root": "эрил+PN", "affixes": "+ACC"},
-         {"pos": 3, "text": "мөхтөрүү", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+CAUS+NMLZ#2"}
+         {"pos": 1, "text": "Ленаҕа", "type": "title", "fst": "aff", "root": "лена+PN", "affixes": "+DAT"},
+         {"pos": 2, "text": "Эрили", "type": "title", "fst": "aff", "root": "эрил+PN", "affixes": "+ACC"},
+         {"pos": 3, "text": "мөхтөрүү", "type": "lowercase", "fst": "voc", "root": "мөх+V", "affixes": "+CAUS+NMLZ#2"}
       ]
    },
    {
@@ -47,10 +47,10 @@
       "tags": "S. L.-dat E.-acc scold-caus-nom-3",
       "id": 3,
       "parses": [
-         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "ymv", "root": "сардаана+PN"},
-         {"pos": 2, "text": "Ленаҕа", "type": "title", "fst": "yma", "root": "лена+PN", "affixes": "+DAT"},
-         {"pos": 3, "text": "Эрили", "type": "title", "fst": "yma", "root": "эрил+PN", "affixes": "+ACC"},
-         {"pos": 4, "text": "мөхтөрүүтэ", "type": "lowercase", "fst": "ymv", "root": "мөх+V", "affixes": "+CAUS+NMLZ#2+POSS.3SG"}
+         {"pos": 1, "text": "Сардаана", "type": "title", "fst": "voc", "root": "сардаана+PN"},
+         {"pos": 2, "text": "Ленаҕа", "type": "title", "fst": "aff", "root": "лена+PN", "affixes": "+DAT"},
+         {"pos": 3, "text": "Эрили", "type": "title", "fst": "aff", "root": "эрил+PN", "affixes": "+ACC"},
+         {"pos": 4, "text": "мөхтөрүүтэ", "type": "lowercase", "fst": "voc", "root": "мөх+V", "affixes": "+CAUS+NMLZ#2+POSS.3SG"}
       ]
    }
 ]

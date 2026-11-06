@@ -10,13 +10,13 @@
     "ru": "Эх, как хочется быть на месте Сергея и Улиты!",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Хаарыаны", "type": "title", "fst": "ymv", "root": "хаарыаны+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Сергейдээх", "type": "title", "fst": "yma", "root": "сергей+N", "affixes": "+ADVZ#1"},
-      {"pos": 4, "text": "Улита", "type": "title", "fst": "yma", "root": "улита+PN"},
-      {"pos": 5, "text": "буолбут", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PAST"},
-      {"pos": 6, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
-      {"pos": 7, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Хаарыаны", "type": "title", "fst": "voc", "root": "хаарыаны+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "Сергейдээх", "type": "title", "fst": "aff", "root": "сергей+N", "affixes": "+ADVZ#1"},
+      {"pos": 4, "text": "Улита", "type": "title", "fst": "aff", "root": "улита+PN"},
+      {"pos": 5, "text": "буолбут", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PAST"},
+      {"pos": 6, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 7, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -30,11 +30,11 @@
     "ru": "Им предстоит увидеть Якутский театр.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Саха", "type": "title", "fst": "fst", "root": "саха+N"},
-      {"pos": 2, "text": "театрын", "type": "lowercase", "fst": "fst", "root": "театр+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "көрүөхтэрэ", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
-      {"pos": 4, "text": "турдаҕа", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+CONV_COND#2+POSS.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Саха", "type": "title", "fst": "voc", "root": "саха+N"},
+      {"pos": 2, "text": "театрын", "type": "lowercase", "fst": "voc", "root": "театр+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "көрүөхтэрэ", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
+      {"pos": 4, "text": "турдаҕа", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CONV_COND#2+POSS.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -48,18 +48,18 @@
     "ru": "Ох, знать бы хоть половину его знаний!",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Хаарыаны", "type": "title", "fst": "fst", "root": "хаарыаны+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини+Pron"},
-      {"pos": 4, "text": "билиитин", "type": "lowercase", "fst": "fst", "root": "бил+V", "affixes": "+NMLZ#2+POSS.3SG.ACC"},
-      {"pos": 5, "text": "сатаатар", "type": "lowercase", "fst": "fst", "root": "сатаатар+MOD"},
-      {"pos": 6, "text": "аҥарын", "type": "lowercase", "fst": "fst", "root": "аҥар+Num", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 7, "text": "да", "type": "lowercase", "fst": "fst", "root": "да+Part"},
-      {"pos": 8, "text": "билбит", "type": "lowercase", "fst": "fst", "root": "бил+V", "affixes": "+PART_PAST"},
-      {"pos": 9, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"},
-      {"pos": 10, "text": "баар", "type": "lowercase", "fst": "fst", "root": "баар+N"},
-      {"pos": 11, "text": "ини", "type": "lowercase", "fst": "fst", "root": "ини+Part"},
-      {"pos": 12, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Хаарыаны", "type": "title", "fst": "voc", "root": "хаарыаны+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 4, "text": "билиитин", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+NMLZ#2+POSS.3SG.ACC"},
+      {"pos": 5, "text": "сатаатар", "type": "lowercase", "fst": "voc", "root": "сатаатар+MOD"},
+      {"pos": 6, "text": "аҥарын", "type": "lowercase", "fst": "voc", "root": "аҥар+Num", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 7, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 8, "text": "билбит", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+PART_PAST"},
+      {"pos": 9, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 10, "text": "баар", "type": "lowercase", "fst": "voc", "root": "баар+N"},
+      {"pos": 11, "text": "ини", "type": "lowercase", "fst": "voc", "root": "ини+Part"},
+      {"pos": 12, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -73,18 +73,18 @@
     "ru": "В тепле этого огня, эх, поспать бы чуток.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Ыа", "type": "title", "fst": "ymv", "root": "ыа+INJ"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 4, "text": "уот", "type": "lowercase", "fst": "ymv", "root": "уот+N"},
-      {"pos": 5, "text": "сылааһыгар", "type": "lowercase", "fst": "ymv", "root": "сылаас+Adj", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "хаарыаны", "type": "lowercase", "fst": "ymv", "root": "хаарыаны+MOD"},
-      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 9, "text": "нухарыйа", "type": "lowercase", "fst": "ymv", "root": "нухарый+V", "affixes": "+CONV#2"},
-      {"pos": 10, "text": "түспүт", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PAST"},
-      {"pos": 11, "text": "киһи", "type": "lowercase", "fst": "ymv", "root": "киһи+N"},
-      {"pos": 12, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Ыа", "type": "title", "fst": "voc", "root": "ыа+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 4, "text": "уот", "type": "lowercase", "fst": "voc", "root": "уот+N"},
+      {"pos": 5, "text": "сылааһыгар", "type": "lowercase", "fst": "voc", "root": "сылаас+Adj", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 7, "text": "хаарыаны", "type": "lowercase", "fst": "voc", "root": "хаарыаны+MOD"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 9, "text": "нухарыйа", "type": "lowercase", "fst": "voc", "root": "нухарый+V", "affixes": "+CONV#2"},
+      {"pos": 10, "text": "түспүт", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PART_PAST"},
+      {"pos": 11, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 12, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -98,12 +98,12 @@
     "ru": "Ах, как хорошо было бы, если б они приехали сегодня!",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Хаарыаны", "type": "title", "fst": "fst", "root": "хаарыаны+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "кинилэр", "type": "lowercase", "fst": "fst", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 4, "text": "бүгүн", "type": "lowercase", "fst": "fst", "root": "бүгүн+Adv"},
-      {"pos": 5, "text": "кэллэллэр", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+CONV_COND#1+PL"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Хаарыаны", "type": "title", "fst": "voc", "root": "хаарыаны+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "кинилэр", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 4, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүгүн+Adv"},
+      {"pos": 5, "text": "кэллэллэр", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV_COND#1+PL"},
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

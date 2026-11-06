@@ -10,8 +10,8 @@
     "ru": "ферма колхоза (кохозная ферма)",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "fst", "root": "колхоз+N"},
-      {"pos": 2, "text": "фермата", "type": "lowercase", "fst": "fst", "root": "ферма+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 2, "text": "фермата", "type": "lowercase", "fst": "voc", "root": "ферма+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "окна дома",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "fst", "root": "дьиэ+N"},
-      {"pos": 2, "text": "түннүктэрэ", "type": "lowercase", "fst": "fst", "root": "түннүк+N", "affixes": "+PL+POSS.3SG"}
+      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"},
+      {"pos": 2, "text": "түннүктэрэ", "type": "lowercase", "fst": "voc", "root": "түннүк+N", "affixes": "+PL+POSS.3SG"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "ножки стола",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "остуол", "type": "lowercase", "fst": "fst", "root": "остуол+N"},
-      {"pos": 2, "text": "атахтара", "type": "lowercase", "fst": "fst", "root": "атах+N", "affixes": "+PL+POSS.3SG"}
+      {"pos": 1, "text": "остуол", "type": "lowercase", "fst": "voc", "root": "остуол+N"},
+      {"pos": 2, "text": "атахтара", "type": "lowercase", "fst": "voc", "root": "атах+N", "affixes": "+PL+POSS.3SG"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "fst", "root": "колхоз+N"},
-      {"pos": 2, "text": "ата", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 2, "text": "ата", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "колхозтар", "type": "lowercase", "fst": "fst", "root": "колхоз+N", "affixes": "+PL"},
-      {"pos": 2, "text": "аттара", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+PL+POSS.3SG"}
+      {"pos": 1, "text": "колхозтар", "type": "lowercase", "fst": "voc", "root": "колхоз+N", "affixes": "+PL"},
+      {"pos": 2, "text": "аттара", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+PL+POSS.3SG"}
     ]
   },
   {
@@ -85,8 +85,8 @@
     "ru": "мой конь",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "атым", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+POSS.1SG"}
+      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "атым", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+POSS.1SG"}
     ]
   },
   {
@@ -100,8 +100,8 @@
     "ru": "наш ребёнок",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "оҕобут", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.1PL"}
+      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "оҕобут", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.1PL"}
     ]
   },
   {
@@ -115,8 +115,8 @@
     "ru": "твой конь",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "fst", "root": "эн+Pron"},
-      {"pos": 2, "text": "атыҥ", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+POSS.2SG"}
+      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "атыҥ", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+POSS.2SG"}
     ]
   },
   {
@@ -130,8 +130,8 @@
     "ru": "ваш ребёнок",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "эһиги", "type": "lowercase", "fst": "fst", "root": "эһиги+Pron"},
-      {"pos": 2, "text": "оҕоҕут", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.2PL"}
+      {"pos": 1, "text": "эһиги", "type": "lowercase", "fst": "voc", "root": "эһиги+Pron"},
+      {"pos": 2, "text": "оҕоҕут", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.2PL"}
     ]
   },
   {
@@ -145,8 +145,8 @@
     "ru": "работа колхоза",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "fst", "root": "колхоз+N"},
-      {"pos": 2, "text": "үлэтэ", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 2, "text": "үлэтэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -160,8 +160,8 @@
     "ru": "работа колхозов",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "колхозтар", "type": "lowercase", "fst": "fst", "root": "колхоз+N", "affixes": "+PL"},
-      {"pos": 2, "text": "үлэлэрэ", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+PL+POSS.3SG"}
+      {"pos": 1, "text": "колхозтар", "type": "lowercase", "fst": "voc", "root": "колхоз+N", "affixes": "+PL"},
+      {"pos": 2, "text": "үлэлэрэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+PL+POSS.3SG"}
     ]
   },
   {
@@ -175,8 +175,8 @@
     "ru": "ружьё моего отца",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "саата", "type": "lowercase", "fst": "fst", "root": "саа+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "саата", "type": "lowercase", "fst": "voc", "root": "саа+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -190,8 +190,8 @@
     "ru": "дверь нашего дома",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "дьиэбит", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+POSS.1PL"},
-      {"pos": 2, "text": "аана", "type": "lowercase", "fst": "fst", "root": "аан+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "дьиэбит", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.1PL"},
+      {"pos": 2, "text": "аана", "type": "lowercase", "fst": "voc", "root": "аан+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -205,8 +205,8 @@
     "ru": "имя вашего ребёнка",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "оҕоҕут", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.2PL"},
-      {"pos": 2, "text": "аата", "type": "lowercase", "fst": "fst", "root": "аат+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "оҕоҕут", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.2PL"},
+      {"pos": 2, "text": "аата", "type": "lowercase", "fst": "voc", "root": "аат+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -220,8 +220,8 @@
     "ru": "ружьё его отца",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "аҕатын", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 2, "text": "саата", "type": "lowercase", "fst": "fst", "root": "саа+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "аҕатын", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "саата", "type": "lowercase", "fst": "voc", "root": "саа+N", "affixes": "+POSS.3SG"}
     ]
   }
 ]

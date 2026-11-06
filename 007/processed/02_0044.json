@@ -10,11 +10,11 @@
     "ru": "Девка, где ты ходишь?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Хотуой", "type": "title", "fst": "fst", "root": "хотуой+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "ханна", "type": "lowercase", "fst": "fst", "root": "ханна+Pron"},
-      {"pos": 4, "text": "сырыттыҥ", "type": "lowercase", "fst": "fst", "root": "сырыт+V", "affixes": "+PST.2SG"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "fst"}
+      {"pos": 1, "text": "Хотуой", "type": "title", "fst": "voc", "root": "хотуой+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "ханна", "type": "lowercase", "fst": "voc", "root": "ханна+Pron"},
+      {"pos": 4, "text": "сырыттыҥ", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+PST.2SG"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -28,12 +28,12 @@
     "ru": "Девчонка, ты зря не болтай.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Хотуой", "type": "title", "fst": "fst", "root": "хотуой+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "мээнэ", "type": "lowercase", "fst": "fst", "root": "мээнэ+Adv"},
-      {"pos": 4, "text": "тылга", "type": "lowercase", "fst": "fst", "root": "тыл+N", "affixes": "+DAT"},
-      {"pos": 5, "text": "тииһимэ", "type": "lowercase", "fst": "fst", "root": "тиий+V", "affixes": "+RECP+NEG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Хотуой", "type": "title", "fst": "voc", "root": "хотуой+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "мээнэ", "type": "lowercase", "fst": "voc", "root": "мээнэ+Adv"},
+      {"pos": 4, "text": "тылга", "type": "lowercase", "fst": "voc", "root": "тыл+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "тииһимэ", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+RECP+NEG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,11 +47,11 @@
     "ru": "Ну, девка, берегись!",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "fst", "root": "дьэ+MOD"},
-      {"pos": 2, "text": "хотуой", "type": "lowercase", "fst": "fst", "root": "хотуой+MOD"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "сэрэн", "type": "lowercase", "fst": "fst", "root": "сэрэн+V"},
-      {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "voc", "root": "дьэ+MOD"},
+      {"pos": 2, "text": "хотуой", "type": "lowercase", "fst": "voc", "root": "хотуой+MOD"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "сэрэн", "type": "lowercase", "fst": "voc", "root": "сэрэн+V"},
+      {"pos": 5, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -65,17 +65,17 @@
     "ru": "Каким ветром тебя пригнало сюда, девка?",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Тыый", "type": "title", "fst": "fst", "root": "тыый+INJ"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "ол", "type": "lowercase", "fst": "fst", "root": "ол+Pron"},
-      {"pos": 4, "text": "эйигин", "type": "lowercase", "fst": "fst", "root": "эн+Pron", "affixes": "+ACC"},
-      {"pos": 5, "text": "манна", "type": "lowercase", "fst": "fst", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 6, "text": "туох", "type": "lowercase", "fst": "fst", "root": "туох+Pron"},
-      {"pos": 7, "text": "үүрэн", "type": "lowercase", "fst": "fst", "root": "үүр+V", "affixes": "+CONV#1"},
-      {"pos": 8, "text": "аҕалла", "type": "lowercase", "fst": "fst", "root": "аҕал+V", "affixes": "+PST.3SG"},
-      {"pos": 9, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 10, "text": "хотуой", "type": "lowercase", "fst": "fst", "root": "хотуой+MOD"},
-      {"pos": 11, "text": "?", "type": "question", "fst": "fst"}
+      {"pos": 1, "text": "Тыый", "type": "title", "fst": "voc", "root": "тыый+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "ол", "type": "lowercase", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 4, "text": "эйигин", "type": "lowercase", "fst": "voc", "root": "эн+Pron", "affixes": "+ACC"},
+      {"pos": 5, "text": "манна", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 6, "text": "туох", "type": "lowercase", "fst": "voc", "root": "туох+Pron"},
+      {"pos": 7, "text": "үүрэн", "type": "lowercase", "fst": "voc", "root": "үүр+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "аҕалла", "type": "lowercase", "fst": "voc", "root": "аҕал+V", "affixes": "+PST.3SG"},
+      {"pos": 9, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 10, "text": "хотуой", "type": "lowercase", "fst": "voc", "root": "хотуой+MOD"},
+      {"pos": 11, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -89,13 +89,13 @@
     "ru": "Девка, пришла, услышав про ужасный случай.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Хотуой", "type": "title", "fst": "fst", "root": "хотуой+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "сүрдээх", "type": "lowercase", "fst": "fst", "root": "сүр+N", "affixes": "+ADJZ#1"},
-      {"pos": 4, "text": "суолу", "type": "lowercase", "fst": "fst", "root": "суол+N", "affixes": "+ACC"},
-      {"pos": 5, "text": "истэн", "type": "lowercase", "fst": "fst", "root": "иһит+V", "affixes": "+CONV#1"},
-      {"pos": 6, "text": "кэллим", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PST.1SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Хотуой", "type": "title", "fst": "voc", "root": "хотуой+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "сүрдээх", "type": "lowercase", "fst": "voc", "root": "сүр+N", "affixes": "+ADJZ#1"},
+      {"pos": 4, "text": "суолу", "type": "lowercase", "fst": "voc", "root": "суол+N", "affixes": "+ACC"},
+      {"pos": 5, "text": "истэн", "type": "lowercase", "fst": "voc", "root": "иһит+V", "affixes": "+CONV#1"},
+      {"pos": 6, "text": "кэллим", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PST.1SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -109,15 +109,15 @@
     "ru": "Ну-ка, девка, развяжи вязки своей шапки.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Ыл", "type": "title", "fst": "ymv", "root": "ыл+V"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "хотуок", "type": "lowercase", "fst": "ymv", "root": "хотуок+MOD"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "бэргэһэҕин", "type": "lowercase", "fst": "ymv", "root": "бэргэһэ+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 7, "text": "быатын", "type": "lowercase", "fst": "ymv", "root": "быа+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 8, "text": "сүөр", "type": "lowercase", "fst": "ymv", "root": "сүөр+V"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыл", "type": "title", "fst": "voc", "root": "ыл+V"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "хотуок", "type": "lowercase", "fst": "voc", "root": "хотуок+MOD"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "бэргэһэҕин", "type": "lowercase", "fst": "voc", "root": "бэргэһэ+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 7, "text": "быатын", "type": "lowercase", "fst": "voc", "root": "быа+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 8, "text": "сүөр", "type": "lowercase", "fst": "voc", "root": "сүөр+V"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

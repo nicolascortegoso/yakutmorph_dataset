@@ -10,10 +10,10 @@
     "ru": "Я стираю белье.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "таҥас", "type": "lowercase", "fst": "ymv", "root": "таҥас+N"},
-      {"pos": 3, "text": "сууйабын", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "таҥас", "type": "lowercase", "fst": "voc", "root": "таҥас+N"},
+      {"pos": 3, "text": "сууйабын", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -27,9 +27,9 @@
     "ru": "Я моюсь.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "суунабын", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "суунабын", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -43,10 +43,10 @@
     "ru": "Я умываю лицо.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "сирэйбин", "type": "lowercase", "fst": "ymv", "root": "сирэй+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 3, "text": "суунабын", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "сирэйбин", "type": "lowercase", "fst": "voc", "root": "сирэй+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 3, "text": "суунабын", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -60,10 +60,10 @@
     "ru": "Я стираю белье.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "таҥаспын", "type": "lowercase", "fst": "ymv", "root": "таҥас+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 3, "text": "суунабын", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "таҥаспын", "type": "lowercase", "fst": "voc", "root": "таҥас+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 3, "text": "суунабын", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+REFL/PASS+PART_PRES+1SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -77,10 +77,10 @@
     "ru": "Он сено возит.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "от", "type": "lowercase", "fst": "ymv", "root": "от+N"},
-      {"pos": 3, "text": "тиэйэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "от", "type": "lowercase", "fst": "voc", "root": "от+N"},
+      {"pos": 3, "text": "тиэйэр", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -94,10 +94,10 @@
     "ru": "Он возит себе (для себя) сено.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "от", "type": "lowercase", "fst": "ymv", "root": "от+N"},
-      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "от", "type": "lowercase", "fst": "voc", "root": "от+N"},
+      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -111,10 +111,10 @@
     "ru": "Он возит сено (свое) себе (для себя) возит.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "отун", "type": "lowercase", "fst": "ymv", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "отун", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "voc", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -128,10 +128,10 @@
     "ru": "Я опираюсь на тебя.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "эйиэхэ", "type": "lowercase", "fst": "ymv", "root": "эн+Pron", "affixes": "+DAT"},
-      {"pos": 3, "text": "өйөнөбүн", "type": "lowercase", "fst": "ymv", "root": "өй+N", "affixes": "+VRBLZ#3+REFL/PASS+PART_PRES+1SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "эйиэхэ", "type": "lowercase", "fst": "voc", "root": "эн+Pron", "affixes": "+DAT"},
+      {"pos": 3, "text": "өйөнөбүн", "type": "lowercase", "fst": "voc", "root": "өй+N", "affixes": "+VRBLZ#3+REFL/PASS+PART_PRES+1SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -145,11 +145,11 @@
     "ru": "Кто-то просыпал муку.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Ким", "type": "title", "fst": "ymv", "root": "ким+Pron"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
-      {"pos": 3, "text": "бурдугу", "type": "lowercase", "fst": "ymv", "root": "бурдук+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "тохпут", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+PART_PAST"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ким", "type": "title", "fst": "voc", "root": "ким+Pron"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 3, "text": "бурдугу", "type": "lowercase", "fst": "voc", "root": "бурдук+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "тохпут", "type": "lowercase", "fst": "voc", "root": "тох+V", "affixes": "+PART_PAST"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -163,10 +163,10 @@
     "ru": "Здесь просыпалась мука.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Манна", "type": "title", "fst": "ymv", "root": "бу+Pron", "affixes": "+LOC"},
-      {"pos": 2, "text": "бурдук", "type": "lowercase", "fst": "ymv", "root": "бурдук+N"},
-      {"pos": 3, "text": "тохтубут", "type": "lowercase", "fst": "ymv", "root": "тох+V", "affixes": "+PST.1PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Манна", "type": "title", "fst": "voc", "root": "бу+Pron", "affixes": "+LOC"},
+      {"pos": 2, "text": "бурдук", "type": "lowercase", "fst": "voc", "root": "бурдук+N"},
+      {"pos": 3, "text": "тохтубут", "type": "lowercase", "fst": "voc", "root": "тох+V", "affixes": "+PST.1PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

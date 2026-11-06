@@ -10,12 +10,12 @@
     "ru": "В вечер переезда на летник (в вечер, когда переехали на летник) мы ели оладьи.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Сайылыкка", "type": "title", "fst": "ymv", "root": "сайылаа+V", "affixes": "+NMLZ#5+DAT"},
-      {"pos": 2, "text": "көстөх", "type": "lowercase", "fst": "ymv", "root": "көс+V", "affixes": "+CONV_COND#2"},
-      {"pos": 3, "text": "киэһэ", "type": "lowercase", "fst": "ymv", "root": "киэһэ+N"},
-      {"pos": 4, "text": "алладьы", "type": "lowercase", "fst": "yma", "root": "алладьы+N"},
-      {"pos": 5, "text": "сиэбиппит", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+PART_PAST+POSS.1PL"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сайылыкка", "type": "title", "fst": "voc", "root": "сайылаа+V", "affixes": "+NMLZ#5+DAT"},
+      {"pos": 2, "text": "көстөх", "type": "lowercase", "fst": "voc", "root": "көс+V", "affixes": "+CONV_COND#2"},
+      {"pos": 3, "text": "киэһэ", "type": "lowercase", "fst": "voc", "root": "киэһэ+N"},
+      {"pos": 4, "text": "алладьы", "type": "lowercase", "fst": "aff", "root": "алладьы+N"},
+      {"pos": 5, "text": "сиэбиппит", "type": "lowercase", "fst": "voc", "root": "сиэ+V", "affixes": "+PART_PAST+POSS.1PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,12 +29,12 @@
     "ru": "Свой платок я потеряла в день хождения в театр (в день, когда ходила в театр).",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Былааппын", "type": "title", "fst": "fst", "root": "былаат+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 2, "text": "театрга", "type": "lowercase", "fst": "fst", "root": "театр+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "сырыттах", "type": "lowercase", "fst": "fst", "root": "сырыт+V", "affixes": "+CONV_COND#2"},
-      {"pos": 4, "text": "күн", "type": "lowercase", "fst": "fst", "root": "күн+N"},
-      {"pos": 5, "text": "сүтэрбитим", "type": "lowercase", "fst": "fst", "root": "сүт+V", "affixes": "+CSTV+PART_PAST+POSS.1SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Былааппын", "type": "title", "fst": "voc", "root": "былаат+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 2, "text": "театрга", "type": "lowercase", "fst": "voc", "root": "театр+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "сырыттах", "type": "lowercase", "fst": "voc", "root": "сырыт+V", "affixes": "+CONV_COND#2"},
+      {"pos": 4, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 5, "text": "сүтэрбитим", "type": "lowercase", "fst": "voc", "root": "сүт+V", "affixes": "+CSTV+PART_PAST+POSS.1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -48,13 +48,13 @@
     "ru": "В день окончания седьмого класса мы вступили в комсомол.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Сэттис", "type": "title", "fst": "ymv", "root": "сэттэ+Num", "affixes": "+ORD"},
-      {"pos": 2, "text": "кылааһы", "type": "lowercase", "fst": "ymv", "root": "кылаас+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "бүтэрдэхпит", "type": "lowercase", "fst": "ymv", "root": "бүт+V", "affixes": "+CSTV+CONV_COND#2+POSS.1PL"},
-      {"pos": 4, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"},
-      {"pos": 5, "text": "комсомолга", "type": "lowercase", "fst": "yma", "root": "комсомол+N", "affixes": "+DAT"},
-      {"pos": 6, "text": "киирбиппит", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PART_PAST+POSS.1PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сэттис", "type": "title", "fst": "voc", "root": "сэттэ+Num", "affixes": "+ORD"},
+      {"pos": 2, "text": "кылааһы", "type": "lowercase", "fst": "voc", "root": "кылаас+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "бүтэрдэхпит", "type": "lowercase", "fst": "voc", "root": "бүт+V", "affixes": "+CSTV+CONV_COND#2+POSS.1PL"},
+      {"pos": 4, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 5, "text": "комсомолга", "type": "lowercase", "fst": "aff", "root": "комсомол+N", "affixes": "+DAT"},
+      {"pos": 6, "text": "киирбиппит", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PART_PAST+POSS.1PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -68,8 +68,8 @@
     "ru": "при каждом уходе",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "бардах", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV_COND#2"},
-      {"pos": 2, "text": "аайы", "type": "lowercase", "fst": "ymv", "root": "аайы+POST"}
+      {"pos": 1, "text": "бардах", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV_COND#2"},
+      {"pos": 2, "text": "аайы", "type": "lowercase", "fst": "voc", "root": "аайы+POST"}
     ]
   },
   {
@@ -83,8 +83,8 @@
     "ru": "при каждом приходе",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "кэллэх", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV_COND#2"},
-      {"pos": 2, "text": "аайы", "type": "lowercase", "fst": "ymv", "root": "аайы+POST"}
+      {"pos": 1, "text": "кэллэх", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV_COND#2"},
+      {"pos": 2, "text": "аайы", "type": "lowercase", "fst": "voc", "root": "аайы+POST"}
     ]
   }
 ]

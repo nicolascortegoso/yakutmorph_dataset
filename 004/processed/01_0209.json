@@ -10,8 +10,8 @@
     "ru": "дом строится",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "fst", "root": "дьиэ+N"},
-      {"pos": 2, "text": "тутуллар", "type": "lowercase", "fst": "fst", "root": "тут+V", "affixes": "+PASS+PART_PRES"}
+      {"pos": 1, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"},
+      {"pos": 2, "text": "тутуллар", "type": "lowercase", "fst": "voc", "root": "тут+V", "affixes": "+PASS+PART_PRES"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "письмо написано",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "сурук", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NMLZ#5"},
-      {"pos": 2, "text": "сурулунна", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+PASS+PST.3SG"}
+      {"pos": 1, "text": "сурук", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+NMLZ#5"},
+      {"pos": 2, "text": "сурулунна", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+PASS+PST.3SG"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "школа откроется",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "оскуола", "type": "lowercase", "fst": "fst", "root": "оскуола+N"},
-      {"pos": 2, "text": "аһыллыаҕа", "type": "lowercase", "fst": "fst", "root": "ас+V", "affixes": "+PASS+PART_FUT+POSS.3SG"}
+      {"pos": 1, "text": "оскуола", "type": "lowercase", "fst": "voc", "root": "оскуола+N"},
+      {"pos": 2, "text": "аһыллыаҕа", "type": "lowercase", "fst": "voc", "root": "ас+V", "affixes": "+PASS+PART_FUT+POSS.3SG"}
     ]
   },
   {
@@ -55,9 +55,9 @@
     "ru": "луг начал скашиваться",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "ходуһа", "type": "lowercase", "fst": "fst", "root": "ходуһа+N"},
-      {"pos": 2, "text": "оттонон", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+VRBLZ#1+REFL/PASS+CONV#1"},
-      {"pos": 3, "text": "эрэр", "type": "lowercase", "fst": "fst", "root": "эр+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "ходуһа", "type": "lowercase", "fst": "voc", "root": "ходуһа+N"},
+      {"pos": 2, "text": "оттонон", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+VRBLZ#1+REFL/PASS+CONV#1"},
+      {"pos": 3, "text": "эрэр", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -71,9 +71,9 @@
     "ru": "собрание еще не открыто",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "мунньах", "type": "lowercase", "fst": "fst", "root": "мус+V", "affixes": "+NMLZ#6"},
-      {"pos": 2, "text": "аһылла", "type": "lowercase", "fst": "fst", "root": "ас+V", "affixes": "+PASS+CONV#2"},
-      {"pos": 3, "text": "илик", "type": "lowercase", "fst": "fst", "root": "илик+Part"}
+      {"pos": 1, "text": "мунньах", "type": "lowercase", "fst": "voc", "root": "мус+V", "affixes": "+NMLZ#6"},
+      {"pos": 2, "text": "аһылла", "type": "lowercase", "fst": "voc", "root": "ас+V", "affixes": "+PASS+CONV#2"},
+      {"pos": 3, "text": "илик", "type": "lowercase", "fst": "voc", "root": "илик+Part"}
     ]
   },
   {
@@ -87,8 +87,8 @@
     "ru": "упряжная лошадь",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "көлүллэр", "type": "lowercase", "fst": "fst", "root": "көлүй+V", "affixes": "+PASS+PART_PRES"},
-      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "fst", "root": "ат+N"}
+      {"pos": 1, "text": "көлүллэр", "type": "lowercase", "fst": "voc", "root": "көлүй+V", "affixes": "+PASS+PART_PRES"},
+      {"pos": 2, "text": "ат", "type": "lowercase", "fst": "voc", "root": "ат+N"}
     ]
   },
   {
@@ -102,8 +102,8 @@
     "ru": "распиленное дерево",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "эрбэммит", "type": "lowercase", "fst": "fst", "root": "эрбээ+V", "affixes": "+REFL/PASS+PART_PAST"},
-      {"pos": 2, "text": "мас", "type": "lowercase", "fst": "fst", "root": "мас+N"}
+      {"pos": 1, "text": "эрбэммит", "type": "lowercase", "fst": "voc", "root": "эрбээ+V", "affixes": "+REFL/PASS+PART_PAST"},
+      {"pos": 2, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"}
     ]
   },
   {
@@ -117,8 +117,8 @@
     "ru": "пища, которую следовало употребить",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "аһаныах", "type": "lowercase", "fst": "fst", "root": "ас+N", "affixes": "+VRBLZ#3+REFL/PASS+PART_FUT"},
-      {"pos": 2, "text": "ас", "type": "lowercase", "fst": "fst", "root": "ас+N"}
+      {"pos": 1, "text": "аһаныах", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+REFL/PASS+PART_FUT"},
+      {"pos": 2, "text": "ас", "type": "lowercase", "fst": "voc", "root": "ас+N"}
     ]
   },
   {
@@ -132,8 +132,8 @@
     "ru": "подведение итогов работы (узлование работы)",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "үлэ", "type": "lowercase", "fst": "fst", "root": "үлэ+N"},
-      {"pos": 2, "text": "түмүктэниитэ", "type": "lowercase", "fst": "fst", "root": "түм+V", "affixes": "+NMLZ#5+VRBLZ#1+REFL/PASS+NMLZ#2+POSS.3SG"}
+      {"pos": 1, "text": "үлэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N"},
+      {"pos": 2, "text": "түмүктэниитэ", "type": "lowercase", "fst": "voc", "root": "түм+V", "affixes": "+NMLZ#5+VRBLZ#1+REFL/PASS+NMLZ#2+POSS.3SG"}
     ]
   },
   {
@@ -147,9 +147,9 @@
     "ru": "дом строит плотник",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "дьиэни", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "болуотунньук", "type": "lowercase", "fst": "fst", "root": "болуотунньук+N"},
-      {"pos": 3, "text": "тутар", "type": "lowercase", "fst": "fst", "root": "тут+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "дьиэни", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "болуотунньук", "type": "lowercase", "fst": "voc", "root": "болуотунньук+N"},
+      {"pos": 3, "text": "тутар", "type": "lowercase", "fst": "voc", "root": "тут+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -163,9 +163,9 @@
     "ru": "кинигэм книга, которую я прочитал",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "аахпыт", "type": "lowercase", "fst": "fst", "root": "аах+V", "affixes": "+PART_PAST"},
-      {"pos": 3, "text": "кинигэм", "type": "lowercase", "fst": "fst", "root": "кинигэ+N", "affixes": "+POSS.1SG"}
+      {"pos": 1, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "аахпыт", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+PART_PAST"},
+      {"pos": 3, "text": "кинигэм", "type": "lowercase", "fst": "voc", "root": "кинигэ+N", "affixes": "+POSS.1SG"}
     ]
   },
   {
@@ -179,9 +179,9 @@
     "ru": "земля покрывается снегом",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "сир", "type": "lowercase", "fst": "fst", "root": "сир+N"},
-      {"pos": 2, "text": "хаарынан", "type": "lowercase", "fst": "fst", "root": "хаар+N", "affixes": "+INST"},
-      {"pos": 3, "text": "бүрүллэр", "type": "lowercase", "fst": "fst", "root": "бүрүй+V", "affixes": "+PASS+PART_PRES"}
+      {"pos": 1, "text": "сир", "type": "lowercase", "fst": "voc", "root": "сир+N"},
+      {"pos": 2, "text": "хаарынан", "type": "lowercase", "fst": "voc", "root": "хаар+N", "affixes": "+INST"},
+      {"pos": 3, "text": "бүрүллэр", "type": "lowercase", "fst": "voc", "root": "бүрүй+V", "affixes": "+PASS+PART_PRES"}
     ]
   },
   {
@@ -195,9 +195,9 @@
     "ru": "солнце закрыто облаками",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "fst", "root": "күн+N"},
-      {"pos": 2, "text": "былытынан", "type": "lowercase", "fst": "fst", "root": "былыт+N", "affixes": "+INST"},
-      {"pos": 3, "text": "сабыллыбыт", "type": "lowercase", "fst": "fst", "root": "сап+V", "affixes": "+PASS+PART_PAST"}
+      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 2, "text": "былытынан", "type": "lowercase", "fst": "voc", "root": "былыт+N", "affixes": "+INST"},
+      {"pos": 3, "text": "сабыллыбыт", "type": "lowercase", "fst": "voc", "root": "сап+V", "affixes": "+PASS+PART_PAST"}
     ]
   },
   {
@@ -211,10 +211,10 @@
     "ru": "эта земля вспахана конем",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "ити", "type": "lowercase", "fst": "fst", "root": "ити+Pron"},
-      {"pos": 2, "text": "сир", "type": "lowercase", "fst": "fst", "root": "сир+N"},
-      {"pos": 3, "text": "атынан", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+INST"},
-      {"pos": 4, "text": "хоруйтарыллыбыта", "type": "lowercase", "fst": "fst", "root": "хоруй+V", "affixes": "+CAUS+PASS+PART_PAST+POSS.3SG"}
+      {"pos": 1, "text": "ити", "type": "lowercase", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 2, "text": "сир", "type": "lowercase", "fst": "voc", "root": "сир+N"},
+      {"pos": 3, "text": "атынан", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+INST"},
+      {"pos": 4, "text": "хоруйтарыллыбыта", "type": "lowercase", "fst": "voc", "root": "хоруй+V", "affixes": "+CAUS+PASS+PART_PAST+POSS.3SG"}
     ]
   },
   {
@@ -228,9 +228,9 @@
     "ru": "трава вытоптана конем",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "от", "type": "lowercase", "fst": "fst", "root": "от+N"},
-      {"pos": 2, "text": "атынан", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+INST"},
-      {"pos": 3, "text": "тэбистэриллибит", "type": "lowercase", "fst": "fst", "root": "тэбис+V", "affixes": "+CAUS+PASS+PART_PAST"}
+      {"pos": 1, "text": "от", "type": "lowercase", "fst": "voc", "root": "от+N"},
+      {"pos": 2, "text": "атынан", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+INST"},
+      {"pos": 3, "text": "тэбистэриллибит", "type": "lowercase", "fst": "voc", "root": "тэбис+V", "affixes": "+CAUS+PASS+PART_PAST"}
     ]
   }
 ]

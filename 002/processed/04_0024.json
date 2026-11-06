@@ -10,12 +10,12 @@
     "ru": "Господин мой, сделай, пожалуйста, так.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Тойонуом", "type": "title", "fst": "fst", "root": "тойон+N", "affixes": "+VRBLZ#3+PART_FUT+POSS.1SG"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "дьэ", "type": "lowercase", "fst": "fst", "root": "дьэ+MOD"},
-      {"pos": 4, "text": "инньэ", "type": "lowercase", "fst": "fst", "root": "инньэ+Adv"},
-      {"pos": 5, "text": "гыныый", "type": "lowercase", "fst": "fst", "root": "гын+V", "affixes": "+INT#1"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Тойонуом", "type": "title", "fst": "voc", "root": "тойон+N", "affixes": "+VRBLZ#3+PART_FUT+POSS.1SG"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "дьэ", "type": "lowercase", "fst": "voc", "root": "дьэ+MOD"},
+      {"pos": 4, "text": "инньэ", "type": "lowercase", "fst": "voc", "root": "инньэ+Adv"},
+      {"pos": 5, "text": "гыныый", "type": "lowercase", "fst": "voc", "root": "гын+V", "affixes": "+INT#1"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,11 +29,11 @@
     "ru": "Мамочка родная, не плачь, пожалуйста.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Маамам", "type": "title", "fst": "ymv", "root": "маама+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "оҕотоо", "type": "lowercase", "fst": "yma", "root": "оҕотоо+N"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "ытаамарыый", "type": "lowercase", "fst": "ymv", "root": "ытаа+V", "affixes": "+NEG+INT#1"},
-      {"pos": 5, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Маамам", "type": "title", "fst": "voc", "root": "маама+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "оҕотоо", "type": "lowercase", "fst": "aff", "root": "оҕотоо+N"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "ытаамарыый", "type": "lowercase", "fst": "voc", "root": "ытаа+V", "affixes": "+NEG+INT#1"},
+      {"pos": 5, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -47,8 +47,8 @@
     "ru": "Не надо же...",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кэбиһиий", "type": "title", "fst": "fst", "root": "кэбис+V", "affixes": "+INT#1"},
-      {"pos": 2, "text": "...", "type": "ellipsis", "fst": "fst"}
+      {"pos": 1, "text": "Кэбиһиий", "type": "title", "fst": "voc", "root": "кэбис+V", "affixes": "+INT#1"},
+      {"pos": 2, "text": "...", "type": "ellipsis", "fst": "voc"}
     ]
   },
   {
@@ -62,8 +62,8 @@
     "ru": "Успокойся, ради бога... ",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Уоскуйууй", "type": "title", "fst": "fst", "root": "уоскуй+V", "affixes": "+INT#1"},
-      {"pos": 2, "text": "...", "type": "ellipsis", "fst": "fst"}
+      {"pos": 1, "text": "Уоскуйууй", "type": "title", "fst": "voc", "root": "уоскуй+V", "affixes": "+INT#1"},
+      {"pos": 2, "text": "...", "type": "ellipsis", "fst": "voc"}
     ]
   },
   {
@@ -77,12 +77,12 @@
     "ru": "Идите-же, — пригласила их Майя.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Кэлиҥитиий", "type": "title", "fst": "ymv", "root": "кэл+V", "affixes": "+IMP#1.2PL+INT#1"},
-      {"pos": 2, "text": "!", "type": "exclamation", "fst": "ymv"},
-      {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "Маайа", "type": "title", "fst": "yma", "root": "маайа+N"},
-      {"pos": 5, "text": "ыҥыртаабыта", "type": "lowercase", "fst": "ymv", "root": "ыҥыр+V", "affixes": "+ITER#2+PART_PAST+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кэлиҥитиий", "type": "title", "fst": "voc", "root": "кэл+V", "affixes": "+IMP#1.2PL+INT#1"},
+      {"pos": 2, "text": "!", "type": "exclamation", "fst": "voc"},
+      {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "Маайа", "type": "title", "fst": "aff", "root": "маайа+N"},
+      {"pos": 5, "text": "ыҥыртаабыта", "type": "lowercase", "fst": "voc", "root": "ыҥыр+V", "affixes": "+ITER#2+PART_PAST+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -96,9 +96,9 @@
     "ru": "Не пишите же на моей бумаге!",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Кумааҕыбар", "type": "title", "fst": "fst", "root": "кумааҕы+N", "affixes": "+POSS.1SG.DAT"},
-      {"pos": 2, "text": "суруйумаҥытыныый", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NEG+IMP#1.2PL+INT#2"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Кумааҕыбар", "type": "title", "fst": "voc", "root": "кумааҕы+N", "affixes": "+POSS.1SG.DAT"},
+      {"pos": 2, "text": "суруйумаҥытыныый", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+NEG+IMP#1.2PL+INT#2"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -112,11 +112,11 @@
     "ru": "Выйдем, пожалуйста, гулять в зеленый лес.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Тахсыаҕыый", "type": "title", "fst": "fst", "root": "таҕыс+V", "affixes": "+PART_FUT+INT#1"},
-      {"pos": 2, "text": "күөх", "type": "lowercase", "fst": "fst", "root": "күөх+Adj"},
-      {"pos": 3, "text": "тыаҕа", "type": "lowercase", "fst": "fst", "root": "тыа+N", "affixes": "+DAT"},
-      {"pos": 4, "text": "күүлэйдии", "type": "lowercase", "fst": "fst", "root": "күүлэй+N", "affixes": "+VRBLZ#1+NMLZ#2"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Тахсыаҕыый", "type": "title", "fst": "voc", "root": "таҕыс+V", "affixes": "+PART_FUT+INT#1"},
+      {"pos": 2, "text": "күөх", "type": "lowercase", "fst": "voc", "root": "күөх+Adj"},
+      {"pos": 3, "text": "тыаҕа", "type": "lowercase", "fst": "voc", "root": "тыа+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "күүлэйдии", "type": "lowercase", "fst": "voc", "root": "күүлэй+N", "affixes": "+VRBLZ#1+NMLZ#2"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

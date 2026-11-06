@@ -10,11 +10,11 @@
     "ru": "Они ехали очень долго, скрипя полозьями.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Бэрт", "type": "title", "fst": "fst", "root": "бэрт+Adj"},
-      {"pos": 2, "text": "өр", "type": "lowercase", "fst": "fst", "root": "өр+Adv"},
-      {"pos": 3, "text": "кыыкырдатан", "type": "lowercase", "fst": "fst", "root": "кыыкыр+IMIT", "affixes": "+VRBLZ#1+CAUS+CONV#1"},
-      {"pos": 4, "text": "истилэр", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PST.3PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Бэрт", "type": "title", "fst": "voc", "root": "бэрт+Adj"},
+      {"pos": 2, "text": "өр", "type": "lowercase", "fst": "voc", "root": "өр+Adv"},
+      {"pos": 3, "text": "кыыкырдатан", "type": "lowercase", "fst": "voc", "root": "кыыкыр+IMIT", "affixes": "+VRBLZ#1+CAUS+CONV#1"},
+      {"pos": 4, "text": "истилэр", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PST.3PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,9 +28,9 @@
     "ru": "Смотрит, мигая слезящимися воспаленными глазами.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ньаспаҥнатан", "type": "title", "fst": "fst", "root": "ньаспай+V", "affixes": "+FREC#7+CAUS+CONV#1"},
-      {"pos": 2, "text": "көрөр", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Ньаспаҥнатан", "type": "title", "fst": "voc", "root": "ньаспай+V", "affixes": "+FREC#7+CAUS+CONV#1"},
+      {"pos": 2, "text": "көрөр", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

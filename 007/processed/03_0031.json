@@ -10,11 +10,11 @@
     "ru": "Спроста, что ли, станут они торопиться (обнаруживать беспокойство)?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Дэлэҕэ", "type": "title", "fst": "fst", "root": "дэлэ+Adj", "affixes": "+DAT"},
-      {"pos": 2, "text": "ыксыахтара", "type": "lowercase", "fst": "fst", "root": "ыксаа+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
-      {"pos": 3, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо+Part"},
-      {"pos": 4, "text": "кинилэр", "type": "lowercase", "fst": "fst", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "fst"}
+      {"pos": 1, "text": "Дэлэҕэ", "type": "title", "fst": "voc", "root": "дэлэ+Adj", "affixes": "+DAT"},
+      {"pos": 2, "text": "ыксыахтара", "type": "lowercase", "fst": "voc", "root": "ыксаа+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
+      {"pos": 3, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 4, "text": "кинилэр", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -28,15 +28,15 @@
     "ru": "Неспроста ныне фашистская черная свора окопалась в Америке!",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Фашистскай", "type": "title", "fst": "yma", "root": "фашистскай+Adj"},
-      {"pos": 2, "text": "торҕон", "type": "lowercase", "fst": "ymv", "root": "торҕон+Adj"},
-      {"pos": 3, "text": "үөрдэр", "type": "lowercase", "fst": "ymv", "root": "үөр+V", "affixes": "+CSTV+PART_PRES"},
-      {"pos": 4, "text": "дэлэҕэ", "type": "lowercase", "fst": "ymv", "root": "дэлэ+Adj", "affixes": "+DAT"},
-      {"pos": 5, "text": "билигин", "type": "lowercase", "fst": "ymv", "root": "билигин+Adv"},
-      {"pos": 6, "text": "Америкаҕа", "type": "title", "fst": "ymv", "root": "америка+PN", "affixes": "+DAT"},
-      {"pos": 7, "text": "ордууланыахтара", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+NMLZ#2+VRBLZ#1+REFL/PASS+PART_FUT+PL+POSS.3SG"},
-      {"pos": 8, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Фашистскай", "type": "title", "fst": "aff", "root": "фашистскай+Adj"},
+      {"pos": 2, "text": "торҕон", "type": "lowercase", "fst": "voc", "root": "торҕон+Adj"},
+      {"pos": 3, "text": "үөрдэр", "type": "lowercase", "fst": "voc", "root": "үөр+V", "affixes": "+CSTV+PART_PRES"},
+      {"pos": 4, "text": "дэлэҕэ", "type": "lowercase", "fst": "voc", "root": "дэлэ+Adj", "affixes": "+DAT"},
+      {"pos": 5, "text": "билигин", "type": "lowercase", "fst": "voc", "root": "билигин+Adv"},
+      {"pos": 6, "text": "Америкаҕа", "type": "title", "fst": "voc", "root": "америка+PN", "affixes": "+DAT"},
+      {"pos": 7, "text": "ордууланыахтара", "type": "lowercase", "fst": "voc", "root": "орт+V", "affixes": "+NMLZ#2+VRBLZ#1+REFL/PASS+PART_FUT+PL+POSS.3SG"},
+      {"pos": 8, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -50,11 +50,11 @@
     "ru": "ҥҕөһү Зря они так рано не поедут.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Дэлэҕэ", "type": "title", "fst": "fst", "root": "дэлэ+Adj", "affixes": "+DAT"},
-      {"pos": 2, "text": "бачча", "type": "lowercase", "fst": "fst", "root": "бу+Pron", "affixes": "+DEF#2"},
-      {"pos": 3, "text": "эрдэ", "type": "lowercase", "fst": "fst", "root": "эрдэ+Adv"},
-      {"pos": 4, "text": "барбаттар", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+NEG+PART_PRES+PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Дэлэҕэ", "type": "title", "fst": "voc", "root": "дэлэ+Adj", "affixes": "+DAT"},
+      {"pos": 2, "text": "бачча", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+DEF#2"},
+      {"pos": 3, "text": "эрдэ", "type": "lowercase", "fst": "voc", "root": "эрдэ+Adv"},
+      {"pos": 4, "text": "барбаттар", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+NEG+PART_PRES+PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -68,12 +68,12 @@
     "ru": "Зря он прозван тигром?",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Дэлэҕэ", "type": "title", "fst": "fst", "root": "дэлэ+Adj", "affixes": "+DAT"},
-      {"pos": 2, "text": "Баабыр", "type": "title", "fst": "fst", "root": "баабыр+PN"},
-      {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "fst", "root": "диэ+V", "affixes": "+CONV#1"},
-      {"pos": 4, "text": "ааттаныа", "type": "lowercase", "fst": "fst", "root": "аат+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_FUT"},
-      {"pos": 5, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо+Part"},
-      {"pos": 6, "text": "?", "type": "question", "fst": "fst"}
+      {"pos": 1, "text": "Дэлэҕэ", "type": "title", "fst": "voc", "root": "дэлэ+Adj", "affixes": "+DAT"},
+      {"pos": 2, "text": "Баабыр", "type": "title", "fst": "voc", "root": "баабыр+PN"},
+      {"pos": 3, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+      {"pos": 4, "text": "ааттаныа", "type": "lowercase", "fst": "voc", "root": "аат+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_FUT"},
+      {"pos": 5, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 6, "text": "?", "type": "question", "fst": "voc"}
     ]
   }
 ]

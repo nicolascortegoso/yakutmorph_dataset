@@ -10,13 +10,13 @@
     "ru": "Чтобы не оставить Таню на второй год, наняли репетитора.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Таняны", "type": "title", "fst": "yma", "root": "таня+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "иккис", "type": "lowercase", "fst": "ymv", "root": "икки+Num", "affixes": "+ORD"},
-      {"pos": 3, "text": "сылга", "type": "lowercase", "fst": "ymv", "root": "сыл+N", "affixes": "+DAT"},
-      {"pos": 4, "text": "хаалларымаары", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+CSTV+NEG+CONV#5"},
-      {"pos": 5, "text": "репетитор", "type": "lowercase", "fst": "ymv", "root": "репетитор+N"},
-      {"pos": 6, "text": "булуммуттар", "type": "lowercase", "fst": "ymv", "root": "бул+V", "affixes": "+REFL+PART_PAST+PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Таняны", "type": "title", "fst": "aff", "root": "таня+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "иккис", "type": "lowercase", "fst": "voc", "root": "икки+Num", "affixes": "+ORD"},
+      {"pos": 3, "text": "сылга", "type": "lowercase", "fst": "voc", "root": "сыл+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "хаалларымаары", "type": "lowercase", "fst": "voc", "root": "хаал+V", "affixes": "+CSTV+NEG+CONV#5"},
+      {"pos": 5, "text": "репетитор", "type": "lowercase", "fst": "voc", "root": "репетитор+N"},
+      {"pos": 6, "text": "булуммуттар", "type": "lowercase", "fst": "voc", "root": "бул+V", "affixes": "+REFL+PART_PAST+PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,12 +30,12 @@
     "ru": "Чтобы не опоздать на собрание, я побежал бегом.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Мунньахха", "type": "title", "fst": "ymv", "root": "мус+V", "affixes": "+NMLZ#6+DAT"},
-      {"pos": 2, "text": "хойутаамаарыбын", "type": "lowercase", "fst": "ymv", "root": "хойут+Adv", "affixes": "+VRBLZ#3+NEG+CONV#5+1SG"},
-      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 4, "text": "сүүрүүнэн", "type": "lowercase", "fst": "ymv", "root": "сүүр+V", "affixes": "+NMLZ#2+INST"},
-      {"pos": 5, "text": "тиийдим", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+PST.1SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мунньахха", "type": "title", "fst": "voc", "root": "мус+V", "affixes": "+NMLZ#6+DAT"},
+      {"pos": 2, "text": "хойутаамаарыбын", "type": "lowercase", "fst": "voc", "root": "хойут+Adv", "affixes": "+VRBLZ#3+NEG+CONV#5+1SG"},
+      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 4, "text": "сүүрүүнэн", "type": "lowercase", "fst": "voc", "root": "сүүр+V", "affixes": "+NMLZ#2+INST"},
+      {"pos": 5, "text": "тиийдим", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+PST.1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

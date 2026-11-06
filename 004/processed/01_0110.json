@@ -10,12 +10,12 @@
     "ru": "Ты этой девочке вели натаскать воды.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "fst", "root": "эн+Pron"},
-      {"pos": 2, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 3, "text": "кыыска", "type": "lowercase", "fst": "fst", "root": "кыыс+N", "affixes": "+DAT"},
-      {"pos": 4, "text": "уута", "type": "lowercase", "fst": "fst", "root": "уу+N", "affixes": "+PRTV"},
-      {"pos": 5, "text": "бастар", "type": "lowercase", "fst": "fst", "root": "бас+V", "affixes": "+CAUS"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Эн", "type": "title", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 3, "text": "кыыска", "type": "lowercase", "fst": "voc", "root": "кыыс+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "уута", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+PRTV"},
+      {"pos": 5, "text": "бастар", "type": "lowercase", "fst": "voc", "root": "бас+V", "affixes": "+CAUS"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,11 +29,11 @@
     "ru": "Они меня заставили косить траву.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "fst", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "миигин", "type": "lowercase", "fst": "fst", "root": "мин+Pron", "affixes": "+ACC"},
-      {"pos": 3, "text": "от", "type": "lowercase", "fst": "fst", "root": "от+N"},
-      {"pos": 4, "text": "оҕустардылар", "type": "lowercase", "fst": "fst", "root": "оҕус+V", "affixes": "+CAUS+PST.3PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "миигин", "type": "lowercase", "fst": "voc", "root": "мин+Pron", "affixes": "+ACC"},
+      {"pos": 3, "text": "от", "type": "lowercase", "fst": "voc", "root": "от+N"},
+      {"pos": 4, "text": "оҕустардылар", "type": "lowercase", "fst": "voc", "root": "оҕус+V", "affixes": "+CAUS+PST.3PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,12 +47,12 @@
     "ru": "Эту траву мы будем косить с помощью машины.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "оту", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "биһиги", "type": "lowercase", "fst": "fst", "root": "биһиги+Pron"},
-      {"pos": 4, "text": "массыынанан", "type": "lowercase", "fst": "fst", "root": "массыына+N", "affixes": "+INST"},
-      {"pos": 5, "text": "оҕустарыахпыт", "type": "lowercase", "fst": "fst", "root": "оҕус+V", "affixes": "+CAUS+PART_FUT+POSS.1PL"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "оту", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "биһиги", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 4, "text": "массыынанан", "type": "lowercase", "fst": "voc", "root": "массыына+N", "affixes": "+INST"},
+      {"pos": 5, "text": "оҕустарыахпыт", "type": "lowercase", "fst": "voc", "root": "оҕус+V", "affixes": "+CAUS+PART_FUT+POSS.1PL"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -66,10 +66,10 @@
     "ru": "Ты свое белье в будущем давай стирать мне.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Таҥаскын", "type": "title", "fst": "fst", "root": "таҥас+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "fst", "root": "мин+Pron", "affixes": "+DAT"},
-      {"pos": 3, "text": "сууйтараар", "type": "lowercase", "fst": "fst", "root": "сууй+V", "affixes": "+CAUS+IMP#2.2SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Таҥаскын", "type": "title", "fst": "voc", "root": "таҥас+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "миэхэ", "type": "lowercase", "fst": "voc", "root": "мин+Pron", "affixes": "+DAT"},
+      {"pos": 3, "text": "сууйтараар", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+CAUS+IMP#2.2SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -83,9 +83,9 @@
     "ru": "Ты дай (дозволь, попроси, заставь) лечить твои глаза.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Хараххын", "type": "title", "fst": "fst", "root": "харах+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 2, "text": "эмтэт", "type": "lowercase", "fst": "fst", "root": "эмп+N", "affixes": "+VRBLZ#1+CAUS"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Хараххын", "type": "title", "fst": "voc", "root": "харах+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 2, "text": "эмтэт", "type": "lowercase", "fst": "voc", "root": "эмп+N", "affixes": "+VRBLZ#1+CAUS"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

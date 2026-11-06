@@ -10,13 +10,13 @@
     "ru": "Я должен был отдать своему учителю книги.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "учууталбар", "type": "lowercase", "fst": "ymv", "root": "учуутал+N", "affixes": "+POSS.1SG.DAT"},
-      {"pos": 3, "text": "кинигэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N"},
-      {"pos": 4, "text": "би", "type": "lowercase", "fst": "yma", "root": "би+N"},
-      {"pos": 5, "text": "эрэрдээх", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+PART_PRES+DEB"},
-      {"pos": 6, "text": "этим", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.1SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "учууталбар", "type": "lowercase", "fst": "voc", "root": "учуутал+N", "affixes": "+POSS.1SG.DAT"},
+      {"pos": 3, "text": "кинигэ", "type": "lowercase", "fst": "voc", "root": "кинигэ+N"},
+      {"pos": 4, "text": "би", "type": "lowercase", "fst": "aff", "root": "би+N"},
+      {"pos": 5, "text": "эрэрдээх", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+PART_PRES+DEB"},
+      {"pos": 6, "text": "этим", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.1SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -30,12 +30,12 @@
     "ru": "Моя сестра в тот день должна была стряпать.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Эдьиийим", "type": "title", "fst": "ymv", "root": "эдьиий+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "ол", "type": "lowercase", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 3, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"},
-      {"pos": 4, "text": "ас", "type": "lowercase", "fst": "ymv", "root": "ас+N"},
-      {"pos": 5, "text": "астыырдааҕа", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+VRBLZ#1+PART_PRES+DEB+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эдьиийим", "type": "title", "fst": "voc", "root": "эдьиий+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "ол", "type": "lowercase", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 3, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 4, "text": "ас", "type": "lowercase", "fst": "voc", "root": "ас+N"},
+      {"pos": 5, "text": "астыырдааҕа", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#1+PART_PRES+DEB+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

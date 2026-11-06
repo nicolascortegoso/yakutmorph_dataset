@@ -11,12 +11,12 @@
       "tags": "Aisen Sardaana-instrum Erel-dat book-acc read-caus-caus-past.3",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Айсен", "type": "title", "fst": "ymv", "root": "айсен+PN"},
-         {"pos": 2, "text": "Сардаананан", "type": "title", "fst": "ymv", "root": "сардаана+PN", "affixes": "+INST"},
-         {"pos": 3, "text": "Эрилгэ", "type": "title", "fst": "yma", "root": "эрил+PN", "affixes": "+DAT"},
-         {"pos": 4, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
-         {"pos": 5, "text": "аахтартарда", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+CAUS+CAUS+PST.3SG"},
-         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Айсен", "type": "title", "fst": "voc", "root": "айсен+PN"},
+         {"pos": 2, "text": "Сардаананан", "type": "title", "fst": "voc", "root": "сардаана+PN", "affixes": "+INST"},
+         {"pos": 3, "text": "Эрилгэ", "type": "title", "fst": "aff", "root": "эрил+PN", "affixes": "+DAT"},
+         {"pos": 4, "text": "кинигэни", "type": "lowercase", "fst": "voc", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 5, "text": "аахтартарда", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+CAUS+CAUS+PST.3SG"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
       ]
    },    
    {
@@ -31,11 +31,11 @@
       "tags": "Book Sardaana-instrum Erel-dat read-caus-caus-pass-past.3",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "ymv", "root": "кинигэ+N"},
-         {"pos": 2, "text": "Сардаананан", "type": "title", "fst": "ymv", "root": "сардаана+PN", "affixes": "+INST"},
-         {"pos": 3, "text": "Эрилгэ", "type": "title", "fst": "yma", "root": "эрил+PN", "affixes": "+DAT"},
-         {"pos": 4, "text": "аахтартарылынна", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+CAUS+CAUS+PASS+PST.3SG"},
-         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "voc", "root": "кинигэ+N"},
+         {"pos": 2, "text": "Сардаананан", "type": "title", "fst": "voc", "root": "сардаана+PN", "affixes": "+INST"},
+         {"pos": 3, "text": "Эрилгэ", "type": "title", "fst": "aff", "root": "эрил+PN", "affixes": "+DAT"},
+         {"pos": 4, "text": "аахтартарылынна", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+CAUS+CAUS+PASS+PST.3SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -51,10 +51,10 @@
       "incorrect": true,
       "id": 3,
       "parses": [
-         {"pos": 1, "text": "Сардаананан", "type": "title", "fst": "ymv", "root": "сардаана+PN", "affixes": "+INST"},
-         {"pos": 2, "text": "Эрилгэ", "type": "title", "fst": "yma", "root": "эрил+PN", "affixes": "+DAT"},
-         {"pos": 3, "text": "кинигэни", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+ACC"},
-         {"pos": 4, "text": "аахтартарыы", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+CAUS+CAUS+NMLZ#2"}
+         {"pos": 1, "text": "Сардаананан", "type": "title", "fst": "voc", "root": "сардаана+PN", "affixes": "+INST"},
+         {"pos": 2, "text": "Эрилгэ", "type": "title", "fst": "aff", "root": "эрил+PN", "affixes": "+DAT"},
+         {"pos": 3, "text": "кинигэни", "type": "lowercase", "fst": "voc", "root": "кинигэ+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "аахтартарыы", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+CAUS+CAUS+NMLZ#2"}
       ]
    }
 ]

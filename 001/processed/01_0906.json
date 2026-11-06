@@ -10,13 +10,13 @@
     "ru": "Мама, мама, милая моя!",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ийээ", "type": "title", "fst": "ymv", "root": "ийээ+INJ"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "ийээ", "type": "lowercase", "fst": "ymv", "root": "ийээ+INJ"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "чыычааҕым", "type": "lowercase", "fst": "ymv", "root": "чыычаах+N", "affixes": "+POSS.1SG"},
-      {"pos": 6, "text": "оҕотоо", "type": "lowercase", "fst": "yma", "root": "оҕотоо+N"},
-      {"pos": 7, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Ийээ", "type": "title", "fst": "voc", "root": "ийээ+INJ"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "ийээ", "type": "lowercase", "fst": "voc", "root": "ийээ+INJ"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "чыычааҕым", "type": "lowercase", "fst": "voc", "root": "чыычаах+N", "affixes": "+POSS.1SG"},
+      {"pos": 6, "text": "оҕотоо", "type": "lowercase", "fst": "aff", "root": "оҕотоо+N"},
+      {"pos": 7, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -30,9 +30,9 @@
     "ru": "Успокойся, пожалуйста!",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Уоскуй", "type": "title", "fst": "ymv", "root": "уоскуй+V"},
-      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+Part"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Уоскуй", "type": "title", "fst": "voc", "root": "уоскуй+V"},
+      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "voc", "root": "даа+Part"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -46,10 +46,10 @@
     "ru": "Пожалуйста, (тогда) прогони меня.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Үүрэн", "type": "title", "fst": "ymv", "root": "үүр+V", "affixes": "+CONV#1"},
-      {"pos": 2, "text": "ыытаар", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+IMP#2.2SG"},
-      {"pos": 3, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Үүрэн", "type": "title", "fst": "voc", "root": "үүр+V", "affixes": "+CONV#1"},
+      {"pos": 2, "text": "ыытаар", "type": "lowercase", "fst": "voc", "root": "ыыт+V", "affixes": "+IMP#2.2SG"},
+      {"pos": 3, "text": "дуу", "type": "lowercase", "fst": "voc", "root": "дуу+Part"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

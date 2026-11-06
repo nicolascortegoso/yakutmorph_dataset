@@ -10,9 +10,9 @@
     "ru": "за лошадь я отдал",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "ат", "type": "lowercase", "fst": "ymv", "root": "ат+N"},
-      {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "биэрдим", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PST.1SG"}
+      {"pos": 1, "text": "ат", "type": "lowercase", "fst": "voc", "root": "ат+N"},
+      {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "voc", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "биэрдим", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+PST.1SG"}
     ]
   },
   {
@@ -26,8 +26,8 @@
     "ru": "за лошадь я отдал",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "акка", "type": "lowercase", "fst": "ymv", "root": "ат+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "биэрдим", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PST.1SG"}
+      {"pos": 1, "text": "акка", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "биэрдим", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+PST.1SG"}
     ]
   },
   {
@@ -41,8 +41,8 @@
     "ru": "он пошел по лесу",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "ойуурунан", "type": "lowercase", "fst": "ymv", "root": "ойуур+N", "affixes": "+INST"},
-      {"pos": 2, "text": "барда", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "ойуурунан", "type": "lowercase", "fst": "voc", "root": "ойуур+N", "affixes": "+INST"},
+      {"pos": 2, "text": "барда", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -56,9 +56,9 @@
     "ru": "он пошел по лесу",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "ойуур", "type": "lowercase", "fst": "ymv", "root": "ойуур+N"},
-      {"pos": 2, "text": "устун", "type": "lowercase", "fst": "ymv", "root": "устун+POST"},
-      {"pos": 3, "text": "барда", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "ойуур", "type": "lowercase", "fst": "voc", "root": "ойуур+N"},
+      {"pos": 2, "text": "устун", "type": "lowercase", "fst": "voc", "root": "устун+POST"},
+      {"pos": 3, "text": "барда", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.3SG"}
     ]
   }
 ]

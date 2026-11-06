@@ -11,11 +11,11 @@
       "tags": "This animal tall be-aor",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
-         {"pos": 2, "text": "кыыл", "type": "lowercase", "fst": "ymv", "root": "кыыл+N"},
-         {"pos": 3, "text": "уһун", "type": "lowercase", "fst": "ymv", "root": "уһун+Adj"},
-         {"pos": 4, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+         {"pos": 2, "text": "кыыл", "type": "lowercase", "fst": "voc", "root": "кыыл+N"},
+         {"pos": 3, "text": "уһун", "type": "lowercase", "fst": "voc", "root": "уһун+Adj"},
+         {"pos": 4, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -30,10 +30,10 @@
       "tags": "Kesha tall be-aor",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+PN"},
-         {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "ymv", "root": "уһун+Adj"},
-         {"pos": 3, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "aff", "root": "кеша+PN"},
+         {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "voc", "root": "уһун+Adj"},
+         {"pos": 3, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -48,12 +48,12 @@
       "tags": "Kesha morning meat eat-aor be-aor",
       "id": 3,
       "parses": [
-         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+PN"},
-         {"pos": 2, "text": "сарсыарда", "type": "lowercase", "fst": "ymv", "root": "сарсыарда+Adv"},
-         {"pos": 3, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+N"},
-         {"pos": 4, "text": "сиир", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+PART_PRES"},
-         {"pos": 5, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-         {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "aff", "root": "кеша+PN"},
+         {"pos": 2, "text": "сарсыарда", "type": "lowercase", "fst": "voc", "root": "сарсыарда+Adv"},
+         {"pos": 3, "text": "эт", "type": "lowercase", "fst": "voc", "root": "эт+N"},
+         {"pos": 4, "text": "сиир", "type": "lowercase", "fst": "voc", "root": "сиэ+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+         {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -68,11 +68,11 @@
       "tags": "Kesha morning meat eat-aor",
       "id": 4,
       "parses": [
-         {"pos": 1, "text": "Кеша", "type": "title", "fst": "yma", "root": "кеша+PN"},
-         {"pos": 2, "text": "сарсыарда", "type": "lowercase", "fst": "ymv", "root": "сарсыарда+Adv"},
-         {"pos": 3, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+N"},
-         {"pos": 4, "text": "сиир", "type": "lowercase", "fst": "ymv", "root": "сиэ+V", "affixes": "+PART_PRES"},
-         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Кеша", "type": "title", "fst": "aff", "root": "кеша+PN"},
+         {"pos": 2, "text": "сарсыарда", "type": "lowercase", "fst": "voc", "root": "сарсыарда+Adv"},
+         {"pos": 3, "text": "эт", "type": "lowercase", "fst": "voc", "root": "эт+N"},
+         {"pos": 4, "text": "сиир", "type": "lowercase", "fst": "voc", "root": "сиэ+V", "affixes": "+PART_PRES"},
+         {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
       ]
    }
 ]

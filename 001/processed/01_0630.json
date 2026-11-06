@@ -10,12 +10,12 @@
     "ru": "Скажи своей матери, пусть пришлет гостинцев.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ийэҕэр", "type": "title", "fst": "ymv", "root": "ийэ+N", "affixes": "+POSS.2SG.DAT"},
-      {"pos": 2, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+V"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "кэһиитин", "type": "lowercase", "fst": "ymv", "root": "кэһии+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 5, "text": "ыыттын", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+IMP#1.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ийэҕэр", "type": "title", "fst": "voc", "root": "ийэ+N", "affixes": "+POSS.2SG.DAT"},
+      {"pos": 2, "text": "эт", "type": "lowercase", "fst": "voc", "root": "эт+V"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "кэһиитин", "type": "lowercase", "fst": "voc", "root": "кэһии+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 5, "text": "ыыттын", "type": "lowercase", "fst": "voc", "root": "ыыт+V", "affixes": "+IMP#1.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,13 +29,13 @@
     "ru": "Заказываю: пусть Петя напишет мне письмо.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Илдьиттиибин", "type": "title", "fst": "ymv", "root": "илдьит+N", "affixes": "+VRBLZ#1+PART_PRES+1SG"},
-      {"pos": 2, "text": ":", "type": "colon", "fst": "ymv"},
-      {"pos": 3, "text": "Петя", "type": "title", "fst": "yma", "root": "петя+PN"},
-      {"pos": 4, "text": "миэхэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+DAT"},
-      {"pos": 5, "text": "сурукта", "type": "lowercase", "fst": "ymv", "root": "сураа+V", "affixes": "+NMLZ#5+PRTV"},
-      {"pos": 6, "text": "суруйдун", "type": "lowercase", "fst": "ymv", "root": "суруй+V", "affixes": "+IMP#1.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Илдьиттиибин", "type": "title", "fst": "voc", "root": "илдьит+N", "affixes": "+VRBLZ#1+PART_PRES+1SG"},
+      {"pos": 2, "text": ":", "type": "colon", "fst": "voc"},
+      {"pos": 3, "text": "Петя", "type": "title", "fst": "aff", "root": "петя+PN"},
+      {"pos": 4, "text": "миэхэ", "type": "lowercase", "fst": "voc", "root": "мин+Pron", "affixes": "+DAT"},
+      {"pos": 5, "text": "сурукта", "type": "lowercase", "fst": "voc", "root": "сураа+V", "affixes": "+NMLZ#5+PRTV"},
+      {"pos": 6, "text": "суруйдун", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+IMP#1.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -49,9 +49,9 @@
     "ru": "Да здравствует мир!",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Эйэ", "type": "title", "fst": "ymv", "root": "эйэ+N"},
-      {"pos": 2, "text": "туругурдун", "type": "lowercase", "fst": "ymv", "root": "туругур+V", "affixes": "+IMP#1.3SG"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Эйэ", "type": "title", "fst": "voc", "root": "эйэ+N"},
+      {"pos": 2, "text": "туругурдун", "type": "lowercase", "fst": "voc", "root": "туругур+V", "affixes": "+IMP#1.3SG"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

@@ -10,10 +10,10 @@
     "ru": "Учиться по-ленински пропагандировать!",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Лениннии", "type": "title", "fst": "yma", "root": "ленин+PN", "affixes": "+ADVZ#6"},
-      {"pos": 2, "text": "пропагандалыырга", "type": "lowercase", "fst": "ymv", "root": "пропаганда+N", "affixes": "+VRBLZ#1+PART_PRES+DAT"},
-      {"pos": 3, "text": "үөрэниэххэ", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_FUT+DAT"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Лениннии", "type": "title", "fst": "aff", "root": "ленин+PN", "affixes": "+ADVZ#6"},
+      {"pos": 2, "text": "пропагандалыырга", "type": "lowercase", "fst": "voc", "root": "пропаганда+N", "affixes": "+VRBLZ#1+PART_PRES+DAT"},
+      {"pos": 3, "text": "үөрэниэххэ", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -27,9 +27,9 @@
     "ru": "Чай пить (необходимо чай пить). ",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Чэй", "type": "title", "fst": "ymv", "root": "чэй+N"},
-      {"pos": 2, "text": "иһэргэ", "type": "lowercase", "fst": "ymv", "root": "ис+V", "affixes": "+PART_PRES+DAT"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Чэй", "type": "title", "fst": "voc", "root": "чэй+N"},
+      {"pos": 2, "text": "иһэргэ", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PART_PRES+DAT"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

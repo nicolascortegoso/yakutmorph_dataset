@@ -10,8 +10,8 @@
     "ru": "он был охотником",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "булчут", "type": "lowercase", "fst": "ymv", "root": "булт+N", "affixes": "+NMLZ#1"},
-      {"pos": 2, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "булчут", "type": "lowercase", "fst": "voc", "root": "булт+N", "affixes": "+NMLZ#1"},
+      {"pos": 2, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "глухо стукнуть",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "лүҥ", "type": "lowercase", "fst": "ymv", "root": "лүҥ+IMIT"},
-      {"pos": 2, "text": "гын", "type": "lowercase", "fst": "ymv", "root": "гын+V"}
+      {"pos": 1, "text": "лүҥ", "type": "lowercase", "fst": "voc", "root": "лүҥ+IMIT"},
+      {"pos": 2, "text": "гын", "type": "lowercase", "fst": "voc", "root": "гын+V"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "тявкнуть",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "ньаҥ", "type": "lowercase", "fst": "ymv", "root": "ньаҥ+IMIT"},
-      {"pos": 2, "text": "диэ", "type": "lowercase", "fst": "ymv", "root": "диэ+V"}
+      {"pos": 1, "text": "ньаҥ", "type": "lowercase", "fst": "voc", "root": "ньаҥ+IMIT"},
+      {"pos": 2, "text": "диэ", "type": "lowercase", "fst": "voc", "root": "диэ+V"}
     ]
   },
   {
@@ -55,10 +55,10 @@
     "ru": "заголосить невнятно",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "ньуу", "type": "lowercase", "fst": "yma", "root": "ньуу+IMIT"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "ньаа", "type": "lowercase", "fst": "ymv", "root": "ньаа+IMIT"},
-      {"pos": 4, "text": "буол", "type": "lowercase", "fst": "ymv", "root": "буол+V"}
+      {"pos": 1, "text": "ньуу", "type": "lowercase", "fst": "aff", "root": "ньуу+IMIT"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "ньаа", "type": "lowercase", "fst": "voc", "root": "ньаа+IMIT"},
+      {"pos": 4, "text": "буол", "type": "lowercase", "fst": "voc", "root": "буол+V"}
     ]
   },
   {
@@ -72,8 +72,8 @@
     "ru": "хочу идти",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "барыахпын", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT+POSS.1SG.ACC"},
-      {"pos": 2, "text": "баҕарабын", "type": "lowercase", "fst": "ymv", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES+1SG"}
+      {"pos": 1, "text": "барыахпын", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+POSS.1SG.ACC"},
+      {"pos": 2, "text": "баҕарабын", "type": "lowercase", "fst": "voc", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES+1SG"}
     ]
   },
   {
@@ -87,8 +87,8 @@
     "ru": "нужно идти",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "бардахха", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV_COND#2+DAT"},
-      {"pos": 2, "text": "табыллар", "type": "lowercase", "fst": "ymv", "root": "тап+V", "affixes": "+PASS+PART_PRES"}
+      {"pos": 1, "text": "бардахха", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV_COND#2+DAT"},
+      {"pos": 2, "text": "табыллар", "type": "lowercase", "fst": "voc", "root": "тап+V", "affixes": "+PASS+PART_PRES"}
     ]
   },
   {
@@ -102,8 +102,8 @@
     "ru": "необходимо идти",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "барарга", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_PRES+DAT"},
-      {"pos": 2, "text": "тиийиллэр", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+PASS+PART_PRES"}
+      {"pos": 1, "text": "барарга", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_PRES+DAT"},
+      {"pos": 2, "text": "тиийиллэр", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+PASS+PART_PRES"}
     ]
   },
   {
@@ -117,8 +117,8 @@
     "ru": "опечалиться",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "санааҕа", "type": "lowercase", "fst": "ymv", "root": "санаа+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "түс", "type": "lowercase", "fst": "ymv", "root": "түс+V"}
+      {"pos": 1, "text": "санааҕа", "type": "lowercase", "fst": "voc", "root": "санаа+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "түс", "type": "lowercase", "fst": "voc", "root": "түс+V"}
     ]
   },
   {
@@ -132,8 +132,8 @@
     "ru": "полнеть, физически развиваться",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+N"},
-      {"pos": 2, "text": "тут", "type": "lowercase", "fst": "ymv", "root": "тут+V"}
+      {"pos": 1, "text": "эт", "type": "lowercase", "fst": "voc", "root": "эт+N"},
+      {"pos": 2, "text": "тут", "type": "lowercase", "fst": "voc", "root": "тут+V"}
     ]
   }
 ]

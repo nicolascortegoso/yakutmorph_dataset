@@ -10,15 +10,15 @@
     "ru": "Такая грязь, такой страшный вид.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кир", "type": "title", "fst": "ymv", "root": "кир+N"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "хох", "type": "lowercase", "fst": "yma", "root": "хох+N"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "дьүһүн", "type": "lowercase", "fst": "ymv", "root": "дьүһүн+N"},
-      {"pos": 6, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 7, "text": "бодо", "type": "lowercase", "fst": "ymv", "root": "бодо+N"},
-      {"pos": 8, "text": "диэтэҕиҥ", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV_COND#2+POSS.2SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кир", "type": "title", "fst": "voc", "root": "кир+N"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "хох", "type": "lowercase", "fst": "aff", "root": "хох+N"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "дьүһүн", "type": "lowercase", "fst": "voc", "root": "дьүһүн+N"},
+      {"pos": 6, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 7, "text": "бодо", "type": "lowercase", "fst": "voc", "root": "бодо+N"},
+      {"pos": 8, "text": "диэтэҕиҥ", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV_COND#2+POSS.2SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -32,11 +32,11 @@
     "ru": "Ну, так странно! (Ничего не скажешь)",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "fst", "root": "дьэ+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "дьиибэ", "type": "lowercase", "fst": "fst", "root": "дьиибэ+N"},
-      {"pos": 4, "text": "диэтэҕиҥ", "type": "lowercase", "fst": "fst", "root": "диэ+V", "affixes": "+CONV_COND#2+POSS.2SG"},
-      {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "voc", "root": "дьэ+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "дьиибэ", "type": "lowercase", "fst": "voc", "root": "дьиибэ+N"},
+      {"pos": 4, "text": "диэтэҕиҥ", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV_COND#2+POSS.2SG"},
+      {"pos": 5, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -50,10 +50,10 @@
     "ru": "Ну и ребята.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "fst", "root": "дьэ+MOD"},
-      {"pos": 2, "text": "уолаттар", "type": "lowercase", "fst": "fst", "root": "уол+N", "affixes": "+PL"},
-      {"pos": 3, "text": "диэтэҕиҥ", "type": "lowercase", "fst": "fst", "root": "диэ+V", "affixes": "+CONV_COND#2+POSS.2SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "voc", "root": "дьэ+MOD"},
+      {"pos": 2, "text": "уолаттар", "type": "lowercase", "fst": "voc", "root": "уол+N", "affixes": "+PL"},
+      {"pos": 3, "text": "диэтэҕиҥ", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV_COND#2+POSS.2SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

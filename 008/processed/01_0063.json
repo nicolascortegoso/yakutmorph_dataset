@@ -10,8 +10,8 @@
     "ru": "школа  открылась",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "оскуола", "type": "lowercase", "fst": "fst", "root": "оскуола+N"},
-      {"pos": 2, "text": "аһылынна", "type": "lowercase", "fst": "fst", "root": "ас+V", "affixes": "+PASS+PST.3SG"}
+      {"pos": 1, "text": "оскуола", "type": "lowercase", "fst": "voc", "root": "оскуола+N"},
+      {"pos": 2, "text": "аһылынна", "type": "lowercase", "fst": "voc", "root": "ас+V", "affixes": "+PASS+PST.3SG"}
     ]
   },
   {
@@ -25,9 +25,9 @@
     "ru": "дети пошли в школу",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "оҕолор", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+PL"},
-      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "fst", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "бардылар", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PST.3PL"}
+      {"pos": 1, "text": "оҕолор", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+PL"},
+      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "бардылар", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.3PL"}
     ]
   },
   {
@@ -41,10 +41,10 @@
     "ru": "они очень любят школу",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "кинилэр", "type": "lowercase", "fst": "fst", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "оскуоланы", "type": "lowercase", "fst": "fst", "root": "оскуола+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "бэркэ", "type": "lowercase", "fst": "fst", "root": "бэрт+Adj", "affixes": "+DAT"},
-      {"pos": 4, "text": "таптыыллар", "type": "lowercase", "fst": "fst", "root": "таптаа+V", "affixes": "+PART_PRES+PL"}
+      {"pos": 1, "text": "кинилэр", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "оскуоланы", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "бэркэ", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj", "affixes": "+DAT"},
+      {"pos": 4, "text": "таптыыллар", "type": "lowercase", "fst": "voc", "root": "таптаа+V", "affixes": "+PART_PRES+PL"}
     ]
   }
 ]

@@ -10,10 +10,10 @@
     "ru": "оберегают друг друга",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "бэйэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3PL.ACC"},
-      {"pos": 4, "text": "харыстаһаллар", "type": "lowercase", "fst": "ymv", "root": "харыс+N", "affixes": "+VRBLZ#1+RECP+PART_PRES+PL"}
+      {"pos": 1, "text": "бэйэ", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "бэйэлэрин", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.3PL.ACC"},
+      {"pos": 4, "text": "харыстаһаллар", "type": "lowercase", "fst": "voc", "root": "харыс+N", "affixes": "+VRBLZ#1+RECP+PART_PRES+PL"}
     ]
   },
   {
@@ -27,10 +27,10 @@
     "ru": "они взяли друг друга за руки",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "илии", "type": "lowercase", "fst": "ymv", "root": "илии+N"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "илиилэриттэн", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.3PL.ABL"},
-      {"pos": 4, "text": "тутустулар", "type": "lowercase", "fst": "ymv", "root": "тут+V", "affixes": "+RECP+PST.3PL"}
+      {"pos": 1, "text": "илии", "type": "lowercase", "fst": "voc", "root": "илии+N"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "илиилэриттэн", "type": "lowercase", "fst": "voc", "root": "илии+N", "affixes": "+POSS.3PL.ABL"},
+      {"pos": 4, "text": "тутустулар", "type": "lowercase", "fst": "voc", "root": "тут+V", "affixes": "+RECP+PST.3PL"}
     ]
   },
   {
@@ -44,8 +44,8 @@
     "ru": "они взаимно приветствовали друг другам",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "хардарыта", "type": "lowercase", "fst": "ymv", "root": "харда+N", "affixes": "+VRBLZ#8+CSTV+CONV#2"},
-      {"pos": 2, "text": "эбэрдэлэстилэр", "type": "lowercase", "fst": "ymv", "root": "эбэ+N", "affixes": "+VRBLZ#4+CSTV+FREC#4+RECP+PST.3PL"}
+      {"pos": 1, "text": "хардарыта", "type": "lowercase", "fst": "voc", "root": "харда+N", "affixes": "+VRBLZ#8+CSTV+CONV#2"},
+      {"pos": 2, "text": "эбэрдэлэстилэр", "type": "lowercase", "fst": "voc", "root": "эбэ+N", "affixes": "+VRBLZ#4+CSTV+FREC#4+RECP+PST.3PL"}
     ]
   },
   {
@@ -59,9 +59,9 @@
     "ru": "ты не ссорься с ним",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "кинини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+ACC"},
-      {"pos": 2, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "иирсимэ", "type": "lowercase", "fst": "ymv", "root": "иир+V", "affixes": "+RECP+NEG"}
+      {"pos": 1, "text": "кинини", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "кытта", "type": "lowercase", "fst": "voc", "root": "кытын+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "иирсимэ", "type": "lowercase", "fst": "voc", "root": "иир+V", "affixes": "+RECP+NEG"}
     ]
   }
 ]

@@ -11,16 +11,16 @@
     "ru": "Хотя я и глухой, (но это не означает), что у меня и зрение плохое.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ама", "type": "title", "fst": "ymv", "root": "ама+MOD"},
-      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 3, "text": "дьүлэйим", "type": "lowercase", "fst": "ymv", "root": "дьүлэй+Adj", "affixes": "+POSS.1SG"},
-      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "ymv", "root": "иһин+POST"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "харахпынан", "type": "lowercase", "fst": "ymv", "root": "харах+N", "affixes": "+POSS.1SG.INST"},
-      {"pos": 7, "text": "баҕас", "type": "lowercase", "fst": "ymv", "root": "баҕас+Part"},
-      {"pos": 8, "text": "куһаҕана", "type": "lowercase", "fst": "ymv", "root": "куһаҕан+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 9, "text": "суохпун", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+1SG"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ама", "type": "title", "fst": "voc", "root": "ама+MOD"},
+      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 3, "text": "дьүлэйим", "type": "lowercase", "fst": "voc", "root": "дьүлэй+Adj", "affixes": "+POSS.1SG"},
+      {"pos": 4, "text": "иһин", "type": "lowercase", "fst": "voc", "root": "иһин+POST"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "харахпынан", "type": "lowercase", "fst": "voc", "root": "харах+N", "affixes": "+POSS.1SG.INST"},
+      {"pos": 7, "text": "баҕас", "type": "lowercase", "fst": "voc", "root": "баҕас+Part"},
+      {"pos": 8, "text": "куһаҕана", "type": "lowercase", "fst": "voc", "root": "куһаҕан+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 9, "text": "суохпун", "type": "lowercase", "fst": "voc", "root": "суох+N", "affixes": "+1SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -35,9 +35,9 @@
     "ru": "не позволю над собой насмехаться",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "күлүү", "type": "lowercase", "fst": "ymv", "root": "күл+V", "affixes": "+NMLZ#2"},
-      {"pos": 2, "text": "гыннарыам", "type": "lowercase", "fst": "ymv", "root": "гын+V", "affixes": "+CAUS+PART_FUT+POSS.1SG"},
-      {"pos": 3, "text": "суоҕа", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "күлүү", "type": "lowercase", "fst": "voc", "root": "күл+V", "affixes": "+NMLZ#2"},
+      {"pos": 2, "text": "гыннарыам", "type": "lowercase", "fst": "voc", "root": "гын+V", "affixes": "+CAUS+PART_FUT+POSS.1SG"},
+      {"pos": 3, "text": "суоҕа", "type": "lowercase", "fst": "voc", "root": "суох+N", "affixes": "+POSS.3SG"}
     ]
   }
 ]

@@ -10,10 +10,10 @@
     "ru": "забота родителей",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "аҕа", "type": "lowercase", "fst": "ymv", "root": "аҕа+N"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "ийэ", "type": "lowercase", "fst": "ymv", "root": "ийэ+N"},
-      {"pos": 4, "text": "кыһамньыта", "type": "lowercase", "fst": "ymv", "root": "кыһамньы+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "аҕа", "type": "lowercase", "fst": "voc", "root": "аҕа+N"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "ийэ", "type": "lowercase", "fst": "voc", "root": "ийэ+N"},
+      {"pos": 4, "text": "кыһамньыта", "type": "lowercase", "fst": "voc", "root": "кыһамньы+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -27,10 +27,10 @@
       "ru": "путь-дорога налаживается",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "суол", "type": "lowercase", "fst": "ymv", "root": "суол+N"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-         {"pos": 3, "text": "иис", "type": "lowercase", "fst": "ymv", "root": "иис+N"},
-         {"pos": 4, "text": "оҥоһуллар", "type": "lowercase", "fst": "ymv", "root": "оҥой+V", "affixes": "+RECP+PASS+PART_PRES"}
+         {"pos": 1, "text": "суол", "type": "lowercase", "fst": "voc", "root": "суол+N"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 3, "text": "иис", "type": "lowercase", "fst": "voc", "root": "иис+N"},
+         {"pos": 4, "text": "оҥоһуллар", "type": "lowercase", "fst": "voc", "root": "оҥой+V", "affixes": "+RECP+PASS+PART_PRES"}
       ]
   },
   {
@@ -44,10 +44,10 @@
     "ru": "богатство колхоза",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "ymv", "root": "колхоз+N"},
-      {"pos": 2, "text": "баайа", "type": "lowercase", "fst": "ymv", "root": "баай+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 4, "text": "дуола", "type": "lowercase", "fst": "ymv", "root": "дуол+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 2, "text": "баайа", "type": "lowercase", "fst": "voc", "root": "баай+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 4, "text": "дуола", "type": "lowercase", "fst": "voc", "root": "дуол+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -61,10 +61,10 @@
     "ru": "твои родители",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "аҕаҥ", "type": "lowercase", "fst": "ymv", "root": "аҕа+N", "affixes": "+POSS.2SG"},
-      {"pos": 3, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 4, "text": "ийэҥ", "type": "lowercase", "fst": "ymv", "root": "ийэ+N", "affixes": "+POSS.2SG"}
+      {"pos": 1, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "аҕаҥ", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.2SG"},
+      {"pos": 3, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 4, "text": "ийэҥ", "type": "lowercase", "fst": "voc", "root": "ийэ+N", "affixes": "+POSS.2SG"}
     ]
   },
   {
@@ -78,11 +78,11 @@
     "ru": "Я встретился со своими другом-приятелем.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Атаспын", "type": "title", "fst": "ymv", "root": "атас+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "доҕорбун", "type": "lowercase", "fst": "ymv", "root": "доҕор+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 4, "text": "көрүстүм", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+RECP+PST.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Атаспын", "type": "title", "fst": "voc", "root": "атас+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "доҕорбун", "type": "lowercase", "fst": "voc", "root": "доҕор+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 4, "text": "көрүстүм", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+RECP+PST.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -96,9 +96,9 @@
     "ru": "повар",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "күөсчүт", "type": "lowercase", "fst": "ymv", "root": "күөс+N", "affixes": "+NMLZ#1"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "асчыт", "type": "lowercase", "fst": "ymv", "root": "ас+N", "affixes": "+NMLZ#1"}
+      {"pos": 1, "text": "күөсчүт", "type": "lowercase", "fst": "voc", "root": "күөс+N", "affixes": "+NMLZ#1"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "асчыт", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+NMLZ#1"}
     ]
   },
   {
@@ -112,9 +112,9 @@
     "ru": "имеющий растительность",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "оттоох", "type": "lowercase", "fst": "ymv", "root": "от+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "мастаах", "type": "lowercase", "fst": "ymv", "root": "мас+N", "affixes": "+ADJZ#1"}
+      {"pos": 1, "text": "оттоох", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "мастаах", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+ADJZ#1"}
     ]
   }
 ]

@@ -11,13 +11,13 @@
     "ru": "Одной из тех, кто более или менее способен к черчению, оказалась Таня.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Арыый", "type": "title", "fst": "ymv", "root": "арыый+Adv"},
-      {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "черчениеҕа", "type": "lowercase", "fst": "yma", "root": "черчение+N", "affixes": "+DAT"},
-      {"pos": 4, "text": "дьоҕурдаахтарынан", "type": "lowercase", "fst": "ymv", "root": "дьоҕур+N", "affixes": "+ADJZ#1+PL+POSS.3SG.INST"},
-      {"pos": 5, "text": "Таня", "type": "title", "fst": "yma", "root": "таня+PN"},
-      {"pos": 6, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Арыый", "type": "title", "fst": "voc", "root": "арыый+Adv"},
+      {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 3, "text": "черчениеҕа", "type": "lowercase", "fst": "aff", "root": "черчение+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "дьоҕурдаахтарынан", "type": "lowercase", "fst": "voc", "root": "дьоҕур+N", "affixes": "+ADJZ#1+PL+POSS.3SG.INST"},
+      {"pos": 5, "text": "Таня", "type": "title", "fst": "aff", "root": "таня+PN"},
+      {"pos": 6, "text": "буолла", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -32,13 +32,13 @@
     "ru": "На тот маленький остаток [денег], который имеется, Дьирибинэ Сидоровна должна поехать в Москву.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кыра", "type": "title", "fst": "ymv", "root": "кыра+Adj"},
-      {"pos": 2, "text": "тобох", "type": "lowercase", "fst": "ymv", "root": "тобох+N"},
-      {"pos": 3, "text": "хаалбытынан", "type": "lowercase", "fst": "ymv", "root": "хаал+V", "affixes": "+PART_PAST+POSS.3SG.INST"},
-      {"pos": 4, "text": "Дьирибинэ", "type": "title", "fst": "yma", "root": "дьирибинэ+PN"},
-      {"pos": 5, "text": "Сиидэрэбинэ", "type": "title", "fst": "yma", "root": "сиидэрэбинэ+PN"},
-      {"pos": 6, "text": "Москвалыахтаах", "type": "title", "fst": "yma", "root": "москва+PN", "affixes": "+VRBLZ#1+PART_FUT+DEB"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кыра", "type": "title", "fst": "voc", "root": "кыра+Adj"},
+      {"pos": 2, "text": "тобох", "type": "lowercase", "fst": "voc", "root": "тобох+N"},
+      {"pos": 3, "text": "хаалбытынан", "type": "lowercase", "fst": "voc", "root": "хаал+V", "affixes": "+PART_PAST+POSS.3SG.INST"},
+      {"pos": 4, "text": "Дьирибинэ", "type": "title", "fst": "aff", "root": "дьирибинэ+PN"},
+      {"pos": 5, "text": "Сиидэрэбинэ", "type": "title", "fst": "aff", "root": "сиидэрэбинэ+PN"},
+      {"pos": 6, "text": "Москвалыахтаах", "type": "title", "fst": "aff", "root": "москва+PN", "affixes": "+VRBLZ#1+PART_FUT+DEB"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

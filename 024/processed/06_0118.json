@@ -11,13 +11,13 @@
       "tags": "Masha [Misha come-fut DIEN] house-acc tidy-past.3",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+PN"},
-         {"pos": 2, "text": "Миша", "type": "title", "fst": "yma", "root": "миша+PN"},
-         {"pos": 3, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
-         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
-         {"pos": 5, "text": "дьиэни", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+ACC"},
-         {"pos": 6, "text": "хомуйда", "type": "lowercase", "fst": "ymv", "root": "хомуй+V", "affixes": "+PST.3SG"},
-         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Маша", "type": "title", "fst": "aff", "root": "маша+PN"},
+         {"pos": 2, "text": "Миша", "type": "title", "fst": "aff", "root": "миша+PN"},
+         {"pos": 3, "text": "кэлиэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_FUT"},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 5, "text": "дьиэни", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+ACC"},
+         {"pos": 6, "text": "хомуйда", "type": "lowercase", "fst": "voc", "root": "хомуй+V", "affixes": "+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -32,13 +32,13 @@
       "tags": "Masha [Misha-acc come-fut DIEN] house-acc tidy-past.3",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Маша", "type": "title", "fst": "yma", "root": "маша+PN"},
-         {"pos": 2, "text": "Мишаны", "type": "title", "fst": "yma", "root": "миша+PN", "affixes": "+ACC"},
-         {"pos": 3, "text": "кэлиэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_FUT"},
-         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+CONV#1"},
-         {"pos": 5, "text": "дьиэни", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+ACC"},
-         {"pos": 6, "text": "хомуйда", "type": "lowercase", "fst": "ymv", "root": "хомуй+V", "affixes": "+PST.3SG"},
-         {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Маша", "type": "title", "fst": "aff", "root": "маша+PN"},
+         {"pos": 2, "text": "Мишаны", "type": "title", "fst": "aff", "root": "миша+PN", "affixes": "+ACC"},
+         {"pos": 3, "text": "кэлиэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_FUT"},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 5, "text": "дьиэни", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+ACC"},
+         {"pos": 6, "text": "хомуйда", "type": "lowercase", "fst": "voc", "root": "хомуй+V", "affixes": "+PST.3SG"},
+         {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
       ]
    }
 ]

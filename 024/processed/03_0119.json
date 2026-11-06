@@ -11,10 +11,10 @@
       "tags": "water-snow weather",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "уу", "type": "lowercase", "fst": "ymv", "compound": true, "root": "уу+N"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-         {"pos": 3, "text": "хаар", "type": "lowercase", "fst": "ymv", "compound": true, "root": "хаар+N"},
-         {"pos": 4, "text": "халлаан", "type": "lowercase", "fst": "ymv", "root": "халлаан+N"}
+         {"pos": 1, "text": "уу", "type": "lowercase", "fst": "voc", "compound": true, "root": "уу+N"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 3, "text": "хаар", "type": "lowercase", "fst": "voc", "compound": true, "root": "хаар+N"},
+         {"pos": 4, "text": "халлаан", "type": "lowercase", "fst": "voc", "root": "халлаан+N"}
       ]
    },
    {
@@ -29,10 +29,10 @@
       "tags": "water-snow person",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "уулаах", "type": "lowercase", "fst": "ymv", "root": "уу+N", "affixes": "+ADJZ#1"},
-         {"pos": 2, "text": "–", "type": "dash", "fst": "ymv"},
-         {"pos": 3, "text": "хаардаах", "type": "lowercase", "fst": "ymv", "root": "хаар+N", "affixes": "+ADJZ#1"},
-         {"pos": 4, "text": "халлаан", "type": "lowercase", "fst": "ymv", "root": "халлаан+N"}
+         {"pos": 1, "text": "уулаах", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+ADJZ#1"},
+         {"pos": 2, "text": "–", "type": "dash", "fst": "voc"},
+         {"pos": 3, "text": "хаардаах", "type": "lowercase", "fst": "voc", "root": "хаар+N", "affixes": "+ADJZ#1"},
+         {"pos": 4, "text": "халлаан", "type": "lowercase", "fst": "voc", "root": "халлаан+N"}
       ]
    }
 ]

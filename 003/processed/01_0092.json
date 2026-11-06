@@ -10,18 +10,18 @@
     "ru": "(Он), как новорожденный ребенок, стоял, бессмысленно посматривая туда-сюда.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 2, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 3, "text": "диэки", "type": "lowercase", "fst": "ymv", "root": "диэки+POST"},
-      {"pos": 4, "text": "төрөөбүтүнэн", "type": "lowercase", "fst": "ymv", "root": "төрөө+V", "affixes": "+PART_PAST+INST"},
-      {"pos": 5, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "оҕо+N"},
-      {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
-      {"pos": 7, "text": "алаар", "type": "lowercase", "fst": "ymv", "root": "ыал+N", "affixes": "+VRBLZ#3+IMP#2.2SG"},
-      {"pos": 8, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 9, "text": "малаар", "type": "lowercase", "fst": "ymv", "root": "мал+N", "affixes": "+VRBLZ#3+IMP#2.2SG"},
-      {"pos": 10, "text": "көрө", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CONV#2"},
-      {"pos": 11, "text": "турда", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PST.3SG"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 3, "text": "диэки", "type": "lowercase", "fst": "voc", "root": "диэки+POST"},
+      {"pos": 4, "text": "төрөөбүтүнэн", "type": "lowercase", "fst": "voc", "root": "төрөө+V", "affixes": "+PART_PAST+INST"},
+      {"pos": 5, "text": "оҕо", "type": "lowercase", "fst": "voc", "root": "оҕо+N"},
+      {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
+      {"pos": 7, "text": "алаар", "type": "lowercase", "fst": "voc", "root": "ыал+N", "affixes": "+VRBLZ#3+IMP#2.2SG"},
+      {"pos": 8, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 9, "text": "малаар", "type": "lowercase", "fst": "voc", "root": "мал+N", "affixes": "+VRBLZ#3+IMP#2.2SG"},
+      {"pos": 10, "text": "көрө", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#2"},
+      {"pos": 11, "text": "турда", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PST.3SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -35,9 +35,9 @@
     "ru": "Только что выпущенная (выстреленная) стрела.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Ыппытынан", "type": "title", "fst": "ymv", "root": "ыт+V", "affixes": "+PART_PAST+INST"},
-      {"pos": 2, "text": "ох", "type": "lowercase", "fst": "ymv", "root": "ох+N"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыппытынан", "type": "title", "fst": "voc", "root": "ыт+V", "affixes": "+PART_PAST+INST"},
+      {"pos": 2, "text": "ох", "type": "lowercase", "fst": "voc", "root": "ох+N"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -51,10 +51,10 @@
     "ru": "Как (только что) изготовленные карты.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Кырыллыбытынан", "type": "title", "fst": "ymv", "root": "кырый+V", "affixes": "+PASS+PART_PAST+INST"},
-      {"pos": 2, "text": "хаарты", "type": "lowercase", "fst": "ymv", "root": "хаарты+N"},
-      {"pos": 3, "text": "курдук", "type": "lowercase", "fst": "ymv", "root": "курдук+POST"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кырыллыбытынан", "type": "title", "fst": "voc", "root": "кырый+V", "affixes": "+PASS+PART_PAST+INST"},
+      {"pos": 2, "text": "хаарты", "type": "lowercase", "fst": "voc", "root": "хаарты+N"},
+      {"pos": 3, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -68,18 +68,18 @@
     "ru": "Одинокая деревянная юрта с закрытой дверью, с зажженным очагом.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "ymv"},
-      {"pos": 2, "text": "сабыллыбытынан", "type": "lowercase", "fst": "ymv", "root": "сабый+V", "affixes": "+PASS+PART_PAST+INST"},
-      {"pos": 3, "text": "турар", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": "ааннаах", "type": "lowercase", "fst": "ymv", "root": "аан+N", "affixes": "+ADJZ#1"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "оттуллубутунан", "type": "lowercase", "fst": "ymv", "root": "отун+V", "affixes": "+PASS+PART_PAST+INST"},
-      {"pos": 7, "text": "турар", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES"},
-      {"pos": 8, "text": "уоттаах", "type": "lowercase", "fst": "ymv", "root": "уот+N", "affixes": "+ADJZ#1"},
-      {"pos": 9, "text": "туруорбах", "type": "lowercase", "fst": "yma", "root": "туруорбах+N"},
-      {"pos": 10, "text": "мас", "type": "lowercase", "fst": "ymv", "root": "мас+N"},
-      {"pos": 11, "text": "балаҕан", "type": "lowercase", "fst": "ymv", "root": "балаҕан+N"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "voc"},
+      {"pos": 2, "text": "сабыллыбытынан", "type": "lowercase", "fst": "voc", "root": "сабый+V", "affixes": "+PASS+PART_PAST+INST"},
+      {"pos": 3, "text": "турар", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": "ааннаах", "type": "lowercase", "fst": "voc", "root": "аан+N", "affixes": "+ADJZ#1"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "оттуллубутунан", "type": "lowercase", "fst": "voc", "root": "отун+V", "affixes": "+PASS+PART_PAST+INST"},
+      {"pos": 7, "text": "турар", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": "уоттаах", "type": "lowercase", "fst": "voc", "root": "уот+N", "affixes": "+ADJZ#1"},
+      {"pos": 9, "text": "туруорбах", "type": "lowercase", "fst": "aff", "root": "туруорбах+N"},
+      {"pos": 10, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"},
+      {"pos": 11, "text": "балаҕан", "type": "lowercase", "fst": "voc", "root": "балаҕан+N"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -93,13 +93,13 @@
     "ru": "Взвалив на себя свеженакошенную зеленую траву (в свежескошенном состоянии), мы принесли (ее) домой.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Охсуллубутунан", "type": "title", "fst": "ymv", "root": "оҕус+V", "affixes": "+PASS+PART_PAST+INST"},
-      {"pos": 2, "text": "күөх", "type": "lowercase", "fst": "ymv", "root": "күөх+Adj"},
-      {"pos": 3, "text": "оту", "type": "lowercase", "fst": "ymv", "root": "от+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "сүгэн", "type": "lowercase", "fst": "ymv", "root": "сүк+V", "affixes": "+CONV#1"},
-      {"pos": 5, "text": "дьиэбитигэр", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.1PL.DAT"},
-      {"pos": 6, "text": "кэллибит", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PST.1PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Охсуллубутунан", "type": "title", "fst": "voc", "root": "оҕус+V", "affixes": "+PASS+PART_PAST+INST"},
+      {"pos": 2, "text": "күөх", "type": "lowercase", "fst": "voc", "root": "күөх+Adj"},
+      {"pos": 3, "text": "оту", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "сүгэн", "type": "lowercase", "fst": "voc", "root": "сүк+V", "affixes": "+CONV#1"},
+      {"pos": 5, "text": "дьиэбитигэр", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.1PL.DAT"},
+      {"pos": 6, "text": "кэллибит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PST.1PL"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

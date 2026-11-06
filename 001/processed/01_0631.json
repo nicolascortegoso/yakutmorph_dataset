@@ -10,9 +10,9 @@
     "ru": "А ну, пойдемте-ка!",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT+IMP#1.1PL"},
-      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Барыаҕыҥ", "type": "title", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+IMP#1.1PL"},
+      {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -26,9 +26,9 @@
     "ru": "Ну, пошлите же (отпустите же) пожалуйста!",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ыытыҥ", "type": "title", "fst": "ymv", "root": "ыыт+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+Part"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Ыытыҥ", "type": "title", "fst": "voc", "root": "ыыт+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 2, "text": "даа", "type": "lowercase", "fst": "voc", "root": "даа+Part"},
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -42,14 +42,14 @@
     "ru": "Выйдите, выйдите же! — говорю я.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Тахсыҥ", "type": "title", "fst": "ymv", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "тахсыҥ", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "ymv"},
-      {"pos": 5, "text": "—", "type": "dash", "fst": "ymv"},
-      {"pos": 6, "text": "диибин", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 7, "text": "дии", "type": "lowercase", "fst": "ymv", "root": "дии+Part"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Тахсыҥ", "type": "title", "fst": "voc", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "тахсыҥ", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"},
+      {"pos": 5, "text": "—", "type": "dash", "fst": "voc"},
+      {"pos": 6, "text": "диибин", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 7, "text": "дии", "type": "lowercase", "fst": "voc", "root": "дии+Part"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

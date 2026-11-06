@@ -10,15 +10,15 @@
     "ru": "Иван Семенович, когда был учителем, работал в здешней школе.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Иван", "type": "title", "fst": "yma", "root": "иван+PN"},
-      {"pos": 2, "text": "Семенович", "type": "title", "fst": "yma", "root": "семенович+PN"},
-      {"pos": 3, "text": "учуутал", "type": "lowercase", "fst": "ymv", "root": "учуутал+N"},
-      {"pos": 4, "text": "эрдэҕинэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "маннааҕы", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+ADJZ#3"},
-      {"pos": 7, "text": "оскуолаҕа", "type": "lowercase", "fst": "ymv", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 8, "text": "үлэлээбитэ", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PAST+POSS.3SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Иван", "type": "title", "fst": "aff", "root": "иван+PN"},
+      {"pos": 2, "text": "Семенович", "type": "title", "fst": "aff", "root": "семенович+PN"},
+      {"pos": 3, "text": "учуутал", "type": "lowercase", "fst": "voc", "root": "учуутал+N"},
+      {"pos": 4, "text": "эрдэҕинэ", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "маннааҕы", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+ADJZ#3"},
+      {"pos": 7, "text": "оскуолаҕа", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 8, "text": "үлэлээбитэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PAST+POSS.3SG"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -32,16 +32,16 @@
     "ru": "Когда они были молоды, у них путники не особенно останавливались.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Эдэр", "type": "title", "fst": "ymv", "root": "эдэр+Adj"},
-      {"pos": 2, "text": "эрдэхтэринэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.3PL.PRTV"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "айан", "type": "lowercase", "fst": "ymv", "root": "айан+N"},
-      {"pos": 5, "text": "дьоно", "type": "lowercase", "fst": "ymv", "root": "дьон+N", "affixes": "+POSS.3SG"},
-      {"pos": 6, "text": "соччо", "type": "lowercase", "fst": "ymv", "root": "сол+Pron", "affixes": "+DEF#2"},
-      {"pos": 7, "text": "түспэт", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 8, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-      {"pos": 9, "text": "этилэр", "type": "lowercase", "fst": "ymv", "root": "э+V", "affixes": "+PST.3PL"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Эдэр", "type": "title", "fst": "voc", "root": "эдэр+Adj"},
+      {"pos": 2, "text": "эрдэхтэринэ", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.3PL.PRTV"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "айан", "type": "lowercase", "fst": "voc", "root": "айан+N"},
+      {"pos": 5, "text": "дьоно", "type": "lowercase", "fst": "voc", "root": "дьон+N", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": "соччо", "type": "lowercase", "fst": "voc", "root": "сол+Pron", "affixes": "+DEF#2"},
+      {"pos": 7, "text": "түспэт", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 8, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": "этилэр", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "в детстве, когда я был ребенком",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "оҕо+N"},
-      {"pos": 2, "text": "эрдэхпинэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"}
+      {"pos": 1, "text": "оҕо", "type": "lowercase", "fst": "voc", "root": "оҕо+N"},
+      {"pos": 2, "text": "эрдэхпинэ", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "когда он учительствовал",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "учууталлыыр", "type": "lowercase", "fst": "ymv", "root": "учуутал+N", "affixes": "+VRBLZ#1+PART_PRES"},
-      {"pos": 2, "text": "эрдэхпинэ", "type": "lowercase", "fst": "ymv", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"}
+      {"pos": 1, "text": "учууталлыыр", "type": "lowercase", "fst": "voc", "root": "учуутал+N", "affixes": "+VRBLZ#1+PART_PRES"},
+      {"pos": 2, "text": "эрдэхпинэ", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"}
     ]
   }
 ]

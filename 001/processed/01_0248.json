@@ -10,8 +10,8 @@
     "ru": "довольно хороший",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "үчүгэй", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj"},
-      {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "ymv", "root": "соҕус+Part"}
+      {"pos": 1, "text": "үчүгэй", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj"},
+      {"pos": 2, "text": "соҕус", "type": "lowercase", "fst": "voc", "root": "соҕус+Part"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "очень хороший",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adv"},
-      {"pos": 2, "text": "үчүгэй", "type": "lowercase", "fst": "ymv", "root": "үчүгэй+Adj"}
+      {"pos": 1, "text": "олус", "type": "lowercase", "fst": "voc", "root": "олус+Adv"},
+      {"pos": 2, "text": "үчүгэй", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj"}
     ]
   },
    {
@@ -40,9 +40,9 @@
       "ru": "совершенно чистый",
       "id": 3,
       "parses": [
-         {"pos": 1, "text": "ып", "type": "lowercase", "fst": "yma", "root": "ып+INTENS"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-         {"pos": 3, "text": "ыраас", "type": "lowercase", "fst": "ymv", "root": "ыраас+Adj"}
+         {"pos": 1, "text": "ып", "type": "lowercase", "fst": "aff", "root": "ып+INTENS"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 3, "text": "ыраас", "type": "lowercase", "fst": "voc", "root": "ыраас+Adj"}
       ]
    },
    {
@@ -56,9 +56,9 @@
       "ru": "очень черный",
       "id": 4,
       "parses": [
-         {"pos": 1, "text": "хап", "type": "lowercase", "fst": "ymv", "root": "хап+INTENS"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-         {"pos": 3, "text": "хара", "type": "lowercase", "fst": "ymv", "root": "хара+Adj"}
+         {"pos": 1, "text": "хап", "type": "lowercase", "fst": "voc", "root": "хап+INTENS"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 3, "text": "хара", "type": "lowercase", "fst": "voc", "root": "хара+Adj"}
       ]
    },
   {
@@ -72,8 +72,8 @@
     "ru": "очень длинный",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "олус", "type": "lowercase", "fst": "ymv", "root": "олус+Adv"},
-      {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "ymv", "root": "уһун+Adj"}
+      {"pos": 1, "text": "олус", "type": "lowercase", "fst": "voc", "root": "олус+Adv"},
+      {"pos": 2, "text": "уһун", "type": "lowercase", "fst": "voc", "root": "уһун+Adj"}
     ]
   },
   {
@@ -87,8 +87,8 @@
     "ru": "очень густой",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "наһаа", "type": "lowercase", "fst": "ymv", "root": "наһаа+Adv"},
-      {"pos": 2, "text": "хойуу", "type": "lowercase", "fst": "ymv", "root": "хойуу+Adj"}
+      {"pos": 1, "text": "наһаа", "type": "lowercase", "fst": "voc", "root": "наһаа+Adv"},
+      {"pos": 2, "text": "хойуу", "type": "lowercase", "fst": "voc", "root": "хойуу+Adj"}
     ]
   }
 ]

@@ -11,10 +11,10 @@
       "tags": "Erel hand-3.acc wash-refl-past.3",
       "id": 1,
       "parses": [
-         {"pos": 1, "text": "Эрил", "type": "title", "fst": "yma", "root": "эрил+N"},
-         {"pos": 2, "text": "илиитин", "type": "lowercase", "fst": "ymv", "root": "илии+N", "affixes": "+POSS.3SG.ACC"},
-         {"pos": 3, "text": "суунна", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PST.3SG"},
-         {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Эрил", "type": "title", "fst": "aff", "root": "эрил+N"},
+         {"pos": 2, "text": "илиитин", "type": "lowercase", "fst": "voc", "root": "илии+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 3, "text": "суунна", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+REFL/PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
       ]
    },    
    {
@@ -29,9 +29,9 @@
       "tags": "hand-acc wash-refl-pass-past.3",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Илиини", "type": "title", "fst": "ymv", "root": "илии+N", "affixes": "+ACC"},
-         {"pos": 2, "text": "суунулунна", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PASS+PST.3SG"},
-         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Илиини", "type": "title", "fst": "voc", "root": "илии+N", "affixes": "+ACC"},
+         {"pos": 2, "text": "суунулунна", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+REFL/PASS+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
       ]
    },
    {
@@ -46,9 +46,9 @@
       "tags": "*hand wash-refl-pass-past.3",
       "id": 3,
       "parses": [
-         {"pos": 1, "text": "Илии", "type": "title", "fst": "ymv", "root": "илии+N"},
-         {"pos": 2, "text": "суунулунна", "type": "lowercase", "fst": "ymv", "root": "сууй+V", "affixes": "+REFL/PASS+PASS+PST.3SG"},
-         {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Илии", "type": "title", "fst": "voc", "root": "илии+N"},
+         {"pos": 2, "text": "суунулунна", "type": "lowercase", "fst": "voc", "root": "сууй+V", "affixes": "+REFL/PASS+PASS+PST.3SG"},
+         {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
       ]
    }
 ]

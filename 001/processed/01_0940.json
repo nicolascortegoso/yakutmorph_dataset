@@ -10,12 +10,12 @@
     "ru": "Лука не подходит, он пьяница.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Лука", "type": "title", "fst": "yma", "root": "лука+PN"},
-      {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "арыгыһыта", "type": "lowercase", "fst": "ymv", "root": "арыгы+N", "affixes": "+NMLZ#1+POSS.3SG"},
-      {"pos": 5, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Лука", "type": "title", "fst": "aff", "root": "лука+PN"},
+      {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "арыгыһыта", "type": "lowercase", "fst": "voc", "root": "арыгы+N", "affixes": "+NMLZ#1+POSS.3SG"},
+      {"pos": 5, "text": "бэрт", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -29,11 +29,11 @@
     "ru": "Нет, ты слишком перехватываешь.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Сатаммат", "type": "title", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "наһаа", "type": "lowercase", "fst": "ymv", "root": "наһаа+Adv"},
-      {"pos": 4, "text": "түһэҕин", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+PART_PRES+2SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сатаммат", "type": "title", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "наһаа", "type": "lowercase", "fst": "voc", "root": "наһаа+Adv"},
+      {"pos": 4, "text": "түһэҕин", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PART_PRES+2SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,11 +47,11 @@
     "ru": "Нет, он пьяница.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Сатаммат", "type": "title", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "арыгыһыта", "type": "lowercase", "fst": "ymv", "root": "арыгы+N", "affixes": "+NMLZ#1+POSS.3SG"},
-      {"pos": 4, "text": "бэрт", "type": "lowercase", "fst": "ymv", "root": "бэрт+Adj"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Сатаммат", "type": "title", "fst": "voc", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "арыгыһыта", "type": "lowercase", "fst": "voc", "root": "арыгы+N", "affixes": "+NMLZ#1+POSS.3SG"},
+      {"pos": 4, "text": "бэрт", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

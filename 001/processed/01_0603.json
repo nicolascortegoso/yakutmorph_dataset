@@ -10,11 +10,11 @@
     "ru": "Я в школу поступил семи лет.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "ymv", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "сэттэлээхпэр", "type": "lowercase", "fst": "ymv", "root": "сэттэ+Num", "affixes": "+ADJZ#1+POSS.1SG.DAT"},
-      {"pos": 4, "text": "киирбитим", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PART_PAST+POSS.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "сэттэлээхпэр", "type": "lowercase", "fst": "voc", "root": "сэттэ+Num", "affixes": "+ADJZ#1+POSS.1SG.DAT"},
+      {"pos": 4, "text": "киирбитим", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PART_PAST+POSS.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,12 +28,12 @@
     "ru": "На прошлой неделе в Октемцах был ысыах.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ааспыт", "type": "title", "fst": "ymv", "root": "аас+V", "affixes": "+PART_PAST"},
-      {"pos": 2, "text": "нэдиэлэҕэ", "type": "lowercase", "fst": "ymv", "root": "нэдиэлэ+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "Өктөмҥө", "type": "title", "fst": "yma", "root": "өктөм+PN", "affixes": "+DAT"},
-      {"pos": 4, "text": "ыһыах", "type": "lowercase", "fst": "ymv", "root": "ыһыах+N"},
-      {"pos": 5, "text": "буолбута", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ааспыт", "type": "title", "fst": "voc", "root": "аас+V", "affixes": "+PART_PAST"},
+      {"pos": 2, "text": "нэдиэлэҕэ", "type": "lowercase", "fst": "voc", "root": "нэдиэлэ+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "Өктөмҥө", "type": "title", "fst": "aff", "root": "өктөм+PN", "affixes": "+DAT"},
+      {"pos": 4, "text": "ыһыах", "type": "lowercase", "fst": "voc", "root": "ыһыах+N"},
+      {"pos": 5, "text": "буолбута", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -47,12 +47,12 @@
     "ru": "Наши родители жили в этом аласе.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "дьоммут", "type": "lowercase", "fst": "ymv", "root": "дьон+N", "affixes": "+POSS.1PL"},
-      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 4, "text": "алааска", "type": "lowercase", "fst": "ymv", "root": "алаас+N", "affixes": "+DAT"},
-      {"pos": 5, "text": "олорбуттара", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Биһиги", "type": "title", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "дьоммут", "type": "lowercase", "fst": "voc", "root": "дьон+N", "affixes": "+POSS.1PL"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 4, "text": "алааска", "type": "lowercase", "fst": "voc", "root": "алаас+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "олорбуттара", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -66,11 +66,11 @@
     "ru": "Говорят, жили-были старик со старухой.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Оҕонньордоох", "type": "title", "fst": "ymv", "root": "оҕонньор+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "эмээхсин", "type": "lowercase", "fst": "ymv", "root": "эмээхсин+N"},
-      {"pos": 3, "text": "олорбуттара", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
-      {"pos": 4, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үһү+Part"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оҕонньордоох", "type": "title", "fst": "voc", "root": "оҕонньор+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "эмээхсин", "type": "lowercase", "fst": "voc", "root": "эмээхсин+N"},
+      {"pos": 3, "text": "олорбуттара", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
+      {"pos": 4, "text": "үһү", "type": "lowercase", "fst": "voc", "root": "үһү+Part"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -84,12 +84,12 @@
     "ru": "С тех пор, говорят, лето стало короче.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Онтон", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+ABL"},
-      {"pos": 2, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+CONV#2"},
-      {"pos": 3, "text": "сайын", "type": "lowercase", "fst": "ymv", "root": "сайын+N"},
-      {"pos": 4, "text": "кылгаабыта", "type": "lowercase", "fst": "ymv", "root": "кылгаа+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 5, "text": "үһү", "type": "lowercase", "fst": "ymv", "root": "үһү+Part"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Онтон", "type": "title", "fst": "voc", "root": "ол+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "ыла", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+CONV#2"},
+      {"pos": 3, "text": "сайын", "type": "lowercase", "fst": "voc", "root": "сайын+N"},
+      {"pos": 4, "text": "кылгаабыта", "type": "lowercase", "fst": "voc", "root": "кылгаа+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 5, "text": "үһү", "type": "lowercase", "fst": "voc", "root": "үһү+Part"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

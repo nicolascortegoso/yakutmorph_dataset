@@ -11,12 +11,12 @@
     "ru": "Ну тогда давай, я поработаю этот (до отпуска) промежуток времени.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Чэ", "type": "title", "fst": "ymv", "root": "чэ+MOD"},
-      {"pos": 2, "text": "оччоҕо", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+DEF#2+DAT"},
-      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 4, "text": "омурҕаҥҥа", "type": "lowercase", "fst": "ymv", "root": "омурҕан+N", "affixes": "+DAT"},
-      {"pos": 5, "text": "үлэлиим", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+IMP#1.1SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Чэ", "type": "title", "fst": "voc", "root": "чэ+MOD"},
+      {"pos": 2, "text": "оччоҕо", "type": "lowercase", "fst": "voc", "root": "ол+Pron", "affixes": "+DEF#2+DAT"},
+      {"pos": 3, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 4, "text": "омурҕаҥҥа", "type": "lowercase", "fst": "voc", "root": "омурҕан+N", "affixes": "+DAT"},
+      {"pos": 5, "text": "үлэлиим", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+IMP#1.1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -31,13 +31,13 @@
     "ru": "Ладно, ладно, давай не помешаю я (Вам), не погуляю.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Чэ", "type": "title", "fst": "ymv", "root": "чэ+MOD"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "чэ", "type": "lowercase", "fst": "ymv", "root": "чэ+MOD"},
-      {"pos": 4, "text": "мэһэйдээмиим", "type": "lowercase", "fst": "ymv", "root": "мэһэй+N", "affixes": "+VRBLZ#1+NEG+IMP#1.1SG"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 6, "text": "күүлэйдээмиим", "type": "lowercase", "fst": "ymv", "root": "күүлэй+N", "affixes": "+VRBLZ#1+NEG+IMP#1.1SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Чэ", "type": "title", "fst": "voc", "root": "чэ+MOD"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "чэ", "type": "lowercase", "fst": "voc", "root": "чэ+MOD"},
+      {"pos": 4, "text": "мэһэйдээмиим", "type": "lowercase", "fst": "voc", "root": "мэһэй+N", "affixes": "+VRBLZ#1+NEG+IMP#1.1SG"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": "күүлэйдээмиим", "type": "lowercase", "fst": "voc", "root": "күүлэй+N", "affixes": "+VRBLZ#1+NEG+IMP#1.1SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -52,9 +52,9 @@
     "ru": "Пусть посмотрит.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "көрдүн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+IMP#1.3SG"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "көрдүн", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+IMP#1.3SG"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -69,9 +69,9 @@
     "ru": "Пусть он не смотрит.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "көрдүннэр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+IMP#1.3PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "көрдүннэр", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+IMP#1.3PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -86,9 +86,9 @@
     "ru": "Пускай он не смотрит.",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "көрбөтүннэр", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+NEG+IMP#1.3PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "көрбөтүннэр", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+NEG+IMP#1.3PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -103,9 +103,9 @@
     "ru": "Они должны идти.",
     "id": 18,
     "parses": [
-      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 2, "text": "барыахтаахтар", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT+DEB+PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кинилэр", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
+      {"pos": 2, "text": "барыахтаахтар", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+DEB+PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -120,8 +120,8 @@
     "ru": "Пойдем.",
     "id": 19,
     "parses": [
-      {"pos": 1, "text": "Барыах", "type": "title", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT"},
-      {"pos": 2, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Барыах", "type": "title", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT"},
+      {"pos": 2, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -136,8 +136,8 @@
     "ru": "Пойдемте.",
     "id": 20,
     "parses": [
-      {"pos": 1, "text": "Барыахха", "type": "title", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT+DAT"},
-      {"pos": 2, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Барыахха", "type": "title", "fst": "voc", "root": "бар+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 2, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

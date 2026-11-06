@@ -10,11 +10,11 @@
     "ru": "Афанас, запевай песню!",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Охоноос", "type": "title", "fst": "yma", "root": "охоноос+PN"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "ырыата", "type": "lowercase", "fst": "ymv", "root": "ырыа+N", "affixes": "+PRTV"},
-      {"pos": 4, "text": "таһаар", "type": "lowercase", "fst": "ymv", "root": "таһаар+V"},
-      {"pos": 5, "text": "!", "type": "exclamation", "fst": "ymv"}
+      {"pos": 1, "text": "Охоноос", "type": "title", "fst": "aff", "root": "охоноос+PN"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "ырыата", "type": "lowercase", "fst": "voc", "root": "ырыа+N", "affixes": "+PRTV"},
+      {"pos": 4, "text": "таһаар", "type": "lowercase", "fst": "voc", "root": "таһаар+V"},
+      {"pos": 5, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -28,10 +28,10 @@
     "ru": "Пошел, пошел (в значении иду, иду).",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Бардым", "type": "title", "fst": "fst", "root": "бар+V", "affixes": "+PST.1SG"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "бардым", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PST.1SG"},
-      {"pos": 4, "text": "...", "type": "ellipsis", "fst": "fst"}
+      {"pos": 1, "text": "Бардым", "type": "title", "fst": "voc", "root": "бар+V", "affixes": "+PST.1SG"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "бардым", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.1SG"},
+      {"pos": 4, "text": "...", "type": "ellipsis", "fst": "voc"}
     ]
   },
   {
@@ -45,12 +45,12 @@
     "ru": "Ну, становитесь кругом!",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Чэ", "type": "title", "fst": "fst", "root": "чэ+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "төгүрүччү", "type": "lowercase", "fst": "fst", "root": "төгүрүй+V", "affixes": "+ADVZ#2"},
-      {"pos": 4, "text": "турунан", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+REFL+CONV#1"},
-      {"pos": 5, "text": "иһиҥ", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Чэ", "type": "title", "fst": "voc", "root": "чэ+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "төгүрүччү", "type": "lowercase", "fst": "voc", "root": "төгүрүй+V", "affixes": "+ADVZ#2"},
+      {"pos": 4, "text": "турунан", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+REFL+CONV#1"},
+      {"pos": 5, "text": "иһиҥ", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   },
   {
@@ -64,16 +64,16 @@
     "ru": "Мама, я пошла (иду) пароходы смотреть ладно?",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Мама", "type": "title", "fst": "fst", "root": "мама+N"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 4, "text": "борохуоттары", "type": "lowercase", "fst": "fst", "root": "борохуот+N", "affixes": "+PL+ACC"},
-      {"pos": 5, "text": "көрө", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+CONV#2"},
-      {"pos": 6, "text": "бардым", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PST.1SG"},
-      {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 8, "text": "сөп", "type": "lowercase", "fst": "fst", "root": "сөп+Adj"},
-      {"pos": 9, "text": "дуо", "type": "lowercase", "fst": "fst", "root": "дуо+Part"},
-      {"pos": 10, "text": "?", "type": "question", "fst": "fst"}
+      {"pos": 1, "text": "Мама", "type": "title", "fst": "voc", "root": "мама+N"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 4, "text": "борохуоттары", "type": "lowercase", "fst": "voc", "root": "борохуот+N", "affixes": "+PL+ACC"},
+      {"pos": 5, "text": "көрө", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#2"},
+      {"pos": 6, "text": "бардым", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.1SG"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 8, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 9, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 10, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -87,12 +87,12 @@
     "ru": "Я беру свой «Дульалаах».",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Мин", "type": "title", "fst": "ymv", "root": "мин+Pron"},
-      {"pos": 2, "text": "«", "type": "quotation", "fst": "ymv"},
-      {"pos": 3, "text": "Дулгалаахпын", "type": "title", "fst": "yma", "root": "дулга+PN", "affixes": "+ADJZ#1+POSS.1SG.ACC"},
-      {"pos": 4, "text": "»", "type": "quotation", "fst": "ymv"},
-      {"pos": 5, "text": "ылабын", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 2, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 3, "text": "Дулгалаахпын", "type": "title", "fst": "aff", "root": "дулга+PN", "affixes": "+ADJZ#1+POSS.1SG.ACC"},
+      {"pos": 4, "text": "»", "type": "quotation", "fst": "voc"},
+      {"pos": 5, "text": "ылабын", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -106,13 +106,13 @@
     "ru": "В Петров день взял косу и пошел (возьму косу и пойду).",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Бөтүрүөп", "type": "title", "fst": "ymv", "root": "бөтүрүөп+N"},
-      {"pos": 2, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"},
-      {"pos": 3, "text": "хотуурбун", "type": "lowercase", "fst": "ymv", "root": "хотуур+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 4, "text": "сүктүм", "type": "lowercase", "fst": "ymv", "root": "сүк+V", "affixes": "+PST.1SG"},
-      {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 6, "text": "бардым", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.1SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бөтүрүөп", "type": "title", "fst": "voc", "root": "бөтүрүөп+N"},
+      {"pos": 2, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 3, "text": "хотуурбун", "type": "lowercase", "fst": "voc", "root": "хотуур+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 4, "text": "сүктүм", "type": "lowercase", "fst": "voc", "root": "сүк+V", "affixes": "+PST.1SG"},
+      {"pos": 5, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 6, "text": "бардым", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.1SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

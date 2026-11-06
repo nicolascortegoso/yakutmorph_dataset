@@ -10,10 +10,10 @@
     "ru": "старуха послала своему сыну письмо",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "эмээхсин", "type": "lowercase", "fst": "fst", "root": "эмээхсин+N"},
-      {"pos": 2, "text": "уолугар", "type": "lowercase", "fst": "fst", "root": "уол+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "сурук", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NMLZ#5"},
-      {"pos": 4, "text": "ыыппыт", "type": "lowercase", "fst": "fst", "root": "ыыт+V", "affixes": "+PART_PAST"}
+      {"pos": 1, "text": "эмээхсин", "type": "lowercase", "fst": "voc", "root": "эмээхсин+N"},
+      {"pos": 2, "text": "уолугар", "type": "lowercase", "fst": "voc", "root": "уол+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "сурук", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+NMLZ#5"},
+      {"pos": 4, "text": "ыыппыт", "type": "lowercase", "fst": "voc", "root": "ыыт+V", "affixes": "+PART_PAST"}
     ]
   },
   {
@@ -27,9 +27,9 @@
     "ru": "я иду на свою работу",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "үлэбэр", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+POSS.1SG.DAT"},
-      {"pos": 2, "text": "баран", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "иһэбин", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PART_PRES+1SG"}
+      {"pos": 1, "text": "үлэбэр", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.1SG.DAT"},
+      {"pos": 2, "text": "баран", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 3, "text": "иһэбин", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PART_PRES+1SG"}
     ]
   },
   {
@@ -43,9 +43,9 @@
     "ru": "моя мать сидит у себя дома (в доме своем)",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "ийэм", "type": "lowercase", "fst": "fst", "root": "ийэ+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "дьиэтигэр", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 3, "text": "олорор", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "ийэм", "type": "lowercase", "fst": "voc", "root": "ийэ+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "дьиэтигэр", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 3, "text": "олорор", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -59,7 +59,7 @@
     "ru": "вдобавок",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "эбиитигэр", "type": "lowercase", "fst": "fst", "root": "эп+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"}
+      {"pos": 1, "text": "эбиитигэр", "type": "lowercase", "fst": "voc", "root": "эп+V", "affixes": "+NMLZ#2+POSS.3SG.DAT"}
     ]
   },
   {
@@ -73,7 +73,7 @@
     "ru": "на беду",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "кыһалҕатыгар", "type": "lowercase", "fst": "fst", "root": "кыһалҕа+N", "affixes": "+POSS.3SG.DAT"}
+      {"pos": 1, "text": "кыһалҕатыгар", "type": "lowercase", "fst": "voc", "root": "кыһалҕа+N", "affixes": "+POSS.3SG.DAT"}
     ]
   },
   {
@@ -87,7 +87,7 @@
     "ru": "к огорчению",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "хомолтотугар", "type": "lowercase", "fst": "fst", "root": "хомой+V", "affixes": "+NMLZ#8+POSS.3SG.DAT"}
+      {"pos": 1, "text": "хомолтотугар", "type": "lowercase", "fst": "voc", "root": "хомой+V", "affixes": "+NMLZ#8+POSS.3SG.DAT"}
     ]
   },
   {
@@ -101,7 +101,7 @@
     "ru": "иногда",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "ардыгар", "type": "lowercase", "fst": "ymv", "root": "арыт+N", "affixes": "+POSS.3SG.DAT"}
+      {"pos": 1, "text": "ардыгар", "type": "lowercase", "fst": "voc", "root": "арыт+N", "affixes": "+POSS.3SG.DAT"}
     ]
   },
   {
@@ -115,7 +115,7 @@
     "ru": "днём",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "күнүһүгэр", "type": "lowercase", "fst": "fst", "root": "күнүс+Adv", "affixes": "+POSS.3SG+DAT"}
+      {"pos": 1, "text": "күнүһүгэр", "type": "lowercase", "fst": "voc", "root": "күнүс+Adv", "affixes": "+POSS.3SG+DAT"}
     ]
   },
   {
@@ -129,7 +129,7 @@
     "ru": "на авось",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "дьоҕойонугар", "type": "lowercase", "fst": "ymv", "root": "дьоҕойон+Adv", "affixes": "+POSS.3SG.DAT"}
+      {"pos": 1, "text": "дьоҕойонугар", "type": "lowercase", "fst": "voc", "root": "дьоҕойон+Adv", "affixes": "+POSS.3SG.DAT"}
     ]
   }
 ]

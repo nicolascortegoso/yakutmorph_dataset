@@ -11,12 +11,12 @@
     "ru": "Как у тебя отношения с Чаровым?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Эн", "type": "title", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 2, "text": "Чаровтыын", "type": "title", "fst": "yma", "root": "чаров+PN", "affixes": "+COMIT"},
-      {"pos": 3, "text": "сыһыаныҥ", "type": "lowercase", "fst": "ymv", "root": "сыһыан+N", "affixes": "+POSS.2SG"},
-      {"pos": 4, "text": "хайаан", "type": "lowercase", "fst": "ymv", "root": "хайа+Pron", "affixes": "+INST"},
-      {"pos": 5, "text": "турарый", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES+INT"},
-      {"pos": 6, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Эн", "type": "title", "fst": "voc", "root": "эн+Pron"},
+      {"pos": 2, "text": "Чаровтыын", "type": "title", "fst": "aff", "root": "чаров+PN", "affixes": "+COMIT"},
+      {"pos": 3, "text": "сыһыаныҥ", "type": "lowercase", "fst": "voc", "root": "сыһыан+N", "affixes": "+POSS.2SG"},
+      {"pos": 4, "text": "хайаан", "type": "lowercase", "fst": "voc", "root": "хайа+Pron", "affixes": "+INST"},
+      {"pos": 5, "text": "турарый", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES+INT"},
+      {"pos": 6, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -31,10 +31,10 @@
     "ru": "Можно сказать, что по-прежднему.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Уруккутунан", "type": "title", "fst": "ymv", "root": "урут+Adv", "affixes": "+ADJZ#4+POSS.3SG.INST"},
-      {"pos": 2, "text": "диэххэ", "type": "lowercase", "fst": "ymv", "root": "диэ+V", "affixes": "+PART_FUT+DAT"},
-      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уруккутунан", "type": "title", "fst": "voc", "root": "урут+Adv", "affixes": "+ADJZ#4+POSS.3SG.INST"},
+      {"pos": 2, "text": "диэххэ", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+PART_FUT+DAT"},
+      {"pos": 3, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -49,13 +49,13 @@
     "ru": "Как это понят?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 2, "text": "аата", "type": "lowercase", "fst": "ymv", "root": "аата+MOD"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хайдах+Pron"},
-      {"pos": 5, "text": "өйдүөххэ", "type": "lowercase", "fst": "ymv", "root": "өй+N", "affixes": "+VRBLZ#1+PART_FUT+DAT"},
-      {"pos": 6, "text": "сөбүй", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj", "affixes": "+INT"},
-      {"pos": 7, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "аата", "type": "lowercase", "fst": "voc", "root": "аата+MOD"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "хайдах", "type": "lowercase", "fst": "voc", "root": "хайдах+Pron"},
+      {"pos": 5, "text": "өйдүөххэ", "type": "lowercase", "fst": "voc", "root": "өй+N", "affixes": "+VRBLZ#1+PART_FUT+DAT"},
+      {"pos": 6, "text": "сөбүй", "type": "lowercase", "fst": "voc", "root": "сөп+Adj", "affixes": "+INT"},
+      {"pos": 7, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -70,12 +70,12 @@
     "ru": "Правда, что Матрена вышла замуж?",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Мотуруона", "type": "title", "fst": "ymv", "root": "мотуруона+N"},
-      {"pos": 2, "text": "эргэ", "type": "lowercase", "fst": "ymv", "root": "эр+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "тахсыбыта", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 4, "text": "кырдьык", "type": "lowercase", "fst": "ymv", "root": "кырдьык+N"},
-      {"pos": 5, "text": "дуо", "type": "lowercase", "fst": "ymv", "root": "дуо+Part"},
-      {"pos": 6, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Мотуруона", "type": "title", "fst": "voc", "root": "мотуруона+N"},
+      {"pos": 2, "text": "эргэ", "type": "lowercase", "fst": "voc", "root": "эр+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "тахсыбыта", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+PART_PAST+POSS.3SG"},
+      {"pos": 4, "text": "кырдьык", "type": "lowercase", "fst": "voc", "root": "кырдьык+N"},
+      {"pos": 5, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
+      {"pos": 6, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -90,10 +90,10 @@
     "ru": "Правда, правда.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Кырдьык", "type": "title", "fst": "ymv", "root": "кырдьык+N"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "кырдьык", "type": "lowercase", "fst": "ymv", "root": "кырдьык+N"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кырдьык", "type": "title", "fst": "voc", "root": "кырдьык+N"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "кырдьык", "type": "lowercase", "fst": "voc", "root": "кырдьык+N"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -108,9 +108,9 @@
     "ru": "Неужели?",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Ама", "type": "title", "fst": "ymv", "root": "ама+MOD"},
-      {"pos": 2, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
-      {"pos": 3, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Ама", "type": "title", "fst": "voc", "root": "ама+MOD"},
+      {"pos": 2, "text": "дуу", "type": "lowercase", "fst": "voc", "root": "дуу+Part"},
+      {"pos": 3, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -125,10 +125,10 @@
     "ru": "Неужели говоришь, что ли?",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Ама", "type": "title", "fst": "ymv", "root": "ама+MOD"},
-      {"pos": 2, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
-      {"pos": 3, "text": "даа", "type": "lowercase", "fst": "ymv", "root": "даа+MOD"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Ама", "type": "title", "fst": "voc", "root": "ама+MOD"},
+      {"pos": 2, "text": "дуу", "type": "lowercase", "fst": "voc", "root": "дуу+Part"},
+      {"pos": 3, "text": "даа", "type": "lowercase", "fst": "voc", "root": "даа+MOD"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   }
 ]

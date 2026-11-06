@@ -10,8 +10,8 @@
     "ru": "около десяти суток",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "уонча", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1"},
-      {"pos": 2, "text": "хонук", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+NMLZ#5"}
+      {"pos": 1, "text": "уонча", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1"},
+      {"pos": 2, "text": "хонук", "type": "lowercase", "fst": "voc", "root": "хон+V", "affixes": "+NMLZ#5"}
     ]
   },
   {
@@ -25,12 +25,12 @@
     "ru": "в этом колхозе имеется около двухсот членов",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "колхозка", "type": "lowercase", "fst": "yma", "root": "колхоз+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
-      {"pos": 4, "text": "сүүсчэкэ", "type": "lowercase", "fst": "ymv", "root": "сүүс+Num", "affixes": "+APPR#2"},
-      {"pos": 5, "text": "член", "type": "lowercase", "fst": "yma", "root": "член+N"},
-      {"pos": 6, "text": "баар", "type": "lowercase", "fst": "ymv", "root": "баар+N"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "колхозка", "type": "lowercase", "fst": "aff", "root": "колхоз+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "икки", "type": "lowercase", "fst": "voc", "root": "икки+Num"},
+      {"pos": 4, "text": "сүүсчэкэ", "type": "lowercase", "fst": "voc", "root": "сүүс+Num", "affixes": "+APPR#2"},
+      {"pos": 5, "text": "член", "type": "lowercase", "fst": "aff", "root": "член+N"},
+      {"pos": 6, "text": "баар", "type": "lowercase", "fst": "voc", "root": "баар+N"}
     ]
   },
   {
@@ -44,10 +44,10 @@
     "ru": "в колхозе дойных коров около девяноста",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "ymv", "root": "колхоз+N"},
-      {"pos": 2, "text": "ыаньыга", "type": "lowercase", "fst": "yma", "root": "ыаньык+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "тоҕус", "type": "lowercase", "fst": "ymv", "root": "тоҕус+Num"},
-      {"pos": 4, "text": "уонча", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 2, "text": "ыаньыга", "type": "lowercase", "fst": "aff", "root": "ыаньык+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "тоҕус", "type": "lowercase", "fst": "voc", "root": "тоҕус+Num"},
+      {"pos": 4, "text": "уонча", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1"}
     ]
   },
   {
@@ -61,7 +61,7 @@
     "ru": "нас около десяти",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "уончабыт", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1+1PL"}
+      {"pos": 1, "text": "уончабыт", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1+1PL"}
     ]
   },
   {
@@ -75,7 +75,7 @@
     "ru": "их около сотни",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "сүүсчэкэлэр", "type": "lowercase", "fst": "ymv", "root": "сүүс+Num", "affixes": "+APPR#2+PL"}
+      {"pos": 1, "text": "сүүсчэкэлэр", "type": "lowercase", "fst": "voc", "root": "сүүс+Num", "affixes": "+APPR#2+PL"}
     ]
   },
   {
@@ -89,9 +89,9 @@
     "ru": "мне около 80 лет",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "аҕыс", "type": "lowercase", "fst": "ymv", "root": "аҕыс+Num"},
-      {"pos": 2, "text": "уончам", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1+POSS.1SG"},
-      {"pos": 3, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "аҕыс", "type": "lowercase", "fst": "voc", "root": "аҕыс+Num"},
+      {"pos": 2, "text": "уончам", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1+POSS.1SG"},
+      {"pos": 3, "text": "буолла", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -105,9 +105,9 @@
     "ru": "приблизительно не менее двадцати",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "сүүрбэччэттэн", "type": "lowercase", "fst": "ymv", "root": "сүүрбэ+Num", "affixes": "+APPR#1+ABL"},
-      {"pos": 2, "text": "итэҕэһэ", "type": "lowercase", "fst": "ymv", "root": "итэҕэс+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"}
+      {"pos": 1, "text": "сүүрбэччэттэн", "type": "lowercase", "fst": "voc", "root": "сүүрбэ+Num", "affixes": "+APPR#1+ABL"},
+      {"pos": 2, "text": "итэҕэһэ", "type": "lowercase", "fst": "voc", "root": "итэҕэс+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "суох", "type": "lowercase", "fst": "voc", "root": "суох+N"}
     ]
   },
   {
@@ -121,8 +121,8 @@
     "ru": "ребёнок около десяти лет",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "уончалаах", "type": "lowercase", "fst": "ymv", "root": "уон+Num", "affixes": "+APPR#1+ADJZ#1"},
-      {"pos": 2, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "оҕо+N"}
+      {"pos": 1, "text": "уончалаах", "type": "lowercase", "fst": "voc", "root": "уон+Num", "affixes": "+APPR#1+ADJZ#1"},
+      {"pos": 2, "text": "оҕо", "type": "lowercase", "fst": "voc", "root": "оҕо+N"}
     ]
   },
   {
@@ -136,8 +136,8 @@
     "ru": "его сыну лет двадцать",
     "id": 16,
     "parses": [
-      {"pos": 1, "text": "уола", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": "сүүрбэччэлээх", "type": "lowercase", "fst": "ymv", "root": "сүүрбэ+Num", "affixes": "+APPR#1+ADJZ#1"}
+      {"pos": 1, "text": "уола", "type": "lowercase", "fst": "voc", "root": "уол+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "сүүрбэччэлээх", "type": "lowercase", "fst": "voc", "root": "сүүрбэ+Num", "affixes": "+APPR#1+ADJZ#1"}
     ]
   }
 ]

@@ -10,9 +10,9 @@
     "ru": "он уже пришел (букв. в кои века)",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "хайы", "type": "lowercase", "fst": "fst", "root": "хайы+Adv"},
-      {"pos": 2, "text": "үйэҕэ", "type": "lowercase", "fst": "fst", "root": "үйэ+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "кэлбит", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PART_PAST"}
+      {"pos": 1, "text": "хайы", "type": "lowercase", "fst": "voc", "root": "хайы+Adv"},
+      {"pos": 2, "text": "үйэҕэ", "type": "lowercase", "fst": "voc", "root": "үйэ+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "кэлбит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST"}
     ]
   },
   {
@@ -26,8 +26,8 @@
     "ru": "очертя голову, махнув на все, куда ни шло (букв. закрывши глаза)",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "харахта", "type": "lowercase", "fst": "fst", "root": "харах+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "симнэ", "type": "lowercase", "fst": "fst", "root": "сим+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "харахта", "type": "lowercase", "fst": "voc", "root": "харах+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "симнэ", "type": "lowercase", "fst": "voc", "root": "сим+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -41,8 +41,8 @@
     "ru": "еле, кое-как, спустя рукава",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "аат", "type": "lowercase", "fst": "fst", "root": "аат+N"},
-      {"pos": 2, "text": "харата", "type": "lowercase", "fst": "fst", "root": "хара+Adj", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "аат", "type": "lowercase", "fst": "voc", "root": "аат+N"},
+      {"pos": 2, "text": "харата", "type": "lowercase", "fst": "voc", "root": "хара+Adj", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -56,8 +56,8 @@
     "ru": "куда глаза глядят (нога вслепую)",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "атах", "type": "lowercase", "fst": "fst", "root": "атах+N"},
-      {"pos": 2, "text": "балай", "type": "lowercase", "fst": "fst", "root": "балай+Adj"}
+      {"pos": 1, "text": "атах", "type": "lowercase", "fst": "voc", "root": "атах+N"},
+      {"pos": 2, "text": "балай", "type": "lowercase", "fst": "voc", "root": "балай+Adj"}
     ]
   },
   {
@@ -71,9 +71,9 @@
     "ru": "во мгновение ока (по сю сторо ну взгляда)",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "көрүөх", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PART_FUT"},
-      {"pos": 2, "text": "бэтэрээ", "type": "lowercase", "fst": "fst", "root": "бэтэрээ+N"},
-      {"pos": 3, "text": "өттүнэ", "type": "lowercase", "fst": "fst", "root": "өрүт+N", "affixes": "+POSS.3SG.PRTV"}
+      {"pos": 1, "text": "көрүөх", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PART_FUT"},
+      {"pos": 2, "text": "бэтэрээ", "type": "lowercase", "fst": "voc", "root": "бэтэрээ+N"},
+      {"pos": 3, "text": "өттүнэ", "type": "lowercase", "fst": "voc", "root": "өрүт+N", "affixes": "+POSS.3SG.PRTV"}
     ]
   }
 ]

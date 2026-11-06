@@ -10,11 +10,11 @@
     "ru": "Собака друг человека.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Ыт", "type": "title", "fst": "fst", "root": "ыт+N"},
-      {"pos": 2, "text": "―", "type": "unknown", "fst": "fst"},
-      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"},
-      {"pos": 4, "text": "доҕоро", "type": "lowercase", "fst": "fst", "root": "доҕор+N", "affixes": "+POSS.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Ыт", "type": "title", "fst": "voc", "root": "ыт+N"},
+      {"pos": 2, "text": "―", "type": "unknown", "fst": "voc"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 4, "text": "доҕоро", "type": "lowercase", "fst": "voc", "root": "доҕор+N", "affixes": "+POSS.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -28,10 +28,10 @@
     "ru": "Человек живет один раз.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Киһи", "type": "title", "fst": "fst", "root": "киһи+N"},
-      {"pos": 2, "text": "биирдэ", "type": "lowercase", "fst": "fst", "root": "биир+Num", "affixes": "+ADVZ#8"},
-      {"pos": 3, "text": "олорор", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Киһи", "type": "title", "fst": "voc", "root": "киһи+N"},
+      {"pos": 2, "text": "биирдэ", "type": "lowercase", "fst": "voc", "root": "биир+Num", "affixes": "+ADVZ#8"},
+      {"pos": 3, "text": "олорор", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -45,11 +45,11 @@
     "ru": "Книга ― лучший подарок.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "fst", "root": "кинигэ+N"},
-      {"pos": 2, "text": "―", "type": "unknown", "fst": "fst"},
-      {"pos": 3, "text": "бастыҥ", "type": "lowercase", "fst": "fst", "root": "бастыҥ+Adj"},
-      {"pos": 4, "text": "бэлэх", "type": "lowercase", "fst": "fst", "root": "бэлэх+N"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "voc", "root": "кинигэ+N"},
+      {"pos": 2, "text": "―", "type": "unknown", "fst": "voc"},
+      {"pos": 3, "text": "бастыҥ", "type": "lowercase", "fst": "voc", "root": "бастыҥ+Adj"},
+      {"pos": 4, "text": "бэлэх", "type": "lowercase", "fst": "voc", "root": "бэлэх+N"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -63,9 +63,9 @@
     "ru": "Любит детей (букв. Ребенка любит).",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Оҕону", "type": "title", "fst": "fst", "root": "оҕо+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "таптыыр", "type": "lowercase", "fst": "fst", "root": "таптаа+V", "affixes": "+PART_PRES"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Оҕону", "type": "title", "fst": "voc", "root": "оҕо+N", "affixes": "+ACC"},
+      {"pos": 2, "text": "таптыыр", "type": "lowercase", "fst": "voc", "root": "таптаа+V", "affixes": "+PART_PRES"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -79,10 +79,10 @@
     "ru": "Заяц в своем лесу не погивает.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Ойуурдаах", "type": "title", "fst": "fst", "root": "ойуур+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "куобах", "type": "lowercase", "fst": "fst", "root": "куобах+N"},
-      {"pos": 3, "text": "охтубат", "type": "lowercase", "fst": "fst", "root": "оҕут+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Ойуурдаах", "type": "title", "fst": "voc", "root": "ойуур+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "куобах", "type": "lowercase", "fst": "voc", "root": "куобах+N"},
+      {"pos": 3, "text": "охтубат", "type": "lowercase", "fst": "voc", "root": "оҕут+V", "affixes": "+NEG+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -96,10 +96,10 @@
     "ru": "На столе лежит книга.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Остуолга", "type": "title", "fst": "fst", "root": "остуол+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "fst", "root": "кинигэ+N"},
-      {"pos": 3, "text": "сытар", "type": "lowercase", "fst": "fst", "root": "сыт+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Остуолга", "type": "title", "fst": "voc", "root": "остуол+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "voc", "root": "кинигэ+N"},
+      {"pos": 3, "text": "сытар", "type": "lowercase", "fst": "voc", "root": "сыт+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -113,10 +113,10 @@
     "ru": "Очень люблю свою мать.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Ийэбин", "type": "title", "fst": "fst", "root": "ийэ+N", "affixes": "+POSS.1SG.ACC"},
-      {"pos": 2, "text": "олус", "type": "lowercase", "fst": "fst", "root": "олус+Adv"},
-      {"pos": 3, "text": "таптыыбын", "type": "lowercase", "fst": "fst", "root": "таптаа+V", "affixes": "+PART_PRES+1SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Ийэбин", "type": "title", "fst": "voc", "root": "ийэ+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 2, "text": "олус", "type": "lowercase", "fst": "voc", "root": "олус+Adv"},
+      {"pos": 3, "text": "таптыыбын", "type": "lowercase", "fst": "voc", "root": "таптаа+V", "affixes": "+PART_PRES+1SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -130,9 +130,9 @@
     "ru": "Вошел наш учитель.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Учууталбыт", "type": "title", "fst": "fst", "root": "учуутал+N", "affixes": "+POSS.1PL"},
-      {"pos": 2, "text": "киирдэ", "type": "lowercase", "fst": "fst", "root": "киир+V", "affixes": "+PST.3SG"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Учууталбыт", "type": "title", "fst": "voc", "root": "учуутал+N", "affixes": "+POSS.1PL"},
+      {"pos": 2, "text": "киирдэ", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PST.3SG"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -146,10 +146,10 @@
     "ru": "Его ребенок учится в школе.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Оҕото", "type": "title", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "fst", "root": "оскуола+N", "affixes": "+DAT"},
-      {"pos": 3, "text": "үөрэнэр", "type": "lowercase", "fst": "fst", "root": "үөрэн+V", "affixes": "+PART_PRES"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Оҕото", "type": "title", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": "оскуолаҕа", "type": "lowercase", "fst": "voc", "root": "оскуола+N", "affixes": "+DAT"},
+      {"pos": 3, "text": "үөрэнэр", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -163,11 +163,11 @@
     "ru": "Сегодня я купил новую книгу.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "fst", "root": "бүгүн+Adv"},
-      {"pos": 2, "text": "саҥа", "type": "lowercase", "fst": "fst", "root": "саҥа+Adj"},
-      {"pos": 3, "text": "кинигэни", "type": "lowercase", "fst": "fst", "root": "кинигэ+N", "affixes": "+ACC"},
-      {"pos": 4, "text": "атыыластым", "type": "lowercase", "fst": "fst", "root": "атыы+N", "affixes": "+VRBLZ#1+RECP+PST.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Бүгүн", "type": "title", "fst": "voc", "root": "бүгүн+Adv"},
+      {"pos": 2, "text": "саҥа", "type": "lowercase", "fst": "voc", "root": "саҥа+Adj"},
+      {"pos": 3, "text": "кинигэни", "type": "lowercase", "fst": "voc", "root": "кинигэ+N", "affixes": "+ACC"},
+      {"pos": 4, "text": "атыыластым", "type": "lowercase", "fst": "voc", "root": "атыы+N", "affixes": "+VRBLZ#1+RECP+PST.1SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

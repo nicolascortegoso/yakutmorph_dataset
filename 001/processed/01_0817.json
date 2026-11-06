@@ -10,8 +10,8 @@
     "ru": "подмышка",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "хоннох", "type": "lowercase", "fst": "ymv", "root": "хоннох+N"},
-      {"pos": 2, "text": "анна", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "хоннох", "type": "lowercase", "fst": "voc", "root": "хоннох+N"},
+      {"pos": 2, "text": "анна", "type": "lowercase", "fst": "voc", "root": "алын+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "обрат",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "үүт", "type": "lowercase", "fst": "ymv", "root": "үүт+N"},
-      {"pos": 2, "text": "анна", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "үүт", "type": "lowercase", "fst": "voc", "root": "үүт+N"},
+      {"pos": 2, "text": "анна", "type": "lowercase", "fst": "voc", "root": "алын+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "свет",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "ymv", "root": "күн+N"},
-      {"pos": 2, "text": "анна", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "күн", "type": "lowercase", "fst": "voc", "root": "күн+N"},
+      {"pos": 2, "text": "анна", "type": "lowercase", "fst": "voc", "root": "алын+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "сливки (имена)",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "үүт", "type": "lowercase", "fst": "ymv", "root": "үүт+N"},
-      {"pos": 2, "text": "үрдэ", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "үүт", "type": "lowercase", "fst": "voc", "root": "үүт+N"},
+      {"pos": 2, "text": "үрдэ", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "нападать, наброситься",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "үрдүгэр", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 2, "text": "түс", "type": "lowercase", "fst": "ymv", "root": "түс+V"}
+      {"pos": 1, "text": "үрдүгэр", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "түс", "type": "lowercase", "fst": "voc", "root": "түс+V"}
     ]
   },
   {
@@ -85,8 +85,8 @@
     "ru": "победить, справляться (аналитические основы глагола)",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "анныгар", "type": "lowercase", "fst": "ymv", "root": "алын+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 2, "text": "баттаа", "type": "lowercase", "fst": "ymv", "root": "баттаа+V"}
+      {"pos": 1, "text": "анныгар", "type": "lowercase", "fst": "voc", "root": "алын+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "баттаа", "type": "lowercase", "fst": "voc", "root": "баттаа+V"}
     ]
   },
   {
@@ -100,9 +100,9 @@
     "ru": "друг на друга, многократно",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "үрүт", "type": "lowercase", "fst": "ymv", "root": "үрүт+N"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "үрдүгэр", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"}
+      {"pos": 1, "text": "үрүт", "type": "lowercase", "fst": "voc", "root": "үрүт+N"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "үрдүгэр", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"}
     ]
   },
   {
@@ -116,7 +116,7 @@
     "ru": "без разбора",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "үрдүттэн", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.ABL"}
+      {"pos": 1, "text": "үрдүттэн", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.ABL"}
     ]
   },
   {
@@ -130,7 +130,7 @@
     "ru": "на месте, тут же (наречия)",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "үрдүгэр", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"}
+      {"pos": 1, "text": "үрдүгэр", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"}
     ]
   }
 ]

@@ -10,16 +10,16 @@
     "ru": "Да её утка жива, пристально смотрит круглыми чёрными глазами, похожими на две дробинки.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Били", "type": "title", "fst": "ymv", "root": "били+Pron"},
-      {"pos": 2, "text": "куһа", "type": "lowercase", "fst": "ymv", "root": "кус+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "тыыннаах", "type": "lowercase", "fst": "ymv", "root": "тыын+N", "affixes": "+ADJZ#1"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 5, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
-      {"pos": 6, "text": "доруобунньук", "type": "lowercase", "fst": "ymv", "root": "доруобунньук+N"},
-      {"pos": 7, "text": "курдугунан", "type": "lowercase", "fst": "ymv", "root": "курдук+POST", "affixes": "+POSS.3SG.INST"},
-      {"pos": 8, "text": "турулуччу", "type": "lowercase", "fst": "ymv", "root": "турулуй+V", "affixes": "+ADVZ#2"},
-      {"pos": 9, "text": "көрбүт", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PAST"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Били", "type": "title", "fst": "voc", "root": "били+Pron"},
+      {"pos": 2, "text": "куһа", "type": "lowercase", "fst": "voc", "root": "кус+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "тыыннаах", "type": "lowercase", "fst": "voc", "root": "тыын+N", "affixes": "+ADJZ#1"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "икки", "type": "lowercase", "fst": "voc", "root": "икки+Num"},
+      {"pos": 6, "text": "доруобунньук", "type": "lowercase", "fst": "voc", "root": "доруобунньук+N"},
+      {"pos": 7, "text": "курдугунан", "type": "lowercase", "fst": "voc", "root": "курдук+POST", "affixes": "+POSS.3SG.INST"},
+      {"pos": 8, "text": "турулуччу", "type": "lowercase", "fst": "voc", "root": "турулуй+V", "affixes": "+ADVZ#2"},
+      {"pos": 9, "text": "көрбүт", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PART_PAST"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -33,11 +33,11 @@
     "ru": "Почему он на стороне белых?",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кини", "type": "title", "fst": "ymv", "root": "кини+Pron"},
-      {"pos": 2, "text": "тоҕо", "type": "lowercase", "fst": "ymv", "root": "тоҕо+Adv"},
-      {"pos": 3, "text": "үрүҥнэр", "type": "lowercase", "fst": "ymv", "root": "үрүҥ+Adj", "affixes": "+PL"},
-      {"pos": 4, "text": "диэкиний", "type": "lowercase", "fst": "ymv", "root": "диэки+POST", "affixes": "+INT"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "тоҕо", "type": "lowercase", "fst": "voc", "root": "тоҕо+Adv"},
+      {"pos": 3, "text": "үрүҥнэр", "type": "lowercase", "fst": "voc", "root": "үрүҥ+Adj", "affixes": "+PL"},
+      {"pos": 4, "text": "диэкиний", "type": "lowercase", "fst": "voc", "root": "диэки+POST", "affixes": "+INT"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -51,16 +51,16 @@
     "ru": "Все, кроме часового, стоящего на крыше дома дьячка, зашли в дом.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Лөчүөк", "type": "title", "fst": "ymv", "root": "лөчүөк+N"},
-      {"pos": 2, "text": "дьиэтин", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "кырыыскатын", "type": "lowercase", "fst": "ymv", "root": "кырыыска+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 4, "text": "үрдүгэр", "type": "lowercase", "fst": "ymv", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 5, "text": "турар", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+PART_PRES"},
-      {"pos": 6, "text": "чособуойтан", "type": "lowercase", "fst": "ymv", "root": "чособуой+N", "affixes": "+ABL"},
-      {"pos": 7, "text": "уратылара", "type": "lowercase", "fst": "ymv", "root": "ураты+Adv", "affixes": "+PL+POSS.3SG"},
-      {"pos": 8, "text": "дьиэҕэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+DAT"},
-      {"pos": 9, "text": "киирдилэр", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PST.3PL"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Лөчүөк", "type": "title", "fst": "voc", "root": "лөчүөк+N"},
+      {"pos": 2, "text": "дьиэтин", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "кырыыскатын", "type": "lowercase", "fst": "voc", "root": "кырыыска+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "үрдүгэр", "type": "lowercase", "fst": "voc", "root": "үрүт+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 5, "text": "турар", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES"},
+      {"pos": 6, "text": "чособуойтан", "type": "lowercase", "fst": "voc", "root": "чособуой+N", "affixes": "+ABL"},
+      {"pos": 7, "text": "уратылара", "type": "lowercase", "fst": "voc", "root": "ураты+Adv", "affixes": "+PL+POSS.3SG"},
+      {"pos": 8, "text": "дьиэҕэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+DAT"},
+      {"pos": 9, "text": "киирдилэр", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PST.3PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -74,13 +74,13 @@
     "ru": "До такого тяжелого состояния он спасал дом от огня.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Оччо", "type": "title", "fst": "ymv", "root": "ол+Pron", "affixes": "+DEF#2"},
-      {"pos": 2, "text": "буолуор", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_FUT+POSS.3SG.DAT"},
-      {"pos": 3, "text": "диэритин", "type": "lowercase", "fst": "ymv", "root": "диэри+POST", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 4, "text": "уоттан", "type": "lowercase", "fst": "ymv", "root": "уот+N", "affixes": "+ABL"},
-      {"pos": 5, "text": "быыһаабыт", "type": "lowercase", "fst": "ymv", "root": "быыһаа+V", "affixes": "+PART_PAST"},
-      {"pos": 6, "text": "дьиэтин", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оччо", "type": "title", "fst": "voc", "root": "ол+Pron", "affixes": "+DEF#2"},
+      {"pos": 2, "text": "буолуор", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_FUT+POSS.3SG.DAT"},
+      {"pos": 3, "text": "диэритин", "type": "lowercase", "fst": "voc", "root": "диэри+POST", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 4, "text": "уоттан", "type": "lowercase", "fst": "voc", "root": "уот+N", "affixes": "+ABL"},
+      {"pos": 5, "text": "быыһаабыт", "type": "lowercase", "fst": "voc", "root": "быыһаа+V", "affixes": "+PART_PAST"},
+      {"pos": 6, "text": "дьиэтин", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

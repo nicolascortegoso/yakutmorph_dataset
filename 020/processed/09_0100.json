@@ -11,15 +11,15 @@
     "ru": "колхоз «Амга» простирается широко.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "«", "type": "quotation", "fst": "ymv"},
-      {"pos": 2, "text": "Амма", "type": "title", "fst": "ymv", "root": "амма+N"},
-      {"pos": 3, "text": "»", "type": "quotation", "fst": "ymv"},
-      {"pos": 4, "text": "колхоз", "type": "lowercase", "fst": "ymv", "root": "колхоз+N"},
-      {"pos": 5, "text": "киэҥ", "type": "lowercase", "fst": "ymv", "root": "киэҥ+Adj"},
-      {"pos": 6, "text": "сиринэн", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+POSS.3SG.INST"},
-      {"pos": 7, "text": "тайаан", "type": "lowercase", "fst": "ymv", "root": "тайаа+V", "affixes": "+CONV#1"},
-      {"pos": 8, "text": "олорор", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PRES"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 2, "text": "Амма", "type": "title", "fst": "voc", "root": "амма+N"},
+      {"pos": 3, "text": "»", "type": "quotation", "fst": "voc"},
+      {"pos": 4, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 5, "text": "киэҥ", "type": "lowercase", "fst": "voc", "root": "киэҥ+Adj"},
+      {"pos": 6, "text": "сиринэн", "type": "lowercase", "fst": "voc", "root": "сир+N", "affixes": "+POSS.3SG.INST"},
+      {"pos": 7, "text": "тайаан", "type": "lowercase", "fst": "voc", "root": "тайаа+V", "affixes": "+CONV#1"},
+      {"pos": 8, "text": "олорор", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PRES"},
+      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -34,16 +34,16 @@
     "ru": "Кирисан и Игнатий читают новости в газете «Кыым».",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Кырысаан", "type": "title", "fst": "ymv", "root": "кырысаан+N"},
-      {"pos": 2, "text": "Кынаачай", "type": "title", "fst": "yma", "root": "кынаачай+PN"},
-      {"pos": 3, "text": "буоланнар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+CONV#1+PL"},
-      {"pos": 4, "text": "«", "type": "quotation", "fst": "ymv"},
-      {"pos": 5, "text": "Кыым", "type": "title", "fst": "ymv", "root": "кыым+PN"},
-      {"pos": 6, "text": "»", "type": "quotation", "fst": "ymv"},
-      {"pos": 7, "text": "хаһыат", "type": "lowercase", "fst": "ymv", "root": "хаһыат+N"},
-      {"pos": 8, "text": "сонунун", "type": "lowercase", "fst": "ymv", "root": "сонун+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 9, "text": "ааҕаллар", "type": "lowercase", "fst": "ymv", "root": "аах+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кырысаан", "type": "title", "fst": "voc", "root": "кырысаан+N"},
+      {"pos": 2, "text": "Кынаачай", "type": "title", "fst": "aff", "root": "кынаачай+PN"},
+      {"pos": 3, "text": "буоланнар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+CONV#1+PL"},
+      {"pos": 4, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 5, "text": "Кыым", "type": "title", "fst": "voc", "root": "кыым+PN"},
+      {"pos": 6, "text": "»", "type": "quotation", "fst": "voc"},
+      {"pos": 7, "text": "хаһыат", "type": "lowercase", "fst": "voc", "root": "хаһыат+N"},
+      {"pos": 8, "text": "сонунун", "type": "lowercase", "fst": "voc", "root": "сонун+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 9, "text": "ааҕаллар", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -58,9 +58,9 @@
     "ru": "Рождественская ночь.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Ороһустуба", "type": "title", "fst": "yma", "root": "ороһустуба+N"},
-      {"pos": 2, "text": "түүн", "type": "lowercase", "fst": "ymv", "root": "түүн+N"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ороһустуба", "type": "title", "fst": "aff", "root": "ороһустуба+N"},
+      {"pos": 2, "text": "түүн", "type": "lowercase", "fst": "voc", "root": "түүн+N"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -75,10 +75,10 @@
     "ru": "Новогодняя ночь.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Саҥа", "type": "title", "fst": "ymv", "root": "саҥа+Adj"},
-      {"pos": 2, "text": "дьыл", "type": "lowercase", "fst": "ymv", "root": "дьыл+N"},
-      {"pos": 3, "text": "түүн", "type": "lowercase", "fst": "ymv", "root": "түүн+N"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Саҥа", "type": "title", "fst": "voc", "root": "саҥа+Adj"},
+      {"pos": 2, "text": "дьыл", "type": "lowercase", "fst": "voc", "root": "дьыл+N"},
+      {"pos": 3, "text": "түүн", "type": "lowercase", "fst": "voc", "root": "түүн+N"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

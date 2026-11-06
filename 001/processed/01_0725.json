@@ -10,9 +10,9 @@
     "ru": "Зима наступила.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Кыһын", "type": "title", "fst": "ymv", "root": "кыһын+N"},
-      {"pos": 2, "text": "буолла", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PST.3SG"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кыһын", "type": "title", "fst": "voc", "root": "кыһын+N"},
+      {"pos": 2, "text": "буолла", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PST.3SG"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -26,8 +26,8 @@
     "ru": "холодная зима",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "тымныы", "type": "lowercase", "fst": "ymv", "root": "тымныы+N"},
-      {"pos": 2, "text": "кыһын", "type": "lowercase", "fst": "ymv", "root": "кыһын+N"}
+      {"pos": 1, "text": "тымныы", "type": "lowercase", "fst": "voc", "root": "тымныы+N"},
+      {"pos": 2, "text": "кыһын", "type": "lowercase", "fst": "voc", "root": "кыһын+N"}
     ]
   },
   {
@@ -41,10 +41,10 @@
     "ru": "Как вы провели зиму?",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Кыһын", "type": "title", "fst": "ymv", "root": "кыһын+N"},
-      {"pos": 2, "text": "хайдах", "type": "lowercase", "fst": "ymv", "root": "хайдах+Pron"},
-      {"pos": 3, "text": "аһардыгыт", "type": "lowercase", "fst": "ymv", "root": "аас+V", "affixes": "+CSTV+PST.2PL"},
-      {"pos": 4, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Кыһын", "type": "title", "fst": "voc", "root": "кыһын+N"},
+      {"pos": 2, "text": "хайдах", "type": "lowercase", "fst": "voc", "root": "хайдах+Pron"},
+      {"pos": 3, "text": "аһардыгыт", "type": "lowercase", "fst": "voc", "root": "аас+V", "affixes": "+CSTV+PST.2PL"},
+      {"pos": 4, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -58,11 +58,11 @@
     "ru": "По сравнению с зимой лето намного лучше.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Кыһыннааҕар", "type": "title", "fst": "ymv", "root": "кыһын+N", "affixes": "+COMP"},
-      {"pos": 2, "text": "сайын", "type": "lowercase", "fst": "ymv", "root": "сайын+N"},
-      {"pos": 3, "text": "ыраах", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj"},
-      {"pos": 4, "text": "ордук", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+ADJZ#16"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кыһыннааҕар", "type": "title", "fst": "voc", "root": "кыһын+N", "affixes": "+COMP"},
+      {"pos": 2, "text": "сайын", "type": "lowercase", "fst": "voc", "root": "сайын+N"},
+      {"pos": 3, "text": "ыраах", "type": "lowercase", "fst": "voc", "root": "ыраах+Adj"},
+      {"pos": 4, "text": "ордук", "type": "lowercase", "fst": "voc", "root": "орт+V", "affixes": "+ADJZ#16"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -76,8 +76,8 @@
     "ru": "до зимы",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "кыһыҥҥа", "type": "lowercase", "fst": "ymv", "root": "кыһын+N", "affixes": "+DAT"},
-      {"pos": 2, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"}
+      {"pos": 1, "text": "кыһыҥҥа", "type": "lowercase", "fst": "voc", "root": "кыһын+N", "affixes": "+DAT"},
+      {"pos": 2, "text": "диэри", "type": "lowercase", "fst": "voc", "root": "диэри+POST"}
     ]
   },
   {
@@ -91,8 +91,8 @@
     "ru": "начиная с зимы",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "кыһынтан", "type": "lowercase", "fst": "ymv", "root": "кыһын+N", "affixes": "+ABL"},
-      {"pos": 2, "text": "ыла", "type": "lowercase", "fst": "ymv", "root": "ыл+V", "affixes": "+CONV#2"}
+      {"pos": 1, "text": "кыһынтан", "type": "lowercase", "fst": "voc", "root": "кыһын+N", "affixes": "+ABL"},
+      {"pos": 2, "text": "ыла", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+CONV#2"}
     ]
   },
   {
@@ -106,8 +106,8 @@
     "ru": "зимняя дорога",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "кыһыҥҥы", "type": "lowercase", "fst": "ymv", "root": "кыһын+N", "affixes": "+ADJZ#4"},
-      {"pos": 2, "text": "суол", "type": "lowercase", "fst": "ymv", "root": "суол+N"}
+      {"pos": 1, "text": "кыһыҥҥы", "type": "lowercase", "fst": "voc", "root": "кыһын+N", "affixes": "+ADJZ#4"},
+      {"pos": 2, "text": "суол", "type": "lowercase", "fst": "voc", "root": "суол+N"}
     ]
   },
   {
@@ -121,10 +121,10 @@
     "ru": "Дети зимою учатся.",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "Оҕолор", "type": "title", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL"},
-      {"pos": 2, "text": "кыһын", "type": "lowercase", "fst": "ymv", "root": "кыһын+N"},
-      {"pos": 3, "text": "үөрэнэллэр", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Оҕолор", "type": "title", "fst": "voc", "root": "оҕо+N", "affixes": "+PL"},
+      {"pos": 2, "text": "кыһын", "type": "lowercase", "fst": "voc", "root": "кыһын+N"},
+      {"pos": 3, "text": "үөрэнэллэр", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -138,11 +138,11 @@
     "ru": "Телята всю зиму находятся в хотоне.",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Торбостор", "type": "title", "fst": "ymv", "root": "торбос+N", "affixes": "+PL"},
-      {"pos": 2, "text": "кыһыны", "type": "lowercase", "fst": "ymv", "root": "кыһын+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "быһа", "type": "lowercase", "fst": "ymv", "root": "быс+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "хотоҥҥо", "type": "lowercase", "fst": "ymv", "root": "хотон+N", "affixes": "+DAT"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Торбостор", "type": "title", "fst": "voc", "root": "торбос+N", "affixes": "+PL"},
+      {"pos": 2, "text": "кыһыны", "type": "lowercase", "fst": "voc", "root": "кыһын+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "быһа", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+CONV#2"},
+      {"pos": 4, "text": "хотоҥҥо", "type": "lowercase", "fst": "voc", "root": "хотон+N", "affixes": "+DAT"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -156,8 +156,8 @@
     "ru": "дальние страны",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "ыраах", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj"},
-      {"pos": 2, "text": "дойдулар", "type": "lowercase", "fst": "ymv", "root": "дойду+N", "affixes": "+PL"}
+      {"pos": 1, "text": "ыраах", "type": "lowercase", "fst": "voc", "root": "ыраах+Adj"},
+      {"pos": 2, "text": "дойдулар", "type": "lowercase", "fst": "voc", "root": "дойду+N", "affixes": "+PL"}
     ]
   },
   {
@@ -171,10 +171,10 @@
     "ru": "Мы прошли далекое (большое) расстояние.",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "Ыраах", "type": "title", "fst": "ymv", "root": "ыраах+Adj"},
-      {"pos": 2, "text": "сири", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+ACC"},
-      {"pos": 3, "text": "бардыбыт", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PST.1PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыраах", "type": "title", "fst": "voc", "root": "ыраах+Adj"},
+      {"pos": 2, "text": "сири", "type": "lowercase", "fst": "voc", "root": "сир+N", "affixes": "+ACC"},
+      {"pos": 3, "text": "бардыбыт", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.1PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -188,11 +188,11 @@
     "ru": "Каково отсюда расстояние до вашего дома?",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "Дьиэҕит", "type": "title", "fst": "ymv", "root": "дьиэ+N", "affixes": "+POSS.2PL"},
-      {"pos": 2, "text": "ырааҕа", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "мантан", "type": "lowercase", "fst": "ymv", "root": "бу+Pron", "affixes": "+ABL"},
-      {"pos": 4, "text": "төһөнүй", "type": "lowercase", "fst": "ymv", "root": "төһө+Pron", "affixes": "+INT"},
-      {"pos": 5, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Дьиэҕит", "type": "title", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.2PL"},
+      {"pos": 2, "text": "ырааҕа", "type": "lowercase", "fst": "voc", "root": "ыраах+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "мантан", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+ABL"},
+      {"pos": 4, "text": "төһөнүй", "type": "lowercase", "fst": "voc", "root": "төһө+Pron", "affixes": "+INT"},
+      {"pos": 5, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -206,13 +206,13 @@
     "ru": "Лучше, когда вода близко, а родня подальше",
     "id": 13,
     "parses": [
-      {"pos": 1, "text": "Уу", "type": "title", "fst": "ymv", "root": "уу+N"},
-      {"pos": 2, "text": "чугаһа", "type": "lowercase", "fst": "ymv", "root": "чугас+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "уруу", "type": "lowercase", "fst": "ymv", "root": "уруу+N"},
-      {"pos": 5, "text": "ырааҕа", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 6, "text": "ордук", "type": "lowercase", "fst": "ymv", "root": "орт+V", "affixes": "+ADJZ#16"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Уу", "type": "title", "fst": "voc", "root": "уу+N"},
+      {"pos": 2, "text": "чугаһа", "type": "lowercase", "fst": "voc", "root": "чугас+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "уруу", "type": "lowercase", "fst": "voc", "root": "уруу+N"},
+      {"pos": 5, "text": "ырааҕа", "type": "lowercase", "fst": "voc", "root": "ыраах+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 6, "text": "ордук", "type": "lowercase", "fst": "voc", "root": "орт+V", "affixes": "+ADJZ#16"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -226,10 +226,10 @@
     "ru": "место не особенно далекое",
     "id": 14,
     "parses": [
-      {"pos": 1, "text": "соччо", "type": "lowercase", "fst": "ymv", "root": "сол+Pron", "affixes": "+DEF#2"},
-      {"pos": 2, "text": "ырааҕа", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "суох", "type": "lowercase", "fst": "ymv", "root": "суох+N"},
-      {"pos": 4, "text": "сир", "type": "lowercase", "fst": "ymv", "root": "сир+N"}
+      {"pos": 1, "text": "соччо", "type": "lowercase", "fst": "voc", "root": "сол+Pron", "affixes": "+DEF#2"},
+      {"pos": 2, "text": "ырааҕа", "type": "lowercase", "fst": "voc", "root": "ыраах+Adj", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "суох", "type": "lowercase", "fst": "voc", "root": "суох+N"},
+      {"pos": 4, "text": "сир", "type": "lowercase", "fst": "voc", "root": "сир+N"}
     ]
   },
   {
@@ -243,9 +243,9 @@
     "ru": "Не уходите далеко.",
     "id": 15,
     "parses": [
-      {"pos": 1, "text": "Ыраах", "type": "title", "fst": "ymv", "root": "ыраах+Adj"},
-      {"pos": 2, "text": "барымаҥ", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+NEG+IMP#1.2PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыраах", "type": "title", "fst": "voc", "root": "ыраах+Adj"},
+      {"pos": 2, "text": "барымаҥ", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+NEG+IMP#1.2PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -259,10 +259,10 @@
     "ru": "Мы живем отсюда далеко.",
     "id": 16,
     "parses": [
-      {"pos": 1, "text": "Мантан", "type": "title", "fst": "ymv", "root": "бу+Pron", "affixes": "+ABL"},
-      {"pos": 2, "text": "ыраах", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj"},
-      {"pos": 3, "text": "олоробут", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+PART_PRES+1PL"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Мантан", "type": "title", "fst": "voc", "root": "бу+Pron", "affixes": "+ABL"},
+      {"pos": 2, "text": "ыраах", "type": "lowercase", "fst": "voc", "root": "ыраах+Adj"},
+      {"pos": 3, "text": "олоробут", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+PART_PRES+1PL"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -276,9 +276,9 @@
     "ru": "Они пришли издавна.",
     "id": 17,
     "parses": [
-      {"pos": 1, "text": "Ыраахтан", "type": "title", "fst": "ymv", "root": "ыраах+Adj", "affixes": "+ABL"},
-      {"pos": 2, "text": "кэлбиттэр", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+PART_PAST+PL"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыраахтан", "type": "title", "fst": "voc", "root": "ыраах+Adj", "affixes": "+ABL"},
+      {"pos": 2, "text": "кэлбиттэр", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST+PL"},
+      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -292,11 +292,11 @@
     "ru": "Встаньте подальше друг от друга.",
     "id": 18,
     "parses": [
-      {"pos": 1, "text": "Ыраах", "type": "title", "fst": "ymv", "root": "ыраах+Adj"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "ыраах", "type": "lowercase", "fst": "ymv", "root": "ыраах+Adj"},
-      {"pos": 4, "text": "туруҥ", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+IMP#1.2PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ыраах", "type": "title", "fst": "voc", "root": "ыраах+Adj"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "ыраах", "type": "lowercase", "fst": "voc", "root": "ыраах+Adj"},
+      {"pos": 4, "text": "туруҥ", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+IMP#1.2PL"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -10,8 +10,8 @@
     "ru": "резать ножом",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "быһаҕынан", "type": "lowercase", "fst": "fst", "root": "быс+V", "affixes": "+NMLZ#6+INST"},
-      {"pos": 2, "text": "быс", "type": "lowercase", "fst": "fst", "root": "быс+V"}
+      {"pos": 1, "text": "быһаҕынан", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+NMLZ#6+INST"},
+      {"pos": 2, "text": "быс", "type": "lowercase", "fst": "voc", "root": "быс+V"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "послать с ребёнком",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "оҕонон", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+INST"},
-      {"pos": 2, "text": "ыыт", "type": "lowercase", "fst": "fst", "root": "ыыт+V"}
+      {"pos": 1, "text": "оҕонон", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+INST"},
+      {"pos": 2, "text": "ыыт", "type": "lowercase", "fst": "voc", "root": "ыыт+V"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "делать из дерева",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "маһынан", "type": "lowercase", "fst": "fst", "root": "мас+N", "affixes": "+INST"},
-      {"pos": 2, "text": "оҥор", "type": "lowercase", "fst": "fst", "root": "оҥор+V"}
+      {"pos": 1, "text": "маһынан", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+INST"},
+      {"pos": 2, "text": "оҥор", "type": "lowercase", "fst": "voc", "root": "оҥор+V"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "идут дорогой",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "суолунан", "type": "lowercase", "fst": "fst", "root": "суол+N", "affixes": "+INST"},
-      {"pos": 2, "text": "иһэллэр", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PART_PRES+PL"}
+      {"pos": 1, "text": "суолунан", "type": "lowercase", "fst": "voc", "root": "суол+N", "affixes": "+INST"},
+      {"pos": 2, "text": "иһэллэр", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PART_PRES+PL"}
     ]
   },
   {
@@ -70,9 +70,9 @@
     "ru": "они полетели через северный полюс",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "хотугу", "type": "lowercase", "fst": "fst", "root": "хоту+N", "affixes": "+ADJZ#4"},
-      {"pos": 2, "text": "полюһунан", "type": "lowercase", "fst": "fst", "root": "полюс+N", "affixes": "+INST"},
-      {"pos": 3, "text": "көппүттэрэ", "type": "lowercase", "fst": "fst", "root": "көт+V", "affixes": "+PART_PAST+PL+POSS.3SG"}
+      {"pos": 1, "text": "хотугу", "type": "lowercase", "fst": "voc", "root": "хоту+N", "affixes": "+ADJZ#4"},
+      {"pos": 2, "text": "полюһунан", "type": "lowercase", "fst": "voc", "root": "полюс+N", "affixes": "+INST"},
+      {"pos": 3, "text": "көппүттэрэ", "type": "lowercase", "fst": "voc", "root": "көт+V", "affixes": "+PART_PAST+PL+POSS.3SG"}
     ]
   },
   {
@@ -86,8 +86,8 @@
     "ru": "летают по небу",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "халлаанынан", "type": "lowercase", "fst": "fst", "root": "халлаан+N", "affixes": "+INST"},
-      {"pos": 2, "text": "көтөллөр", "type": "lowercase", "fst": "fst", "root": "көт+V", "affixes": "+PART_PRES+PL"}
+      {"pos": 1, "text": "халлаанынан", "type": "lowercase", "fst": "voc", "root": "халлаан+N", "affixes": "+INST"},
+      {"pos": 2, "text": "көтөллөр", "type": "lowercase", "fst": "voc", "root": "көт+V", "affixes": "+PART_PRES+PL"}
     ]
   },
   {
@@ -101,8 +101,8 @@
     "ru": "найдёшь с трудом",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "эрэйинэн", "type": "lowercase", "fst": "fst", "root": "эрэй+N", "affixes": "+INST"},
-      {"pos": 2, "text": "булуоҕуҥ", "type": "lowercase", "fst": "fst", "root": "бул+V", "affixes": "+PART_FUT+POSS.2SG"}
+      {"pos": 1, "text": "эрэйинэн", "type": "lowercase", "fst": "voc", "root": "эрэй+N", "affixes": "+INST"},
+      {"pos": 2, "text": "булуоҕуҥ", "type": "lowercase", "fst": "voc", "root": "бул+V", "affixes": "+PART_FUT+POSS.2SG"}
     ]
   },
   {
@@ -116,8 +116,8 @@
     "ru": "они ушли с поспешностью",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "ыксалынан", "type": "lowercase", "fst": "fst", "root": "ыксал+N", "affixes": "+INST"},
-      {"pos": 2, "text": "бардылар", "type": "lowercase", "fst": "fst", "root": "бар+V", "affixes": "+PST.3PL"}
+      {"pos": 1, "text": "ыксалынан", "type": "lowercase", "fst": "voc", "root": "ыксал+N", "affixes": "+INST"},
+      {"pos": 2, "text": "бардылар", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PST.3PL"}
     ]
   },
   {
@@ -131,8 +131,8 @@
     "ru": "он взял с радостью",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "үөрүүнэн", "type": "lowercase", "fst": "fst", "root": "үөр+V", "affixes": "+NMLZ#2+INST"},
-      {"pos": 2, "text": "ылла", "type": "lowercase", "fst": "fst", "root": "ыл+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "үөрүүнэн", "type": "lowercase", "fst": "voc", "root": "үөр+V", "affixes": "+NMLZ#2+INST"},
+      {"pos": 2, "text": "ылла", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -146,9 +146,9 @@
     "ru": "я пришёл по тому указанию",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "ол", "type": "lowercase", "fst": "fst", "root": "ол+Pron"},
-      {"pos": 2, "text": "ыйааҕынан", "type": "lowercase", "fst": "fst", "root": "ыйаах+N", "affixes": "+INST"},
-      {"pos": 3, "text": "кэлбитим", "type": "lowercase", "fst": "fst", "root": "кэл+V", "affixes": "+PART_PAST+POSS.1SG"}
+      {"pos": 1, "text": "ол", "type": "lowercase", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "ыйааҕынан", "type": "lowercase", "fst": "voc", "root": "ыйаах+N", "affixes": "+INST"},
+      {"pos": 3, "text": "кэлбитим", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PART_PAST+POSS.1SG"}
     ]
   },
   {
@@ -162,8 +162,8 @@
     "ru": "по этому совету",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "сүбэнэн", "type": "lowercase", "fst": "fst", "root": "сүбэ+N", "affixes": "+INST"}
+      {"pos": 1, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "сүбэнэн", "type": "lowercase", "fst": "voc", "root": "сүбэ+N", "affixes": "+INST"}
     ]
   }
 ]

@@ -10,8 +10,8 @@
     "ru": "начерпать воды (сколько-нибудь)",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "уута", "type": "lowercase", "fst": "fst", "root": "уу+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "бас", "type": "lowercase", "fst": "fst", "root": "бас+V"}
+      {"pos": 1, "text": "уута", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "бас", "type": "lowercase", "fst": "voc", "root": "бас+V"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "поймать коня (какого-нибудь)",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "атта", "type": "lowercase", "fst": "fst", "root": "ат+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "тут", "type": "lowercase", "fst": "fst", "root": "тут+V"}
+      {"pos": 1, "text": "атта", "type": "lowercase", "fst": "voc", "root": "ат+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "тут", "type": "lowercase", "fst": "voc", "root": "тут+V"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "нарубить дров (сколько-нибудь, каких-нибудь)",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "маста", "type": "lowercase", "fst": "fst", "root": "мас+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "кэрт", "type": "lowercase", "fst": "fst", "root": "кэрт+V"}
+      {"pos": 1, "text": "маста", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "кэрт", "type": "lowercase", "fst": "voc", "root": "кэрт+V"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "вскипятите потом чаю",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "чэйдэ", "type": "lowercase", "fst": "fst", "root": "чэй+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "өрөөрүҥ", "type": "lowercase", "fst": "fst", "root": "өр+V", "affixes": "+IMP#2.2PL"}
+      {"pos": 1, "text": "чэйдэ", "type": "lowercase", "fst": "voc", "root": "чэй+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "өрөөрүҥ", "type": "lowercase", "fst": "voc", "root": "өр+V", "affixes": "+IMP#2.2PL"}
     ]
   },
   {
@@ -70,8 +70,8 @@
     "ru": "пусть я разведу огонь (огня)",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "уотта", "type": "lowercase", "fst": "fst", "root": "уот+N", "affixes": "+PRTV"},
-      {"pos": 2, "text": "оттуум", "type": "lowercase", "fst": "fst", "root": "оттоо+V", "affixes": "+IMP#1.1SG"}
+      {"pos": 1, "text": "уотта", "type": "lowercase", "fst": "voc", "root": "уот+N", "affixes": "+PRTV"},
+      {"pos": 2, "text": "оттуум", "type": "lowercase", "fst": "voc", "root": "оттоо+V", "affixes": "+IMP#1.1SG"}
     ]
   },
   {
@@ -85,8 +85,8 @@
     "ru": "пусть он пошлет письмо",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "сурукта", "type": "lowercase", "fst": "fst", "root": "суруй+V", "affixes": "+NMLZ#5+PRTV"},
-      {"pos": 2, "text": "ыыттын", "type": "lowercase", "fst": "fst", "root": "ыыт+V", "affixes": "+IMP#1.3SG"}
+      {"pos": 1, "text": "сурукта", "type": "lowercase", "fst": "voc", "root": "суруй+V", "affixes": "+NMLZ#5+PRTV"},
+      {"pos": 2, "text": "ыыттын", "type": "lowercase", "fst": "voc", "root": "ыыт+V", "affixes": "+IMP#1.3SG"}
     ]
   },
   {
@@ -100,8 +100,8 @@
     "ru": "поделиться табаком (буквально: от табаку твоего поделись)",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "табаххыттан", "type": "lowercase", "fst": "fst", "root": "табах+N", "affixes": "+POSS.2SG.ABL"},
-      {"pos": 2, "text": "бэрис", "type": "lowercase", "fst": "fst", "root": "бэрис+V"}
+      {"pos": 1, "text": "табаххыттан", "type": "lowercase", "fst": "voc", "root": "табах+N", "affixes": "+POSS.2SG.ABL"},
+      {"pos": 2, "text": "бэрис", "type": "lowercase", "fst": "voc", "root": "бэрис+V"}
     ]
   },
   {
@@ -115,11 +115,11 @@
     "ru": "он немножко выпил водки из чашки",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "чааскылаах", "type": "lowercase", "fst": "fst", "root": "чааскы+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "арыгыттан", "type": "lowercase", "fst": "fst", "root": "арыгы+N", "affixes": "+ABL"},
-      {"pos": 3, "text": "кыратык", "type": "lowercase", "fst": "fst", "root": "кыра+Adj", "affixes": "+ADVZ#5"},
-      {"pos": 4, "text": "иһэ", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "түстэ", "type": "lowercase", "fst": "fst", "root": "түс+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "чааскылаах", "type": "lowercase", "fst": "voc", "root": "чааскы+N", "affixes": "+ADJZ#1"},
+      {"pos": 2, "text": "арыгыттан", "type": "lowercase", "fst": "voc", "root": "арыгы+N", "affixes": "+ABL"},
+      {"pos": 3, "text": "кыратык", "type": "lowercase", "fst": "voc", "root": "кыра+Adj", "affixes": "+ADVZ#5"},
+      {"pos": 4, "text": "иһэ", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "түстэ", "type": "lowercase", "fst": "voc", "root": "түс+V", "affixes": "+PST.3SG"}
     ]
   }
 ]

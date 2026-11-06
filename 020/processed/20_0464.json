@@ -11,16 +11,16 @@
     "ru": "Пока не познаю до конца, я не успокоюсь.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Төрдүгэр", "type": "title", "fst": "ymv", "root": "төрүт+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "ymv"},
-      {"pos": 3, "text": "төбөтүгэр", "type": "lowercase", "fst": "ymv", "root": "төбө+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 4, "text": "тиийэ", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+CONV#2"},
-      {"pos": 5, "text": "билиэхпэр", "type": "lowercase", "fst": "ymv", "root": "бил+V", "affixes": "+PART_FUT+POSS.1SG.DAT"},
-      {"pos": 6, "text": "диэри", "type": "lowercase", "fst": "ymv", "root": "диэри+POST"},
-      {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 8, "text": "доскуйуом", "type": "lowercase", "fst": "yma", "root": "доскуй+V", "affixes": "+PART_FUT+POSS.1SG"},
-      {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+POSS.3SG"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Төрдүгэр", "type": "title", "fst": "voc", "root": "төрүт+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "төбөтүгэр", "type": "lowercase", "fst": "voc", "root": "төбө+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 4, "text": "тиийэ", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+CONV#2"},
+      {"pos": 5, "text": "билиэхпэр", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+PART_FUT+POSS.1SG.DAT"},
+      {"pos": 6, "text": "диэри", "type": "lowercase", "fst": "voc", "root": "диэри+POST"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 8, "text": "доскуйуом", "type": "lowercase", "fst": "aff", "root": "доскуй+V", "affixes": "+PART_FUT+POSS.1SG"},
+      {"pos": 9, "text": "суоҕа", "type": "lowercase", "fst": "voc", "root": "суох+N", "affixes": "+POSS.3SG"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -35,20 +35,20 @@
     "ru": "По совету командиров, пока Бурхалей не подаст команду, не должно быть ни единого выстрела.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Командирдар", "type": "title", "fst": "ymv", "root": "командир+N", "affixes": "+PL"},
-      {"pos": 2, "text": "сүбэлэринэн", "type": "lowercase", "fst": "ymv", "root": "сүбэ+N", "affixes": "+POSS.3PL.INST"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 4, "text": "Бурхалей", "type": "title", "fst": "yma", "root": "бурхале+PN", "affixes": "+VRBLZ#2"},
-      {"pos": 5, "text": "команда", "type": "lowercase", "fst": "ymv", "root": "команда+N"},
-      {"pos": 6, "text": "биэриэн", "type": "lowercase", "fst": "ymv", "root": "биэр+V", "affixes": "+PART_FUT+CONV#1"},
-      {"pos": 7, "text": "иннинэ", "type": "lowercase", "fst": "ymv", "root": "иннинэ+POST"},
-      {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 9, "text": "биир", "type": "lowercase", "fst": "ymv", "root": "биир+Num"},
-      {"pos": 10, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 11, "text": "саа", "type": "lowercase", "fst": "ymv", "root": "саа+N"},
-      {"pos": 12, "text": "тыаһыа", "type": "lowercase", "fst": "ymv", "root": "тыас+N", "affixes": "+VRBLZ#3+PART_FUT"},
-      {"pos": 13, "text": "суохтаах", "type": "lowercase", "fst": "ymv", "root": "суох+N", "affixes": "+ADJZ#1"},
-      {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Командирдар", "type": "title", "fst": "voc", "root": "командир+N", "affixes": "+PL"},
+      {"pos": 2, "text": "сүбэлэринэн", "type": "lowercase", "fst": "voc", "root": "сүбэ+N", "affixes": "+POSS.3PL.INST"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "Бурхалей", "type": "title", "fst": "aff", "root": "бурхале+PN", "affixes": "+VRBLZ#2"},
+      {"pos": 5, "text": "команда", "type": "lowercase", "fst": "voc", "root": "команда+N"},
+      {"pos": 6, "text": "биэриэн", "type": "lowercase", "fst": "voc", "root": "биэр+V", "affixes": "+PART_FUT+CONV#1"},
+      {"pos": 7, "text": "иннинэ", "type": "lowercase", "fst": "voc", "root": "иннинэ+POST"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 9, "text": "биир", "type": "lowercase", "fst": "voc", "root": "биир+Num"},
+      {"pos": 10, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 11, "text": "саа", "type": "lowercase", "fst": "voc", "root": "саа+N"},
+      {"pos": 12, "text": "тыаһыа", "type": "lowercase", "fst": "voc", "root": "тыас+N", "affixes": "+VRBLZ#3+PART_FUT"},
+      {"pos": 13, "text": "суохтаах", "type": "lowercase", "fst": "voc", "root": "суох+N", "affixes": "+ADJZ#1"},
+      {"pos": 14, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

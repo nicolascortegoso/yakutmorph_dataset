@@ -10,19 +10,19 @@
     "ru": "Разве что нам за Талое озеро поехать и там ночевать у Сергея Эрбэхтяя?",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Арай", "type": "title", "fst": "ymv", "root": "арай+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "Таалай", "type": "title", "fst": "yma", "root": "таалай+N"},
-      {"pos": 4, "text": "күөл", "type": "lowercase", "fst": "ymv", "root": "күөл+N"},
-      {"pos": 5, "text": "улаҕатыгар", "type": "lowercase", "fst": "ymv", "root": "улаҕа+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 6, "text": "Эрбэхтэй", "type": "title", "fst": "yma", "root": "эрбэхтэй+Adj"},
-      {"pos": 7, "text": "Сэргэйгэ", "type": "title", "fst": "yma", "root": "сэргэй+PN", "affixes": "+DAT"},
-      {"pos": 8, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
-      {"pos": 9, "text": "хонон", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+CONV#1"},
-      {"pos": 10, "text": "көрүөх", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_FUT"},
-      {"pos": 11, "text": "бэйэбит", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.1PL"},
-      {"pos": 12, "text": "дуу", "type": "lowercase", "fst": "ymv", "root": "дуу+Part"},
-      {"pos": 13, "text": "?", "type": "question", "fst": "ymv"}
+      {"pos": 1, "text": "Арай", "type": "title", "fst": "voc", "root": "арай+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "Таалай", "type": "title", "fst": "aff", "root": "таалай+N"},
+      {"pos": 4, "text": "күөл", "type": "lowercase", "fst": "voc", "root": "күөл+N"},
+      {"pos": 5, "text": "улаҕатыгар", "type": "lowercase", "fst": "voc", "root": "улаҕа+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 6, "text": "Эрбэхтэй", "type": "title", "fst": "aff", "root": "эрбэхтэй+Adj"},
+      {"pos": 7, "text": "Сэргэйгэ", "type": "title", "fst": "aff", "root": "сэргэй+PN", "affixes": "+DAT"},
+      {"pos": 8, "text": "баран", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#1"},
+      {"pos": 9, "text": "хонон", "type": "lowercase", "fst": "voc", "root": "хон+V", "affixes": "+CONV#1"},
+      {"pos": 10, "text": "көрүөх", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PART_FUT"},
+      {"pos": 11, "text": "бэйэбит", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.1PL"},
+      {"pos": 12, "text": "дуу", "type": "lowercase", "fst": "voc", "root": "дуу+Part"},
+      {"pos": 13, "text": "?", "type": "question", "fst": "voc"}
     ]
   },
   {
@@ -36,14 +36,14 @@
     "ru": "Ничего не поделаешь, ему остается лишь сдержаться.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Хайаахтыай", "type": "title", "fst": "ymv", "root": "хайаа+V", "affixes": "+DIM+PART_FUT+INT"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "арай", "type": "lowercase", "fst": "ymv", "root": "арай+MOD"},
-      {"pos": 4, "text": "кыатаннаҕына", "type": "lowercase", "fst": "ymv", "root": "кыатан+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
-      {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
-      {"pos": 6, "text": "сөп", "type": "lowercase", "fst": "ymv", "root": "сөп+Adj"},
-      {"pos": 7, "text": "буолар", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+PART_PRES"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хайаахтыай", "type": "title", "fst": "voc", "root": "хайаа+V", "affixes": "+DIM+PART_FUT+INT"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "арай", "type": "lowercase", "fst": "voc", "root": "арай+MOD"},
+      {"pos": 4, "text": "кыатаннаҕына", "type": "lowercase", "fst": "voc", "root": "кыатан+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
+      {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 6, "text": "сөп", "type": "lowercase", "fst": "voc", "root": "сөп+Adj"},
+      {"pos": 7, "text": "буолар", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -57,11 +57,11 @@
     "ru": "Лучше налей-ка чайку.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Хата", "type": "title", "fst": "ymv", "root": "хата+MOD"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "чэйгин", "type": "lowercase", "fst": "ymv", "root": "чэй+N", "affixes": "+POSS.2SG.ACC"},
-      {"pos": 4, "text": "кут", "type": "lowercase", "fst": "ymv", "root": "кут+V"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Хата", "type": "title", "fst": "voc", "root": "хата+MOD"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "чэйгин", "type": "lowercase", "fst": "voc", "root": "чэй+N", "affixes": "+POSS.2SG.ACC"},
+      {"pos": 4, "text": "кут", "type": "lowercase", "fst": "voc", "root": "кут+V"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -10,14 +10,14 @@
     "ru": "Часовня, действительно, в настоящее время не работает.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Чочуобуна", "type": "title", "fst": "fst"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "чахчы", "type": "lowercase", "fst": "fst", "root": "чахчы+N"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "билиҥҥи", "type": "lowercase", "fst": "fst", "root": "билиҥҥи+Adj"},
-      {"pos": 6, "text": "кэмҥэ", "type": "lowercase", "fst": "fst", "root": "кэм+N", "affixes": "+DAT"},
-      {"pos": 7, "text": "үлэлээбэт", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+PART_PRES"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Чочуобуна", "type": "title", "fst": "voc"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "чахчы", "type": "lowercase", "fst": "voc", "root": "чахчы+N"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "билиҥҥи", "type": "lowercase", "fst": "voc", "root": "билиҥҥи+Adj"},
+      {"pos": 6, "text": "кэмҥэ", "type": "lowercase", "fst": "voc", "root": "кэм+N", "affixes": "+DAT"},
+      {"pos": 7, "text": "үлэлээбэт", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+PART_PRES"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -31,13 +31,13 @@
     "ru": "Это, верно, дело отцовских рук.",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Ити", "type": "title", "fst": "fst", "root": "ити+Pron"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "чахчы", "type": "lowercase", "fst": "fst", "root": "чахчы+N"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "аҕатын", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 6, "text": "дьаһала", "type": "lowercase", "fst": "fst", "root": "дьаһай+V", "affixes": "+NMLZ#9+POSS.3SG"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Ити", "type": "title", "fst": "voc", "root": "ити+Pron"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "чахчы", "type": "lowercase", "fst": "voc", "root": "чахчы+N"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": "аҕатын", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "дьаһала", "type": "lowercase", "fst": "voc", "root": "дьаһай+V", "affixes": "+NMLZ#9+POSS.3SG"},
+      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -51,11 +51,11 @@
     "ru": "На самом деле, согласился бы.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Чахчыта", "type": "title", "fst": "fst", "root": "чахчы+N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "сөбүлэһиэ", "type": "lowercase", "fst": "fst", "root": "сөбүлээ+V", "affixes": "+RECP+PART_FUT"},
-      {"pos": 4, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Чахчыта", "type": "title", "fst": "voc", "root": "чахчы+N", "affixes": "+POSS.3SG"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": "сөбүлэһиэ", "type": "lowercase", "fst": "voc", "root": "сөбүлээ+V", "affixes": "+RECP+PART_FUT"},
+      {"pos": 4, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -69,10 +69,10 @@
     "ru": "Ну, настоящая шляпа!",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "fst", "root": "дьэ+MOD"},
-      {"pos": 2, "text": "чахчы", "type": "lowercase", "fst": "fst", "root": "чахчы+N"},
-      {"pos": 3, "text": "сэлээппэ", "type": "lowercase", "fst": "fst", "root": "сэлээппэ+N"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "fst"}
+      {"pos": 1, "text": "Дьэ", "type": "title", "fst": "voc", "root": "дьэ+MOD"},
+      {"pos": 2, "text": "чахчы", "type": "lowercase", "fst": "voc", "root": "чахчы+N"},
+      {"pos": 3, "text": "сэлээппэ", "type": "lowercase", "fst": "voc", "root": "сэлээппэ+N"},
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"}
     ]
   }
 ]

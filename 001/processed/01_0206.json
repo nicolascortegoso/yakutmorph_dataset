@@ -10,10 +10,10 @@
     "ru": "Эта книга моя.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Бу", "type": "title", "fst": "ymv", "root": "бу+Pron"},
-      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N"},
-      {"pos": 3, "text": "миэнэ", "type": "lowercase", "fst": "ymv", "root": "мин+Pron", "affixes": "+COLL#1+POSS.3SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "voc", "root": "кинигэ+N"},
+      {"pos": 3, "text": "миэнэ", "type": "lowercase", "fst": "voc", "root": "мин+Pron", "affixes": "+COLL#1+POSS.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -27,10 +27,10 @@
     "ru": "Тот дом наш.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Ол", "type": "title", "fst": "ymv", "root": "ол+Pron"},
-      {"pos": 2, "text": "дьиэ", "type": "lowercase", "fst": "ymv", "root": "дьиэ+N"},
-      {"pos": 3, "text": "биһиэнэ", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron", "affixes": "+COLL#1+POSS.3SG"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Ол", "type": "title", "fst": "voc", "root": "ол+Pron"},
+      {"pos": 2, "text": "дьиэ", "type": "lowercase", "fst": "voc", "root": "дьиэ+N"},
+      {"pos": 3, "text": "биһиэнэ", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron", "affixes": "+COLL#1+POSS.3SG"},
+      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -44,8 +44,8 @@
     "ru": "трактор совхоза",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "совхоз", "type": "lowercase", "fst": "ymv", "root": "совхоз+N"},
-      {"pos": 2, "text": "трактора", "type": "lowercase", "fst": "ymv", "root": "трактор+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "совхоз", "type": "lowercase", "fst": "voc", "root": "совхоз+N"},
+      {"pos": 2, "text": "трактора", "type": "lowercase", "fst": "voc", "root": "трактор+N", "affixes": "+POSS.3SG"}
     ]
   }
 ]

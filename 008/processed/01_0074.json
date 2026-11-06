@@ -10,8 +10,8 @@
     "ru": "ребёнок наш учится",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "оҕобут", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.1PL"},
-      {"pos": 2, "text": "үөрэнэр", "type": "lowercase", "fst": "fst", "root": "үөрэн+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "оҕобут", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.1PL"},
+      {"pos": 2, "text": "үөрэнэр", "type": "lowercase", "fst": "voc", "root": "үөрэн+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "отец твой идёт",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "аҕаҥ", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.2SG"},
-      {"pos": 2, "text": "иһэр", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PART_PRES"}
+      {"pos": 1, "text": "аҕаҥ", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.2SG"},
+      {"pos": 2, "text": "иһэр", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PART_PRES"}
     ]
   },
   {
@@ -40,10 +40,10 @@
     "ru": "сеноуборщики колхоз отправились на покос",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "fst", "root": "колхоз+N"},
-      {"pos": 2, "text": "отчуттара", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+NMLZ#1+PL+POSS.3SG"},
-      {"pos": 3, "text": "ходуһаҕа", "type": "lowercase", "fst": "fst", "root": "ходуһа+N", "affixes": "+DAT"},
-      {"pos": 4, "text": "киирдилэр", "type": "lowercase", "fst": "fst", "root": "киир+V", "affixes": "+PST.3PL"}
+      {"pos": 1, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 2, "text": "отчуттара", "type": "lowercase", "fst": "voc", "root": "от+N", "affixes": "+NMLZ#1+PL+POSS.3SG"},
+      {"pos": 3, "text": "ходуһаҕа", "type": "lowercase", "fst": "voc", "root": "ходуһа+N", "affixes": "+DAT"},
+      {"pos": 4, "text": "киирдилэр", "type": "lowercase", "fst": "voc", "root": "киир+V", "affixes": "+PST.3PL"}
     ]
   },
   {
@@ -57,9 +57,9 @@
     "ru": "посышался звук выстрела (букв. ружья)",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "саа", "type": "lowercase", "fst": "fst", "root": "саа+N"},
-      {"pos": 2, "text": "тыаһа", "type": "lowercase", "fst": "fst", "root": "тыас+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "иһилиннэ", "type": "lowercase", "fst": "fst", "root": "иһилин+V", "affixes": "+PST.3SG"}
+      {"pos": 1, "text": "саа", "type": "lowercase", "fst": "voc", "root": "саа+N"},
+      {"pos": 2, "text": "тыаһа", "type": "lowercase", "fst": "voc", "root": "тыас+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "иһилиннэ", "type": "lowercase", "fst": "voc", "root": "иһилин+V", "affixes": "+PST.3SG"}
     ]
   },
   {
@@ -73,9 +73,9 @@
     "ru": "мы учащнеся",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "ymv", "root": "биһиги+Pron"},
-      {"pos": 2, "text": "үөрэх", "type": "lowercase", "fst": "ymv", "root": "үөрэх+N"},
-      {"pos": 3, "text": "оҕолоробут", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL+POSS.3SG+1PL"}
+      {"pos": 1, "text": "биһиги", "type": "lowercase", "fst": "voc", "root": "биһиги+Pron"},
+      {"pos": 2, "text": "үөрэх", "type": "lowercase", "fst": "voc", "root": "үөрэх+N"},
+      {"pos": 3, "text": "оҕолоробут", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+PL+POSS.3SG+1PL"}
     ]
   },
   {
@@ -89,9 +89,9 @@
     "ru": "вы работники колхоза",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "эһиги", "type": "lowercase", "fst": "fst", "root": "эһиги+Pron"},
-      {"pos": 2, "text": "колхоз", "type": "lowercase", "fst": "fst", "root": "колхоз+N"},
-      {"pos": 3, "text": "үлэһиттэрэҕит", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+NMLZ#1+PL+POSS.3SG+2PL"}
+      {"pos": 1, "text": "эһиги", "type": "lowercase", "fst": "voc", "root": "эһиги+Pron"},
+      {"pos": 2, "text": "колхоз", "type": "lowercase", "fst": "voc", "root": "колхоз+N"},
+      {"pos": 3, "text": "үлэһиттэрэҕит", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+NMLZ#1+PL+POSS.3SG+2PL"}
     ]
   },
   {
@@ -105,8 +105,8 @@
     "ru": "я его дитя",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини+Pron"},
-      {"pos": 2, "text": "оҕотобун", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.3SG+1SG"}
+      {"pos": 1, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
+      {"pos": 2, "text": "оҕотобун", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.3SG+1SG"}
     ]
   },
   {
@@ -120,8 +120,8 @@
     "ru": "нож моего отца",
     "id": 8,
     "parses": [
-      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "fst", "root": "аҕа+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "быһаҕа", "type": "lowercase", "fst": "fst", "root": "быс+V", "affixes": "+NMLZ#6+POSS.3SG"}
+      {"pos": 1, "text": "аҕам", "type": "lowercase", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.1SG"},
+      {"pos": 2, "text": "быһаҕа", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+NMLZ#6+POSS.3SG"}
     ]
   },
   {
@@ -135,8 +135,8 @@
     "ru": "молоко вашего ребёнка",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "оҕоҕут", "type": "lowercase", "fst": "fst", "root": "оҕо+N", "affixes": "+POSS.2PL"},
-      {"pos": 2, "text": "үүтэ", "type": "lowercase", "fst": "fst", "root": "үүт+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "оҕоҕут", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.2PL"},
+      {"pos": 2, "text": "үүтэ", "type": "lowercase", "fst": "voc", "root": "үүт+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -150,9 +150,9 @@
     "ru": "стекло окна нашего дома",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "дьиэбит", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+POSS.1PL"},
-      {"pos": 2, "text": "түннүгүн", "type": "lowercase", "fst": "fst", "root": "түннүк+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 3, "text": "тааһа", "type": "lowercase", "fst": "fst", "root": "таас+N", "affixes": "+POSS.3SG"}
+      {"pos": 1, "text": "дьиэбит", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.1PL"},
+      {"pos": 2, "text": "түннүгүн", "type": "lowercase", "fst": "voc", "root": "түннүк+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 3, "text": "тааһа", "type": "lowercase", "fst": "voc", "root": "таас+N", "affixes": "+POSS.3SG"}
     ]
   },
   {
@@ -166,9 +166,9 @@
     "ru": "берут лёд для окна",
     "id": 11,
     "parses": [
-      {"pos": 1, "text": "түннүк", "type": "lowercase", "fst": "fst", "root": "түннүк+N"},
-      {"pos": 2, "text": "мууһа", "type": "lowercase", "fst": "fst", "root": "муус+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "ылаллар", "type": "lowercase", "fst": "fst", "root": "ыл+V", "affixes": "+PART_PRES+PL"}
+      {"pos": 1, "text": "түннүк", "type": "lowercase", "fst": "voc", "root": "түннүк+N"},
+      {"pos": 2, "text": "мууһа", "type": "lowercase", "fst": "voc", "root": "муус+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "ылаллар", "type": "lowercase", "fst": "voc", "root": "ыл+V", "affixes": "+PART_PRES+PL"}
     ]
   },
   {
@@ -182,9 +182,9 @@
     "ru": "пьют берёзовый сок (букв. воду березы)",
     "id": 12,
     "parses": [
-      {"pos": 1, "text": "хатыҥ", "type": "lowercase", "fst": "fst", "root": "хатыҥ+N"},
-      {"pos": 2, "text": "уута", "type": "lowercase", "fst": "fst", "root": "уу+N", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "иһэллэр", "type": "lowercase", "fst": "fst", "root": "ис+V", "affixes": "+PART_PRES+PL"}
+      {"pos": 1, "text": "хатыҥ", "type": "lowercase", "fst": "voc", "root": "хатыҥ+N"},
+      {"pos": 2, "text": "уута", "type": "lowercase", "fst": "voc", "root": "уу+N", "affixes": "+POSS.3SG"},
+      {"pos": 3, "text": "иһэллэр", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PART_PRES+PL"}
     ]
   }
 ]

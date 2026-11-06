@@ -10,18 +10,18 @@
     "ru": "Я вот, только увидев тебя, как-то полюбил (тебя).",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "эйигин", "type": "lowercase", "fst": "fst", "root": "эн+Pron", "affixes": "+ACC"},
-      {"pos": 5, "text": "көрдө", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PST.3SG"},
-      {"pos": 6, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 7, "text": "көрөөт", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+CONV#6"},
-      {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 9, "text": "хайдах", "type": "lowercase", "fst": "fst", "root": "хайдах+Pron"},
-      {"pos": 10, "text": "эрэ", "type": "lowercase", "fst": "fst", "root": "эрэ+Part"},
-      {"pos": 11, "text": "сөбүлээтим", "type": "lowercase", "fst": "fst", "root": "сөбүлээ+V", "affixes": "+PST.1SG"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Бу", "type": "title", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 2, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": "эйигин", "type": "lowercase", "fst": "voc", "root": "эн+Pron", "affixes": "+ACC"},
+      {"pos": 5, "text": "көрдө", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PST.3SG"},
+      {"pos": 6, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 7, "text": "көрөөт", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#6"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 9, "text": "хайдах", "type": "lowercase", "fst": "voc", "root": "хайдах+Pron"},
+      {"pos": 10, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+      {"pos": 11, "text": "сөбүлээтим", "type": "lowercase", "fst": "voc", "root": "сөбүлээ+V", "affixes": "+PST.1SG"},
+      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -35,14 +35,14 @@
     "ru": "Только заметив его, этот человек после довал за ним.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Маны", "type": "title", "fst": "fst", "root": "бу+Pron", "affixes": "+ACC"},
-      {"pos": 2, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
-      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"},
-      {"pos": 4, "text": "көрдө", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+PST.3SG"},
-      {"pos": 5, "text": "-", "type": "hyphen", "fst": "fst"},
-      {"pos": 6, "text": "көрөөт", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+CONV#6"},
-      {"pos": 7, "text": "эккирэттэ", "type": "lowercase", "fst": "fst", "root": "эккирээ+V", "affixes": "+CSTV+PST.3SG"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
+      {"pos": 1, "text": "Маны", "type": "title", "fst": "voc", "root": "бу+Pron", "affixes": "+ACC"},
+      {"pos": 2, "text": "бу", "type": "lowercase", "fst": "voc", "root": "бу+Pron"},
+      {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "voc", "root": "киһи+N"},
+      {"pos": 4, "text": "көрдө", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+PST.3SG"},
+      {"pos": 5, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 6, "text": "көрөөт", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#6"},
+      {"pos": 7, "text": "эккирэттэ", "type": "lowercase", "fst": "voc", "root": "эккирээ+V", "affixes": "+CSTV+PST.3SG"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -11,21 +11,21 @@
     "ru": "Владимир Иванович Великанов в первый день, когда он приехал в Париж, ходил целый день, чтобы посмотреть город.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Владимир", "type": "title", "fst": "yma", "root": "владимир+PN"},
-      {"pos": 2, "text": "Иванович", "type": "title", "fst": "yma", "root": "иванович+PN"},
-      {"pos": 3, "text": "Великанов", "type": "title", "fst": "yma", "root": "великанов+PN"},
-      {"pos": 4, "text": "Парижка", "type": "title", "fst": "yma", "root": "париж+PN", "affixes": "+DAT"},
-      {"pos": 5, "text": "кэллэҕин", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV_COND#2+POSS.3SG.ACC"},
-      {"pos": 6, "text": "маҥнайгы", "type": "lowercase", "fst": "ymv", "root": "маҥнай+Adv", "affixes": "+ADJZ#4"},
-      {"pos": 7, "text": "күнүгэр", "type": "lowercase", "fst": "ymv", "root": "күн+N", "affixes": "+POSS.3SG.DAT"},
-      {"pos": 8, "text": "куораты", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+ACC"},
-      {"pos": 9, "text": "көрөөрү", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+CONV#5"},
-      {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 11, "text": "күнү", "type": "lowercase", "fst": "ymv", "root": "күн+N", "affixes": "+ACC"},
-      {"pos": 12, "text": "быһа", "type": "lowercase", "fst": "ymv", "root": "быһа+Adv"},
-      {"pos": 13, "text": "кэрийэн", "type": "lowercase", "fst": "ymv", "root": "кэрий+V", "affixes": "+CONV#1"},
-      {"pos": 14, "text": "таҕыста", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+PST.3SG"},
-      {"pos": 15, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Владимир", "type": "title", "fst": "aff", "root": "владимир+PN"},
+      {"pos": 2, "text": "Иванович", "type": "title", "fst": "aff", "root": "иванович+PN"},
+      {"pos": 3, "text": "Великанов", "type": "title", "fst": "aff", "root": "великанов+PN"},
+      {"pos": 4, "text": "Парижка", "type": "title", "fst": "aff", "root": "париж+PN", "affixes": "+DAT"},
+      {"pos": 5, "text": "кэллэҕин", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV_COND#2+POSS.3SG.ACC"},
+      {"pos": 6, "text": "маҥнайгы", "type": "lowercase", "fst": "voc", "root": "маҥнай+Adv", "affixes": "+ADJZ#4"},
+      {"pos": 7, "text": "күнүгэр", "type": "lowercase", "fst": "voc", "root": "күн+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 8, "text": "куораты", "type": "lowercase", "fst": "voc", "root": "куорат+N", "affixes": "+ACC"},
+      {"pos": 9, "text": "көрөөрү", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#5"},
+      {"pos": 10, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 11, "text": "күнү", "type": "lowercase", "fst": "voc", "root": "күн+N", "affixes": "+ACC"},
+      {"pos": 12, "text": "быһа", "type": "lowercase", "fst": "voc", "root": "быһа+Adv"},
+      {"pos": 13, "text": "кэрийэн", "type": "lowercase", "fst": "voc", "root": "кэрий+V", "affixes": "+CONV#1"},
+      {"pos": 14, "text": "таҕыста", "type": "lowercase", "fst": "voc", "root": "таҕыс+V", "affixes": "+PST.3SG"},
+      {"pos": 15, "text": ".", "type": "period", "fst": "voc"}
     ]
   },
   {
@@ -40,16 +40,16 @@
     "ru": "Через несколько дней, как они выехали с верховьев реки, приехали в город Киренск.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Өрүс", "type": "title", "fst": "ymv", "root": "өрүс+N"},
-      {"pos": 2, "text": "баһыттан", "type": "lowercase", "fst": "ymv", "root": "бас+N", "affixes": "+POSS.3SG.ABL"},
-      {"pos": 3, "text": "айаннаабыттара", "type": "lowercase", "fst": "ymv", "root": "айан+N", "affixes": "+VRBLZ#1+PART_PAST+PL+POSS.3SG"},
-      {"pos": 4, "text": "хаһыс", "type": "lowercase", "fst": "ymv", "root": "хас+Pron", "affixes": "+ORD"},
-      {"pos": 5, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 6, "text": "хонугар", "type": "lowercase", "fst": "ymv", "root": "хон+V", "affixes": "+NMLZ#5+POSS.3SG.DAT"},
-      {"pos": 7, "text": "Киренскай", "type": "title", "fst": "yma", "root": "киренскай+Adj"},
-      {"pos": 8, "text": "куоракка", "type": "lowercase", "fst": "ymv", "root": "куорат+N", "affixes": "+DAT"},
-      {"pos": 9, "text": "тиийэллэр", "type": "lowercase", "fst": "ymv", "root": "тиий+V", "affixes": "+PART_PRES+PL"},
-      {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Өрүс", "type": "title", "fst": "voc", "root": "өрүс+N"},
+      {"pos": 2, "text": "баһыттан", "type": "lowercase", "fst": "voc", "root": "бас+N", "affixes": "+POSS.3SG.ABL"},
+      {"pos": 3, "text": "айаннаабыттара", "type": "lowercase", "fst": "voc", "root": "айан+N", "affixes": "+VRBLZ#1+PART_PAST+PL+POSS.3SG"},
+      {"pos": 4, "text": "хаһыс", "type": "lowercase", "fst": "voc", "root": "хас+Pron", "affixes": "+ORD"},
+      {"pos": 5, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
+      {"pos": 6, "text": "хонугар", "type": "lowercase", "fst": "voc", "root": "хон+V", "affixes": "+NMLZ#5+POSS.3SG.DAT"},
+      {"pos": 7, "text": "Киренскай", "type": "title", "fst": "aff", "root": "киренскай+Adj"},
+      {"pos": 8, "text": "куоракка", "type": "lowercase", "fst": "voc", "root": "куорат+N", "affixes": "+DAT"},
+      {"pos": 9, "text": "тиийэллэр", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+PART_PRES+PL"},
+      {"pos": 10, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

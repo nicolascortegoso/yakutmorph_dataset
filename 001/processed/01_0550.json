@@ -10,8 +10,8 @@
     "ru": "уйти тотчас же, идти скорее",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "тарт", "type": "lowercase", "fst": "ymv", "root": "тарт+V"}
+      {"pos": 1, "text": "бара", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "тарт", "type": "lowercase", "fst": "voc", "root": "тарт+V"}
     ]
   },
   {
@@ -25,8 +25,8 @@
     "ru": "прийти скорее",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "кэлэ", "type": "lowercase", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "тарт", "type": "lowercase", "fst": "ymv", "root": "тарт+V"}
+      {"pos": 1, "text": "кэлэ", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "тарт", "type": "lowercase", "fst": "voc", "root": "тарт+V"}
     ]
   },
   {
@@ -40,8 +40,8 @@
     "ru": "встать быстро",
     "id": 3,
     "parses": [
-      {"pos": 1, "text": "тура", "type": "lowercase", "fst": "ymv", "root": "тур+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "тарт", "type": "lowercase", "fst": "ymv", "root": "тарт+V"}
+      {"pos": 1, "text": "тура", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "тарт", "type": "lowercase", "fst": "voc", "root": "тарт+V"}
     ]
   },
   {
@@ -55,8 +55,8 @@
     "ru": "скажите сейчас же",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "этэ", "type": "lowercase", "fst": "ymv", "root": "эт+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "тардыҥ", "type": "lowercase", "fst": "ymv", "root": "тарт+V", "affixes": "+IMP#1.2PL"}
+      {"pos": 1, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+CONV#2"},
+      {"pos": 2, "text": "тардыҥ", "type": "lowercase", "fst": "voc", "root": "тарт+V", "affixes": "+IMP#1.2PL"}
     ]
   },
   {
@@ -70,14 +70,14 @@
     "ru": "Сейчас же принеси из зимней юрты вершу для мелкой рыбы.",
     "id": 7,
     "parses": [
-      {"pos": 1, "text": "Кыстык", "type": "title", "fst": "ymv", "root": "кыс+N", "affixes": "+ADVZ#5"},
-      {"pos": 2, "text": "балаҕантан", "type": "lowercase", "fst": "ymv", "root": "балаҕан+N", "affixes": "+ABL"},
-      {"pos": 3, "text": "кыра", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj"},
-      {"pos": 4, "text": "балык", "type": "lowercase", "fst": "ymv", "root": "балык+N"},
-      {"pos": 5, "text": "туутун", "type": "lowercase", "fst": "ymv", "root": "туу+N", "affixes": "+POSS.3SG.ACC"},
-      {"pos": 6, "text": "аҕала", "type": "lowercase", "fst": "ymv", "root": "аҕал+V", "affixes": "+CONV#2"},
-      {"pos": 7, "text": "тарт", "type": "lowercase", "fst": "ymv", "root": "тарт+V"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
+      {"pos": 1, "text": "Кыстык", "type": "title", "fst": "voc", "root": "кыс+N", "affixes": "+ADVZ#5"},
+      {"pos": 2, "text": "балаҕантан", "type": "lowercase", "fst": "voc", "root": "балаҕан+N", "affixes": "+ABL"},
+      {"pos": 3, "text": "кыра", "type": "lowercase", "fst": "voc", "root": "кыра+Adj"},
+      {"pos": 4, "text": "балык", "type": "lowercase", "fst": "voc", "root": "балык+N"},
+      {"pos": 5, "text": "туутун", "type": "lowercase", "fst": "voc", "root": "туу+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 6, "text": "аҕала", "type": "lowercase", "fst": "voc", "root": "аҕал+V", "affixes": "+CONV#2"},
+      {"pos": 7, "text": "тарт", "type": "lowercase", "fst": "voc", "root": "тарт+V"},
+      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
     ]
   }
 ]

@@ -12,7 +12,7 @@
     "parses": [
       {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини+Pron"},
       {"pos": 2, "text": "урут", "type": "lowercase", "fst": "fst", "root": "урут+Adv"},
-      {"pos": 3, "text": "хайыһардыырын", "type": "lowercase", "fst": "fst", "root": "хайыһар+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG+ACC"},
+      {"pos": 3, "text": "хайыһардыырын", "type": "lowercase", "fst": "fst", "root": "хайыһар+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG.ACC"},
       {"pos": 4, "text": "наһаа", "type": "lowercase", "fst": "fst", "root": "наһаа+Adv"},
       {"pos": 5, "text": "сөбүлүүр", "type": "lowercase", "fst": "fst", "root": "сөбүлээ+V", "affixes": "+PART_PRES"},
       {"pos": 6, "text": "этэ", "type": "lowercase", "fst": "fst", "root": "э+V", "affixes": "+PST.3SG"},
@@ -30,8 +30,8 @@
     "ru": "Когда он прикуривал, его руки заметно, дрожали, подрагивали ресницы.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Табаҕын", "type": "title", "fst": "fst", "root": "табах+N", "affixes": "+POSS.3SG+ACC"},
-      {"pos": 2, "text": "уматынарыгар", "type": "lowercase", "fst": "fst", "root": "умай+V", "affixes": "+CSTV+REFL+PART_PRES+POSS.3SG+DAT"},
+      {"pos": 1, "text": "Табаҕын", "type": "title", "fst": "fst", "root": "табах+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "уматынарыгар", "type": "lowercase", "fst": "fst", "root": "умай+V", "affixes": "+CSTV+REFL+PART_PRES+POSS.3SG.DAT"},
       {"pos": 3, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини+Pron"},
       {"pos": 4, "text": "илиитэ", "type": "lowercase", "fst": "fst", "root": "илии+N", "affixes": "+POSS.3SG"},
       {"pos": 5, "text": "биллэ", "type": "lowercase", "fst": "fst", "root": "билин+V", "affixes": "+CONV#2"},
@@ -132,9 +132,9 @@
     "id": 7,
     "parses": [
       {"pos": 1, "text": "Аһыы", "type": "title", "fst": "fst", "root": "ас+V", "affixes": "+NMLZ#2"},
-      {"pos": 2, "text": "олордохпуна", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+CONV_COND#2+POSS.1SG+PRTV"},
+      {"pos": 2, "text": "олордохпуна", "type": "lowercase", "fst": "fst", "root": "олор+V", "affixes": "+CONV_COND#2+POSS.1SG.PRTV"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 4, "text": "айахпын", "type": "lowercase", "fst": "fst", "root": "айах+N", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 4, "text": "айахпын", "type": "lowercase", "fst": "fst", "root": "айах+N", "affixes": "+POSS.1SG.ACC"},
       {"pos": 5, "text": "одуулуура", "type": "lowercase", "fst": "fst", "root": "одуу+N", "affixes": "+VRBLZ#1+PART_PRES+POSS.3SG"},
       {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
     ]

@@ -15,7 +15,7 @@
       {"pos": 3, "text": "түбэһэммин", "type": "lowercase", "fst": "fst", "root": "түбэс+V", "affixes": "+CONV#1+1SG"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 5, "text": "аҥар", "type": "lowercase", "fst": "fst", "root": "аҥар+Num"},
-      {"pos": 6, "text": "илиибиттэн", "type": "lowercase", "fst": "fst", "root": "илии+N", "affixes": "+POSS.1SG+ABL"},
+      {"pos": 6, "text": "илиибиттэн", "type": "lowercase", "fst": "fst", "root": "илии+N", "affixes": "+POSS.1SG.ABL"},
       {"pos": 7, "text": "маппытым", "type": "lowercase", "fst": "fst", "root": "мат+V", "affixes": "+PART_PAST+POSS.1SG"},
       {"pos": 8, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -31,9 +31,9 @@
     "ru": "И собою пожертвовав, я, кажется, не спас Ваню.",
     "id": 2,
     "parses": [
-      {"pos": 1, "text": "Бэйэбин", "type": "title", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 1, "text": "Бэйэбин", "type": "title", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.1SG.ACC"},
       {"pos": 2, "text": "да", "type": "lowercase", "fst": "ymv", "root": "да+Part"},
-      {"pos": 3, "text": "сиэртибэлэнэммин", "type": "lowercase", "fst": "ymv", "root": "сиэртибэ+N", "affixes": "+VRBLZ#1+REFL+CONV#1+1SG"},
+      {"pos": 3, "text": "сиэртибэлэнэммин", "type": "lowercase", "fst": "ymv", "root": "сиэртибэ+N", "affixes": "+VRBLZ#1+REFL/PASS+CONV#1+1SG"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "Ваняны", "type": "title", "fst": "yma", "root": "ваня+N", "affixes": "+ACC"},
       {"pos": 6, "text": "быыһаабатым", "type": "lowercase", "fst": "ymv", "root": "быыһаа+V", "affixes": "+NEG+PART_PRES+POSS.1SG"},
@@ -55,7 +55,7 @@
       {"pos": 1, "text": "Хата", "type": "title", "fst": "ymv", "root": "хата+MOD"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "эн", "type": "lowercase", "fst": "ymv", "root": "эн+Pron"},
-      {"pos": 4, "text": "бараннын", "type": "lowercase", "fst": "ymv", "root": "бараа+V", "affixes": "+REFL+IMP#1.3SG"},
+      {"pos": 4, "text": "бараннын", "type": "lowercase", "fst": "ymv", "root": "бараа+V", "affixes": "+REFL/PASS+IMP#1.3SG"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 6, "text": "Уйбаанна", "type": "title", "fst": "yma", "root": "уйбаан+N", "affixes": "+PRTV"},
       {"pos": 7, "text": "эт", "type": "lowercase", "fst": "ymv", "root": "эт+V"},

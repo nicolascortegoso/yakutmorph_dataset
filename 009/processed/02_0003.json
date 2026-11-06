@@ -70,7 +70,7 @@
     "id": 4,
     "parses": [
       {"pos": 1, "text": "Олбуор", "type": "title", "fst": "fst", "root": "олбуор+N"},
-      {"pos": 2, "text": "ааныгар", "type": "lowercase", "fst": "fst", "root": "аан+N", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 2, "text": "ааныгар", "type": "lowercase", "fst": "fst", "root": "аан+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 3, "text": "кыһыл", "type": "lowercase", "fst": "fst", "root": "кыһыл+Adj"},
       {"pos": 4, "text": "былаах", "type": "lowercase", "fst": "fst", "root": "былаах+N"},
       {"pos": 5, "text": "ыйаабыттар", "type": "lowercase", "fst": "fst", "root": "ыйаа+V", "affixes": "+PART_PAST+PL"},
@@ -90,7 +90,7 @@
     "parses": [
       {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
       {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "fst", "root": "бүгүн+Adv"},
-      {"pos": 3, "text": "мииммин", "type": "lowercase", "fst": "fst", "root": "миин+N", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 3, "text": "мииммин", "type": "lowercase", "fst": "fst", "root": "миин+N", "affixes": "+POSS.1SG.ACC"},
       {"pos": 4, "text": "олус", "type": "lowercase", "fst": "fst", "root": "олус+Adv"},
       {"pos": 5, "text": "тууһаан", "type": "lowercase", "fst": "fst", "root": "туус+N", "affixes": "+VRBLZ#3+CONV#1"},
       {"pos": 6, "text": "кэбиспиппин", "type": "lowercase", "fst": "fst", "root": "кэбис+V", "affixes": "+PART_PAST+1SG"},
@@ -109,8 +109,8 @@
     "id": 6,
     "parses": [
       {"pos": 1, "text": "Суумкалаах", "type": "title", "fst": "fst", "root": "суумка+N", "affixes": "+ADJZ#1"},
-      {"pos": 2, "text": "харчыбын", "type": "lowercase", "fst": "fst", "root": "харчы+N", "affixes": "+POSS.1SG+ACC"},
-      {"pos": 3, "text": "дьиэбэр", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+POSS.1SG+DAT"},
+      {"pos": 2, "text": "харчыбын", "type": "lowercase", "fst": "fst", "root": "харчы+N", "affixes": "+POSS.1SG.ACC"},
+      {"pos": 3, "text": "дьиэбэр", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+POSS.1SG.DAT"},
       {"pos": 4, "text": "хаалларбыппын", "type": "lowercase", "fst": "fst", "root": "хаал+V", "affixes": "+CSTV+PART_PAST+1SG"},
       {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -148,9 +148,9 @@
     "parses": [
       {"pos": 1, "text": "Онтон", "type": "title", "fst": "fst", "root": "ол+Pron", "affixes": "+ABL"},
       {"pos": 2, "text": "туран", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+CONV#1"},
-      {"pos": 3, "text": "ынахтарын", "type": "lowercase", "fst": "fst", "root": "ынах+N", "affixes": "+POSS.3PL+ACC"},
+      {"pos": 3, "text": "ынахтарын", "type": "lowercase", "fst": "fst", "root": "ынах+N", "affixes": "+POSS.3PL.ACC"},
       {"pos": 4, "text": "икки", "type": "lowercase", "fst": "fst", "root": "икки+Num"},
-      {"pos": 5, "text": "буутун", "type": "lowercase", "fst": "fst", "root": "буут+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 5, "text": "буутун", "type": "lowercase", "fst": "fst", "root": "буут+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 6, "text": "сиэн", "type": "lowercase", "fst": "fst", "root": "сиэ+V", "affixes": "+CONV#1"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 8, "text": "үс", "type": "lowercase", "fst": "fst", "root": "үс+Num"},

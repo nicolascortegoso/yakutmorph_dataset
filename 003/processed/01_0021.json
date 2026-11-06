@@ -20,7 +20,7 @@
       {"pos": 8, "text": "-", "type": "hyphen", "fst": "ymv"},
       {"pos": 9, "text": "көрөбүн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+1SG"},
       {"pos": 10, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 11, "text": "бэйэбин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 11, "text": "бэйэбин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.1SG.ACC"},
       {"pos": 12, "text": "онно", "type": "lowercase", "fst": "ymv", "root": "ол+Pron", "affixes": "+LOC"},
       {"pos": 13, "text": "холуубун", "type": "lowercase", "fst": "ymv", "root": "холоо+V", "affixes": "+PART_PRES+1SG"},
       {"pos": 14, "text": ".", "type": "period", "fst": "ymv"}
@@ -38,7 +38,7 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Ол", "type": "title", "fst": "fst", "root": "ол+Pron"},
-      {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "толло", "type": "lowercase", "fst": "fst", "root": "толун+V", "affixes": "+CONV#2"},
       {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
       {"pos": 5, "text": "толлобун", "type": "lowercase", "fst": "fst", "root": "толун+V", "affixes": "+PART_PRES+1SG"},
@@ -71,7 +71,7 @@
       {"pos": 6, "text": "-", "type": "hyphen", "fst": "ymv"},
       {"pos": 7, "text": "көрөҕүт", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+2PL"},
       {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 9, "text": "санааҕытын", "type": "lowercase", "fst": "ymv", "root": "санаа+N", "affixes": "+POSS.2PL+ACC"},
+      {"pos": 9, "text": "санааҕытын", "type": "lowercase", "fst": "ymv", "root": "санаа+N", "affixes": "+POSS.2PL.ACC"},
       {"pos": 10, "text": "түһэрбэт", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+CSTV+NEG+PART_PRES"},
       {"pos": 11, "text": "буолуҥ", "type": "lowercase", "fst": "ymv", "root": "буол+V", "affixes": "+IMP#1.2PL"},
       {"pos": 12, "text": ".", "type": "period", "fst": "ymv"}
@@ -164,15 +164,15 @@
       {"pos": 1, "text": "Сөдүөччүйэ", "type": "title", "fst": "yma", "root": "сөдүөччүйэ+N"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 3, "text": "улахан", "type": "lowercase", "fst": "ymv", "root": "улахан+Adj"},
-      {"pos": 4, "text": "уолун", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 4, "text": "уолун", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 5, "text": "сиргэ", "type": "lowercase", "fst": "ymv", "root": "сир+N", "affixes": "+DAT"},
       {"pos": 6, "text": "түһэрэн", "type": "lowercase", "fst": "ymv", "root": "түс+V", "affixes": "+CSTV+CONV#1"},
       {"pos": 7, "text": "баран", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+CONV#1"},
       {"pos": 8, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 9, "text": "кыра", "type": "lowercase", "fst": "ymv", "root": "кыра+Adj"},
-      {"pos": 10, "text": "уолун", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 10, "text": "уолун", "type": "lowercase", "fst": "ymv", "root": "уол+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 11, "text": "торбуйах", "type": "lowercase", "fst": "ymv", "root": "торбуйах+N"},
-      {"pos": 12, "text": "тириитигэр", "type": "lowercase", "fst": "ymv", "root": "тирии+N", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 12, "text": "тириитигэр", "type": "lowercase", "fst": "ymv", "root": "тирии+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 13, "text": "суулуу", "type": "lowercase", "fst": "ymv", "root": "суулаа+V", "affixes": "+CONV#2"},
       {"pos": 14, "text": "-", "type": "hyphen", "fst": "ymv"},
       {"pos": 15, "text": "суулуу", "type": "lowercase", "fst": "ymv", "root": "суулаа+V", "affixes": "+CONV#2"},
@@ -226,7 +226,7 @@
     "id": 10,
     "parses": [
       {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "кэннибин", "type": "lowercase", "fst": "fst", "root": "кэлин+N", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 2, "text": "кэннибин", "type": "lowercase", "fst": "fst", "root": "кэлин+N", "affixes": "+POSS.1SG.ACC"},
       {"pos": 3, "text": "көрүнэ", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+REFL+CONV#2"},
       {"pos": 4, "text": "-", "type": "hyphen", "fst": "fst"},
       {"pos": 5, "text": "көрүнэ", "type": "lowercase", "fst": "fst", "root": "көр+V", "affixes": "+REFL+CONV#2"},
@@ -248,7 +248,7 @@
     "parses": [
       {"pos": 1, "text": "Катя", "type": "title", "fst": "yma", "root": "катя+N"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 3, "text": "хааһыгын", "type": "lowercase", "fst": "ymv", "root": "хааһы+N", "affixes": "+POSS.2SG+ACC"},
+      {"pos": 3, "text": "хааһыгын", "type": "lowercase", "fst": "ymv", "root": "хааһы+N", "affixes": "+POSS.2SG.ACC"},
       {"pos": 4, "text": "булкуйа", "type": "lowercase", "fst": "ymv", "root": "булкуй+V", "affixes": "+CONV#2"},
       {"pos": 5, "text": "-", "type": "hyphen", "fst": "ymv"},
       {"pos": 6, "text": "булкуйа", "type": "lowercase", "fst": "ymv", "root": "булкуй+V", "affixes": "+CONV#2"},
@@ -273,7 +273,7 @@
       {"pos": 4, "text": "-", "type": "hyphen", "fst": "ymv"},
       {"pos": 5, "text": "үөрэнэ", "type": "lowercase", "fst": "ymv", "root": "үөрэн+V", "affixes": "+CONV#2"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "ymv"},
-      {"pos": 7, "text": "киэһэтин", "type": "lowercase", "fst": "ymv", "root": "киэһэ+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 7, "text": "киэһэтин", "type": "lowercase", "fst": "ymv", "root": "киэһэ+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 8, "text": "үлэлиибит", "type": "lowercase", "fst": "ymv", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES+1PL"},
       {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
     ]

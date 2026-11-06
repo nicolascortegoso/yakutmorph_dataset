@@ -32,7 +32,7 @@
       {"pos": 2, "text": "уол", "type": "lowercase", "fst": "ymv", "root": "уол+N"},
       {"pos": 3, "text": "Боллооруттаҕа", "type": "title", "fst": "ymv", "root": "боллой+V", "affixes": "+SLOW#1+CSTV+CONV_COND#2+POSS.3SG"},
       {"pos": 4, "text": "Талба", "type": "title", "fst": "ymv", "root": "талба+N"},
-      {"pos": 5, "text": "кытылыттан", "type": "lowercase", "fst": "ymv", "root": "кытыл+N", "affixes": "+POSS.3SG+ABL"},
+      {"pos": 5, "text": "кытылыттан", "type": "lowercase", "fst": "ymv", "root": "кытыл+N", "affixes": "+POSS.3SG.ABL"},
       {"pos": 6, "text": "от", "type": "lowercase", "fst": "ymv", "root": "от+N"},
       {"pos": 7, "text": "тиэйистэ", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+RECP+PST.3SG"},
       {"pos": 8, "text": ".", "type": "period", "fst": "ymv"}
@@ -50,7 +50,7 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Айаҕым", "type": "title", "fst": "fst", "root": "айах+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 2, "text": "иһин", "type": "lowercase", "fst": "fst", "root": "ис+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "киһи", "type": "lowercase", "fst": "fst", "root": "киһи+N"},
       {"pos": 4, "text": "уҥуоҕа", "type": "lowercase", "fst": "fst", "root": "уҥуох+N", "affixes": "+POSS.3SG"},
       {"pos": 5, "text": "харабылласпытым", "type": "lowercase", "fst": "fst", "root": "харабыл+N", "affixes": "+VRBLZ#1+RECP+PART_PAST+POSS.1SG"},
@@ -68,8 +68,8 @@
     "ru": "Летом он убирает сено вместе со своим сыном (оттоо- убирать сено).",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Сайыныгар", "type": "title", "fst": "fst", "root": "сайын+N", "affixes": "+POSS.3SG+DAT"},
-      {"pos": 2, "text": "уолун", "type": "lowercase", "fst": "fst", "root": "уол+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Сайыныгар", "type": "title", "fst": "fst", "root": "сайын+N", "affixes": "+POSS.3SG.DAT"},
+      {"pos": 2, "text": "уолун", "type": "lowercase", "fst": "fst", "root": "уол+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын+V", "affixes": "+CONV#2"},
       {"pos": 4, "text": "оттоһор", "type": "lowercase", "fst": "fst", "root": "от+N", "affixes": "+VRBLZ#1+RECP+PART_PRES"},
       {"pos": 5, "text": ".", "type": "period", "fst": "fst"}
@@ -86,7 +86,7 @@
     "ru": "За ним вышел вместе Дмитрий (таҕыс- выходить).",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Кэнниттэн", "type": "title", "fst": "ymv", "root": "кэлин+N", "affixes": "+POSS.3SG+ABL"},
+      {"pos": 1, "text": "Кэнниттэн", "type": "title", "fst": "ymv", "root": "кэлин+N", "affixes": "+POSS.3SG.ABL"},
       {"pos": 2, "text": "Миитэрэй", "type": "title", "fst": "ymv", "root": "миитэрэй+N"},
       {"pos": 3, "text": "бииргэ", "type": "lowercase", "fst": "ymv", "root": "биир+Num", "affixes": "+DAT"},
       {"pos": 4, "text": "тахсыста", "type": "lowercase", "fst": "ymv", "root": "таҕыс+V", "affixes": "+RECP+PST.3SG"},
@@ -105,10 +105,10 @@
     "id": 6,
     "parses": [
       {"pos": 1, "text": "Оҕолор", "type": "title", "fst": "fst", "root": "оҕо+N", "affixes": "+PL"},
-      {"pos": 2, "text": "кэннилэриттэн", "type": "lowercase", "fst": "fst", "root": "кэлин+N", "affixes": "+POSS.3PL+ABL"},
+      {"pos": 2, "text": "кэннилэриттэн", "type": "lowercase", "fst": "fst", "root": "кэлин+N", "affixes": "+POSS.3PL.ABL"},
       {"pos": 3, "text": "дьиэлээхтэр", "type": "lowercase", "fst": "fst", "root": "дьиэ+N", "affixes": "+ADJZ#1+PL"},
       {"pos": 4, "text": "түгэх", "type": "lowercase", "fst": "fst", "root": "түгэх+N"},
-      {"pos": 5, "text": "хосторугар", "type": "lowercase", "fst": "fst", "root": "хос+N", "affixes": "+POSS.3PL+DAT"},
+      {"pos": 5, "text": "хосторугар", "type": "lowercase", "fst": "fst", "root": "хос+N", "affixes": "+POSS.3PL.DAT"},
       {"pos": 6, "text": "кииристим", "type": "lowercase", "fst": "fst", "root": "киир+V", "affixes": "+RECP+PST.1SG"},
       {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
     ]

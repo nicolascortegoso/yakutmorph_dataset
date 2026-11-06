@@ -14,7 +14,7 @@
       {"pos": 2, "text": "ити", "type": "lowercase", "fst": "ymv", "root": "ити+Pron"},
       {"pos": 3, "text": "икки", "type": "lowercase", "fst": "ymv", "root": "икки+Num"},
       {"pos": 4, "text": "кыһыл", "type": "lowercase", "fst": "ymv", "root": "кыһыл+Adj"},
-      {"pos": 5, "text": "көмүстэрбин", "type": "lowercase", "fst": "ymv", "root": "көмүс+N", "affixes": "+PL+POSS.1SG+ACC"},
+      {"pos": 5, "text": "көмүстэрбин", "type": "lowercase", "fst": "ymv", "root": "көмүс+N", "affixes": "+PL+POSS.1SG.ACC"},
       {"pos": 6, "text": "ханна", "type": "lowercase", "fst": "ymv", "root": "ханна+Pron"},
       {"pos": 7, "text": "быраҕан", "type": "lowercase", "fst": "ymv", "root": "бырах+V", "affixes": "+CONV#1"},
       {"pos": 8, "text": "барыахпын", "type": "lowercase", "fst": "ymv", "root": "бар+V", "affixes": "+PART_FUT+1SG"},
@@ -40,7 +40,7 @@
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "туоҕум", "type": "lowercase", "fst": "ymv", "root": "туох+Pron", "affixes": "+POSS.1SG"},
       {"pos": 5, "text": "хара", "type": "lowercase", "fst": "ymv", "root": "хара+Adj"},
-      {"pos": 6, "text": "соругар", "type": "lowercase", "fst": "ymv", "root": "сор+N", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 6, "text": "соругар", "type": "lowercase", "fst": "ymv", "root": "сор+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 7, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 8, "text": "бу", "type": "lowercase", "fst": "ymv", "root": "бу+Pron"},
       {"pos": 9, "text": "айылаах", "type": "lowercase", "fst": "ymv", "root": "айылаах+Part"},
@@ -65,7 +65,7 @@
     "parses": [
       {"pos": 1, "text": "Бу", "type": "title", "fst": "fst", "root": "бу+Pron"},
       {"pos": 2, "text": "туох", "type": "lowercase", "fst": "fst", "root": "туох+Pron"},
-      {"pos": 3, "text": "үлүгэрбитигэр", "type": "lowercase", "fst": "fst", "root": "үлүгэр+N", "affixes": "+POSS.1PL+DAT"},
+      {"pos": 3, "text": "үлүгэрбитигэр", "type": "lowercase", "fst": "fst", "root": "үлүгэр+N", "affixes": "+POSS.1PL.DAT"},
       {"pos": 4, "text": "түбэстэхпитий", "type": "lowercase", "fst": "fst", "root": "түбэс+V", "affixes": "+CONV_COND#2+POSS.1PL+INT"},
       {"pos": 5, "text": "?", "type": "question", "fst": "fst"}
     ]

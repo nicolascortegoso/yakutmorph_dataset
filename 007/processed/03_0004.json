@@ -10,13 +10,13 @@
     "ru": "Во-первых, он хорошо учится, во-вторых, активно участвует в общественной работе.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "Биириһинэн", "type": "title", "fst": "fst", "root": "биир+Num", "affixes": "+ORD+POSS.3SG+INST"},
+      {"pos": 1, "text": "Биириһинэн", "type": "title", "fst": "fst", "root": "биир+Num", "affixes": "+ORD+POSS.3SG.INST"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 3, "text": "кини", "type": "lowercase", "fst": "fst", "root": "кини+Pron"},
       {"pos": 4, "text": "үөрэһэр", "type": "lowercase", "fst": "fst", "root": "үөр+N", "affixes": "+VRBLZ#3+RECP+PART_PRES"},
       {"pos": 5, "text": "үчүгэй", "type": "lowercase", "fst": "fst", "root": "үчүгэй+Adj"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 7, "text": "иккиһинэн", "type": "lowercase", "fst": "fst", "root": "икки+Num", "affixes": "+ORD+POSS.3SG+INST"},
+      {"pos": 7, "text": "иккиһинэн", "type": "lowercase", "fst": "fst", "root": "икки+Num", "affixes": "+ORD+POSS.3SG.INST"},
       {"pos": 8, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 9, "text": "общественнай", "type": "lowercase", "fst": "fst", "root": "общественнай+Adj"},
       {"pos": 10, "text": "үлэҕэ", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+DAT"},
@@ -87,12 +87,12 @@
       {"pos": 2, "text": "философия", "type": "lowercase", "fst": "fst", "root": "философия+N"},
       {"pos": 3, "text": "кинилэргэ", "type": "lowercase", "fst": "fst", "root": "кини+Pron", "affixes": "+PL+DAT"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "бииринэн", "type": "lowercase", "fst": "fst", "root": "биир+Num", "affixes": "+POSS.3SG+INST"},
+      {"pos": 5, "text": "бииринэн", "type": "lowercase", "fst": "fst", "root": "биир+Num", "affixes": "+POSS.3SG.INST"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 7, "text": "үлэһит", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+NMLZ#1"},
       {"pos": 8, "text": "маассаны", "type": "lowercase", "fst": "fst", "root": "маасса+N", "affixes": "+ACC"},
       {"pos": 9, "text": "көлөһүннээн", "type": "lowercase", "fst": "fst", "root": "көлөһүн+N", "affixes": "+VRBLZ#1+CONV#1"},
-      {"pos": 10, "text": "сииллэригэр", "type": "lowercase", "fst": "fst", "root": "сиэ+V", "affixes": "+PART_PRES+PL+POSS.3SG+DAT"},
+      {"pos": 10, "text": "сииллэригэр", "type": "lowercase", "fst": "fst", "root": "сиэ+V", "affixes": "+PART_PRES+PL+POSS.3SG.DAT"},
       {"pos": 11, "text": "наада", "type": "lowercase", "fst": "fst", "root": "наада+N"},
       {"pos": 12, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -108,13 +108,13 @@
     "ru": "Во-вторых, должна служить порабощению всех народов капиталом.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Иккиһинэн", "type": "title", "fst": "fst", "root": "икки+Num", "affixes": "+ORD+POSS.3SG+INST"},
+      {"pos": 1, "text": "Иккиһинэн", "type": "title", "fst": "fst", "root": "икки+Num", "affixes": "+ORD+POSS.3SG.INST"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 3, "text": "бары", "type": "lowercase", "fst": "fst", "root": "бары+Pron"},
       {"pos": 4, "text": "норуоттары", "type": "lowercase", "fst": "fst", "root": "норуот+N", "affixes": "+PL+ACC"},
       {"pos": 5, "text": "баайга", "type": "lowercase", "fst": "fst", "root": "баай+Adj", "affixes": "+DAT"},
       {"pos": 6, "text": "кулут", "type": "lowercase", "fst": "fst", "root": "кулут+N"},
-      {"pos": 7, "text": "гыналларыгар", "type": "lowercase", "fst": "fst", "root": "гын+V", "affixes": "+PART_PRES+PL+POSS.3SG+DAT"},
+      {"pos": 7, "text": "гыналларыгар", "type": "lowercase", "fst": "fst", "root": "гын+V", "affixes": "+PART_PRES+PL+POSS.3SG.DAT"},
       {"pos": 8, "text": "туһалыахтаах", "type": "lowercase", "fst": "fst", "root": "туһа+N", "affixes": "+VRBLZ#1+PART_FUT+DEB"},
       {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -130,7 +130,7 @@
     "ru": "Если сказать первым.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Бастакытынан", "type": "title", "fst": "fst", "root": "бастакы+Adj", "affixes": "+POSS.3SG+INST"},
+      {"pos": 1, "text": "Бастакытынан", "type": "title", "fst": "fst", "root": "бастакы+Adj", "affixes": "+POSS.3SG.INST"},
       {"pos": 2, "text": "эттэххэ", "type": "lowercase", "fst": "fst", "root": "эт+V", "affixes": "+CONV_COND#2+DAT"},
       {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
     ]

@@ -45,9 +45,9 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Аргыс", "type": "title", "fst": "fst", "root": "аргыс+N"},
-      {"pos": 2, "text": "оҕонньорун", "type": "lowercase", "fst": "fst", "root": "оҕонньор+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 2, "text": "оҕонньорун", "type": "lowercase", "fst": "fst", "root": "оҕонньор+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "кытта", "type": "lowercase", "fst": "fst", "root": "кытын+V", "affixes": "+CONV#2"},
-      {"pos": 4, "text": "кэпсэтиитин", "type": "lowercase", "fst": "fst", "root": "кэпсээ+V", "affixes": "+CAUS+NMLZ#2+POSS.3SG+ACC"},
+      {"pos": 4, "text": "кэпсэтиитин", "type": "lowercase", "fst": "fst", "root": "кэпсээ+V", "affixes": "+CAUS+NMLZ#2+POSS.3SG.ACC"},
       {"pos": 5, "text": "тохтотто", "type": "lowercase", "fst": "fst", "root": "тохтоо+V", "affixes": "+CSTV+PST.3SG"},
       {"pos": 6, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -63,7 +63,7 @@
     "ru": "Придержав своего коня, он снял Чёчё.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Атын", "type": "title", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Атын", "type": "title", "fst": "ymv", "root": "ат+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "тохтотон", "type": "lowercase", "fst": "ymv", "root": "тохтоо+V", "affixes": "+CSTV+CONV#1"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 4, "text": "Чөөчөнү", "type": "title", "fst": "yma", "root": "чөөчө+N", "affixes": "+ACC"},
@@ -88,7 +88,7 @@
       {"pos": 4, "text": "тыына", "type": "lowercase", "fst": "ymv", "root": "тыын+N", "affixes": "+POSS.3SG"},
       {"pos": 5, "text": "кини", "type": "lowercase", "fst": "ymv", "root": "кини+Pron"},
       {"pos": 6, "text": "оҕо", "type": "lowercase", "fst": "ymv", "root": "оҕо+N"},
-      {"pos": 7, "text": "сүрэҕин", "type": "lowercase", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 7, "text": "сүрэҕин", "type": "lowercase", "fst": "ymv", "root": "сүрэх+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 8, "text": "үөртэ", "type": "lowercase", "fst": "ymv", "root": "үөр+V", "affixes": "+CSTV+PST.3SG"},
       {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
     ]

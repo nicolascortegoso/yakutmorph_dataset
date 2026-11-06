@@ -53,7 +53,7 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Ыраас", "type": "title", "fst": "fst", "root": "ыраас+Adj"},
-      {"pos": 2, "text": "хааннарынан", "type": "lowercase", "fst": "fst", "root": "хаан+N", "affixes": "+POSS.3PL+INST"},
+      {"pos": 2, "text": "хааннарынан", "type": "lowercase", "fst": "fst", "root": "хаан+N", "affixes": "+POSS.3PL.INST"},
       {"pos": 3, "text": "ыһыахтанан", "type": "lowercase", "fst": "fst", "root": "ыс+V", "affixes": "+FREC#3+REFL/PASS+CONV#1"},
       {"pos": 4, "text": "охтубуттара", "type": "lowercase", "fst": "fst", "root": "оҕут+V", "affixes": "+PART_PAST+PL+POSS.3SG"},
       {"pos": 5, "text": "!", "type": "exclamation", "fst": "fst"}
@@ -120,12 +120,12 @@
     "id": 7,
     "parses": [
       {"pos": 1, "text": "Кини", "type": "title", "fst": "fst", "root": "кини+Pron"},
-      {"pos": 2, "text": "буоллаҕына", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG+PRTV"},
+      {"pos": 2, "text": "буоллаҕына", "type": "lowercase", "fst": "fst", "root": "буол+V", "affixes": "+CONV_COND#2+POSS.3SG.PRTV"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 4, "text": "саҥата", "type": "lowercase", "fst": "fst", "root": "саҥа+N", "affixes": "+POSS.3SG"},
       {"pos": 5, "text": "суох", "type": "lowercase", "fst": "fst", "root": "суох+N"},
-      {"pos": 6, "text": "сиэптэрин", "type": "lowercase", "fst": "fst", "root": "сиэп+N", "affixes": "+PL+POSS.3SG+ACC"},
-      {"pos": 7, "text": "хаһына", "type": "lowercase", "fst": "fst", "root": "хас+Pron", "affixes": "+POSS.3SG+PRTV"},
+      {"pos": 6, "text": "сиэптэрин", "type": "lowercase", "fst": "fst", "root": "сиэп+N", "affixes": "+PL+POSS.3SG.ACC"},
+      {"pos": 7, "text": "хаһына", "type": "lowercase", "fst": "fst", "root": "хас+Pron", "affixes": "+POSS.3SG.PRTV"},
       {"pos": 8, "text": "турда", "type": "lowercase", "fst": "fst", "root": "тур+V", "affixes": "+PST.3SG"},
       {"pos": 9, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -179,7 +179,7 @@
     "ru": "Он наглухо натянул на себя одеяло.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Суорҕанын", "type": "title", "fst": "fst", "root": "суорҕан+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Суорҕанын", "type": "title", "fst": "fst", "root": "суорҕан+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "бүрүнэ", "type": "lowercase", "fst": "fst", "root": "бүрүй+V", "affixes": "+REFL/PASS+CONV#2"},
       {"pos": 3, "text": "тардынан", "type": "lowercase", "fst": "fst", "root": "тарт+V", "affixes": "+REFL+CONV#1"},
       {"pos": 4, "text": "кэбистэ", "type": "lowercase", "fst": "fst", "root": "кэбис+V", "affixes": "+PST.3SG"},
@@ -246,7 +246,7 @@
     "parses": [
       {"pos": 1, "text": "Суунан", "type": "title", "fst": "fst", "root": "сууй+V", "affixes": "+REFL/PASS+CONV#1"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "таҥаспын", "type": "lowercase", "fst": "fst", "root": "таҥас+N", "affixes": "+POSS.1SG+ACC"},
+      {"pos": 3, "text": "таҥаспын", "type": "lowercase", "fst": "fst", "root": "таҥас+N", "affixes": "+POSS.1SG.ACC"},
       {"pos": 4, "text": "уларытынаат", "type": "lowercase", "fst": "fst", "root": "уларый+V", "affixes": "+CSTV+REFL+CONV#6"},
       {"pos": 5, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 6, "text": "ааҕыам", "type": "lowercase", "fst": "fst", "root": "аах+V", "affixes": "+PART_FUT+POSS.1SG"},

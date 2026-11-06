@@ -45,7 +45,7 @@
     "ru": "(Ты) вози (себе, сам) свое сено.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "Оккун", "type": "title", "fst": "fst", "root": "от+N", "affixes": "+POSS.2SG+ACC"},
+      {"pos": 1, "text": "Оккун", "type": "title", "fst": "fst", "root": "от+N", "affixes": "+POSS.2SG.ACC"},
       {"pos": 2, "text": "тиэн", "type": "lowercase", "fst": "fst", "root": "тиэй+V", "affixes": "+REFL/PASS"},
       {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -61,7 +61,7 @@
     "ru": "(Он) возит (себе, сам) свое сено.",
     "id": 5,
     "parses": [
-      {"pos": 1, "text": "Отун", "type": "title", "fst": "fst", "root": "от+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Отун", "type": "title", "fst": "fst", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "тиэнэр", "type": "lowercase", "fst": "fst", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
       {"pos": 3, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -77,9 +77,9 @@
     "ru": "Свое сено (он) возит себе сам.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Отун", "type": "title", "fst": "ymv", "root": "от+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Отун", "type": "title", "fst": "ymv", "root": "от+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "бэйэтэ", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG"},
-      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL+PART_PRES"},
+      {"pos": 3, "text": "тиэнэр", "type": "lowercase", "fst": "ymv", "root": "тиэй+V", "affixes": "+REFL/PASS+PART_PRES"},
       {"pos": 4, "text": ".", "type": "period", "fst": "ymv"}
     ]
   }

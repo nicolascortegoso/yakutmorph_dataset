@@ -782,7 +782,7 @@
     "ru": "любит смотреть",
     "id": 52,
     "parses": [
-      {"pos": 1, "text": "көрөрүн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+POSS.3SG+ACC"},
+      {"pos": 1, "text": "көрөрүн", "type": "lowercase", "fst": "ymv", "root": "көр+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
       {"pos": 2, "text": "таптыыр", "type": "lowercase", "fst": "ymv", "root": "таптаа+V", "affixes": "+PART_PRES"}
     ]
   },
@@ -797,7 +797,7 @@
     "ru": "любит слушать",
     "id": 53,
     "parses": [
-      {"pos": 1, "text": "истэрин", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PART_PRES+POSS.3SG+ACC"},
+      {"pos": 1, "text": "истэрин", "type": "lowercase", "fst": "ymv", "root": "иһит+V", "affixes": "+PART_PRES+POSS.3SG.ACC"},
       {"pos": 2, "text": "таптыыр", "type": "lowercase", "fst": "ymv", "root": "таптаа+V", "affixes": "+PART_PRES"}
     ]
   },
@@ -903,7 +903,7 @@
     "id": 60,
     "parses": [
       {"pos": 1, "text": "иирсэр", "type": "lowercase", "fst": "ymv", "root": "иир+V", "affixes": "+RECP+PART_PRES"},
-      {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL+NEG+PART_PRES"}
+      {"pos": 2, "text": "сатаммат", "type": "lowercase", "fst": "ymv", "root": "сатаа+V", "affixes": "+REFL/PASS+NEG+PART_PRES"}
     ]
   },
   {
@@ -1720,7 +1720,7 @@
     "ru": "своя книга (его, ее)",
     "id": 114,
     "parses": [
-      {"pos": 1, "text": "бэйэтин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "бэйэтин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "кинигэтэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.3SG"}
     ]
   },
@@ -1765,7 +1765,7 @@
     "ru": "своя книга (их)",
     "id": 117,
     "parses": [
-      {"pos": 1, "text": "бэйэлэрин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+PL+POSS.3SG+ACC"},
+      {"pos": 1, "text": "бэйэлэрин", "type": "lowercase", "fst": "ymv", "root": "бэйэ+Pron", "affixes": "+PL+POSS.3SG.ACC"},
       {"pos": 2, "text": "кинигэлэрэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+PL+POSS.3SG"}
     ]
   },
@@ -1810,7 +1810,7 @@
     "ru": "книга его (ее) друга",
     "id": 120,
     "parses": [
-      {"pos": 1, "text": "доҕорун", "type": "lowercase", "fst": "ymv", "root": "доҕор+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "доҕорун", "type": "lowercase", "fst": "ymv", "root": "доҕор+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "кинигэтэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.3SG"}
     ]
   },
@@ -1855,7 +1855,7 @@
     "ru": "книга их друга",
     "id": 123,
     "parses": [
-      {"pos": 1, "text": "доҕордорун", "type": "lowercase", "fst": "ymv", "root": "доҕор+N", "affixes": "+POSS.3PL+ACC"},
+      {"pos": 1, "text": "доҕордорун", "type": "lowercase", "fst": "ymv", "root": "доҕор+N", "affixes": "+POSS.3PL.ACC"},
       {"pos": 2, "text": "кинигэтэ", "type": "lowercase", "fst": "ymv", "root": "кинигэ+N", "affixes": "+POSS.3SG"}
     ]
   },

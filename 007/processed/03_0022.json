@@ -56,7 +56,7 @@
     "parses": [
       {"pos": 1, "text": "Тохтоо", "type": "title", "fst": "fst", "root": "тохтоо+V"},
       {"pos": 2, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 3, "text": "туоҕун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 3, "text": "туоҕун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 4, "text": "хос", "type": "lowercase", "fst": "fst", "root": "хос+N"},
       {"pos": 5, "text": "-", "type": "hyphen", "fst": "fst"},
       {"pos": 6, "text": "хос", "type": "lowercase", "fst": "fst", "root": "хос+N"},
@@ -138,7 +138,7 @@
       {"pos": 7, "text": "-", "type": "hyphen", "fst": "fst"},
       {"pos": 8, "text": "бу", "type": "lowercase", "fst": "fst", "root": "бу+Pron"},
       {"pos": 9, "text": "солуута", "type": "lowercase", "fst": "fst", "root": "суол+N", "affixes": "+VRBLZ#3+NMLZ#2+POSS.3SG"},
-      {"pos": 10, "text": "суоҕунан", "type": "lowercase", "fst": "fst", "root": "суох+N", "affixes": "+POSS.3SG+INST"},
+      {"pos": 10, "text": "суоҕунан", "type": "lowercase", "fst": "fst", "root": "суох+N", "affixes": "+POSS.3SG.INST"},
       {"pos": 11, "text": "киһини", "type": "lowercase", "fst": "fst", "root": "киһи+N", "affixes": "+ACC"},
       {"pos": 12, "text": "сүгүн", "type": "lowercase", "fst": "fst", "root": "сүгүн+Adv"},
       {"pos": 13, "text": "үлэлэппэттэрэ", "type": "lowercase", "fst": "fst", "root": "үлэ+N", "affixes": "+VRBLZ#1+CAUS+NEG+PART_PRES+PL+POSS.3SG"},
@@ -158,7 +158,7 @@
     "ru": "Зачем тебе еще увольняться!",
     "id": 9,
     "parses": [
-      {"pos": 1, "text": "Тугун", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Тугун", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "уурайыытай", "type": "lowercase", "fst": "fst", "root": "уурай+V", "affixes": "+NMLZ#2+POSS.3SG+INT"},
       {"pos": 3, "text": ",", "type": "comma", "fst": "fst"},
       {"pos": 4, "text": "доҕор", "type": "lowercase", "fst": "fst", "root": "доҕор+N"},
@@ -176,8 +176,8 @@
     "ru": "Зачем тебе так говорить.",
     "id": 10,
     "parses": [
-      {"pos": 1, "text": "Тугун", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG+ACC"},
-      {"pos": 2, "text": "тылын", "type": "lowercase", "fst": "fst", "root": "тыл+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Тугун", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 2, "text": "тылын", "type": "lowercase", "fst": "fst", "root": "тыл+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "тылластыҥ", "type": "lowercase", "fst": "fst", "root": "тыл+N", "affixes": "+VRBLZ#1+RECP+PST.2SG"},
       {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -217,7 +217,7 @@
     "id": 12,
     "parses": [
       {"pos": 1, "text": "Эйигинньик", "type": "title", "fst": "fst", "root": "эйигинньик+N"},
-      {"pos": 2, "text": "тугун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 2, "text": "тугун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 3, "text": "буорай", "type": "lowercase", "fst": "fst", "root": "буор+N", "affixes": "+POSS.3SG+INT"},
       {"pos": 4, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -272,7 +272,7 @@
     "id": 16,
     "parses": [
       {"pos": 1, "text": "Мин", "type": "title", "fst": "fst", "root": "мин+Pron"},
-      {"pos": 2, "text": "сорукпун", "type": "lowercase", "fst": "fst", "root": "соруй+V", "affixes": "+NMLZ#5+POSS.1SG+ACC"},
+      {"pos": 2, "text": "сорукпун", "type": "lowercase", "fst": "fst", "root": "соруй+V", "affixes": "+NMLZ#5+POSS.1SG.ACC"},
       {"pos": 3, "text": "тугу", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+ACC"},
       {"pos": 4, "text": "кистиэмий", "type": "lowercase", "fst": "fst", "root": "кистээ+V", "affixes": "+PART_FUT+POSS.1SG+INT"},
       {"pos": 5, "text": "?", "type": "question", "fst": "fst"}
@@ -292,10 +292,10 @@
       {"pos": 1, "text": "Хоту", "type": "title", "fst": "fst", "root": "хоту+N"},
       {"pos": 2, "text": "дойду", "type": "lowercase", "fst": "fst", "root": "дойду+N"},
       {"pos": 3, "text": "сааскыта", "type": "lowercase", "fst": "fst", "root": "саас+N", "affixes": "+ADJZ#4+POSS.3SG"},
-      {"pos": 4, "text": "тугун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 4, "text": "тугун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 5, "text": "ырааһай", "type": "lowercase", "fst": "fst", "root": "ыраас+Adj", "affixes": "+POSS.3SG+INT"},
       {"pos": 6, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 7, "text": "тугун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 7, "text": "тугун", "type": "lowercase", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 8, "text": "сырдыгай", "type": "lowercase", "fst": "fst", "root": "сырдаа+V", "affixes": "+NMLZ#5+POSS.3SG+INT"},
       {"pos": 9, "text": "?", "type": "question", "fst": "fst"}
     ]
@@ -311,7 +311,7 @@
     "ru": "Какой же быстрый.",
     "id": 20,
     "parses": [
-      {"pos": 1, "text": "Тугун", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Тугун", "type": "title", "fst": "fst", "root": "туох+Pron", "affixes": "+POSS.3SG.ACC"},
       {"pos": 2, "text": "түргэнэй", "type": "lowercase", "fst": "fst", "root": "түргэн+Adj", "affixes": "+POSS.3SG+INT"},
       {"pos": 3, "text": "доҕоор", "type": "lowercase", "fst": "fst", "root": "доҕоор+N"},
       {"pos": 4, "text": ".", "type": "period", "fst": "fst"}

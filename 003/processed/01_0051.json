@@ -11,10 +11,10 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Ийэм", "type": "title", "fst": "fst", "root": "ийэ+N", "affixes": "+POSS.1SG"},
-      {"pos": 2, "text": "хотонуттан", "type": "lowercase", "fst": "fst", "root": "хотон+N", "affixes": "+POSS.3SG+ABL"},
+      {"pos": 2, "text": "хотонуттан", "type": "lowercase", "fst": "fst", "root": "хотон+N", "affixes": "+POSS.3SG.ABL"},
       {"pos": 3, "text": "киирээт", "type": "lowercase", "fst": "fst", "root": "киир+V", "affixes": "+CONV#6"},
       {"pos": 4, "text": ",", "type": "comma", "fst": "fst"},
-      {"pos": 5, "text": "оһоҕун", "type": "lowercase", "fst": "fst", "root": "оһох+N", "affixes": "+POSS.3SG+ACC"},
+      {"pos": 5, "text": "оһоҕун", "type": "lowercase", "fst": "fst", "root": "оһох+N", "affixes": "+POSS.3SG.ACC"},
       {"pos": 6, "text": "отторо", "type": "lowercase", "fst": "fst", "root": "отун+V", "affixes": "+PART_PRES+POSS.3SG"},
       {"pos": 7, "text": ".", "type": "period", "fst": "fst"}
     ]
@@ -36,8 +36,8 @@
       {"pos": 4, "text": ",", "type": "comma", "fst": "ymv"},
       {"pos": 5, "text": "уорааннаах", "type": "lowercase", "fst": "ymv", "root": "уораан+N", "affixes": "+ADJZ#1"},
       {"pos": 6, "text": "салгын", "type": "lowercase", "fst": "ymv", "root": "салгын+N"},
-      {"pos": 7, "text": "уолугун", "type": "lowercase", "fst": "ymv", "root": "уолук+N", "affixes": "+POSS.3SG+ACC"},
-      {"pos": 8, "text": "үүтүнэн", "type": "lowercase", "fst": "ymv", "root": "үүт+N", "affixes": "+POSS.3SG+INST"},
+      {"pos": 7, "text": "уолугун", "type": "lowercase", "fst": "ymv", "root": "уолук+N", "affixes": "+POSS.3SG.ACC"},
+      {"pos": 8, "text": "үүтүнэн", "type": "lowercase", "fst": "ymv", "root": "үүт+N", "affixes": "+POSS.3SG.INST"},
       {"pos": 9, "text": "киирэр", "type": "lowercase", "fst": "ymv", "root": "киир+V", "affixes": "+PART_PRES"},
       {"pos": 10, "text": ".", "type": "period", "fst": "ymv"}
     ]
@@ -53,11 +53,11 @@
     "ru": "Как только они приехали, их направили в олекминскую тайгу.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "Кэлээттэрин", "type": "title", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#6+PL+POSS.3SG+ACC"},
+      {"pos": 1, "text": "Кэлээттэрин", "type": "title", "fst": "ymv", "root": "кэл+V", "affixes": "+CONV#6+PL+POSS.3SG.ACC"},
       {"pos": 2, "text": "кытта", "type": "lowercase", "fst": "ymv", "root": "кытын+V", "affixes": "+CONV#2"},
       {"pos": 3, "text": "кинилэри", "type": "lowercase", "fst": "ymv", "root": "кини+Pron", "affixes": "+PL+ACC"},
       {"pos": 4, "text": "Өлүөхүмэ", "type": "title", "fst": "yma", "root": "өлүөхүмэ+N"},
-      {"pos": 5, "text": "тайҕатыгар", "type": "lowercase", "fst": "ymv", "root": "тайҕа+N", "affixes": "+POSS.3SG+DAT"},
+      {"pos": 5, "text": "тайҕатыгар", "type": "lowercase", "fst": "ymv", "root": "тайҕа+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 6, "text": "ыыппыттар", "type": "lowercase", "fst": "ymv", "root": "ыыт+V", "affixes": "+PART_PAST+PL"},
       {"pos": 7, "text": ".", "type": "period", "fst": "ymv"}
     ]

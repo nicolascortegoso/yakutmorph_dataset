@@ -98,4 +98,31 @@
 | 024 | Causatives and unaccusatives | 122 |
 | 024 | Decomposing accusative case | 239 |
 | 024 | Denominal verbs | 152 |
+| 101 | Посвящение | 10 |
+| 101 | I | 35 |
+| 101 | II | 60 |
+| 101 | III | 46 |
+| 101 | IV | 69 |
+| 101 | V | 54 |
+| 101 | VI | 22 |
+| 101 | VII | 84 |
+| 101 | VIII | 70 |
+| 101 | IX | 48 |
+| 101 | X | 109 |
+| 101 | XI | 27 |
+| 101 | XII | 13 |
+| 101 | XIII | 112 |
+| 101 | XIV | 74 |
+| 101 | XV | 102 |
+| 101 | XVII | 59 |
+| 101 | XVIII | 15 |
+| 101 | XIX | 17 |
+| 101 | XX | 21 |
+| 101 | XXI | 148 |
+| 101 | XXII | 27 |
+| 101 | XXIII | 10 |
+| 101 | XXIV | 64 |
+| 101 | XXV | 73 |
+| 101 | XXVI | 153 |
+| 101 | XXVII | 40 |
 | 102 | sah_yktdt-ud-test.conllu | 299 |

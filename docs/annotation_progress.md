@@ -25,5 +25,6 @@
 | 021 | Verbal moods | 71 | 69 | 97.18% | Винокурова Н.И., Винокуров И.П. Наклонения в якутском и английском языках: сравнительный анализ. Северо-Восточный гуманитарный вестник. – 2012. – N 2 (5). – С. 98-107. |
 | 023 | The substantive function of participles | 23 | 22 | 95.65% | Попова, Н.И. Субстантивная функция причастий в якутском языке / Н. И. Попова // Якутский язык: история и актуальные вопросы : сборник научных трудов. — Якутск : Издательство СО АН СССР, Якутский филиал, 1986. — С. 116-122. |
 | 024 | Lexical categories and argument structure | 1016 | 981 | 96.56% | Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103). |
+| 101 | The Little Prince (Кыра Тыгын) | 1562 | 1287 | 82.39% | Сент-Экзюпери, Де Антуан. Перевод на якутский язык: Слепцова-Куорсуннах, Елена Васильевна. |
 | 102 | Dataset from Universal Dependencies | 299 | 299 | 100.00% | Merzhevich, Tatiana; Gerardi, Fabrício Ferraz (2021). UD_Yakut-YKTDT, Universal Dependencies treebank. CC BY-SA 4.0. https://github.com/UniversalDependencies/UD_Yakut-YKTDT (commit 05dd5ff, 2023-04-30). |
-|  | TOTAL | 21300 | 17799 | 83.56% |  |
+|  | TOTAL | 22862 | 19086 | 83.48% |  |

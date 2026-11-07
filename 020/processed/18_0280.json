@@ -22,7 +22,7 @@
       {"pos": 9, "text": "ньуосканан", "type": "lowercase", "fst": "voc", "root": "ньуоска+N", "affixes": "+INST"},
       {"pos": 10, "text": "баһан", "type": "lowercase", "fst": "voc", "root": "бас+V", "affixes": "+CONV#1"},
       {"pos": 11, "text": "сиибит", "type": "lowercase", "fst": "voc", "root": "сиэ+V", "affixes": "+PART_PRES+1PL"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 12, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -41,7 +41,7 @@
       {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
       {"pos": 3, "text": "буолуо", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_FUT"},
       {"pos": 4, "text": "дуо", "type": "lowercase", "fst": "voc", "root": "дуо+Part"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": null},
       {"pos": 6, "text": "киһиэхэ", "type": "lowercase", "fst": "voc", "root": "киһи+N", "affixes": "+DAT"},
       {"pos": 7, "text": "барытыгар", "type": "lowercase", "fst": "voc", "root": "бары+Pron", "affixes": "+POSS.3SG.DAT"},
       {"pos": 8, "text": "сытар", "type": "lowercase", "fst": "voc", "root": "сыт+V", "affixes": "+PART_PRES"},
@@ -50,7 +50,7 @@
       {"pos": 11, "text": "сымнаҕас", "type": "lowercase", "fst": "voc", "root": "сымнаа+V", "affixes": "+ADJZ#6"},
       {"pos": 12, "text": "майгыннааҕынан", "type": "lowercase", "fst": "voc", "root": "майгын+N", "affixes": "+ADJZ#1+INST"},
       {"pos": 13, "text": "биллэр", "type": "lowercase", "fst": "voc", "root": "билин+V", "affixes": "+PART_PRES"},
-      {"pos": 14, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 14, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -66,9 +66,9 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "Оҕуһу", "type": "title", "fst": "voc", "root": "оҕус+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "—", "type": "dash", "fst": "voc"},
+      {"pos": 2, "text": "—", "type": "dash", "fst": null},
       {"pos": 3, "text": "самыыга", "type": "lowercase", "fst": "voc", "root": "самыы+N", "affixes": "+DAT"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 4, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -83,14 +83,14 @@
     "ru": "... Уус Мандар, сидя возле нее, из сучьев, из корней сухого дерева выстругивает ножом различных человечков со смешными рожицами.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "voc"},
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": null},
       {"pos": 2, "text": "Уус", "type": "title", "fst": "voc", "root": "уус+N"},
       {"pos": 3, "text": "Мандар", "type": "title", "fst": "aff", "root": "мандар+N"},
       {"pos": 4, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
       {"pos": 5, "text": "аттыгар", "type": "lowercase", "fst": "voc", "root": "атта+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 6, "text": "олорон", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+CONV#1"},
       {"pos": 7, "text": "мутуктан", "type": "lowercase", "fst": "voc", "root": "мутук+N", "affixes": "+ABL"},
-      {"pos": 8, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 8, "text": ",", "type": "comma", "fst": null},
       {"pos": 9, "text": "хаппыт", "type": "lowercase", "fst": "voc", "root": "хат+V", "affixes": "+PART_PAST"},
       {"pos": 10, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"},
       {"pos": 11, "text": "силиһиттэн", "type": "lowercase", "fst": "voc", "root": "силис+N", "affixes": "+POSS.3SG.ABL"},
@@ -98,13 +98,13 @@
       {"pos": 13, "text": "күлүөн", "type": "lowercase", "fst": "voc", "root": "күл+V", "affixes": "+PART_FUT+CONV#1"},
       {"pos": 14, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
       {"pos": 15, "text": "сирэйдээх", "type": "lowercase", "fst": "voc", "root": "сирэй+N", "affixes": "+ADJZ#1"},
-      {"pos": 16, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 16, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 17, "text": "харахтаах", "type": "lowercase", "fst": "voc", "root": "харах+N", "affixes": "+ADJZ#1"},
       {"pos": 18, "text": "дьоннору", "type": "lowercase", "fst": "voc", "root": "дьон+N", "affixes": "+PL+ACC"},
       {"pos": 19, "text": "быһаҕынан", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+NMLZ#6+INST"},
       {"pos": 20, "text": "кыччайан", "type": "lowercase", "fst": "voc", "root": "кыччай+V", "affixes": "+CONV#1"},
       {"pos": 21, "text": "оҥорор", "type": "lowercase", "fst": "voc", "root": "оҥор+V", "affixes": "+PART_PRES"},
-      {"pos": 22, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 22, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -123,7 +123,7 @@
       {"pos": 2, "text": "гаражтан", "type": "lowercase", "fst": "voc", "root": "гараж+N", "affixes": "+ABL"},
       {"pos": 3, "text": "дьиэбэр", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.1SG.DAT"},
       {"pos": 4, "text": "аҕаллым", "type": "lowercase", "fst": "voc", "root": "аҕал+V", "affixes": "+PST.1SG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 5, "text": ".", "type": "period", "fst": null}
     ]
   }
 ]

@@ -12,11 +12,11 @@
     "id": 1,
     "parses": [
       {"pos": 1, "text": "Доҕоор", "type": "title", "fst": "voc", "root": "доҕоор+N"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": null},
       {"pos": 3, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
       {"pos": 4, "text": "бар", "type": "lowercase", "fst": "voc", "root": "бар+V"},
       {"pos": 5, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -32,7 +32,7 @@
     "id": 2,
     "parses": [
       {"pos": 1, "text": "Ханна", "type": "title", "fst": "voc", "root": "ханна+Pron"},
-      {"pos": 2, "text": "?", "type": "question", "fst": "voc"}
+      {"pos": 2, "text": "?", "type": "question", "fst": null}
     ]
   },
   {
@@ -48,7 +48,7 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Онно", "type": "title", "fst": "voc", "root": "ол+Pron", "affixes": "+LOC"},
-      {"pos": 2, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 2, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -65,10 +65,10 @@
     "parses": [
       {"pos": 1, "text": "Анна", "type": "title", "fst": "voc", "root": "анна+N"},
       {"pos": 2, "text": "Ивановна", "type": "title", "fst": "aff", "root": "ивановна+PN"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": null},
       {"pos": 4, "text": "көмөлөһүөххэ", "type": "lowercase", "fst": "voc", "root": "көмө+N", "affixes": "+VRBLZ#1+RECP+PART_FUT+DAT"},
       {"pos": 5, "text": "наада", "type": "lowercase", "fst": "voc", "root": "наада+N"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -84,7 +84,7 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "Көмөлөһүөххэ", "type": "title", "fst": "voc", "root": "көмө+N", "affixes": "+VRBLZ#1+RECP+PART_FUT+DAT"},
-      {"pos": 2, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 2, "text": "!", "type": "exclamation", "fst": null}
     ]
   }
 ]

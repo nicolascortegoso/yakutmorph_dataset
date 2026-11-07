@@ -11,11 +11,11 @@
     "id": 1,
     "parses": [
       {"pos": 1, "text": "Ньир", "type": "title", "fst": "voc", "root": "ньир+IMIT"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 3, "text": "ньир", "type": "lowercase", "fst": "voc", "root": "ньир+IMIT"},
       {"pos": 4, "text": "этиҥ", "type": "lowercase", "fst": "voc", "root": "этиҥ+N"},
       {"pos": 5, "text": "эттэ", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PST.3SG"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 6, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -30,12 +30,12 @@
       "id": 2,
       "parses": [
          {"pos": 1, "text": "Тап", "type": "title", "fst": "voc", "root": "тап+IMIT"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
          {"pos": 3, "text": "тап", "type": "lowercase", "fst": "voc", "root": "тап+IMIT"},
          {"pos": 4, "text": "таптайан", "type": "lowercase", "fst": "voc", "root": "таптай+V", "affixes": "+CONV#1"},
          {"pos": 5, "text": "оронун", "type": "lowercase", "fst": "voc", "root": "орон+N", "affixes": "+POSS.3SG.ACC"},
          {"pos": 6, "text": "оҥоһунна", "type": "lowercase", "fst": "voc", "root": "оҥор+V", "affixes": "+REFL+PST.3SG"},
-         {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
+         {"pos": 7, "text": ".", "type": "period", "fst": null}
       ]
   },
   {
@@ -50,7 +50,7 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "курк", "type": "lowercase", "fst": "voc", "root": "курк+IMIT"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 3, "text": "харк", "type": "lowercase", "fst": "voc", "root": "харк+IMIT"},
       {"pos": 4, "text": "үктэтэлээ", "type": "lowercase", "fst": "voc", "root": "үктээ+V", "affixes": "+CAUS+FREC#4"}
     ]
@@ -67,7 +67,7 @@
     "id": 4,
     "parses": [
       {"pos": 1, "text": "лиһигир", "type": "lowercase", "fst": "voc", "root": "лиһигир+IMIT"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 3, "text": "лаһыгыр", "type": "lowercase", "fst": "voc", "root": "лаһыгыр+IMIT"},
       {"pos": 4, "text": "тамнааттаа", "type": "lowercase", "fst": "voc", "root": "тамнаа+V", "affixes": "+ITER#3"}
     ]
@@ -84,7 +84,7 @@
       "id": 5,
       "parses": [
          {"pos": 1, "text": "килэп", "type": "lowercase", "fst": "voc", "root": "килэп+Adv"},
-         {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+         {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
          {"pos": 3, "text": "халап", "type": "lowercase", "fst": "voc", "root": "халап+Adv"},
          {"pos": 4, "text": "көр", "type": "lowercase", "fst": "voc", "root": "көр+V"}
       ]

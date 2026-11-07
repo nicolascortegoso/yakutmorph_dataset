@@ -10,15 +10,15 @@
     "ru": "Ах, как же «очень хорошо», деточка моя.",
     "id": 1,
     "parses": [
-      {"pos": 1, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 1, "text": "«", "type": "quotation", "fst": null},
       {"pos": 2, "text": "Олус", "type": "title", "fst": "voc", "root": "олус+Adj"},
       {"pos": 3, "text": "үчүгэй", "type": "lowercase", "fst": "voc", "root": "үчүгэй+Adj"},
-      {"pos": 4, "text": "»", "type": "quotation", "fst": "voc"},
+      {"pos": 4, "text": "»", "type": "quotation", "fst": null},
       {"pos": 5, "text": "буолаахтаан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 6, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": null},
       {"pos": 7, "text": "оҕом", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+POSS.1SG"},
       {"pos": 8, "text": "сыыһа", "type": "lowercase", "fst": "voc", "root": "сыыс+V", "affixes": "+CONV#2"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 9, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -35,7 +35,7 @@
       {"pos": 1, "text": "Бэйи", "type": "title", "fst": "voc", "root": "бэйи+MOD"},
       {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
       {"pos": 3, "text": "буолаахтаан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 4, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -55,7 +55,7 @@
       {"pos": 4, "text": "хаартыска", "type": "lowercase", "fst": "voc", "root": "хаартыска+N"},
       {"pos": 5, "text": "баттаппыт", "type": "lowercase", "fst": "voc", "root": "баттаа+V", "affixes": "+CAUS+PART_PAST"},
       {"pos": 6, "text": "эбээт", "type": "lowercase", "fst": "voc", "root": "эбээт+Part"},
-      {"pos": 7, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 7, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -70,7 +70,7 @@
     "id": 4,
     "parses": [
       {"pos": 1, "text": "Улаата", "type": "title", "fst": "voc", "root": "улаат+V", "affixes": "+CONV#2"},
-      {"pos": 2, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 2, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -86,7 +86,7 @@
     "parses": [
       {"pos": 1, "text": "Образ", "type": "title", "fst": "voc", "root": "образ+N"},
       {"pos": 2, "text": "буолаахтаан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -101,12 +101,12 @@
     "id": 6,
     "parses": [
       {"pos": 1, "text": "Бары", "type": "title", "fst": "voc", "root": "бары+Pron"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 3, "text": "барыта", "type": "lowercase", "fst": "voc", "root": "бары+Pron", "affixes": "+POSS.3SG"},
       {"pos": 4, "text": "эмиэ", "type": "lowercase", "fst": "voc", "root": "эмиэ+Adv"},
       {"pos": 5, "text": "салайааччы", "type": "lowercase", "fst": "voc", "root": "салай+V", "affixes": "+HAB#1"},
       {"pos": 6, "text": "буолаахтаан", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+DIM+CONV#1"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 7, "text": ".", "type": "period", "fst": null}
     ]
   }
 ]

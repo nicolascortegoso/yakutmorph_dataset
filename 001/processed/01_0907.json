@@ -12,7 +12,7 @@
     "parses": [
       {"pos": 1, "text": "Утаран", "type": "title", "fst": "voc", "root": "утар+V", "affixes": "+CONV#1"},
       {"pos": 2, "text": "буолбакка", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+NEG+PART_PRES+DAT"},
-      {"pos": 3, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 3, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -31,7 +31,7 @@
       {"pos": 3, "text": "ким", "type": "lowercase", "fst": "voc", "root": "ким+Pron"},
       {"pos": 4, "text": "маннык", "type": "lowercase", "fst": "voc", "root": "бу+Pron", "affixes": "+DEF"},
       {"pos": 5, "text": "оҥоруой", "type": "lowercase", "fst": "voc", "root": "оҥор+V", "affixes": "+PART_FUT+INT"},
-      {"pos": 6, "text": "?", "type": "question", "fst": "voc"}
+      {"pos": 6, "text": "?", "type": "question", "fst": null}
     ]
   },
   {
@@ -46,10 +46,10 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Миша", "type": "title", "fst": "aff", "root": "миша+PN"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": null},
       {"pos": 3, "text": "кырдьык", "type": "lowercase", "fst": "voc", "root": "кырдьык+N"},
       {"pos": 4, "text": "буолумуна", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+NEG+CONV#3"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 5, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -66,7 +66,7 @@
       {"pos": 1, "text": "Кини", "type": "title", "fst": "voc", "root": "кини+Pron"},
       {"pos": 2, "text": "кыайыа", "type": "lowercase", "fst": "voc", "root": "кыай+V", "affixes": "+PART_FUT"},
       {"pos": 3, "text": "этээ", "type": "lowercase", "fst": "voc", "root": "этээ+Part"},
-      {"pos": 4, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 4, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -83,7 +83,7 @@
       {"pos": 1, "text": "Аҕата", "type": "title", "fst": "voc", "root": "аҕа+N", "affixes": "+POSS.3SG"},
       {"pos": 2, "text": "ыытан", "type": "lowercase", "fst": "voc", "root": "ыыт+V", "affixes": "+CONV#1"},
       {"pos": 3, "text": "бэрт", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 4, "text": ".", "type": "period", "fst": null}
     ]
   }
 ]

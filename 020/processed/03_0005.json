@@ -12,12 +12,12 @@
     "id": 1,
     "parses": [
       {"pos": 1, "text": "О", "type": "uppercase", "fst": "voc", "root": "о+INJ"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": null},
       {"pos": 3, "text": "үчугэй", "type": "lowercase", "fst": "aff", "root": "үчугэй+Adj"},
       {"pos": 4, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
       {"pos": 5, "text": "этилэр", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3PL"},
       {"pos": 6, "text": "кинилэр", "type": "lowercase", "fst": "voc", "root": "кини+Pron", "affixes": "+PL"},
-      {"pos": 7, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 7, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -35,9 +35,9 @@
       {"pos": 1, "text": "Үөрдүм", "type": "title", "fst": "voc", "root": "үөр+V", "affixes": "+PST.1SG"},
       {"pos": 2, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
       {"pos": 3, "text": "этэ", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3SG"},
-      {"pos": 4, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 4, "text": ",", "type": "comma", "fst": null},
       {"pos": 5, "text": "мин", "type": "lowercase", "fst": "voc", "root": "мин+Pron"},
-      {"pos": 6, "text": "!", "type": "exclamation", "fst": "voc"}
+      {"pos": 6, "text": "!", "type": "exclamation", "fst": null}
     ]
   },
   {
@@ -52,14 +52,14 @@
     "ru": "«Хорошо»... - сказал Данило.",
     "id": 4,
     "parses": [
-      {"pos": 1, "text": "«", "type": "quotation", "fst": "voc"},
+      {"pos": 1, "text": "«", "type": "quotation", "fst": null},
       {"pos": 2, "text": "Үчүгэй", "type": "title", "fst": "voc", "root": "үчүгэй+Adj"},
-      {"pos": 3, "text": "»", "type": "quotation", "fst": "voc"},
-      {"pos": 4, "text": "...", "type": "ellipsis", "fst": "voc"},
-      {"pos": 5, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 3, "text": "»", "type": "quotation", "fst": null},
+      {"pos": 4, "text": "...", "type": "ellipsis", "fst": null},
+      {"pos": 5, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 6, "text": "диэтэ", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+PST.3SG"},
       {"pos": 7, "text": "Дайыыла", "type": "title", "fst": "aff", "root": "дайыыла+PN"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 8, "text": ".", "type": "period", "fst": null}
     ]
   }
 ]

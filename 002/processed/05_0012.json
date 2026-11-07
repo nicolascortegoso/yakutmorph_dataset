@@ -12,13 +12,13 @@
     "parses": [
       {"pos": 1, "text": "Куоттар", "type": "title", "fst": "voc", "root": "куот+V", "affixes": "+CONV_COND#1"},
       {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": null},
       {"pos": 4, "text": "хотуой", "type": "lowercase", "fst": "voc", "root": "хотуой+MOD"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": null},
       {"pos": 6, "text": "кулан", "type": "lowercase", "fst": "voc", "root": "кулан+Adj"},
       {"pos": 7, "text": "алдьархай", "type": "lowercase", "fst": "voc", "root": "алдьархай+N"},
       {"pos": 8, "text": "буолуоҕа", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_FUT+POSS.3SG"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 9, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -33,7 +33,7 @@
     "id": 5,
     "parses": [
       {"pos": 1, "text": "Икки", "type": "title", "fst": "voc", "root": "икки+Num"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 3, "text": "үс", "type": "lowercase", "fst": "voc", "root": "үс+Num"},
       {"pos": 4, "text": "таммаҕы", "type": "lowercase", "fst": "voc", "root": "таммах+N", "affixes": "+ACC"},
       {"pos": 5, "text": "ибиирдэргит", "type": "lowercase", "fst": "voc", "root": "ибиир+V", "affixes": "+CONV_COND#1+2PL"},
@@ -42,7 +42,7 @@
       {"pos": 8, "text": "бэйэбинэн", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.1SG.INST"},
       {"pos": 9, "text": "тура", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+CONV#2"},
       {"pos": 10, "text": "охсуоҕум", "type": "lowercase", "fst": "voc", "root": "оҕус+V", "affixes": "+PART_FUT+POSS.1SG"},
-      {"pos": 11, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 11, "text": ".", "type": "period", "fst": null}
     ]
   }
 ]

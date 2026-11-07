@@ -12,10 +12,10 @@
     "parses": [
       {"pos": 1, "text": "Үлэлиир", "type": "title", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
       {"pos": 2, "text": "аһыыр", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+PART_PRES"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": null},
       {"pos": 4, "text": "үлэлээбэт", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+NEG+PART_PRES"},
       {"pos": 5, "text": "аһаабат", "type": "lowercase", "fst": "voc", "root": "ас+N", "affixes": "+VRBLZ#3+NEG+PART_PRES"},
-      {"pos": 6, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 6, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -33,7 +33,7 @@
       {"pos": 2, "text": "үлэлиир", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+PART_PRES"},
       {"pos": 3, "text": "киһини", "type": "lowercase", "fst": "voc", "root": "киһи+N", "affixes": "+ACC"},
       {"pos": 4, "text": "бириэмийэлээччилэр", "type": "lowercase", "fst": "voc", "root": "бириэмийэ+N", "affixes": "+VRBLZ#1+HAB#1+PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 5, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -48,10 +48,10 @@
     "id": 3,
     "parses": [
       {"pos": 1, "text": "Табаарыстар", "type": "title", "fst": "voc", "root": "табаарыс+N", "affixes": "+PL"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": null},
       {"pos": 3, "text": "кэпсэтэргитин", "type": "lowercase", "fst": "voc", "root": "кэпсээ+V", "affixes": "+CAUS+PART_PRES+POSS.2PL.ACC"},
       {"pos": 4, "text": "тохтотуҥ", "type": "lowercase", "fst": "voc", "root": "тохтоо+V", "affixes": "+CSTV+IMP#1.2PL"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 5, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -72,7 +72,7 @@
       {"pos": 5, "text": "барарыттан", "type": "lowercase", "fst": "voc", "root": "бар+V", "affixes": "+PART_PRES+POSS.3SG.ABL"},
       {"pos": 6, "text": "сылааргыыр", "type": "lowercase", "fst": "voc", "root": "сылаа+N", "affixes": "+VRBLZ#7+PART_PRES"},
       {"pos": 7, "text": "буолара", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_PRES+POSS.3SG"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 8, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -90,7 +90,7 @@
       {"pos": 2, "text": "дьону", "type": "lowercase", "fst": "voc", "root": "дьон+N", "affixes": "+ACC"},
       {"pos": 3, "text": "хааларга", "type": "lowercase", "fst": "voc", "root": "хаал+V", "affixes": "+PART_PRES+DAT"},
       {"pos": 4, "text": "үлэлэтимэ", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+VRBLZ#1+CAUS+NEG"},
-      {"pos": 5, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 5, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -108,9 +108,9 @@
       {"pos": 2, "text": "хайдах", "type": "lowercase", "fst": "voc", "root": "хайдах+Pron"},
       {"pos": 3, "text": "сатыырынан", "type": "lowercase", "fst": "voc", "root": "сатаа+V", "affixes": "+PART_PRES+POSS.3SG.INST"},
       {"pos": 4, "text": "кэпсэтэр", "type": "lowercase", "fst": "voc", "root": "кэпсээ+V", "affixes": "+CAUS+PART_PRES"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": null},
       {"pos": 6, "text": "билсиһэр", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+RECP+RECP+PART_PRES"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 7, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -129,9 +129,9 @@
       {"pos": 3, "text": "олус", "type": "lowercase", "fst": "voc", "root": "олус+Adv"},
       {"pos": 4, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
       {"pos": 5, "text": "сылайбытым", "type": "lowercase", "fst": "voc", "root": "сылай+V", "affixes": "+PART_PAST+POSS.1SG"},
-      {"pos": 6, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 6, "text": ",", "type": "comma", "fst": null},
       {"pos": 7, "text": "быстыбытым", "type": "lowercase", "fst": "voc", "root": "быс+V", "affixes": "+REFL+PART_PAST+POSS.1SG"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 8, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -152,7 +152,7 @@
       {"pos": 5, "text": "кыһыл", "type": "lowercase", "fst": "voc", "root": "кыһыл+Adj"},
       {"pos": 6, "text": "партизан", "type": "lowercase", "fst": "voc", "root": "партизан+N"},
       {"pos": 7, "text": "этим", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.1SG"},
-      {"pos": 8, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 8, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -167,19 +167,19 @@
     "id": 9,
     "parses": [
       {"pos": 1, "text": "Күнү", "type": "title", "fst": "voc", "root": "күн+N", "affixes": "+ACC"},
-      {"pos": 2, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 2, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 3, "text": "дьылы", "type": "lowercase", "fst": "voc", "root": "дьыл+N", "affixes": "+ACC"},
       {"pos": 4, "text": "чинчийэр", "type": "lowercase", "fst": "voc", "root": "чинчий+V", "affixes": "+PART_PRES"},
       {"pos": 5, "text": "бюро", "type": "lowercase", "fst": "voc", "root": "бюро+N"},
       {"pos": 6, "text": "иһитиннэрэринэн", "type": "lowercase", "fst": "voc", "root": "иһит+V", "affixes": "+REFL+CAUS+PART_PRES+POSS.3SG.INST"},
-      {"pos": 7, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": null},
       {"pos": 8, "text": "атырдьах", "type": "lowercase", "fst": "voc", "root": "атырдьах+N"},
       {"pos": 9, "text": "ыйа", "type": "lowercase", "fst": "voc", "root": "ый+N", "affixes": "+POSS.3SG"},
       {"pos": 10, "text": "ардахтаах", "type": "lowercase", "fst": "voc", "root": "ардаа+V", "affixes": "+NMLZ#6+ADJZ#1"},
       {"pos": 11, "text": "буолуо", "type": "lowercase", "fst": "voc", "root": "буол+V", "affixes": "+PART_FUT"},
       {"pos": 12, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
       {"pos": 13, "text": "сабаҕаланар", "type": "lowercase", "fst": "voc", "root": "сабаҕа+N", "affixes": "+VRBLZ#1+REFL/PASS+PART_PRES"},
-      {"pos": 14, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 14, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -195,7 +195,7 @@
     "parses": [
       {"pos": 1, "text": "Киһи", "type": "title", "fst": "voc", "root": "киһи+N"},
       {"pos": 2, "text": "билэринэн", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+PART_PRES+POSS.3SG.INST"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": null},
       {"pos": 4, "text": "Наполеон", "type": "title", "fst": "aff", "root": "наполеон+PN"},
       {"pos": 5, "text": "Россия", "type": "title", "fst": "voc", "root": "россия+PN"},
       {"pos": 6, "text": "норуотун", "type": "lowercase", "fst": "voc", "root": "норуот+N", "affixes": "+POSS.3SG.ACC"},
@@ -203,10 +203,10 @@
       {"pos": 8, "text": "бэрт", "type": "lowercase", "fst": "voc", "root": "бэрт+Adj"},
       {"pos": 9, "text": "үгүс", "type": "lowercase", "fst": "voc", "root": "үгүс+Adj"},
       {"pos": 10, "text": "алдьатыыны", "type": "lowercase", "fst": "voc", "root": "алдьат+V", "affixes": "+NMLZ#2+ACC"},
-      {"pos": 11, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 11, "text": ",", "type": "comma", "fst": null},
       {"pos": 12, "text": "хоромньуну", "type": "lowercase", "fst": "voc", "root": "хоромньу+N", "affixes": "+ACC"},
       {"pos": 13, "text": "оҥорбута", "type": "lowercase", "fst": "voc", "root": "оҥор+V", "affixes": "+PART_PAST+POSS.3SG"},
-      {"pos": 14, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 14, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -222,7 +222,7 @@
     "parses": [
       {"pos": 1, "text": "Билээччилэр", "type": "title", "fst": "voc", "root": "бил+V", "affixes": "+HAB#1+PL"},
       {"pos": 2, "text": "сыаналыылларынан", "type": "lowercase", "fst": "voc", "root": "сыана+N", "affixes": "+VRBLZ#1+PART_PRES+PL+POSS.3SG.INST"},
-      {"pos": 3, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 3, "text": ",", "type": "comma", "fst": null},
       {"pos": 4, "text": "аан", "type": "lowercase", "fst": "voc", "root": "аан+N"},
       {"pos": 5, "text": "дойду", "type": "lowercase", "fst": "voc", "root": "дойду+N"},
       {"pos": 6, "text": "кини", "type": "lowercase", "fst": "voc", "root": "кини+Pron"},
@@ -231,7 +231,7 @@
       {"pos": 9, "text": "атаакаһыты", "type": "lowercase", "fst": "voc", "root": "атаака+N", "affixes": "+NMLZ#1+ACC"},
       {"pos": 10, "text": "билэ", "type": "lowercase", "fst": "voc", "root": "бил+V", "affixes": "+CONV#2"},
       {"pos": 11, "text": "илик", "type": "lowercase", "fst": "voc", "root": "илик+Part"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 12, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -253,7 +253,7 @@
       {"pos": 6, "text": "үлэтигэр", "type": "lowercase", "fst": "voc", "root": "үлэ+N", "affixes": "+POSS.3SG.DAT"},
       {"pos": 7, "text": "улаханнык", "type": "lowercase", "fst": "voc", "root": "улахан+Adj", "affixes": "+ADVZ#5"},
       {"pos": 8, "text": "маарынныыр", "type": "lowercase", "fst": "voc", "root": "маарыннаа+V", "affixes": "+PART_PRES"},
-      {"pos": 9, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 9, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -268,24 +268,24 @@
     "id": 13,
     "parses": [
       {"pos": 1, "text": "Кырдьыга", "type": "title", "fst": "voc", "root": "кырдьык+N", "affixes": "+POSS.3SG"},
-      {"pos": 2, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 2, "text": ",", "type": "comma", "fst": null},
       {"pos": 3, "text": "ити", "type": "lowercase", "fst": "voc", "root": "ити+Pron"},
       {"pos": 4, "text": "эн", "type": "lowercase", "fst": "voc", "root": "эн+Pron"},
       {"pos": 5, "text": "этэргэр", "type": "lowercase", "fst": "voc", "root": "эт+V", "affixes": "+PART_PRES+POSS.2SG.DAT"},
       {"pos": 6, "text": "дылы", "type": "lowercase", "fst": "voc", "root": "дылы+POST"},
-      {"pos": 7, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 7, "text": ",", "type": "comma", "fst": null},
       {"pos": 8, "text": "иккиэн", "type": "lowercase", "fst": "voc", "root": "икки+Num", "affixes": "+COLL+ADVZ#10"},
       {"pos": 9, "text": "даҕаны", "type": "lowercase", "fst": "voc", "root": "даҕаны+Part"},
       {"pos": 10, "text": "тугу", "type": "lowercase", "fst": "voc", "root": "туох+Pron", "affixes": "+ACC"},
       {"pos": 11, "text": "да", "type": "lowercase", "fst": "voc", "root": "да+Part"},
       {"pos": 12, "text": "оонньуулаах", "type": "lowercase", "fst": "voc", "root": "оонньуу+N", "affixes": "+ADJZ#1"},
       {"pos": 13, "text": "оҥорбот", "type": "lowercase", "fst": "voc", "root": "оҥор+V", "affixes": "+NEG+PART_PRES"},
-      {"pos": 14, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 14, "text": ",", "type": "comma", "fst": null},
       {"pos": 15, "text": "хоҥорууларыгар", "type": "lowercase", "fst": "voc", "root": "хоҥоруу+N", "affixes": "+PL+POSS.3SG.DAT"},
       {"pos": 16, "text": "холуйбат", "type": "lowercase", "fst": "voc", "root": "холуй+V", "affixes": "+NEG+PART_PRES"},
       {"pos": 17, "text": "дьон", "type": "lowercase", "fst": "voc", "root": "дьон+N"},
       {"pos": 18, "text": "этилэр", "type": "lowercase", "fst": "voc", "root": "э+V", "affixes": "+PST.3PL"},
-      {"pos": 19, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 19, "text": ".", "type": "period", "fst": null}
     ]
   }
 ]

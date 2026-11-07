@@ -17,11 +17,11 @@
       {"pos": 5, "text": "оҕо", "type": "lowercase", "fst": "voc", "root": "оҕо+N"},
       {"pos": 6, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
       {"pos": 7, "text": "алаар", "type": "lowercase", "fst": "voc", "root": "ыал+N", "affixes": "+VRBLZ#3+IMP#2.2SG"},
-      {"pos": 8, "text": "-", "type": "hyphen", "fst": "voc"},
+      {"pos": 8, "text": "-", "type": "hyphen", "fst": null},
       {"pos": 9, "text": "малаар", "type": "lowercase", "fst": "voc", "root": "мал+N", "affixes": "+VRBLZ#3+IMP#2.2SG"},
       {"pos": 10, "text": "көрө", "type": "lowercase", "fst": "voc", "root": "көр+V", "affixes": "+CONV#2"},
       {"pos": 11, "text": "турда", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PST.3SG"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 12, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -37,7 +37,7 @@
     "parses": [
       {"pos": 1, "text": "Ыппытынан", "type": "title", "fst": "voc", "root": "ыт+V", "affixes": "+PART_PAST+INST"},
       {"pos": 2, "text": "ох", "type": "lowercase", "fst": "voc", "root": "ох+N"},
-      {"pos": 3, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 3, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -54,7 +54,7 @@
       {"pos": 1, "text": "Кырыллыбытынан", "type": "title", "fst": "voc", "root": "кырый+V", "affixes": "+PASS+PART_PAST+INST"},
       {"pos": 2, "text": "хаарты", "type": "lowercase", "fst": "voc", "root": "хаарты+N"},
       {"pos": 3, "text": "курдук", "type": "lowercase", "fst": "voc", "root": "курдук+POST"},
-      {"pos": 4, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 4, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -68,18 +68,18 @@
     "ru": "Одинокая деревянная юрта с закрытой дверью, с зажженным очагом.",
     "id": 6,
     "parses": [
-      {"pos": 1, "text": "...", "type": "ellipsis", "fst": "voc"},
+      {"pos": 1, "text": "...", "type": "ellipsis", "fst": null},
       {"pos": 2, "text": "сабыллыбытынан", "type": "lowercase", "fst": "voc", "root": "сабый+V", "affixes": "+PASS+PART_PAST+INST"},
       {"pos": 3, "text": "турар", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES"},
       {"pos": 4, "text": "ааннаах", "type": "lowercase", "fst": "voc", "root": "аан+N", "affixes": "+ADJZ#1"},
-      {"pos": 5, "text": ",", "type": "comma", "fst": "voc"},
+      {"pos": 5, "text": ",", "type": "comma", "fst": null},
       {"pos": 6, "text": "оттуллубутунан", "type": "lowercase", "fst": "voc", "root": "отун+V", "affixes": "+PASS+PART_PAST+INST"},
       {"pos": 7, "text": "турар", "type": "lowercase", "fst": "voc", "root": "тур+V", "affixes": "+PART_PRES"},
       {"pos": 8, "text": "уоттаах", "type": "lowercase", "fst": "voc", "root": "уот+N", "affixes": "+ADJZ#1"},
       {"pos": 9, "text": "туруорбах", "type": "lowercase", "fst": "aff", "root": "туруорбах+N"},
       {"pos": 10, "text": "мас", "type": "lowercase", "fst": "voc", "root": "мас+N"},
       {"pos": 11, "text": "балаҕан", "type": "lowercase", "fst": "voc", "root": "балаҕан+N"},
-      {"pos": 12, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 12, "text": ".", "type": "period", "fst": null}
     ]
   },
   {
@@ -99,7 +99,7 @@
       {"pos": 4, "text": "сүгэн", "type": "lowercase", "fst": "voc", "root": "сүк+V", "affixes": "+CONV#1"},
       {"pos": 5, "text": "дьиэбитигэр", "type": "lowercase", "fst": "voc", "root": "дьиэ+N", "affixes": "+POSS.1PL.DAT"},
       {"pos": 6, "text": "кэллибит", "type": "lowercase", "fst": "voc", "root": "кэл+V", "affixes": "+PST.1PL"},
-      {"pos": 7, "text": ".", "type": "period", "fst": "voc"}
+      {"pos": 7, "text": ".", "type": "period", "fst": null}
     ]
   }
 ]

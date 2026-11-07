@@ -2,9 +2,9 @@
 
 This dataset contains sentences, clauses, and multi-word expressions compiled from established descriptive studies of Yakut and standardized under a unified machine-readable annotation schema.
 
-**Total annotated contructions**: 17500
+**Total annotated contructions**: 17799
 
-**Last update**: 2026-11-06
+**Last update**: 2026-11-07
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 
@@ -106,8 +106,8 @@ This design ensures structured metadata alignment while maintaining compatibilit
 
 These sections provide structured summaries of the dataset’s internal composition, organized by grammatical chapters and topics. They function as metadata indices reflecting the thematic distribution of annotated constructions.
 
-- [Annotated data by chapter (in Russian)](docs/annotated_chapters.md)
-- [Annotated data by topic (in Russian)](docs/annotated_topics.md)
+- [Annotated data by chapter](docs/annotated_chapters.md)
+- [Annotated data by topic](docs/annotated_topics.md)
 
 ------------------------------------------------------------------------
 

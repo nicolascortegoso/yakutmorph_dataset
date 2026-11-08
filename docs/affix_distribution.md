@@ -2,14 +2,14 @@
 
 [To main README](../README.md)
 
-Total affixes: 81470
+Total affixes: 81472
 
 Total unique affixes: 190
 
 | affix | frequency |
 |:---|:---|
 | PART_PRES | 6824 |
-| POSS.3SG | 5294 |
+| POSS.3SG | 5295 |
 | CONV#1 | 5114 |
 | PL | 4188 |
 | PART_PAST | 3995 |
@@ -28,7 +28,7 @@ Total unique affixes: 190
 | CONV_COND#2 | 1286 |
 | CSTV | 1047 |
 | ABL | 1020 |
-| 1SG | 925 |
+| 1SG | 926 |
 | REFL/PASS | 882 |
 | INST | 852 |
 | CAUS | 824 |

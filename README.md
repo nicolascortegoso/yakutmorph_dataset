@@ -4,7 +4,7 @@ This dataset contains sentences, clauses, and multi-word expressions compiled fr
 
 **Total annotated contructions**: 19086
 
-**Last update**: 2026-11-07
+**Last update**: 2026-11-08
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 

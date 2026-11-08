@@ -121,6 +121,39 @@ These sections present corpus-level frequency statistics derived from the annota
 
 These statistics support quantitative morphological analysis and computational modeling. The same frequency data are also provided in machine-readable JSON format in the [reports](reports/) folder.
 
+## Copyright and Quoted Material / Авторские права и цитируемые материалы
+
+**English.** The annotation in this dataset (tokenization, morphological
+analyses, structure, IDs) and the code are the work of Nicolas Cortegoso
+Vissio and are released under the Apache License 2.0 (see [LICENSE](LICENSE)).
+The Yakut example sentences, their translations and the explanatory
+passages in the `notes` field are quoted from the published works named
+in each file's `source` field. They remain the property of their authors
+and publishers, are not covered by the licence above, and are included,
+with attribution, solely for non-commercial scholarly purposes: to
+document the analysis of each example in the context of the work it
+comes from. The sentences in folder `102` come from the UD_Yakut-YKTDT
+treebank and are distributed under its own licence, CC BY-SA 4.0.
+
+If you hold rights to any quoted material and object to its inclusion,
+please write to **[nicolascortegoso@hotmail.com](mailto:nicolascortegoso@hotmail.com)**. It will be removed promptly.
+
+**Русский.** Разметка в этом наборе данных (токенизация, морфологический
+анализ, структура, идентификаторы) и программный код — работа Николаса
+Кортегосо Виссио; они распространяются на условиях лицензии Apache 2.0
+(см. [LICENSE](LICENSE)). Якутские примеры, их переводы и пояснительные
+фрагменты в поле `notes` цитируются по опубликованным работам, указанным
+в поле `source` каждого файла. Права на них принадлежат их авторам и
+издателям; на них не распространяется указанная лицензия. Они приводятся
+со ссылкой на источник исключительно в некоммерческих научных целях —
+чтобы показать анализ каждого примера в контексте работы, из которой он
+взят. Предложения в папке `102` взяты из трибанка UD_Yakut-YKTDT и
+распространяются на условиях его собственной лицензии CC BY-SA 4.0.
+
+Если вы являетесь правообладателем цитируемых материалов и возражаете
+против их использования, пожалуйста, напишите по адресу **[nicolascortegoso@hotmail.com](mailto:nicolascortegoso@hotmail.com)**:
+материалы будут незамедлительно удалены.
+
 ## In Memoriam
 
 This project was developed in collaboration with **Victor Pavlovich Zakharov**

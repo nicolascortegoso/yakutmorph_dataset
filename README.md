@@ -2,7 +2,7 @@
 
 This dataset contains sentences, clauses, and multi-word expressions compiled from established descriptive studies of Yakut and standardized under a unified machine-readable annotation schema.
 
-**Total annotated contructions**: 19086
+**Total annotated contructions**: 17799
 
 **Last update**: 2026-11-08
 

@@ -885,5 +885,4 @@
 | 024 | Reciprocal formation | 60 |
 | 024 | Productive suffixes | 76 |
 | 024 | Unergative verbal roots and unergative verbs as √-suffix combinations | 414 |
-| 101 | Литература | 280 |
 | 102 | General | 7 |

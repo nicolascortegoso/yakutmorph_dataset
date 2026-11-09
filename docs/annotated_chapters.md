@@ -98,4 +98,5 @@
 | 024 | Causatives and unaccusatives | 122 |
 | 024 | Decomposing accusative case | 239 |
 | 024 | Denominal verbs | 152 |
+| 025 | Атрибутивная функция причастных форм якутского языка | 42 |
 | 102 | sah_yktdt-ud-test.conllu | 299 |

@@ -2,9 +2,9 @@
 
 This dataset contains sentences, clauses, and multi-word expressions compiled from established descriptive studies of Yakut and standardized under a unified machine-readable annotation schema.
 
-**Total annotated contructions**: 17799
+**Total annotated contructions**: 17839
 
-**Last update**: 2026-11-08
+**Last update**: 2026-11-09
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 
@@ -40,10 +40,11 @@ The `source` folder contains JSON files with structured metadata and textual dat
 - `section`: Section identifier.
 - `chapter`: Broad morphological domain.
 - `topic`: Specific morphological phenomenon.
+- `reference`: Source cited by the author for the original Yakut sentence (optional).
 - `notes`: Author-provided commentary relevant to the example.
 - `sah`: Original Yakut sentence.
 - `ru` or `en`: Russian (English) gloss or translation.
-- `incorrect`: When present, it flags that the author considered the sequence ungrammatical or incorrect.
+- `incorrect`: When present, it flags that the author considered the sequence ungrammatical or incorrect (optional).
 
 Each file typically groups examples illustrating a specific topic within a chapter. At this stage, no automatic morphological analysis has been applied.
 

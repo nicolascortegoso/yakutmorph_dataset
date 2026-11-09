@@ -885,4 +885,5 @@
 | 024 | Reciprocal formation | 60 |
 | 024 | Productive suffixes | 76 |
 | 024 | Unergative verbal roots and unergative verbs as √-suffix combinations | 414 |
+| 025 | Атрибутивная функция причастных форм якутского языка | 52 |
 | 102 | General | 7 |

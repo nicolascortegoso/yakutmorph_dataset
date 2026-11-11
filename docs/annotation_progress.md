@@ -26,5 +26,6 @@
 | 023 | The substantive function of participles | 23 | 22 | 95.65% | Попова, Н.И. Субстантивная функция причастий в якутском языке / Н. И. Попова // Якутский язык: история и актуальные вопросы : сборник научных трудов. — Якутск : Издательство СО АН СССР, Якутский филиал, 1986. — С. 116-122. |
 | 024 | Lexical categories and argument structure | 1016 | 981 | 96.56% | Vinokurova N. Lexical Categories and Argument Structure: A Study with Reference to Sakha. Utrecht, 2005. (LOT Dissertation Series, no. 103). |
 | 025 | Attributive form participles | 42 | 40 | 95.24% | Попова, Н. И. Атрибутивная функция причастных форм якутского языка / Н. И. Попова ; Институт гуманитарных исследований и проблем малочисленных народов Севера СО РАН // Исследования по грамматике якутского языка : cборник научных трудов. – Якутск : ЯФ СО АН СССР, 1983. – С. 104-109. |
+| 026 | Type of questions | 260 | 223 | 85.77% | Алексеев, И. Е. О видах вопроса в якутском языке // Якутский язык: история и актуальные вопросы : сб. науч. тр. / Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории ; редкол.: С. А. Иванов (отв. ред.) [и др.]. — Якутск : ЯФ СО АН СССР, 1986. — С. 35–52. — 141 с. |
 | 102 | Dataset from Universal Dependencies | 299 | 299 | 100.00% | Merzhevich, Tatiana; Gerardi, Fabrício Ferraz (2021). UD_Yakut-YKTDT, Universal Dependencies treebank. CC BY-SA 4.0. https://github.com/UniversalDependencies/UD_Yakut-YKTDT (commit 05dd5ff, 2023-04-30). |
-|  | TOTAL | 21342 | 17839 | 83.59% |  |
+|  | TOTAL | 21602 | 18062 | 83.61% |  |

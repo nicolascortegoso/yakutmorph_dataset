@@ -137,6 +137,52 @@
     ]
   },
   {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 99,
+      "chapter": "Возвратные глаголы",
+      "topic": "Употребление возвратных глаголов",
+      "section": 191,
+      "notes": "Формы прошедшего категорического. Например: *ыйыт-*, *ыйытын*; *толкуйдаа-*, *толкуйдан*.",
+      "sah": "Дьэ аны тугу гынабын? — диэн бэйэтиттэн ыйытынна, толкуйданна.",
+      "ru": "А теперь что мне делать? — мысленно спросил он себя, призадумался.",
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Дьэ", "type": "title", "fst": "voc", "root": "дьэ+MOD"},
+         {"pos": 2, "text": "аны", "type": "lowercase", "fst": "voc", "root": "аны+Adv"},
+         {"pos": 3, "text": "тугу", "type": "lowercase", "fst": "voc", "root": "туох+Pron", "affixes": "+ACC"},
+         {"pos": 4, "text": "гынабын", "type": "lowercase", "fst": "voc", "root": "гын+V", "affixes": "+PART_PRES+1SG"},
+         {"pos": 5, "text": "?", "type": "question", "fst": null},
+         {"pos": 6, "text": "—", "type": "dash", "fst": null},
+         {"pos": 7, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 8, "text": "бэйэтиттэн", "type": "lowercase", "fst": "voc", "root": "бэйэ+Pron", "affixes": "+POSS.3SG.ABL"},
+         {"pos": 9, "text": "ыйытынна", "type": "lowercase", "fst": "voc", "root": "ыйыт+V", "affixes": "+REFL+PST.3SG"},
+         {"pos": 10, "text": ",", "type": "comma", "fst": null},
+         {"pos": 11, "text": "толкуйданна", "type": "lowercase", "fst": "voc", "root": "толкуй+N", "affixes": "+VRBLZ#1+REFL/PASS+PST.3SG"},
+         {"pos": 12, "text": ".", "type": "period", "fst": null}
+      ]
+  },
+  {
+      "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
+      "page": 99,
+      "chapter": "Возвратные глаголы",
+      "topic": "Употребление возвратных глаголов",
+      "section": 191,
+      "notes": "Формы прошедшего категорического. Например: *көр-*, *көһун*, *көһүннэ*.",
+      "sah": "Аттаахтар хаһытыы-хаһытыы сүүрдэн иһэллэрэ көһүннэ.",
+      "ru": "Показались всадники, мчавшиеся с криками?",
+      "id": 9,
+      "parses": [
+         {"pos": 1, "text": "Аттаахтар", "type": "title", "fst": "voc", "root": "ат+N", "affixes": "+ADJZ#1+PL"},
+         {"pos": 2, "text": "хаһытыы", "type": "lowercase", "fst": "voc", "compound": true, "root": "хаһыы+N", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+         {"pos": 3, "text": "-", "type": "hyphen", "fst": null},
+         {"pos": 4, "text": "хаһытыы", "type": "lowercase", "fst": "voc", "compound": true, "root": "хаһыы+N", "affixes": "+VRBLZ#2+CSTV+CONV#2"},
+         {"pos": 5, "text": "сүүрдэн", "type": "lowercase", "fst": "voc", "root": "сүүр+V", "affixes": "+CSTV+CONV#1"},
+         {"pos": 6, "text": "иһэллэрэ", "type": "lowercase", "fst": "voc", "root": "ис+V", "affixes": "+PART_PRES+PL+POSS.3SG"},
+         {"pos": 7, "text": "көһүннэ", "type": "lowercase", "fst": "voc", "root": "көһүн+V", "affixes": "+PST.3SG"},
+         {"pos": 8, "text": ".", "type": "period", "fst": null}
+      ]
+  },
+  {
     "source": "Харитонов, Лука Никифорович. Залоговые формы глагола в якутском языке / Л. Н. Харитонов; Акад. наук СССР, Якут. фил. Сиб. отд-ния, Ин-т яз., лит. и истории. — Москва; Ленинград: Изд-во АН СССР, 1963. — 123 с.",
     "page": 100,
     "chapter": "Возвратные глаголы",

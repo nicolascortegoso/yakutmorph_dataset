@@ -888,4 +888,13 @@
 | 025 | Атрибутивная функция причастных форм якутского языка | 52 |
 | 026 | Нейтральные вопросительные предложения | 38 |
 | 026 | Презумптивные вопросительные предложения | 40 |
+| 031 | Voice suffixes | 14 |
+| 031 | Reflexive suffix | 16 |
+| 031 | Reciprocal-cooperative suffix | 29 |
+| 031 | Causative from an intransitive | 30 |
+| 031 | Causative from a transitive | 27 |
+| 031 | Case-marking patterns and semantics | 35 |
+| 031 | Sakha passive | 13 |
+| 031 | Impersonal passive from a transitive | 36 |
+| 031 | Impersonal passive from an intransitive | 39 |
 | 102 | General | 7 |

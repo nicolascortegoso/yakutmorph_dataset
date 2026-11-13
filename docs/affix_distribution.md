@@ -2,12 +2,17 @@
 
 [To main README](../README.md)
 
+<<<<<<< HEAD
 Total affixes: 74856
+=======
+Total affixes: 74894
+>>>>>>> 26-11
 
 Total unique affixes: 189
 
 | affix | frequency |
 |:---|:---|
+<<<<<<< HEAD
 | PART_PRES | 6257 |
 | POSS.3SG | 4815 |
 | CONV#1 | 4774 |
@@ -34,25 +39,67 @@ Total unique affixes: 189
 | INST | 781 |
 | NMLZ#2 | 709 |
 | PASS | 656 |
+=======
+| PART_PRES | 6262 |
+| POSS.3SG | 4816 |
+| CONV#1 | 4776 |
+| PL | 3792 |
+| PART_PAST | 3413 |
+| DAT | 3376 |
+| ACC | 3184 |
+| CONV#2 | 2822 |
+| PART_FUT | 2639 |
+| PST.3SG | 2578 |
+| POSS.3SG.ACC | 2274 |
+| VRBLZ#1 | 2267 |
+| NEG | 1964 |
+| ADJZ#1 | 1716 |
+| POSS.1SG | 1452 |
+| RECP | 1398 |
+| CONV_COND#2 | 1181 |
+| POSS.3SG.DAT | 1154 |
+| CSTV | 969 |
+| ABL | 911 |
+| REFL/PASS | 818 |
+| CAUS | 809 |
+| 1SG | 797 |
+| INST | 781 |
+| NMLZ#2 | 709 |
+| PASS | 659 |
+>>>>>>> 26-11
 | INT | 645 |
 | 2SG | 617 |
 | POSS.3SG.INST | 591 |
 | POSS.2SG | 571 |
+<<<<<<< HEAD
 | PST.3PL | 566 |
 | PST.1SG | 561 |
 | ADVZ#5 | 548 |
+=======
+| PST.3PL | 569 |
+| PST.1SG | 561 |
+| ADVZ#5 | 549 |
+>>>>>>> 26-11
 | POSS.1PL | 519 |
 | VRBLZ#4 | 448 |
 | 1PL | 368 |
 | POSS.3SG.ABL | 351 |
 | VRBLZ#3 | 350 |
 | ADJZ#16 | 340 |
+<<<<<<< HEAD
 | REFL | 338 |
+=======
+| REFL | 339 |
+>>>>>>> 26-11
 | CONV_COND#1 | 336 |
 | LOC | 333 |
 | POSS.1SG.ACC | 319 |
 | NMLZ#5 | 303 |
+<<<<<<< HEAD
 | CONV#5 | 284 |
+=======
+| CONV#5 | 285 |
+>>>>>>> 26-11
 | NMLZ#1 | 283 |
 | NMLZ#6 | 282 |
 | VRBLZ#2 | 270 |
@@ -60,7 +107,11 @@ Total unique affixes: 189
 | HAB#1 | 249 |
 | DEF | 248 |
 | ADVZ#1 | 234 |
+<<<<<<< HEAD
 | ADVZ#8 | 224 |
+=======
+| ADVZ#8 | 225 |
+>>>>>>> 26-11
 | IMP#1.2PL | 222 |
 | DEB | 219 |
 | ADJZ#4 | 215 |
@@ -73,7 +124,11 @@ Total unique affixes: 189
 | PRTV | 158 |
 | POSS.2PL | 157 |
 | 2PL | 151 |
+<<<<<<< HEAD
 | COMIT | 133 |
+=======
+| COMIT | 134 |
+>>>>>>> 26-11
 | IMP#1.3SG | 133 |
 | ORD | 130 |
 | COLL | 118 |
@@ -81,21 +136,33 @@ Total unique affixes: 189
 | ADJZ#6 | 110 |
 | CONV#3 | 105 |
 | POSS.1PL.ACC | 100 |
+<<<<<<< HEAD
 | NMLZ#9 | 98 |
+=======
+| NMLZ#9 | 99 |
+>>>>>>> 26-11
 | ADVZ#2 | 98 |
 | ADJZ#14 | 96 |
 | POT | 93 |
 | CONV#6 | 89 |
 | ADVZ#4 | 84 |
 | ITER#1 | 81 |
-| CONV#4 | 81 |
+| CONV#4 | 80 |
 | POSS.2SG.DAT | 80 |
 | COMP | 77 |
+<<<<<<< HEAD
 | VRBLZ#7 | 76 |
 | ACCE#1 | 75 |
 | DISTR | 73 |
 | COLL#1 | 72 |
 | POSS.1SG.PRTV | 72 |
+=======
+| ACCE#1 | 76 |
+| VRBLZ#7 | 76 |
+| POSS.1SG.PRTV | 73 |
+| DISTR | 73 |
+| COLL#1 | 72 |
+>>>>>>> 26-11
 | APPR#1 | 72 |
 | IMP#2.2SG | 71 |
 | DIM | 70 |
@@ -138,8 +205,12 @@ Total unique affixes: 189
 | ADVZ#9 | 25 |
 | INT#1 | 25 |
 | POSS.3PL.INST | 25 |
+<<<<<<< HEAD
 | DIM#1 | 23 |
+=======
+>>>>>>> 26-11
 | POSS.3PL.ABL | 22 |
+| DIM#1 | 22 |
 | AUG#1 | 22 |
 | POSS.2PL.DAT | 20 |
 | ADJZ#9 | 20 |

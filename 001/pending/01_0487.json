@@ -10,13 +10,13 @@
       "ru": "Учитель рассадил и успокоил ребят.",
       "id": 2,
       "parses": [
-         {"pos": 1, "text": "Учуутал", "type": "title", "fst": "ymv", "root": "учуутал+N"},
-         {"pos": 2, "text": "оҕолору", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+ADVZ#7"},
-         {"pos": 2, "text": "оҕолору", "type": "lowercase", "fst": "ymv", "root": "оҕо+N", "affixes": "+PL+ACC"},
-         {"pos": 3, "text": "олордуталаан", "type": "lowercase", "fst": "ymv", "root": "олор+V", "affixes": "+CSTV+ITER#1+CONV#1"},
-         {"pos": 4, "text": "чуумпурта", "type": "lowercase", "fst": "yma", "root": "чуумпурта+Adv"},
-         {"pos": 4, "text": "чуумпурта", "type": "lowercase", "fst": "yma", "root": "чуумпурта+N"},
-         {"pos": 5, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Учуутал", "type": "title", "fst": "voc", "root": "учуутал+N"},
+         {"pos": 2, "text": "оҕолору", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+ADVZ#7"},
+         {"pos": 2, "text": "оҕолору", "type": "lowercase", "fst": "voc", "root": "оҕо+N", "affixes": "+PL+ACC"},
+         {"pos": 3, "text": "олордуталаан", "type": "lowercase", "fst": "voc", "root": "олор+V", "affixes": "+CSTV+ITER#1+CONV#1"},
+         {"pos": 4, "text": "чуумпурта", "type": "lowercase", "fst": "syl", "root": "чуумпурта+Adv"},
+         {"pos": 4, "text": "чуумпурта", "type": "lowercase", "fst": "syl", "root": "чуумпурта+N"},
+         {"pos": 5, "text": ".", "type": "period", "fst": null}
       ]
    },
    {
@@ -30,16 +30,19 @@
       "ru": "Говоря что-то потешное, Дмитрий заставляет людей смеяться.",
       "id": 4,
       "parses": [
-         {"pos": 1, "text": "Туох", "type": "title", "fst": "ymv", "root": "туох+Pron"},
-         {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "ymv", "root": "эрэ+Part"},
-         {"pos": 3, "text": "көрүдьүөһү", "type": "lowercase", "fst": "ymv", "root": "көрүдьүөс+N", "affixes": "+ACC"},
-         {"pos": 4, "text": "саҥаран", "type": "lowercase", "fst": "ymv", "root": "саҥа+Adj", "affixes": "+VRBLZ#4+CONV#1"},
-         {"pos": 4, "text": "саҥаран", "type": "lowercase", "fst": "ymv", "root": "саҥа+N", "affixes": "+VRBLZ#4+CONV#1"},
-         {"pos": 5, "text": ",", "type": "comma", "fst": "ymv"},
-         {"pos": 6, "text": "Миитэрэй", "type": "title", "fst": "ymv", "root": "миитэрэй+N"},
-         {"pos": 7, "text": "дьону", "type": "lowercase", "fst": "ymv", "root": "дьон+N", "affixes": "+ACC"},
-         {"pos": 8, "text": "күллэртиир", "type": "lowercase", "fst": "yma", "root": "күллэртээ+V", "affixes": "+PART_PRES"},
-         {"pos": 9, "text": ".", "type": "period", "fst": "ymv"}
+         {"pos": 1, "text": "Туох", "type": "title", "fst": "voc", "root": "туох+Pron"},
+         {"pos": 1, "text": "Туох", "type": "title", "fst": "voc", "root": "туой+V", "affixes": "+NMLZ#6"},
+         {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эрэ+Part"},
+         {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эр+N", "affixes": "+POSS.3SG"},
+         {"pos": 2, "text": "эрэ", "type": "lowercase", "fst": "voc", "root": "эр+V", "affixes": "+CONV#2"},
+         {"pos": 3, "text": "көрүдьүөһү", "type": "lowercase", "fst": "voc", "root": "көрүдьүөс+N", "affixes": "+ACC"},
+         {"pos": 4, "text": "саҥаран", "type": "lowercase", "fst": "voc", "root": "саҥа+Adj", "affixes": "+VRBLZ#4+CONV#1"},
+         {"pos": 4, "text": "саҥаран", "type": "lowercase", "fst": "voc", "root": "саҥа+N", "affixes": "+VRBLZ#4+CONV#1"},
+         {"pos": 5, "text": ",", "type": "comma", "fst": null},
+         {"pos": 6, "text": "Миитэрэй", "type": "title", "fst": "voc", "root": "миитэрэй+N"},
+         {"pos": 7, "text": "дьону", "type": "lowercase", "fst": "voc", "root": "дьон+N", "affixes": "+ACC"},
+         {"pos": 8, "text": "күллэртиир", "type": "lowercase", "fst": "syl", "root": "күллэртээ+V", "affixes": "+PART_PRES"},
+         {"pos": 9, "text": ".", "type": "period", "fst": null}
       ]
    }
 ]

@@ -99,4 +99,8 @@
 | 024 | Decomposing accusative case | 239 |
 | 024 | Denominal verbs | 152 |
 | 025 | Атрибутивная функция причастных форм якутского языка | 42 |
+| 026 | О видах вопроса в якутском языке | 260 |
+| 031 | Voice suffixes | 6 |
+| 031 | Sakha causative | 21 |
+| 031 | Sakha passive | 12 |
 | 102 | sah_yktdt-ud-test.conllu | 299 |

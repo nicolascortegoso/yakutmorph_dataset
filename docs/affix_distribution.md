@@ -2,7 +2,7 @@
 
 [To main README](../README.md)
 
-Total affixes: 74903
+Total affixes: 74907
 
 Total unique affixes: 189
 
@@ -11,9 +11,9 @@ Total unique affixes: 189
 | PART_PRES | 6263 |
 | POSS.3SG | 4817 |
 | CONV#1 | 4776 |
-| PL | 3793 |
+| PL | 3794 |
 | PART_PAST | 3413 |
-| DAT | 3377 |
+| DAT | 3378 |
 | ACC | 3184 |
 | CONV#2 | 2822 |
 | PART_FUT | 2639 |
@@ -38,7 +38,7 @@ Total unique affixes: 189
 | 2SG | 617 |
 | POSS.3SG.INST | 591 |
 | POSS.2SG | 571 |
-| PST.3PL | 569 |
+| PST.3PL | 570 |
 | PST.1SG | 562 |
 | ADVZ#5 | 549 |
 | POSS.1PL | 519 |
@@ -120,7 +120,7 @@ Total unique affixes: 189
 | POSS.2PL.ACC | 46 |
 | NMLZ#8 | 45 |
 | FREC#7 | 45 |
-| SUDD#2 | 43 |
+| SUDD#2 | 44 |
 | FREC#1 | 42 |
 | FREC#4 | 40 |
 | DIM#2 | 37 |

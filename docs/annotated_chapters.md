@@ -103,4 +103,10 @@
 | 031 | Voice suffixes | 6 |
 | 031 | Sakha causative | 21 |
 | 031 | Sakha passive | 12 |
+| 032 | The Double Duty of the Sakha “Passive” | 1 |
+| 032 | Distribution of the passive morpheme | 18 |
+| 032 | Distribution of the impersonal morpheme | 21 |
+| 032 | Morphosyntactic structure | 4 |
+| 032 | Diachrony | 5 |
+| 033 | Модель каузации начала существования | 31 |
 | 102 | sah_yktdt-ud-test.conllu | 299 |

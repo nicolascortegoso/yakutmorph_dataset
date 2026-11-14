@@ -28,5 +28,7 @@
 | 025 | Attributive form participles | 42 | 40 | 95.24% | Попова, Н. И. Атрибутивная функция причастных форм якутского языка / Н. И. Попова ; Институт гуманитарных исследований и проблем малочисленных народов Севера СО РАН // Исследования по грамматике якутского языка : cборник научных трудов. – Якутск : ЯФ СО АН СССР, 1983. – С. 104-109. |
 | 026 | Type of questions | 260 | 225 | 86.54% | Алексеев, И. Е. О видах вопроса в якутском языке // Якутский язык: история и актуальные вопросы : сб. науч. тр. / Акад. наук СССР, Сиб. отд-ние, Якут. фил., Ин-т яз., лит. и истории ; редкол.: С. А. Иванов (отв. ред.) [и др.]. — Якутск : ЯФ СО АН СССР, 1986. — С. 35–52. — 141 с. |
 | 031 | Causative and passive | 39 | 39 | 100.00% | Fuyuki Ebata. Causative and passive in Sakha: Focusing on double-accusative causative and impersonal passive. Томский журнал ЛИНГ и АНТР . Tomsk Journal LING & ANTHRO. 2013. 2 (2). |
+| 032 | Passive voice | 49 | 38 | 77.55% | Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154. |
+| 033 | Existential constructions | 31 | 31 | 100.00% | Сивцева Н.А. (2024). Бытийные конструкции в якутском языке: модель каузации начала существования, Филология: научные исследования №1, DOI 10.7256/2454-0749.2024.1.69520. |
 | 102 | Dataset from Universal Dependencies | 299 | 299 | 100.00% | Merzhevich, Tatiana; Gerardi, Fabrício Ferraz (2021). UD_Yakut-YKTDT, Universal Dependencies treebank. CC BY-SA 4.0. https://github.com/UniversalDependencies/UD_Yakut-YKTDT (commit 05dd5ff, 2023-04-30). |
-|  | TOTAL | 21641 | 18156 | 83.90% |  |
+|  | TOTAL | 21721 | 18225 | 83.90% |  |

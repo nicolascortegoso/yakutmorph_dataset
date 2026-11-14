@@ -897,4 +897,19 @@
 | 031 | Sakha passive | 13 |
 | 031 | Impersonal passive from a transitive | 36 |
 | 031 | Impersonal passive from an intransitive | 39 |
+| 032 | The Double Duty of the Sakha “Passive” | 38 |
+| 032 | On its allomorphy | 17 |
+| 032 | On its morphosyntactic distribution | 35 |
+| 032 | Impersonals in Sakha. Accusative retention and 3SG agreement | 60 |
+| 032 | Impersonals in Sakha. Intransitivity | 36 |
+| 032 | Impersonals in Sakha. Human agent | 33 |
+| 032 | Impersonals in Sakha. Agent adverbs | 35 |
+| 032 | Impersonals in Sakha. Exceptional case marking | 46 |
+| 032 | Impersonals in Sakha. Control | 29 |
+| 032 | Morphosyntactic structure | 25 |
+| 032 | Motivating ImpersP | 18 |
+| 032 | Development in Sakha | 20 |
+| 032 | Phonology | 18 |
+| 033 | Структурные типы синтаксической модели начала существования, события, действия | 78 |
+| 033 | Глагол в синтаксической модели начала существования | 51 |
 | 102 | General | 7 |

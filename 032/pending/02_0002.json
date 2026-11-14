@@ -1,0 +1,58 @@
+[
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 143,
+      "chapter": "Distribution of the passive morpheme",
+      "topic": "On its morphosyntactic distribution",
+      "section": "2.2. 12b",
+      "reference": "",
+      "notes": "Ebata suggests that only inanimate elements may be re-introduced as instrumentals.",
+      "sah": "Ойуурга уол маһынан тарбаныллыбыт.",
+      "en": "In the forest, the boy was scratched using wood.",
+      "tags": "forest-LOC boy tree-INS scratch-PASS-R.PST.3SG",
+      "id": 7,
+      "parses": [
+         {"pos": 1, "text": "Ойуурга", "type": "title", "fst": "voc", "root": "ойуур+N", "affixes": "+DAT"},
+         {"pos": 1, "text": "Ойуурга", "type": "title", "fst": "voc", "root": "ой+N", "affixes": "+VRBLZ#3+PART_PRES+DAT"},
+         {"pos": 2, "text": "уол", "type": "lowercase", "fst": "voc", "root": "уол+N"},
+         {"pos": 2, "text": "уол", "type": "lowercase", "fst": "voc", "root": "уол+V"},
+         {"pos": 3, "text": "маһынан", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+INST"},
+         {"pos": 3, "text": "маһынан", "type": "lowercase", "fst": "voc", "root": "мас+N", "affixes": "+POSS.3SG.INST"},
+         {"pos": 4, "text": "тарбаныллыбыт", "type": "lowercase", "fst": "syl", "root": "тарбаа+V", "affixes": "+REFL/PASS+PASS+PART_PAST"},
+         {"pos": 4, "text": "тарбаныллыбыт", "type": "lowercase", "fst": "syl", "root": "тарбаныллы+Adj", "affixes": "+1PL"},
+         {"pos": 4, "text": "тарбаныллыбыт", "type": "lowercase", "fst": "syl", "root": "тарбаныллы+Adj", "affixes": "+POSS.1PL"},
+         {"pos": 4, "text": "тарбаныллыбыт", "type": "lowercase", "fst": "syl", "root": "тарбай+V", "affixes": "+REFL/PASS+PASS+PART_PAST"},
+         {"pos": 5, "text": ".", "type": "period", "fst": null}
+      ]
+   },
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 143,
+      "chapter": "Distribution of the passive morpheme",
+      "topic": "On its morphosyntactic distribution",
+      "section": "2.2. 13",
+      "reference": "",
+      "notes": "Note especially the minimal pair in (10-a) and (12-a), in which the only point of variation is the animacy of the instrumentally-marked noun. Contra Ebata, we argue the actual generalisation is that any agent ‘by-phrase’ is impossible in passive constructions; what he takes to be inanimate DPs with AGENT θ-roles are in fact INSTRUMENTS. This accounts for the supposed animacy distinction. Consider the following passive construction.",
+      "sah": "Мин таҥаһым Дьулусунан уһуллубут.",
+      "en": "My clothes were stretched (#using / *by Djulus)",
+      "tags": "*1SG clothes-1SG.POSS Djulus-INS stretch-PASS-R.PST.3SG",
+      "incorrect": true,
+      "id": 8,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+N"},
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+         {"pos": 2, "text": "таҥаһым", "type": "lowercase", "fst": "voc", "root": "таҥас+N", "affixes": "+POSS.1SG"},
+         {"pos": 2, "text": "таҥаһым", "type": "lowercase", "fst": "voc", "root": "таҥ+Adv", "affixes": "+VRBLZ#3+ADJZ#14+POSS.1SG"},
+         {"pos": 2, "text": "таҥаһым", "type": "lowercase", "fst": "voc", "root": "таҥ+N", "affixes": "+VRBLZ#3+ADJZ#14+POSS.1SG"},
+         {"pos": 3, "text": "Дьулусунан", "type": "title", "fst": "syl", "root": "дьулусунаа+V", "affixes": "+REFL/PASS"},
+         {"pos": 3, "text": "Дьулусунан", "type": "title", "fst": "syl", "root": "дьулусу+N", "affixes": "+INST"},
+         {"pos": 3, "text": "Дьулусунан", "type": "title", "fst": "syl", "root": "дьулу+Adv", "affixes": "+VRBLZ#2+RECP+REFL+CONV#1"},
+         {"pos": 3, "text": "Дьулусунан", "type": "title", "fst": "syl", "root": "дьулу+N", "affixes": "+VRBLZ#2+RECP+REFL+CONV#1"},
+         {"pos": 4, "text": "уһуллубут", "type": "lowercase", "fst": "voc", "root": "уһул+V", "affixes": "+PST.1PL"},
+         {"pos": 4, "text": "уһуллубут", "type": "lowercase", "fst": "voc", "root": "уһул+V", "affixes": "+REFL+PART_PAST"},
+         {"pos": 4, "text": "уһуллубут", "type": "lowercase", "fst": "voc", "root": "уй+V", "affixes": "+RECP+PASS+PART_PAST"},
+         {"pos": 4, "text": "уһуллубут", "type": "lowercase", "fst": "voc", "root": "уй+V", "affixes": "+RECP+PASS+1PL"},
+         {"pos": 5, "text": ".", "type": "period", "fst": null}
+      ]
+   }
+]

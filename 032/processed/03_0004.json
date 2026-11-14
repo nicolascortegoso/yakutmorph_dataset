@@ -1,0 +1,61 @@
+[
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 146,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Agent adverbs",
+      "section": "3.2.4. 21a",
+      "reference": "",
+      "notes": "In line with the requirement for a human agent, impersonals can always take agent-oriented adverbs like sorujan ‘intentionally’, while passives cannot.",
+      "sah": "Килиэптэр соруйан буһарыллыахтара.",
+      "en": "Intended: ‘Breads will intentionally be baked.’ (Passive)",
+      "tags": "*bread-PL intentionally bake-PASS-FUT-3PL",
+      "incorrect": true,
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Килиэптэр", "type": "title", "fst": "voc", "root": "килиэп+N", "affixes": "+PL"},
+         {"pos": 2, "text": "соруйан", "type": "lowercase", "fst": "voc", "root": "соруй+V", "affixes": "+CONV#1"},
+         {"pos": 3, "text": "буһарыллыахтара", "type": "lowercase", "fst": "voc", "root": "бус+V", "affixes": "+CSTV+PASS+PART_FUT+PL+POSS.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": null}
+      ]
+   },
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 146,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Agent adverbs",
+      "section": "3.2.4. 21b",
+      "reference": "",
+      "notes": "In line with the requirement for a human agent, impersonals can always take agent-oriented adverbs like sorujan ‘intentionally’, while passives cannot.",
+      "sah": "Килиэптэри соруйан буһарыллыаҕа.",
+      "en": "One will intentionally bake breads.",
+      "tags": "bread-PL-ACC intentionally bake-IMP-FUT-3SG (Impersonal)",
+      "incorrect": true,
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Килиэптэри", "type": "title", "fst": "voc", "root": "килиэп+N", "affixes": "+PL+ACC"},
+         {"pos": 2, "text": "соруйан", "type": "lowercase", "fst": "voc", "root": "соруй+V", "affixes": "+CONV#1"},
+         {"pos": 3, "text": "буһарыллыаҕа", "type": "lowercase", "fst": "voc", "root": "бус+V", "affixes": "+CSTV+PASS+PART_FUT+POSS.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": null}
+      ]
+   },    
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 147,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Agent adverbs",
+      "section": "3.2.4. 22",
+      "reference": "",
+      "notes": "One might suspect that this infelicity is caused by the inanimacy of kiliep ‘bread’. However, consider the following example.",
+      "sah": "Ыт соруйан имирилиннэ.",
+      "en": "One intentionally pet the dog. NOT ‘The dog was pet, as it intended.’",
+      "tags": "dog intentionally pet-IMP-PST-3SG",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Ыт", "type": "title", "fst": "voc", "root": "ыт+N"},
+         {"pos": 2, "text": "соруйан", "type": "lowercase", "fst": "voc", "root": "соруй+V", "affixes": "+CONV#1"},
+         {"pos": 3, "text": "имирилиннэ", "type": "lowercase", "fst": "voc", "root": "им+N", "affixes": "+VRBLZ#4+PASS+PST.3SG"},
+         {"pos": 4, "text": ".", "type": "period", "fst": null}
+      ]
+   }
+]

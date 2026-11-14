@@ -1,0 +1,41 @@
+[
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 148,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Control",
+      "section": "3.2.6. 27b",
+      "reference": "",
+      "notes": "Finally, passives and impersonals also differ in their behaviour in non-finite clauses. As in Turkish (16), the impersonal argument can both control and be controlled PRO.",
+      "sah": "Массыынанан тиийиллиэн таптаныллар.",
+      "en": "One loves PRO to arrive by car.",
+      "tags": "[car-INS arrive-IMP-FUT-CVB] love-IMP-AOR.3SG (Impersonal)",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Массыынанан", "type": "title", "fst": "voc", "root": "массыына+N", "affixes": "+INST"},
+         {"pos": 2, "text": "тиийиллиэн", "type": "lowercase", "fst": "voc", "root": "тиий+V", "affixes": "+PASS+PART_FUT+CONV#1"},
+         {"pos": 3, "text": "таптаныллар", "type": "lowercase", "fst": "voc", "root": "таптаа+V", "affixes": "+REFL/PASS+PASS+PART_PRES"},
+         {"pos": 4, "text": ".", "type": "period", "fst": null}
+      ]
+   },    
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 148,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Control",
+      "section": "3.2.6. 28",
+      "reference": "",
+      "notes": "In contrast, the promoted theme of a matrix passive cannot control PRO.",
+      "sah": "Мин кинигэ ааҕыллан баҕарабын.",
+      "en": "I want the book to be read (*by me).",
+      "tags": "1SG [book read-PASS-CVB] want-AOR-1SG (Passive)",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+         {"pos": 2, "text": "кинигэ", "type": "lowercase", "fst": "voc", "root": "кинигэ+N"},
+         {"pos": 3, "text": "ааҕыллан", "type": "lowercase", "fst": "voc", "root": "аах+V", "affixes": "+PASS+CONV#1"},
+         {"pos": 4, "text": "баҕарабын", "type": "lowercase", "fst": "voc", "root": "баҕа+N", "affixes": "+VRBLZ#4+PART_PRES+1SG"},
+         {"pos": 5, "text": ".", "type": "period", "fst": null}
+      ]
+   }
+]

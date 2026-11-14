@@ -1,0 +1,52 @@
+[
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 147,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Exceptional case marking",
+      "section": "3.2.5. 25",
+      "reference": "",
+      "notes": "Baker & Vinokurova (2010) analyse these as embedded subjects crossing a clause boundary, becoming a case competitor for the matrix subject and receiving dependent case (Baker 2015). For the purposes of this paper, we assume this to be the correct analysis.7 ECM configurations thus provide key evidence for the syntactic structure of impersonal constructions; crucially, the matrix clause of an ECM construction may be impersonal but not passive.",
+      "sah": "Миигин бүгүн кыайыам диэн эрэниллэбин.",
+      "en": "Intended: ‘I am hoped to win today.’",
+      "tags": "*1SG.ACC [today win-FUT-1SG COMP] hope-PASS-AOR-1SG (Passive)",
+      "id": 2,
+      "parses": [
+         {"pos": 1, "text": "Миигин", "type": "title", "fst": "voc", "root": "мин+Pron", "affixes": "+ACC"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүк+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүк+V", "affixes": "+REFL"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүгүн+Adv"},
+         {"pos": 3, "text": "кыайыам", "type": "lowercase", "fst": "voc", "root": "кыай+V", "affixes": "+PART_FUT+POSS.1SG"},
+         {"pos": 3, "text": "кыайыам", "type": "lowercase", "fst": "voc", "root": "кыа+N", "affixes": "+VRBLZ#2+PART_FUT+POSS.1SG"},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 5, "text": "эрэниллэбин", "type": "lowercase", "fst": "voc", "root": "эрэй+V", "affixes": "+REFL/PASS+PASS+PART_PRES+1SG"},
+         {"pos": 5, "text": "эрэниллэбин", "type": "lowercase", "fst": "voc", "root": "эр+N", "affixes": "+VRBLZ#3+REFL/PASS+PASS+PART_PRES+1SG"},
+         {"pos": 6, "text": ".", "type": "period", "fst": null}
+      ]
+   },
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 147,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Exceptional case marking",
+      "section": "3.2.5. 26",
+      "reference": "",
+      "notes": "Baker & Vinokurova (2010) analyse these as embedded subjects crossing a clause boundary, becoming a case competitor for the matrix subject and receiving dependent case (Baker 2015). For the purposes of this paper, we assume this to be the correct analysis.7 ECM configurations thus provide key evidence for the syntactic structure of impersonal constructions; crucially, the matrix clause of an ECM construction may be impersonal but not passive.",
+      "sah": "Кинилэри бүгүн кыайыахтара диэн эрэниллэр.",
+      "en": "‘One hopes that they win today.",
+      "tags": "3-PL-ACC [today win-FUT-3PL COMP] hope-IMP-AOR.3SG (Impersonal)",
+      "id": 3,
+      "parses": [
+         {"pos": 1, "text": "Кинилэри", "type": "title", "fst": "voc", "root": "кини+Pron", "affixes": "+PL+ACC"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүк+N", "affixes": "+POSS.3SG.ACC"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүк+V", "affixes": "+REFL"},
+         {"pos": 2, "text": "бүгүн", "type": "lowercase", "fst": "voc", "root": "бүгүн+Adv"},
+         {"pos": 3, "text": "кыайыахтара", "type": "lowercase", "fst": "voc", "root": "кыай+V", "affixes": "+PART_FUT+PL+POSS.3SG"},
+         {"pos": 3, "text": "кыайыахтара", "type": "lowercase", "fst": "voc", "root": "кыа+N", "affixes": "+VRBLZ#2+PART_FUT+PL+POSS.3SG"},
+         {"pos": 4, "text": "диэн", "type": "lowercase", "fst": "voc", "root": "диэ+V", "affixes": "+CONV#1"},
+         {"pos": 5, "text": "эрэниллэр", "type": "lowercase", "fst": "voc", "root": "эрэй+V", "affixes": "+REFL/PASS+PASS+PART_PRES"},
+         {"pos": 5, "text": "эрэниллэр", "type": "lowercase", "fst": "voc", "root": "эр+N", "affixes": "+VRBLZ#3+REFL/PASS+PASS+PART_PRES"},
+         {"pos": 6, "text": ".", "type": "period", "fst": null}
+      ]
+   }
+]

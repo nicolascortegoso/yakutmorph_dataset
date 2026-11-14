@@ -1,0 +1,46 @@
+[
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 148,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Control",
+      "section": "3.2.6. 27a",
+      "reference": "",
+      "notes": "Finally, passives and impersonals also differ in their behaviour in non-finite clauses. As in Turkish (16), the impersonal argument can both control and be controlled PRO.",
+      "sah": "Сэриигэ өлүллүөн баҕарыллыбат.",
+      "en": "One does not want PRO to die in war.",
+      "tags": "[war-DAT die-IMP-FUT-CVB] want-IMP-NEG.AOR.3SG (Impersonal)",
+      "id": 1,
+      "parses": [
+         {"pos": 1, "text": "Сэриигэ", "type": "title", "fst": "voc", "root": "сэрии+N", "affixes": "+DAT"},
+         {"pos": 2, "text": "өлүллүөн", "type": "lowercase", "fst": "syl", "root": "өлүллээ+V", "affixes": "+PART_FUT+CONV#1"},
+         {"pos": 2, "text": "өлүллүөн", "type": "lowercase", "fst": "syl", "root": "өлүй+V", "affixes": "+PASS+PART_FUT+CONV#1"},
+         {"pos": 3, "text": "баҕарыллыбат", "type": "lowercase", "fst": "syl", "root": "баҕарыллыба+N", "affixes": "+VRBLZ#2+CSTV"},
+         {"pos": 4, "text": ".", "type": "period", "fst": null}
+      ]
+   },
+   {
+      "source": "Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154.",
+      "page": 148,
+      "chapter": "Distribution of the impersonal morpheme",
+      "topic": "Impersonals in Sakha. Control",
+      "section": "3.2.6. 29",
+      "reference": "",
+      "notes": "While (28) is fine with the reading that the speaker wants the book to be read by someone else/in general, it is wholly ungrammatical under the interpretation that the speaker wants to read the book themselves. One also cannot passivise both the matrix and embedded clause.",
+      "sah": "Мин сөбүлээниллиэн баҕарыллабын.",
+      "en": "Intended: ‘I am wanted to be liked (by myself/someone else).’",
+      "tags": "1SG [like-PASS-FUT-CVB] want-PASS-AOR-1SG (Passive)",
+      "incorrect": true,
+      "id": 4,
+      "parses": [
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+N"},
+         {"pos": 1, "text": "Мин", "type": "title", "fst": "voc", "root": "мин+Pron"},
+         {"pos": 2, "text": "сөбүлээниллиэн", "type": "lowercase", "fst": "voc", "root": "сөбүлээ+V", "affixes": "+REFL/PASS+PASS+PART_FUT+CONV#1"},
+         {"pos": 3, "text": "баҕарыллабын", "type": "lowercase", "fst": "syl", "root": "баҕарылла+Adv", "affixes": "+1SG"},
+         {"pos": 3, "text": "баҕарыллабын", "type": "lowercase", "fst": "syl", "root": "баҕарылла+Adv", "affixes": "+POSS.1SG.ACC"},
+         {"pos": 3, "text": "баҕарыллабын", "type": "lowercase", "fst": "syl", "root": "баҕарылла+N", "affixes": "+1SG"},
+         {"pos": 3, "text": "баҕарыллабын", "type": "lowercase", "fst": "syl", "root": "баҕарылла+N", "affixes": "+POSS.1SG.ACC"},
+         {"pos": 4, "text": ".", "type": "period", "fst": null}
+      ]
+   }
+]

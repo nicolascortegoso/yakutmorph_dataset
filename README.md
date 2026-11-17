@@ -4,7 +4,7 @@ This dataset contains sentences, clauses, and multi-word expressions compiled fr
 
 **Total annotated contructions**: 18225
 
-**Last update**: 2026-11-14
+**Last update**: 2026-11-17
 
 Morphological annotation is performed at the token level and includes lexical root identification and ordered affix segmentation.
 
@@ -44,7 +44,7 @@ The `source` folder contains JSON files with structured metadata and textual dat
 - `notes`: Author-provided commentary relevant to the example.
 - `sah`: Original Yakut sentence.
 - `ru` or `en`: Russian (English) gloss or translation.
-- `incorrect`: When present, it flags that the author considered the sequence ungrammatical or incorrect (optional).
+- `skip`: When present, it flags that the author considered the sequence ungrammatical or incorrect (optional).
 
 Each file typically groups examples illustrating a specific topic within a chapter. At this stage, no automatic morphological analysis has been applied.
 

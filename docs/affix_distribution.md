@@ -2,23 +2,23 @@
 
 [To main README](../README.md)
 
-Total affixes: 75228
+Total affixes: 75227
 
 Total unique affixes: 189
 
 | affix | frequency |
 |:---|:---|
 | PART_PRES | 6299 |
-| POSS.3SG | 4838 |
+| POSS.3SG | 4837 |
 | CONV#1 | 4787 |
 | PL | 3819 |
 | PART_PAST | 3432 |
 | DAT | 3397 |
-| ACC | 3199 |
+| ACC | 3198 |
 | CONV#2 | 2827 |
 | PART_FUT | 2643 |
 | PST.3SG | 2603 |
-| POSS.3SG.ACC | 2276 |
+| POSS.3SG.ACC | 2277 |
 | VRBLZ#1 | 2274 |
 | NEG | 1969 |
 | ADJZ#1 | 1717 |

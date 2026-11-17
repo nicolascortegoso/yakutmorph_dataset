@@ -28,7 +28,7 @@
       "sah": "Кинигэ Эрилинэн аахтарылынна.",
       "en": "The book was made to be read by Erel.",
       "tags": "*Book Erel-instrum read-caus-pass-past.3",
-      "incorrect": true,
+      "skip": true,
       "id": 2,
       "parses": [
          {"pos": 1, "text": "Кинигэ", "type": "title", "fst": "voc", "root": "кинигэ+N"},
@@ -47,7 +47,7 @@
       "sah": "Эрилинэн кинигэни аахтарыы",
       "en": "making Erel read the book",
       "tags": "*Erel-instrum book-acc read-caus-nom",
-      "incorrect": true,
+      "skip": true,
       "id": 3,
       "parses": [
          {"pos": 1, "text": "Эрилинэн", "type": "title", "fst": "aff", "root": "эрил+N", "affixes": "+INST"},

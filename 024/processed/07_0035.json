@@ -25,7 +25,7 @@
       "sah": "Хаар хаардаата.",
       "en": "It(/*snow) snowed (*a snow).",
       "tags": "*snow snow-verb-past.3",
-      "incorrect": true,
+      "skip": true,
       "id": 2,
       "parses": [
          {"pos": 1, "text": "Хаар", "type": "title", "fst": "voc", "root": "хаар+N"},
@@ -43,7 +43,7 @@
       "sah": "Хаары хаардаата.",
       "en": "It(/*snow) snowed (*a snow).",
       "tags": "*snow-acc snow-verb-past.3",
-      "incorrect": true,
+      "skip": true,
       "id": 3,
       "parses": [
          {"pos": 1, "text": "Хаары", "type": "title", "fst": "voc", "root": "хаар+N", "affixes": "+ACC"},
@@ -95,7 +95,7 @@
       "sah": "Маҥан хаардаата.",
       "en": "",
       "tags": "*White snow-verb-past.3",
-      "incorrect": true,
+      "skip": true,
       "id": 6,
       "parses": [
          {"pos": 1, "text": "Маҥан", "type": "title", "fst": "voc", "root": "маҥан+Adj"},

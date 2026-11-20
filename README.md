@@ -2,7 +2,7 @@
 
 This dataset contains sentences, clauses, and multi-word expressions compiled from established descriptive studies of Yakut and standardized under a unified machine-readable annotation schema.
 
-**Total annotated contructions**: 18399
+**Total annotated contructions**: 18417
 
 **Last update**: 2026-11-20
 
@@ -136,8 +136,7 @@ document the analysis of each example in the context of the work it
 comes from. The sentences in folder `102` come from the UD_Yakut-YKTDT
 treebank and are distributed under its own licence, CC BY-SA 4.0.
 
-If you hold rights to any quoted material and object to its inclusion,
-please write to **[nicolascortegoso@hotmail.com](mailto:nicolascortegoso@hotmail.com)**. It will be removed promptly.
+If you hold rights to any quoted material and object to its inclusion, please open an issue in this repository.
 
 **Русский.** Разметка в этом наборе данных (токенизация, морфологический
 анализ, структура, идентификаторы) и программный код — работа Николаса
@@ -151,9 +150,7 @@ please write to **[nicolascortegoso@hotmail.com](mailto:nicolascortegoso@hotmail
 взят. Предложения в папке `102` взяты из трибанка UD_Yakut-YKTDT и
 распространяются на условиях его собственной лицензии CC BY-SA 4.0.
 
-Если вы являетесь правообладателем цитируемых материалов и возражаете
-против их использования, пожалуйста, напишите по адресу **[nicolascortegoso@hotmail.com](mailto:nicolascortegoso@hotmail.com)**:
-материалы будут незамедлительно удалены.
+Если вы являетесь правообладателем цитируемых материалов и возражаете против их использования, пожалуйста, откройте issue в этом репозитории.
 
 ## In Memoriam
 

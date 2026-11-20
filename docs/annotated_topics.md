@@ -789,6 +789,9 @@
 | 021 | Наклонение обычно совершаемого действия | 39 |
 | 021 | Сослагательное наклонение | 25 |
 | 021 | Предположительное наклонение | 28 |
+| 023 | Sakha postpositions | 19 |
+| 023 | The primary postposition dïlï “until” | 37 |
+| 023 | The relational nouns bïːs- “between” and tus- “about” | 106 |
 | 024 | Consequences and implications of the feature formalisms | 110 |
 | 024 | Deriving nouns from verbs | 150 |
 | 024 | Deriving adjectives from verbs | 30 |

@@ -91,6 +91,7 @@
 | 021 | Наклонение обычно совершаемого действия | 2 |
 | 021 | Сослагательное наклонение | 10 |
 | 021 | Предположительное наклонение | 2 |
+| 023 | Relexification in ordinary contact-induced change | 8 |
 | 024 | Introduction | 4 |
 | 024 | Decomposing lexical categories in Sakha | 16 |
 | 024 | Nouns in Sakha | 241 |

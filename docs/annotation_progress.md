@@ -34,6 +34,6 @@
 | 031 | Causative and passive | 39 | 39 | 100.00% | Fuyuki Ebata. Causative and passive in Sakha: Focusing on double-accusative causative and impersonal passive. Томский журнал ЛИНГ и АНТР . Tomsk Journal LING & ANTHRO. 2013. 2 (2). |
 | 032 | Passive voice | 49 | 38 | 77.55% | Tan, Tamisha & Kühlert (2020), in the Proceedings of the Workshop on Turkic and Languages in Contact with Turkic 5. 140–154. |
 | 033 | Existential constructions | 31 | 31 | 100.00% | Сивцева Н.А. (2024). Бытийные конструкции в якутском языке: модель каузации начала существования, Филология: научные исследования №1, DOI 10.7256/2454-0749.2024.1.69520. |
-| 034 | Modal form participles | 62 | 42 | 67.74% | Филиппов Г.Г. Модальные формы причастий на *-ыах* и *-ыа* в якутском языке. Вестник СВФУ, № 4(48) 2015. |
+| 034 | Modal form participles | 62 | 60 | 96.77% | Филиппов Г.Г. Модальные формы причастий на *-ыах* и *-ыа* в якутском языке. Вестник СВФУ, № 4(48) 2015. |
 | 102 | Dataset from Universal Dependencies | 299 | 299 | 100.00% | Merzhevich, Tatiana; Gerardi, Fabrício Ferraz (2021). UD_Yakut-YKTDT, Universal Dependencies treebank. CC BY-SA 4.0. https://github.com/UniversalDependencies/UD_Yakut-YKTDT (commit 05dd5ff, 2023-04-30). |
-|  | TOTAL | 21977 | 18417 | 83.80% |  |
+|  | TOTAL | 21977 | 18435 | 83.88% |  |

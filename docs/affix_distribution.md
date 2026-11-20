@@ -2,69 +2,69 @@
 
 [To main README](../README.md)
 
-Total affixes: 76339
+Total affixes: 76426
 
 Total unique affixes: 189
 
 | affix | frequency |
 |:---|:---|
-| PART_PRES | 6366 |
-| POSS.3SG | 4949 |
-| CONV#1 | 4839 |
-| PL | 3857 |
-| PART_PAST | 3513 |
-| DAT | 3442 |
-| ACC | 3241 |
-| CONV#2 | 2850 |
-| PART_FUT | 2765 |
-| PST.3SG | 2633 |
-| POSS.3SG.ACC | 2304 |
+| PART_PRES | 6369 |
+| POSS.3SG | 4957 |
+| CONV#1 | 4843 |
+| PL | 3859 |
+| PART_PAST | 3515 |
+| DAT | 3447 |
+| ACC | 3245 |
+| CONV#2 | 2851 |
+| PART_FUT | 2782 |
+| PST.3SG | 2638 |
+| POSS.3SG.ACC | 2309 |
 | VRBLZ#1 | 2303 |
 | NEG | 2006 |
-| ADJZ#1 | 1742 |
+| ADJZ#1 | 1750 |
 | POSS.1SG | 1487 |
 | RECP | 1411 |
 | CONV_COND#2 | 1203 |
 | POSS.3SG.DAT | 1174 |
-| CSTV | 994 |
+| CSTV | 995 |
 | ABL | 927 |
 | REFL/PASS | 844 |
-| CAUS | 823 |
-| 1SG | 822 |
-| INST | 802 |
-| NMLZ#2 | 715 |
+| CAUS | 825 |
+| 1SG | 823 |
+| INST | 803 |
+| NMLZ#2 | 716 |
 | PASS | 693 |
 | INT | 648 |
 | 2SG | 631 |
 | POSS.3SG.INST | 595 |
-| POSS.2SG | 583 |
-| PST.3PL | 579 |
+| POSS.2SG | 584 |
+| PST.3PL | 580 |
 | PST.1SG | 571 |
-| ADVZ#5 | 554 |
+| ADVZ#5 | 555 |
 | POSS.1PL | 527 |
 | VRBLZ#4 | 453 |
 | 1PL | 379 |
 | VRBLZ#3 | 360 |
-| POSS.3SG.ABL | 354 |
-| ADJZ#16 | 345 |
+| POSS.3SG.ABL | 355 |
+| ADJZ#16 | 346 |
 | CONV_COND#1 | 344 |
 | REFL | 343 |
 | LOC | 342 |
-| POSS.1SG.ACC | 325 |
-| NMLZ#5 | 305 |
+| POSS.1SG.ACC | 326 |
+| NMLZ#5 | 306 |
+| NMLZ#6 | 287 |
+| NMLZ#1 | 286 |
 | CONV#5 | 286 |
-| NMLZ#6 | 286 |
-| NMLZ#1 | 285 |
-| VRBLZ#2 | 274 |
+| VRBLZ#2 | 275 |
 | POSS.3SG.PRTV | 253 |
+| DEF | 251 |
 | HAB#1 | 250 |
-| DEF | 250 |
 | DEB | 237 |
 | ADVZ#1 | 234 |
 | ADVZ#8 | 229 |
 | IMP#1.2PL | 223 |
-| ADJZ#4 | 218 |
-| ADVZ#6 | 209 |
+| ADJZ#4 | 219 |
+| ADVZ#6 | 210 |
 | POSS.2SG.ACC | 202 |
 | POSS.1SG.DAT | 182 |
 | DEF#2 | 182 |
@@ -72,7 +72,7 @@ Total unique affixes: 189
 | PST.2SG | 163 |
 | POSS.2PL | 160 |
 | PRTV | 159 |
-| 2PL | 153 |
+| 2PL | 154 |
 | COMIT | 138 |
 | IMP#1.3SG | 135 |
 | ORD | 131 |
@@ -86,8 +86,8 @@ Total unique affixes: 189
 | ADVZ#2 | 99 |
 | ADJZ#14 | 97 |
 | CONV#6 | 89 |
+| ITER#1 | 84 |
 | ADVZ#4 | 84 |
-| ITER#1 | 83 |
 | POSS.2SG.DAT | 82 |
 | CONV#4 | 80 |
 | COMP | 78 |
@@ -101,7 +101,7 @@ Total unique affixes: 189
 | POSS.2SG.PRTV | 71 |
 | DIM | 70 |
 | VRBLZ#16 | 67 |
-| AFFIR#1 | 66 |
+| AFFIR#1 | 67 |
 | NMLZ#4 | 65 |
 | ADJZ#3 | 65 |
 | POSS.3PL.DAT | 64 |
@@ -130,8 +130,8 @@ Total unique affixes: 189
 | DIM#4 | 35 |
 | POSS.2SG.INST | 33 |
 | IMP#1.1PL | 32 |
+| VRBLZ#8 | 30 |
 | IMP#1.3PL | 29 |
-| VRBLZ#8 | 29 |
 | ITER#2 | 28 |
 | NMLZ#7 | 28 |
 | POSS.1PL.PRTV | 28 |
